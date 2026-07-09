@@ -11,6 +11,42 @@ window of 8 paragraphs**. Character identification, name disambiguation
 (*Elizabeth* / *Lizzy* / *Miss Bennet* → 1 character) and anaphora resolution
 (pronouns → the right character) are all handled by **BookNLP**.
 
+## Key findings
+
+| Book | Highest-betweenness character | Value |
+|------|-------------------------------|-------|
+| Pride and Prejudice | **Elizabeth** | 0.876 |
+| Moby Dick | **Ahab** | 0.663 |
+| Frankenstein | **Elizabeth** | 0.550 |
+| A Tale of Two Cities | **Mr. Lorry** | 0.695 |
+| Dracula | **Jonathan** | 0.589 |
+| Great Expectations | **Joe** | 0.496 |
+| The Adventures of Huckleberry Finn | **Jim** | 0.901 |
+| The Adventures of Sherlock Holmes | **Holmes** | 0.971 |
+| Emma | **Emma** | 0.861 |
+| Jane Eyre | **Jane** | 0.662 |
+
+Betweenness centrality measures how often a character sits on the shortest
+path between other characters — i.e. who structurally connects different
+groups in the story, as opposed to who simply appears most often.
+
+The most striking pattern shows up in **first-person narratives**: when the
+protagonist narrates as "I", they're mentioned mostly through pronouns rather
+than their proper name, so a *secondary* character ends up leading
+betweenness instead — **Jim** in *Huckleberry Finn* (not Huck), **Joe** in
+*Great Expectations* (not Pip), **Elizabeth** in *Frankenstein* (not Victor).
+In episodic/anthology structures like *Sherlock Holmes*, Holmes and Watson
+dominate betweenness because they're the constant thread linking every
+story's otherwise disjoint cast.
+
+Across all ten books, the resulting networks show a clear small-world
+signature (high clustering, short average path lengths) and disassortative
+degree mixing, and betweenness turns out to be the centrality measure least
+correlated with the others — confirming it captures a distinct,
+mediation-oriented notion of importance rather than just popularity. Full
+methodology, statistics and discussion are in the [paper](paper/main.pdf);
+per-book numbers are in [`output/summary.md`](output/summary.md).
+
 ## Methodology
 
 1. **Character detection (NER).** BookNLP runs named-entity recognition over
