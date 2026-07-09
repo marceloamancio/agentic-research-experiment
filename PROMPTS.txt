@@ -1,0 +1,73 @@
+================================================================================
+HISTÓRICO DE PROMPTS — projeto "character-networks"
+(redes de personagens de 10 livros do Project Gutenberg + paper)
+Registro sequencial dos pedidos do usuário, para referência futura.
+================================================================================
+
+--------------------------------------------------------------------------------
+[01] Tarefa inicial — geração das redes de personagens
+--------------------------------------------------------------------------------
+Considere 10 livros go projeto gutenberg e gere a rede de personagens de cada
+livro. Os personagens devem ser conectados se aparecerem dentro de uma janela de
+contexto. Para isso você deve identificar os personagens, resolver possíveis
+ambiguidades de nomes de personagens, e anáforas. Além disso, você deve
+reconhecer a entidade que é um personagem. A janela de contexto é de 8
+parágrafos. Para cada livro diga qual é o personagem que possui o maior
+betweeness. Estamos na área de redes complexas, se precisar baixe conhecimento
+dessas redes, bibliotescas na Internet.
+
+--------------------------------------------------------------------------------
+[02] (continuação)
+--------------------------------------------------------------------------------
+continue
+
+--------------------------------------------------------------------------------
+[03] Tarefa do paper
+--------------------------------------------------------------------------------
+Agora, publique um paper em nome de Marcelo Amancio seguindo modelos de paers de
+um pesquisador especialista na área. Ache um bom modelo latex apropriado
+para publicar os resultados. Se puder gerar gráficos próprios de paper seria
+ideal. Tente pensar em um bom journal para ter base de publicação. Faça um bom
+trabalho! Artefatos individuais de cada livro pode vir como um apendix após
+apresent'ação de referencia/bibliografia (pós paper).
+
+--------------------------------------------------------------------------------
+[04] (continuação)
+--------------------------------------------------------------------------------
+continue
+
+--------------------------------------------------------------------------------
+[05] Referências
+--------------------------------------------------------------------------------
+se preciso, baixe alguns pdfs de referencia para citar
+
+--------------------------------------------------------------------------------
+[06] Referências (motivo)
+--------------------------------------------------------------------------------
+assim fica confiável
+
+--------------------------------------------------------------------------------
+[07] Idioma
+--------------------------------------------------------------------------------
+a publicacao será em inglês
+
+--------------------------------------------------------------------------------
+[08] Referências relacionadas
+--------------------------------------------------------------------------------
+busque pesquisa referencia relacionada a isso
+
+--------------------------------------------------------------------------------
+[09] Afiliação do coautor
+--------------------------------------------------------------------------------
+o coautor é professor de uma universidade pública. Busque na Internet ou paper
+para entender a filiação dele
+
+--------------------------------------------------------------------------------
+[10] Este registro
+--------------------------------------------------------------------------------
+salve também todos meus prompts em um .txt sequencial para ficar como referencia
+futura
+
+================================================================================
+(continuará sendo atualizado conforme novos prompts.)
+================================================================================

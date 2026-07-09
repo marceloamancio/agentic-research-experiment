@@ -1,0 +1,2717 @@
+source,target,weight
+Ahab,Starbuck,515
+Ahab,Stubb (#771),497
+Ahab,the Pequod,411
+Starbuck,Stubb (#771),409
+Flask,Stubb (#771),298
+Moby Dick,Ahab,297
+the Pequod,Stubb (#771),272
+Ahab,God,254
+Ahab,Flask,242
+Flask,Starbuck,237
+Starbuck,the Pequod,221
+Starbuck,Queequeg,201
+Ahab,Queequeg,194
+Queequeg,the Pequod,167
+Queequeg,Stubb (#771),154
+Moby Dick,Starbuck,154
+Starbuck,God,143
+Ahab,Tashtego,143
+Ahab,the White Whale,141
+Moby Dick,Stubb (#771),136
+Tashtego,Daggoo,130
+Peleg,Bildad,129
+Ahab,Fedallah,125
+Stubb (#771),Tashtego,125
+Queequeg,Tashtego,124
+Flask,the Pequod,122
+God,Stubb (#771),119
+Queequeg,Daggoo,112
+Moby Dick,the White Whale,107
+God,the Pequod,106
+Fedallah,Stubb (#771),105
+Moby Dick,the Pequod,104
+Moby Dick,God,103
+Ahab,Daggoo,101
+Lima,Steelkilt,100
+the Pequod,Peleg,100
+Ahab,the Parsee,98
+the Sperm Whale,Stubb (#771),94
+Stubb (#771),Daggoo,93
+Starbuck,Tashtego,92
+Flask,Queequeg,89
+Starbuck,Daggoo,88
+Queequeg,Peleg,86
+the Sperm Whale,the Pequod,81
+the Pequod,Tashtego,80
+Fedallah,Flask,80
+Ahab,Peleg,76
+Ahab,Pip (#1207),73
+the Pequod,Bildad,73
+Queequeg,God,72
+Stubb (#771),the White Whale,72
+the Sperm Whale,Ahab,72
+Queequeg,Bildad,70
+Ahab,Perth,63
+Lima,Radney,62
+Radney,Steelkilt,62
+Ahab,Bildad,62
+Fedallah,Starbuck,61
+Starbuck,the Parsee,61
+Stubb (#771),Pip (#1207),60
+Flask,Tashtego,60
+Starbuck,the White Whale,56
+the Pequod,Daggoo,54
+Flask,Daggoo,54
+Moby Dick,Flask,54
+Moby Dick,Fedallah,54
+Moby Dick,Tashtego,54
+Stubb (#771),Dough - Boy,50
+Queequeg,Elijah,48
+Queequeg,Yojo,48
+Flask,God,47
+Lima,Don Sebastian,46
+Stubb (#771),the Parsee,44
+Moby Dick,Daggoo,44
+Moby Dick,the Parsee,43
+Sperm Whales,Leviathan,42
+Stubb (#771),Fleece,42
+the Sperm Whale,Queequeg,42
+the Sperm Whale,Leviathan,41
+the Sperm Whale,Tashtego,41
+God,Tashtego,41
+Fedallah,the Pequod,41
+Ahab,little King - Post,40
+Ahab,Dough - Boy,40
+Ahab,Hast,40
+God,Pip (#1207),40
+Queequeg,Mrs. Hussey,40
+Ahab,Rachel,39
+Flask,little King - Post,39
+Flask,the White Whale,38
+Leviathan,God,37
+Leviathan,the Pequod,37
+Don Sebastian,Steelkilt,37
+God,the White Whale,37
+Moby Dick,the Sperm Whale,36
+Ahab,the Nantucketer,36
+Stubb (#771),little King - Post,36
+Cook,Stubb (#771),35
+Starbuck,Dough - Boy,35
+Leviathan,Jonah,35
+Stubb (#771),Derick,34
+the Pequod,Derick,34
+Moby Dick,Queequeg,33
+Starbuck,Derick,33
+Tashtego,the Gay - Header,33
+Lima,Don Pedro,32
+Queequeg,Ishmael,32
+the Pequod,Pip (#1207),31
+Peleg,Stubb (#771),31
+Fedallah,the White Whale,31
+Starbuck,little King - Post,31
+Queequeg,Pip (#1207),31
+Ahab,Mayhew,30
+the Sperm Whale,Starbuck,30
+Ahab,Hark,30
+Stubb (#771),Elijah,30
+Starbuck,Hurrah,30
+Radney,the Lakeman,30
+Queequeg,the Gay - Header,30
+Steelkilt,the Lakeman,30
+Tashtego,Tash,30
+the Pequod,the White Whale,30
+Hurrah,Stubb (#771),30
+Ahab,Elijah,30
+Lima,the Lakeman,30
+Ahab,Man,29
+God,Jonah,29
+Queequeg,Leviathan,29
+Don Pedro,Steelkilt,28
+Bildad,Stubb (#771),28
+Flask,Derick,28
+Fedallah,Queequeg,28
+Ahab,the Samuel Enderby,28
+Gabriel,Mayhew,28
+Starbuck,Pip (#1207),28
+Leviathan,Stubb (#771),27
+the Pequod,Dough - Boy,27
+the Pequod,Elijah,27
+Queequeg,Aunt Charity,27
+Ramadan,Queequeg,27
+Cook,Fleece,27
+Ahab,Gabriel,27
+God,the Parsee,27
+Queequeg,Dough - Boy,27
+God,Ishmael,26
+Ahab,Halloa,26
+Ahab,Jove,26
+Tashtego,Dough - Boy,26
+Don Sebastian,Radney,26
+Ahab,Manxman,26
+Hark,Stubb (#771),26
+Sperm Whales,God,26
+the Sperm Whale,Flask,26
+God,Adam,25
+Daggoo,the White Whale,25
+Scoresby,Frederick Cuvier,25
+Stubb (#771),Archy,25
+Flask,Hurrah,25
+Cabaco,Archy,25
+Yojo,the Pequod,24
+Starbuck,Mary,24
+the Nantucketer,the Pequod,24
+Ahab,NANTUCKET SAILOR,24
+Fedallah,Tashtego,24
+the Pequod,Hast,24
+Joppa,Jonah,24
+Stubb (#771),the old Mogul,24
+Tashtego,the Parsee,24
+Ahab,Mary,24
+Ahab,Fate,24
+the Sperm Whale,Jonah,23
+Ishmael,Jove,23
+the Pequod,the Parsee,23
+Starbuck,Bildad,23
+Jungfrau,Derick,23
+Leviathan,Frederick Cuvier,23
+Starbuck,Peleg,23
+Queequeg,Peter Coffin,23
+Ahab,Heaven,23
+Mrs. Hussey,Yojo,23
+Starbuck,Mayhew,23
+Jonah,Perseus,22
+Ahab,the old Mogul,22
+Ahab,the Jeroboam,22
+Fedallah,the Parsee,22
+Flask,Cabaco,22
+Stubb (#771),Rachel,22
+Hark,Flask,22
+Ahab,Ishmael,22
+Ahab,Archy,22
+Starbuck,Leviathan,22
+Moby Dick,Nay,21
+Stubb (#771),Cabaco,21
+Ahab,the Burtons,21
+Daggoo,the Gay - Header,21
+Queequeg,the Parsee,21
+Ahab,Captain Boomer,21
+Tash,the Gay - Header,21
+Queequeg,Tash,21
+Ahab,Ere,21
+Derick,the Yarman,21
+Starbuck,the Burtons,21
+Daggoo,the Parsee,21
+Don Pedro,Don Sebastian,21
+Queequeg,Holloa,21
+Stubb (#771),Jungfrau,21
+Ahab,Cabaco,21
+Tashtego,the White Whale,21
+Flask,Archy,21
+Stubb (#771),the Yarman,21
+the Pequod,Aunt Charity,21
+Starbuck,the Yarman,21
+God,Daggoo,21
+Stubb (#771),Bouton - de - Roses,20
+Ahab,Carpenter,20
+Ahab,Bunger (#1263),20
+the Pequod,Dost,20
+Jove,Stubb (#771),20
+Lima,Moby Dick,20
+Lima,Senor,20
+Ahab,Ho,20
+Queequeg,the White Whale,20
+the Jeroboam,Mayhew,20
+God,Tarshish,20
+Ramadan,Yojo,20
+Flask,Dough - Boy,20
+Tarshish,Jonah,20
+Leviathan,Isaiah,20
+Flask,the Yarman,20
+the Sperm Whale,Ishmael,19
+the Sperm Whale,the White Whale,19
+Perseus,St. George,19
+Leviathan,Scoresby,19
+Starbuck,Gabriel,19
+Jonah,St. George,19
+Ahab,Leviathan,19
+Steelkilt,old Rad,19
+Flask,the Parsee,19
+Ahab,Sperm Whales,19
+Moby Dick,Steelkilt,19
+Queequeg,Jove,19
+Don Pedro,Radney,19
+the Sperm Whale,God,19
+Lima,old Rad,19
+Bulkington,the Pequod,19
+Yojo,Peleg,19
+Scoresby,Beale,19
+Ahab,Aloft,18
+God,Bulkington,18
+Ahab,the Nantucket Indians,18
+Leviathan,the Prophet Jonas,18
+God,King Henry,18
+Queequeg,little King - Post,18
+God,Mrs. Hussey,18
+Moby Dick,the Nantucketer,18
+Captain Boomer,Bunger (#1263),18
+Starbuck,Jove,18
+Ahab,Cetology,18
+Stubb (#771),Aloft,18
+Hark,Cabaco,18
+Daggoo,Tash,18
+Jonah,Andromeda,17
+God,Jove,17
+NANTUCKET SAILOR,Stubb (#771),17
+Fedallah,little King - Post,17
+Stubb (#771),Halloa,17
+Starbuck,Archy,17
+Pip,Tashtego,17
+Ahab,Noah,17
+Ahab,Abraham,17
+Steelkilt,Senor,17
+Starbuck,Aunt Charity,17
+Starbuck,Yonder,17
+God,Man,17
+Bildad,Aunt Charity,17
+Hark,the old Mogul,17
+Perseus,Andromeda,17
+the Pequod,Carpenter,17
+Lima,Canallers,17
+Stubb,Daggoo,17
+Ahab,Adam,17
+Peleg,Aunt Charity,17
+Fedallah,Jove,16
+Starbuck,the Nantucket Indians,16
+Peleg,Quohog,16
+Bennett,J. Ross Browne,16
+Moby Dick,Adam,16
+God,Yojo,16
+Macey,Mayhew,16
+Joppa,Tarshish,16
+Queequeg,Mr. Hosea Hussey,16
+God,Pip,16
+Queequeg,unfort’nate Stiggs,16
+Sperm Whales,J. Ross Browne,16
+Ahab,Nay,16
+Don Pedro,Canallers,16
+the Nantucketer,Emperors,16
+God,Joppa,16
+Ho,Radney,16
+Ahab,Macey,16
+J. Ross Browne,Frederick Cuvier,16
+Queequeg,Quohog,16
+Don Pedro,the Lakeman,16
+God,Nelson,16
+Hark,Archy,16
+Man,Daggoo,16
+Bildad,Quohog,16
+the Pequod,the Frenchman,16
+God,Mark,16
+the Sperm Whale,Fedallah,16
+J. Ross Browne,Beale,16
+Ho,Steelkilt,16
+the Pequod,the Yarman,16
+Lima,Ho,16
+Rachel,the Parsee,16
+the Sperm Whale,Sperm Whales,16
+Moby Dick,Ishmael,16
+Ishmael,Stubb (#771),16
+Mrs. Hussey,unfort’nate Stiggs,16
+Hurrah,the Pequod,16
+Leviathan,Perseus,16
+Ahab,Belshazzar,16
+King Henry,Jonah,16
+the Sperm Whale,King Tranquo,16
+Gabriel,the Jeroboam,16
+Chowder,Queequeg,16
+Leviathan,Andromeda,16
+Gabriel,Macey,16
+Ishmael,Yojo,16
+Beale,Frederick Cuvier,16
+Starbuck,Fate,16
+Ahab,Mark,16
+Ishmael,Peleg,16
+Starbuck,Ca,16
+Ahab,Hurrah,16
+Starbuck,Rachel,16
+the Sperm Whale,Tun,16
+Mrs. Hussey,Mr. Hosea Hussey,16
+King Henry,Tarshish,16
+Ca,Stubb (#771),16
+Starbuck,Belshazzar,16
+Ahab,Satan,16
+Starbuck,the old Mogul,16
+Ahab,the Gay - Header,16
+Daggoo,Dough - Boy,16
+Ahab,Ha,16
+Stubb,Queequeg,15
+Leviathan,Solomon,15
+Leviathan,Ishmael,15
+Starbuck,Man,15
+Ramadan,Peleg,15
+the Sperm Whale,Dough - Boy,15
+Stubb (#771),Aunt Charity,15
+Frederick Cuvier,Owen,15
+Ahab,Beelzebub,15
+Stubb (#771),Belshazzar,15
+Queequeg,Deacon Deuteronomy,15
+Peleg,Deacon Deuteronomy,15
+Stubb (#771),the Frenchman,15
+the Sperm Whale,Stubb,15
+Stubb (#771),Fate,15
+the Sperm Whale,Jove,15
+Ishmael,the White Whale,15
+the Sperm Whale,Alexander the Great,15
+Cetology,Scoresby,15
+J. Ross Browne,Scoresby,15
+the Pequod,Ere,15
+Kings,the Pequod,15
+Tashtego,Rachel,15
+the Sperm Whale,Daggoo,15
+the Pequod,Rachel,15
+Stubb (#771),Ginger,15
+Ahab,Ca,15
+the Sperm Whale,the Samuel Enderby,15
+Leviathan,Jove,15
+God,the Nantucketer,15
+Fedallah,Daggoo,15
+Flask,the old Mogul,15
+Fedallah,Beelzebub,15
+the Pequod,Jungfrau,15
+God,Perth,15
+Bildad,Deacon Deuteronomy,15
+Cetology,Linnæus,14
+Halloa,Carpenter,14
+Noah,the Pequod,14
+the White Whale,Bunger (#1263),14
+Rachel,Pip (#1207),14
+Tashtego,Perth,14
+Gabriel,God,14
+Sperm Whales,Solomon,14
+Jove,Methinks,14
+Moby Dick,Don Pedro,14
+the Pequod,Nay,14
+Hark,Starbuck,14
+the White Whale,Captain Boomer,14
+Steelkilt,Canallers,14
+Tashtego,Derick,14
+the Pequod,the Jeroboam,14
+Ahab,Yojo,14
+Starbuck,Jungfrau,14
+Bulkington,Jonah,14
+Stubb,Tashtego,14
+Moby Dick,Don Sebastian,14
+St. George,Andromeda,14
+Sperm Whales,the Pequod,14
+God,Satan,14
+the Sperm Whale,the King of the Cannibals,14
+Jonah,Stubb (#771),14
+Stubb (#771),Perth,14
+Flask,Leviathan,14
+Ahab,Bunger,14
+Flask,Rachel,14
+the Sperm Whale,the Nantucketer,14
+Ahab,Yonder,14
+God,the Prophet Jonas,14
+Ahab,Pip,14
+Flask,Belshazzar,14
+Radney,old Rad,13
+Moby Dick,Mary,13
+Leviathan,St. George,13
+Queequeg,Father Mapple,13
+Starbuck,Aloft,13
+Man,Stubb (#771),13
+Pip,Stubb (#771),13
+Leviathan,Tashtego,13
+Queequeg,Derick,13
+Pip (#1207),Manxman,13
+Queequeg,Jungfrau,13
+Cetology,Flask,13
+Moby Dick,Bunger (#1263),13
+Moby Dick,Fate,13
+the Nantucketer,Noah,13
+Lima,God,13
+the White Whale,Perth,13
+Sperm Whales,Leviathans,13
+God,Bowditch,13
+Flask,Beelzebub,13
+Moby Dick,Jove,13
+the White Whale,Hast,13
+Tashtego,Pip (#1207),13
+Moby Dick,Captain Boomer,13
+Colnett,Frederick Cuvier,13
+Colnett,Scoresby,13
+Leviathan,Colnett,13
+Moby Dick,Pip (#1207),13
+Ahab,Fashioned,13
+Hark,the Pequod,13
+God,Father Mapple,13
+Jonah,Hercules,13
+Leviathan,Pliny,13
+Hark,God,13
+God,Nay,13
+Alexander the Great,the Pequod,13
+Perth,Fashioned,13
+Moby Dick,Radney,13
+Dost,Carpenter,13
+the Sperm Whale,Bethink,13
+Ahab,Americans,13
+Flask,Pip (#1207),13
+Peleg,Elijah,12
+Stubb (#771),Beale,12
+Leviathan,Champollion,12
+the Pequod,the old Gay - Head Indian,12
+Fedallah,Pip (#1207),12
+Starbuck,Ho,12
+the Sperm Whale,Cook,12
+the Pequod,Belshazzar,12
+King Henry,Joppa,12
+Ahab,Tash,12
+Jove,Doubloon,12
+Canallers,Senor,12
+Peleg,Lank Bildad,12
+Pip,MATE,12
+the Sperm Whale,Scoresby,12
+Hurrah,Derick,12
+Leviathan,Ere,12
+Cetology,Beale,12
+Hurrah,Tashtego,12
+Yojo,Bildad,12
+the Spaniard,Daggoo,12
+Don Pedro,Senor,12
+Cetology,Stubb (#771),12
+the White Whale,Pip (#1207),12
+Leviathan,Owen,12
+Noah,Yea,12
+Starbuck,the Jeroboam,12
+Leviathan,Sir William Davenant,12
+Ramadan,the Pequod,12
+Flask,Heaven,12
+Leviathan,Angelo,12
+Ramadan,Ishmael,12
+God,Heaven,12
+Don Sebastian,Senor,12
+Ahab,Doubloon,12
+Mark,the Pequod,12
+Scoresby,Linnæus,12
+Bunger,Captain Boomer,12
+Stubb (#771),Ho,12
+Starbuck,Macey,12
+God,Hast,12
+Bildad,Heaven,12
+Bulkington,Peleg,12
+Bulkington,Bildad,12
+Flask,Jungfrau,12
+the Sperm Whale,Jungfrau,12
+Hark,little King - Post,12
+Bildad,Lank Bildad,12
+Stubb (#771),Beelzebub,12
+God,Steelkilt,12
+Peleg,Heaven,12
+Ahab,the old Gay - Head Indian,12
+the Pequod,Mayhew,12
+Stubb (#771),Doubloon,12
+Man,the Pequod,12
+Ishmael,Mrs. Hussey,12
+Starbuck,Adam,11
+Ishmael,Bildad,11
+Starbuck,NANTUCKET SAILOR,11
+Sperm Whales,Frederick Cuvier,11
+Queequeg,Andes,11
+Man,Tashtego,11
+Father Mapple,Peleg,11
+Jonah,Scoresby,11
+Father Mapple,Bildad,11
+Starbuck,Elijah,11
+Father Mapple,Quohog,11
+Jove,Champollion,11
+God,Dough - Boy,11
+Ahab,Beale,11
+God,NANTUCKET SAILOR,11
+Perseus,Hercules,11
+Fedallah,Cabaco,11
+Ahab,Bulkington,11
+Fedallah,Archy,11
+the Sperm Whale,Champollion,11
+God,the old Mogul,11
+Hercules,St. George,11
+the Pequod,the Nantucket Indians,11
+Ahab,Lionel,11
+the Pequod,Perth,11
+the Pequod,Mary,11
+God,Emperors,11
+Gabriel,the Pequod,11
+Leviathan,Derick,11
+Carpenter,Prometheus,11
+Pip (#1207),Perth,11
+Leviathan,old Scotch Sibbald,11
+Heaven,Stubb (#771),11
+Leviathan,Lavater,11
+the Lakeman,old Rad,11
+Chowder,Mrs. Hussey,11
+Ahab,St. Paul,11
+Ramadan,Mrs. Hussey,11
+little King - Post,Archy,11
+Ahab,Aunt Charity,11
+Pip,NANTUCKET SAILOR,11
+old Scotch Sibbald,Scoresby,11
+Aunt Charity,Dough - Boy,11
+Ahab,the Spaniard,11
+Fedallah,God,11
+Ahab,Solomon,11
+God,Napoleon,11
+the Pequod,Perseus,11
+God,the Spaniard,11
+Fedallah,Fate,11
+the Sperm Whale,Lavater,11
+the Pequod,Heaven,11
+Gabriel,Stubb (#771),11
+the Sperm Whale,Fleece,11
+Starbuck,Ere,10
+Beale,Linnæus,10
+Sperm Whales,Huggins,10
+Leviathan,Beale,10
+Leviathan,Gall,10
+Ahab,Frederick Cuvier,10
+Flask,Halloa,10
+Sperm Whales,Jonah,10
+Stubb (#771),Carpenter,10
+Cetology,Halloa,10
+Bildad,the Quaker,10
+Queequeg,NANTUCKET SAILOR,10
+Stubb (#771),the old Gay - Head Indian,10
+Ha,Stubb (#771),10
+St. Paul,Stubb (#771),10
+Chowder,Mr. Hosea Hussey,10
+old Scotch Sibbald,Frederick Cuvier,10
+Lavater,Gall,10
+Jove,Lavater,10
+Jove,Tashtego,10
+Ahab,Squid,10
+Sperm Whales,the Prophet Jonas,10
+Don Sebastian,the Lakeman,10
+the Sperm Whale,Tash,10
+Stubb (#771),the Jeroboam,10
+St. Paul,the Pequod,10
+the Sperm Whale,the Gay - Header,10
+God,Belshazzar,10
+Cetology,Bennett,10
+Queequeg,Bowditch,10
+Queequeg,Alexander the Great,10
+Moby Dick,Yonder,10
+the Pequod,Yea,10
+Bennett,Linnæus,10
+the Sperm Whale,Gall,10
+Queequeg,Jonah,10
+God,Peleg,10
+Starbuck,Lionel,10
+Bennett,Beale,10
+Ahab,Emperors,10
+Bennett,Scoresby,10
+Moby Dick,the Gay - Header,10
+Queequeg,Man,10
+God,Methinks,10
+Hark,Doubloon,10
+Stubb (#771),Mary,10
+Queequeg,Aristotle,10
+Peleg,the Quaker,10
+Stubb,Whole Atlantics and Pacifics,10
+Moby Dick,the Lakeman,10
+God,Ere,10
+Ahab,Napoleon,10
+Tashtego,the Yarman,10
+Hark,Jove,10
+NANTUCKET SAILOR,the Pequod,10
+Daggoo,Whole Atlantics and Pacifics,10
+Moby Dick,Man,10
+Sperm Whales,Pliny,10
+Ahab,Holloa,9
+Solomon,the Pequod,9
+NANTUCKET SAILOR,the Spaniard,9
+St. George,Vishnoo,9
+Moby Dick,Mayhew,9
+Bildad,Elijah,9
+Radney,Senor,9
+the Sperm Whale,Derick,9
+the Sperm Whale,St. Peter,9
+Leviathan,King Juba,9
+the Sperm Whale,Man,9
+Starbuck,O Lord,9
+Hurrah,Peleg,9
+the Sperm Whale,Ere,9
+Hurrah,Bildad,9
+the Parsee,Perth,9
+the Sperm Whale,Bennett,9
+NANTUCKET SAILOR,MATE,9
+Hercules,Vishnoo,9
+Perseus,Vishnoo,9
+Dough - Boy,King Ahab,9
+Starbuck,Hoot,9
+Starbuck,King Ahab,9
+the Sperm Whale,Sir Clifford,9
+Ramadan,Ahab,9
+Don Sebastian,Canallers,9
+Starbuck,Satan,9
+Stubb (#771),Mayhew,9
+Moby Dick,Gabriel,9
+Fedallah,Dough - Boy,9
+Jonah,Jungfrau,9
+Ahab,Accessory,9
+Jonah,Vishnoo,9
+Ahab,Miriam Coffin,9
+Hark,Fedallah,9
+Beale,Owen,9
+Thomas Jefferson,Edmund Burke,9
+Flask,Bildad,9
+Flask,Peleg,9
+God,ROBERT LONG,9
+Stubb,Stubb (#771),9
+Bennett,Owen,9
+Linnæus,Owen,9
+Fedallah,John the Asiatic,9
+King Tranquo,Sir Clifford,9
+Huggins,Garnery,9
+the Pequod,Beelzebub,9
+Hackluyt,Leviathan,9
+Queequeg,the little Moss,9
+the Pequod,old Scotch Sibbald,9
+Susan,Eckermann,9
+Procopius,Justinian,9
+Emperors,the Pequod,9
+God,Bildad,9
+Long - John,Cain,9
+Jove,Gall,9
+Sperm Whales,Colnett,9
+unfort’nate Stiggs,Yojo,9
+Jonah,Guido,9
+Cetology,Owen,9
+the Sperm Whale,Daniel Webster,9
+Flask,King Ahab,9
+the Samuel Enderby,Bunger,9
+Stubb (#771),John the Asiatic,9
+Flask,O Lord,9
+Starbuck,Accessory,9
+Ahab,Bouton - de - Roses,9
+Scoresby,Owen,9
+the Samuel Enderby,Captain Boomer,9
+God,Owen,9
+Ahab,Bowditch,9
+Stubb (#771),Macey,9
+Ahab,King Ahab,9
+Flask,John the Asiatic,9
+Stubb (#771),O Lord,9
+Jonah,old Scotch Sibbald,9
+Ahab,Nicholas the Czar,9
+Leviathan,Guido,9
+Stubb (#771),Satan,9
+Stubb (#771),Hoot,9
+Stubb (#771),King Ahab,9
+Ahab,Hoot,9
+God,Hercules,8
+Don Sebastian,Ho,8
+Ishmael,Champollion,8
+God,Noah,8
+St. George,antique Crockett,8
+God,the old Egyptians,8
+God,Mayhew,8
+God,the King of the Cannibals,8
+God,Yonder,8
+God,Cain,8
+God,MATE,8
+God,Ginger,8
+God,Bethink,8
+God,Abraham,8
+God,Angelo,8
+God,Macey,8
+St. George,Dagon,8
+Jove,Narcissus,8
+God,the Jeroboam,8
+Ishmael,Jonah,8
+Ho,Pip (#1207),8
+God,Fashioned,8
+John Hunter,J. Ross Browne,8
+Bennett,Frederick Cuvier,8
+John Hunter,Scoresby,8
+John Hunter,old Scotch Sibbald,8
+J. Ross Browne,Miriam Coffin,8
+J. Ross Browne,old Scotch Sibbald,8
+John Hunter,Miriam Coffin,8
+John Hunter,Bennett,8
+God,the Nantucket Indians,8
+Ho,Doubloon,8
+J. Ross Browne,Aristotle,8
+Thomas Jefferson,Eckermann,8
+J. Ross Browne,Pliny,8
+J. Ross Browne,Rachel,8
+J. Ross Browne,Linnæus,8
+John Hunter,Beale,8
+Bennett,Rachel,8
+Bennett,Pliny,8
+John Hunter,Aristotle,8
+Bennett,Aristotle,8
+Bennett,old Scotch Sibbald,8
+Bennett,Miriam Coffin,8
+John Hunter,Pliny,8
+Colnett,Huggins,8
+Colnett,Beale,8
+Colnett,J. Ross Browne,8
+John Hunter,Rachel,8
+John Hunter,Linnæus,8
+John Hunter,Frederick Cuvier,8
+Colnett,Jonah,8
+Spermacetti Whales,Colnett,8
+John Hunter,Owen,8
+Cook,Edmund Burke,8
+J. Ross Browne,Owen,8
+J. Ross Browne,Huggins,8
+the Prophet Jonas,Jonah,8
+God,Fate,8
+Ishmael,Methinks,8
+Isaiah,Jonah,8
+Isaiah,Satan,8
+Isaiah,Angelo,8
+Isaiah,King Juba,8
+Ishmael,Ha,8
+Rabelais,Solomon,8
+King Henry,Bulkington,8
+King Henry,Mark,8
+ROBERT LONG,the Prophet Jonas,8
+Ishmael,Cato,8
+ROBERT LONG,Pip,8
+the Prophet Jonas,Pip,8
+Richard Strafford,Pip,8
+the Samuel Enderby,Solomon,8
+Miriam Coffin,Owen,8
+Miriam Coffin,Frederick Cuvier,8
+Miriam Coffin,Linnæus,8
+Miriam Coffin,Pliny,8
+Miriam Coffin,Aristotle,8
+Miriam Coffin,Beale,8
+Miriam Coffin,Scoresby,8
+Miriam Coffin,old Scotch Sibbald,8
+the Samuel Enderby,Bunger (#1263),8
+Pip,the Pequod,8
+Pip,Americans,8
+the Samuel Enderby,the Pequod,8
+the Samuel Enderby,the White Whale,8
+the Samuel Enderby,Stubb (#771),8
+Miriam Coffin,Rachel,8
+The Fossil Whale,Ahab,8
+Jove,Genius,8
+Bowditch,Lionel,8
+old Scotch Sibbald,Perseus,8
+old Scotch Sibbald,Vishnu,8
+old Scotch Sibbald,Guido,8
+old Scotch Sibbald,Andromeda,8
+Mary,Ho,8
+Tashtego,Americans,8
+Tashtego,Perseus,8
+Bowditch,Capricornus,8
+Bowditch,Doubloon,8
+Bowditch,Gemini,8
+Bowditch,the Bull,8
+Tashtego,Whole Atlantics and Pacifics,8
+Tashtego,Tun,8
+Bowditch,the old Mogul,8
+the old Egyptians,Napoleon,8
+Tashtego,Yea,8
+Tashtego,Satan,8
+Daggoo,Americans,8
+Hercules,antique Crockett,8
+Daggoo,the old Mogul,8
+Daggoo,Vanity,8
+Daggoo,Derick,8
+Napoleon,Hercules,8
+Americans,Garnery,8
+Perseus,Vishnu,8
+Perseus,Guido,8
+Perseus,Dagon,8
+Perseus,antique Crockett,8
+old Scotch Sibbald,Owen,8
+old Scotch Sibbald,Linnæus,8
+old Scotch Sibbald,Rachel,8
+old Scotch Sibbald,Pliny,8
+Bildad,young Nat Swaine,8
+Bildad,old Scotch Sibbald,8
+Deacon Deuteronomy,Quohog,8
+Stubb (#771),young Nat Swaine,8
+Stubb (#771),Andrew Jackson,8
+Stubb (#771),MATE,8
+Stubb (#771),Frederick Cuvier,8
+Stubb (#771),the King of the Cannibals,8
+Satan,King Juba,8
+Stubb (#771),Yea,8
+Stubb (#771),St. Peter,8
+Stubb (#771),Bowditch,8
+Stubb (#771),Lionel,8
+Stubb (#771),the Bull,8
+Stubb (#771),Gemini,8
+Stubb (#771),Capricornus,8
+Stubb (#771),Manxman,8
+Satan,Angelo,8
+Stubb (#771),Yonder,8
+the Spaniard,the old Mogul,8
+the Spaniard,Tashtego,8
+Elijah,Holloa,8
+Elijah,Tashtego,8
+Elijah,Daggoo,8
+Elijah,Archy,8
+old Scotch Sibbald,Beale,8
+old Scotch Sibbald,Aristotle,8
+the old Egyptians,Hercules,8
+Dough - Boy,Belshazzar,8
+Jove,little King - Post,8
+the Narwhale,Queen Bess,8
+Pliny,Linnæus,8
+Pliny,Frederick Cuvier,8
+Pliny,Owen,8
+Rachel,Linnæus,8
+Rachel,Frederick Cuvier,8
+Rachel,Owen,8
+Rachel,Carpenter,8
+Rachel,Gardiner,8
+Sir Martin Frobisher,Queen Bess,8
+Linnæus,Frederick Cuvier,8
+Linnæus,Charley Coffin,8
+the Narwhale,the Huzza Porpoise,8
+Frederick Cuvier,the White Whale,8
+the Narwhale,Sir Martin Frobisher,8
+Dough - Boy,the White Whale,8
+Frederick Cuvier,Macey,8
+Frederick Cuvier,Huggins,8
+Frederick Cuvier,Napoleon,8
+Owen,Captain Pollard,8
+Charley Coffin,Cain,8
+Charley Coffin,the Narwhale,8
+Charley Coffin,Sir Martin Frobisher,8
+Charley Coffin,Queen Bess,8
+Cain,Nay,8
+Cain,the Narwhale,8
+Cain,Sir Martin Frobisher,8
+Cain,Queen Bess,8
+Nay,Don Sebastian,8
+Pliny,Rachel,8
+King Ahab,Belshazzar,8
+Aristotle,Owen,8
+Aristotle,Frederick Cuvier,8
+Dough - Boy,Ginger,8
+Dough - Boy,Pip (#1207),8
+little King - Post,Stubb (#823),8
+little King - Post,Halloa,8
+little King - Post,Bowditch,8
+little King - Post,the old Mogul,8
+little King - Post,Lionel,8
+little King - Post,the Bull,8
+little King - Post,Gemini,8
+little King - Post,Doubloon,8
+little King - Post,Capricornus,8
+Stubb (#823),Halloa,8
+Scoresby,Aristotle,8
+Scoresby,Pliny,8
+Scoresby,Rachel,8
+Scoresby,the White Whale,8
+Scoresby,Huggins,8
+Beale,Aristotle,8
+Beale,Pliny,8
+Beale,Rachel,8
+Beale,Huggins,8
+Beale,Ho,8
+Beale,Pip (#1207),8
+Beale,Doubloon,8
+Aristotle,Pliny,8
+Aristotle,Rachel,8
+Aristotle,Linnæus,8
+Dost,Stubb (#771),8
+Peleg,old Scotch Sibbald,8
+Peleg,young Nat Swaine,8
+Solomon,Lionel,8
+Lionel,John the Asiatic,8
+Hurrah,the Yarman,8
+Hurrah,Daggoo,8
+Bulkington,Tarshish,8
+Bulkington,the Quaker,8
+Kings,Emperors,8
+Kings,Nicholas the Czar,8
+Kings,Yojo,8
+Ca,Peleg,8
+Ca,the Pequod,8
+Ca,Dough - Boy,8
+Ca,the White Whale,8
+Ca,Aloft,8
+Solomon,Grand Turks,8
+the old Mogul,Cabaco,8
+Andes,Stubb (#771),8
+Langsdorff,Lionel,8
+Alexander the Great,Leviathans,8
+Alexander the Great,Fogo Von Slack,8
+EZEKIEL HARDY,Jonah,8
+EZEKIEL HARDY,Perseus,8
+EZEKIEL HARDY,St. George,8
+EZEKIEL HARDY,Andromeda,8
+Father Mapple,Nelson,8
+Father Mapple,Deacon Deuteronomy,8
+Nelson,the old Egyptians,8
+Nelson,Napoleon,8
+Nelson,Hercules,8
+Lionel,Captain Davis,8
+Hurrah,Heaven,8
+Hurrah,Bulkington,8
+Lazarus,Stubb (#771),8
+Jove,Bowditch,8
+Jove,the old Mogul,8
+Jove,Lionel,8
+Jove,the Bull,8
+Jove,Gemini,8
+Jove,Capricornus,8
+Jove,Manxman,8
+Jove,Beale,8
+Jove,Ho,8
+Jove,Pip (#1207),8
+Jove,Europa,8
+John the Asiatic,Captain Davis,8
+NANTUCKET SAILOR,Hurrah,8
+NANTUCKET SAILOR,Peleg,8
+NANTUCKET SAILOR,Bildad,8
+NANTUCKET SAILOR,Tash,8
+Ha,Halloa,8
+Lionel,Capricornus,8
+Lionel,Doubloon,8
+Peter Coffin,Cousin Hosea,8
+Euroclydon,St. Paul,8
+Euroclydon,Lazarus,8
+St. Paul,Lazarus,8
+St. Paul,Bulkington,8
+St. Paul,Bethink,8
+Lionel,Gemini,8
+Lionel,the Bull,8
+Joppa,Perseus,8
+Joppa,Andromeda,8
+Tarshish,Mark,8
+Emperors,Don Sebastian,8
+Emperors,Steelkilt,8
+Emperors,the Lakeman,8
+Emperors,Garnery,8
+the White Whale,Ginger,8
+the White Whale,Derick,8
+Mrs. Hussey,The Lord,8
+the White Whale,Mayhew,8
+unfort’nate Stiggs,The Lord,8
+Yojo,Heaven,8
+the White Whale,the Jeroboam,8
+the Pequod,the Spaniard,8
+the Pequod,Americans,8
+the White Whale,Macey,8
+the Pequod,Nicholas the Czar,8
+the Pequod,King Ahab,8
+the White Whale,Adam,8
+the Pequod,Cabaco,8
+the old Mogul,Capricornus,8
+the old Mogul,Doubloon,8
+the Pequod,Leviathans,8
+the old Mogul,Gemini,8
+the old Mogul,the Bull,8
+the Pequod,Canaris,8
+the Pequod,Manxman,8
+the old Mogul,Lionel,8
+the old Mogul,Archy,8
+the Pequod,the Burtons,8
+Emperors,Radney,8
+Emperors,Nicholas the Czar,8
+Jonah,Mark,8
+Emperors,Noah,8
+Jonah,Linnæus,8
+Jonah,Vishnu,8
+Jonah,Dagon,8
+Jonah,antique Crockett,8
+Jonah,Bishop Jebb,8
+Jonah,Macey,8
+Jonah,Grand Turks,8
+Mark,Peleg,8
+Mark,Bildad,8
+Mark,Don Pedro,8
+Mark,Canallers,8
+Mark,the Nantucketer,8
+Mark,Nay,8
+Mark,Stubb (#771),8
+Mark,Pip (#1207),8
+Man,Loose - Fish,8
+the little Moss,Owen,8
+the little Moss,Captain Pollard,8
+the Nantucketer,the Narwhale,8
+the Nantucketer,the White Whale,8
+the Nantucketer,Americans,8
+the Nantucketer,Don Sebastian,8
+the Nantucketer,Radney,8
+the Nantucketer,Steelkilt,8
+the Nantucketer,the Lakeman,8
+the Nantucketer,Nay,8
+the Nantucketer,Perth,8
+the White Whale,Jungfrau,8
+Pip,Daggoo,8
+Hark,Halloa,8
+Cetology,Aristotle,8
+Cetology,Rachel,8
+Cetology,Frederick Cuvier,8
+Cetology,Leviathan,8
+Cetology,Charley Coffin,8
+Leviathan,NANTUCKET SAILOR,8
+Angelo,King Juba,8
+Macey,the Jeroboam,8
+Hark,Manxman,8
+Leviathan,King Henry,8
+Leviathan,Rabelais,8
+Leviathan,Gabriel,8
+Dan Coopman,Dr. Snodhead,8
+Hark,Queequeg,8
+Macey,Death,8
+Hark,Beale,8
+Hark,Ho,8
+Hark,Pip (#1207),8
+Hark,Dost,8
+Fedallah,Heaven,8
+Fedallah,Beale,8
+Fedallah,Ho,8
+Fedallah,Doubloon,8
+Fedallah,Rachel,8
+Fedallah,Europa,8
+Macey,Grand Turks,8
+Fedallah,Perth,8
+Sperm Whales,Isaiah,8
+Sperm Whales,Bennett,8
+Sperm Whales,Beale,8
+Cetology,Pliny,8
+Cetology,old Scotch Sibbald,8
+Hackluyt,Frederick Cuvier,8
+Cetology,Miriam Coffin,8
+the Bull,Gemini,8
+Ahab,Forthwith,8
+Loose - Fish,the Bull,8
+Ahab,Procopius,8
+Ahab,Stubb,8
+Leviathan,Linnæus,8
+Ahab,Death,8
+Ahab,Jungfrau,8
+Ahab,Derick,8
+Ahab,Leviathans,8
+Ahab,Methinks,8
+Ahab,the Bull,8
+Ahab,Gemini,8
+Ahab,Capricornus,8
+Ahab,Ginger,8
+Ahab,Yea,8
+Ahab,Sikoke,8
+Ahab,Andes,8
+Ahab,Lo,8
+Ahab,Gardiner,8
+Ahab,Tarquin,8
+Ahab,Europa,8
+Leviathan,J. Ross Browne,8
+Cetology,little King - Post,8
+Cetology,Stubb (#823),8
+Cetology,Hark,8
+Cetology,the Pequod,8
+Cetology,John Hunter,8
+Cetology,J. Ross Browne,8
+Hackluyt,Macey,8
+Sperm Whales,Scoresby,8
+Leviathan,Goldsmith,8
+Starbuck,Holloa,8
+Starbuck,Heaven,8
+Starbuck,Andrew Jackson,8
+Starbuck,Ha,8
+Starbuck,Forthwith,8
+Starbuck,Ishmael,8
+Starbuck,Cabaco,8
+Starbuck,Death,8
+Queequeg,young Nat Swaine,8
+Queequeg,The Lord,8
+Starbuck,Commodore J,8
+Queequeg,Heaven,8
+Starbuck,Methinks,8
+Starbuck,Bowditch,8
+Starbuck,the Bull,8
+Starbuck,Gemini,8
+Queequeg,Cousin Hosea,8
+Starbuck,Doubloon,8
+Queequeg,Noah,8
+Queequeg,Emperors,8
+Queequeg,the Nantucketer,8
+Queequeg,Himmalehan,8
+Starbuck,Capricornus,8
+Queequeg,Capting,8
+Starbuck,Halloa,8
+Mayhew,Death,8
+Death,King Tranquo,8
+Starbuck,Sikoke,8
+Queequeg,EZEKIEL HARDY,8
+Starbuck,Andes,8
+Starbuck,Lank Bildad,8
+Flask,Dost,8
+Sperm Whales,Garnery,8
+Queequeg,Hercules,8
+Sperm Whales,the Bashaw,8
+Sperm Whales,Grand Turks,8
+Sperm Whales,Daniel Boone,8
+Sperm Whales,Adam,8
+Queequeg,Perth,8
+Queequeg,Doubloon,8
+Queequeg,Ho,8
+Stubb,Flask,8
+Stubb,Starbuck,8
+Queequeg,Beale,8
+Stubb,Tash,8
+Stubb,the Gay - Header,8
+Flask,NANTUCKET SAILOR,8
+Queequeg,the Nantucket Indians,8
+Queequeg,Commodore J,8
+Flask,Stubb (#823),8
+Flask,Beale,8
+Jungfrau,the Yarman,8
+Queequeg,Hurrah,8
+Flask,Vanity,8
+Queequeg,Gall,8
+Queequeg,Lavater,8
+Columbus,Loose - Fish,8
+Flask,Lazarus,8
+Queequeg,Macey,8
+Queequeg,Gabriel,8
+Flask,Jove,8
+Flask,Doubloon,8
+Queequeg,Captain Sleet,8
+Leviathan,Vishnu,8
+Starbuck,Dost,8
+the Sperm Whale,Hitherto,8
+the Sperm Whale,Peleg,8
+the Sperm Whale,Fogo Von Slack,8
+Doubloon,Capricornus,8
+Pip (#1207),Hast,8
+Leviathan,Daggoo,8
+Ahab,Kings,8
+the Sperm Whale,Frederick Cuvier,8
+Leviathan,Man,8
+Moby Dick,Procopius,8
+Leviathan,Adam,8
+Chowder,Ramadan,8
+Moby Dick,the Nantucket Indians,8
+Moby Dick,Sperm Whales,8
+Moby Dick,Tash,8
+Moby Dick,Perth,8
+Gemini,Capricornus,8
+Doubloon,Manxman,8
+Moby Dick,Mark,8
+Gabriel,Death,8
+Gabriel,the White Whale,8
+the Sperm Whale,Genius,8
+Moby Dick,Scoresby,8
+the Sperm Whale,Perseus,8
+Leviathan,Satan,8
+Leviathan,Joppa,8
+Pip (#1207),Carpenter,8
+Leviathan,Genius,8
+the Sperm Whale,Bishop Jebb,8
+Moby Dick,John the Asiatic,8
+Leviathan,Leviathans,8
+Moby Dick,Beelzebub,8
+the Sperm Whale,Yea,8
+Gemini,Doubloon,8
+God,Sir William Davenant,8
+Leviathan,Napoleon,8
+Pip (#1207),Doubloon,8
+Guido,Andromeda,8
+Lima,Nay,8
+Bunger,Bunger (#1263),8
+Moby Dick,the Jeroboam,8
+Moby Dick,Macey,8
+Moby Dick,Squid,8
+God,Hurrah,8
+Moby Dick,Heaven,8
+God,The Lord,8
+God,Andrew Jackson,8
+The Fossil Whale,Leviathan,8
+the Bull,Capricornus,8
+Ahab,Owen,8
+the Bull,Doubloon,8
+God,Nicholas the Czar,8
+Ahab,Stubb (#823),8
+Leviathan,the Bashaw,8
+Ahab,Perseus,8
+Ramadan,God,8
+Lima,Mark,8
+Vishnu,Guido,8
+Vishnu,Andromeda,8
+Moby Dick,Cabaco,8
+God,Peter Coffin,8
+Lima,the Nantucketer,8
+the Sperm Whale,J. Ross Browne,8
+God,Woe,8
+God,Delight,8
+Leviathan,the Samuel Enderby,8
+God,unfort’nate Stiggs,8
+Lima,Emperors,8
+Moby Dick,Frederick Cuvier,8
+Flask,Gemini,7
+Alexander the Great,Stubb (#771),7
+EZEKIEL HARDY,Joppa,7
+Flask,the Bull,7
+Scoresby,Garnery,7
+Stubb (#771),Ere,7
+Commodore J,Langsdorff,7
+Lavater,Genius,7
+Jonah,Woe,7
+Tarshish,Woe,7
+Joppa,St. George,7
+Joppa,Woe,7
+Flask,Ha,7
+Belshazzar,the old Mogul,7
+Commodore J,the Nantucket Indians,7
+Belshazzar,Bowditch,7
+Flask,Lionel,7
+Scoresby,Macey,7
+Flask,Aunt Charity,7
+Yea,Columbus,7
+Methinks,Belshazzar,7
+Cabaco,Beelzebub,7
+EZEKIEL HARDY,Dagon,7
+Flask,Bowditch,7
+Flask,Capricornus,7
+Bulkington,the Jeroboam,7
+Flask,Manxman,7
+Peter Coffin,Euroclydon,7
+Lionel,Justinian,7
+Ginger,Pip (#1207),7
+St. Paul,the Jeroboam,7
+Moby Dick,Hoot,7
+Starbuck,Ginger,7
+Rachel,Hast,7
+Lima,Sperm Whales,7
+Peter Coffin,Lazarus,7
+Peter Coffin,St. Paul,7
+Ha,Carpenter,7
+Langsdorff,John the Asiatic,7
+Ha,Satan,7
+Frederick Cuvier,Ere,7
+Owen,Napoleon,7
+Perth,Lo,7
+Starbuck,Manxman,7
+NANTUCKET SAILOR,Heaven,7
+Starbuck,Carpenter,7
+Long - John,Nay,7
+Cain,MATE,7
+Starbuck,Lazarus,7
+Lionel,Procopius,7
+Abominable,Jonah,7
+Hurrah,Jonah,7
+Solomon,the Bashaw,7
+Solomon,Justinian,7
+Solomon,Procopius,7
+Solomon,Captain Davis,7
+Solomon,John the Asiatic,7
+Langsdorff,Captain Davis,7
+Ca,Archy,7
+Ca,Elijah,7
+Beale,Macey,7
+Kings,Ere,7
+Jonah,Charley Coffin,7
+Bulkington,Mark,7
+Starbuck,the Gay - Header,7
+Moby Dick,Pip,7
+Moby Dick,Forthwith,7
+Hurrah,Archy,7
+Hurrah,Cabaco,7
+Starbuck,Procopius,7
+Pliny,Adam,7
+Bethink,Ere,7
+Man,Columbus,7
+Genius,Champollion,7
+Elijah,the White Whale,7
+Elijah,Fleece,7
+Chowder,unfort’nate Stiggs,7
+Chowder,Cousin Hosea,7
+Chowder,Peter Coffin,7
+Chowder,Noah,7
+Chowder,Emperors,7
+Chowder,the Nantucketer,7
+Peleg,Yea,7
+Tashtego,the old Gay - Head Indian,7
+the Sperm Whale,Death,7
+Tashtego,Vanity,7
+Cetology,Jonah,7
+the Pequod,Satan,7
+Starbuck,Gardiner,7
+the Sperm Whale,Leviathans,7
+Tashtego,Fashioned,7
+Hercules,Bishop Jebb,7
+Tashtego,Fate,7
+the Sperm Whale,Hercules,7
+Hercules,Dagon,7
+the Sperm Whale,St. George,7
+Ramadan,Heaven,7
+Elijah,Dough - Boy,7
+Hark,Carpenter,7
+Elijah,Perseus,7
+Stubb (#771),Fogo Von Slack,7
+Stubb (#771),Bethink,7
+Ahab,Aristotle,7
+Stubb (#771),Hast,7
+Ahab,O Lord,7
+Stubb (#771),Abraham,7
+Stubb (#771),Scoresby,7
+Stubb (#771),Bunger (#1263),7
+Stubb (#771),Hitherto,7
+Stubb (#771),Vanity,7
+Leviathans,Daniel Boone,7
+the Frenchman,Pip (#1207),7
+Stubb (#771),Lo,7
+Stubb (#771),Stubb (#823),7
+Stubb (#771),Gardiner,7
+Stubb (#771),Americans,7
+Ahab,young Nat Swaine,7
+the Spaniard,Cain,7
+Ahab,Dost,7
+Ahab,the Prophet Jonas,7
+Heaven,Beelzebub,7
+Daggoo,little King - Post,7
+Fedallah,Elijah,7
+Bethink,Abraham,7
+Sperm Whales,Nay,7
+Belshazzar,Capricornus,7
+Moby Dick,Ere,7
+the White Whale,Fashioned,7
+Dagon,antique Crockett,7
+Himmalehan,Noah,7
+Himmalehan,Emperors,7
+Himmalehan,the Nantucketer,7
+Squid,God,7
+the little Moss,Capting,7
+Belshazzar,Doubloon,7
+Squid,the Pequod,7
+little King - Post,Belshazzar,7
+Squid,Flask,7
+Mark,Don Sebastian,7
+Belshazzar,Gemini,7
+Belshazzar,the Bull,7
+Belshazzar,Lionel,7
+Adam,the Nantucket Indians,7
+Jonah,King Tranquo,7
+Jonah,Hitherto,7
+Jonah,Tashtego,7
+Dough - Boy,Archy,7
+Sperm Whales,the Nantucketer,7
+the Pequod,Abraham,7
+Sperm Whales,Mark,7
+the Pequod,Ho,7
+Napoleon,Ere,7
+Daggoo,Perth,7
+the White Whale,Archy,7
+Daggoo,Fashioned,7
+Grand Turks,the Bashaw,7
+Daggoo,Rachel,7
+the Pequod,young Nat Swaine,7
+Perseus,the old Gay - Head Indian,7
+Yojo,Pip (#1207),7
+Yojo,Ere,7
+Sperm Whales,Queequeg,7
+Mr. Hosea Hussey,unfort’nate Stiggs,7
+Sperm Whales,Radney,7
+Sperm Whales,Steelkilt,7
+Noah,Stubb (#771),7
+Noah,Columbus,7
+Emperors,Americans,7
+Emperors,Huggins,7
+Sperm Whales,Hackluyt,7
+Sperm Whales,Macey,7
+God,Kings,7
+Woe,Delight,7
+Nay,Pip (#1207),7
+Leviathan,EZEKIEL HARDY,7
+Queequeg,Rachel,7
+Hackluyt,Jonah,7
+Leviathan,Hurrah,7
+King Henry,Sir William Davenant,7
+the Lakeman,Canallers,7
+Rabelais,the Pequod,7
+Radney,Canallers,7
+Andromeda,Dagon,7
+Ishmael,Hitherto,7
+St. George,Vishnu,7
+Leviathan,Charley Coffin,7
+Queequeg,Fashioned,7
+God,Rachel,7
+God,Mary,7
+Leviathan,Grand Turks,7
+Queequeg,the Burtons,7
+Hackluyt,Dan Coopman,7
+Queequeg,old Scotch Sibbald,7
+Jove,Bethink,7
+Hackluyt,Colnett,7
+Queequeg,Americans,7
+the Prophet Jonas,Guido,7
+Ishmael,Andes,7
+the Prophet Jonas,Goldsmith,7
+Hackluyt,J. Ross Browne,7
+Queequeg,Pip,7
+the Prophet Jonas,Colnett,7
+ROBERT LONG,EZEKIEL HARDY,7
+Colnett,Macey,7
+Hackluyt,Scoresby,7
+ROBERT LONG,JOHN TALBOT,7
+Ishmael,NANTUCKET SAILOR,7
+Hackluyt,Huggins,7
+the Prophet Jonas,Frederick Cuvier,7
+Ishmael,Genius,7
+Queequeg,Lazarus,7
+Queequeg,Mark,7
+Hackluyt,Beale,7
+God,Doubloon,7
+Goldsmith,Cook,7
+God,the Bull,7
+God,Lionel,7
+God,little King - Post,7
+Thomas Jefferson,Susan,7
+God,Forthwith,7
+God,Richard Strafford,7
+God,Ho,7
+God,Capricornus,7
+Jove,Belshazzar,7
+Daniel Webster,the Samuel Enderby,7
+Queequeg,Leviathans,7
+Goldsmith,Scoresby,7
+God,Don Pedro,7
+the Samuel Enderby,Hast,7
+God,Gemini,7
+God,the little Moss,7
+Goldsmith,Colnett,7
+Queequeg,Ginger,7
+Ishmael,Heaven,7
+God,the Huzza Porpoise,7
+Ishmael,Man,7
+Ishmael,the Pequod,7
+Goldsmith,Jonah,7
+J. Ross Browne,Macey,7
+God,Pliny,7
+God,Captain Sleet,7
+Macey,Huggins,7
+Queequeg,Belshazzar,7
+Hark,Gemini,6
+Sperm Whales,Flask,6
+Colnett,Garnery,6
+Hark,the Bull,6
+the White Whale,John the Asiatic,6
+Hark,Lionel,6
+Fedallah,Lazarus,6
+Dan Coopman,the Samuel Enderby,6
+Hark,Capricornus,6
+the Pequod,Fogo Von Slack,6
+Colnett,Stubb (#771),6
+Colnett,Guido,6
+Fedallah,Bunger (#1263),6
+Fedallah,Manxman,6
+the Pequod,little King - Post,6
+the Pequod,Scoresby,6
+Grand Turks,Daniel Boone,6
+the Pequod,Don Pedro,6
+the Pequod,Says Plowdon,6
+Mrs. Hussey,Heaven,6
+Fedallah,Ca,6
+the old Mogul,Manxman,6
+the Pequod,Don Sebastian,6
+Emperors,Cousin Hosea,6
+Ho,the Lakeman,6
+the Samuel Enderby,Ginger,6
+Squid,Daggoo,6
+Man,Tun,6
+Mark,Tashtego,6
+Mark,Steelkilt,6
+Mark,Senor,6
+J. Ross Browne,Garnery,6
+Flask,Lank Bildad,6
+Mark,Yojo,6
+Jungfrau,Grand Turks,6
+Sperm Whales,St. George,6
+Queequeg,Grand Turks,6
+Jonah,Frederick Cuvier,6
+Bethink,Tun,6
+Gall,Genius,6
+Lavater,Champollion,6
+Jonah,Delight,6
+the Samuel Enderby,Dr. Snodhead,6
+Tarshish,Delight,6
+Man,Aloft,6
+Queequeg,Manxman,6
+Squid,Stubb,6
+the Nantucketer,Cousin Hosea,6
+the White Whale,Bouton - de - Roses,6
+Noah,Cousin Hosea,6
+Emperors,Ho,6
+Macey,Jungfrau,6
+Emperors,Dough - Boy,6
+Sperm Whales,Emperors,6
+the Pequod,Accessory,6
+the Nantucketer,Hast,6
+the Nantucketer,Ho,6
+the Nantucketer,little King - Post,6
+antique Crockett,Vishnoo,6
+the Nantucketer,Stubb (#771),6
+the Nantucketer,Queen Bess,6
+the Nantucketer,Sir Martin Frobisher,6
+the Nantucketer,Cain,6
+the Nantucketer,Charley Coffin,6
+the Nantucketer,Dost,6
+Hark,Bowditch,6
+Ahab,Don Pedro,6
+Hark,Stubb (#823),6
+Americans,little King - Post,6
+Moby Dick,Europa,6
+God,Leviathans,6
+Dough - Boy,Nicholas the Czar,6
+Capricornus,Manxman,6
+God,the Burtons,6
+Gemini,Manxman,6
+Americans,Huggins,6
+St. George,Guido,6
+Isaiah,Rabelais,6
+Tashtego,Lavater,6
+Daggoo,Tun,6
+Leviathan,Dagon,6
+Hercules,Andromeda,6
+Pip (#1207),Lo,6
+the Sperm Whale,Mark,6
+the Sperm Whale,Nay,6
+Captain Sleet,Bowditch,6
+Tashtego,Jungfrau,6
+Dough - Boy,the Frenchman,6
+Moby Dick,Rachel,6
+God,Solomon,6
+little King - Post,Cabaco,6
+The Fossil Whale,Ere,6
+Owen,Ere,6
+God,Elijah,6
+Frederick Cuvier,Garnery,6
+God,Ha,6
+God,Isaiah,6
+Moby Dick,Hark,6
+Sikoke,the Burtons,6
+Aristotle,the Burtons,6
+God,Don Sebastian,6
+Beale,Manxman,6
+Moby Dick,the little Moss,6
+Beale,Garnery,6
+Scoresby,Charley Coffin,6
+little King - Post,Manxman,6
+Hast,Perth,6
+God,the Samuel Enderby,6
+Tashtego,Gall,6
+the Sperm Whale,the Frenchman,6
+Edmund Burke,Mary,6
+Stubb (#771),the Gay - Header,6
+the Bull,Manxman,6
+Leviathan,Macey,6
+Stubb (#771),Canaris,6
+Erskine,Loose - Fish,6
+Ahab,Lazarus,6
+Joppa,Dagon,6
+Ahab,Don Sebastian,6
+Pip,Ishmael,6
+Ahab,Alexander the Great,6
+Tashtego,Don Sebastian,6
+Ahab,St. Peter,6
+Stubb (#771),Perseus,6
+Stubb (#771),Lank Bildad,6
+Heaven,Cabaco,6
+Goldsmith,Frederick Cuvier,6
+Cook,Thomas Jefferson,6
+Andromeda,antique Crockett,6
+Ho,Manxman,6
+the Prophet Jonas,Solomon,6
+Stubb (#771),King Tranquo,6
+the Frenchman,Fogo Von Slack,6
+Stubb (#771),Fashioned,6
+Tashtego,Don Pedro,6
+Bowditch,Manxman,6
+ROBERT LONG,Richard Strafford,6
+Mary,Ere,6
+Chowder,Himmalehan,6
+old Scotch Sibbald,St. George,6
+old Scotch Sibbald,Lank Bildad,6
+Ramadan,Bildad,6
+Aunt Charity,old Scotch Sibbald,6
+the Prophet Jonas,Richard Strafford,6
+the Prophet Jonas,old Scotch Sibbald,6
+Elijah,the old Gay - Head Indian,6
+the Prophet Jonas,Perseus,6
+the Spaniard,MATE,6
+the Prophet Jonas,Vishnu,6
+the Prophet Jonas,Andromeda,6
+Stubb (#771),Accessory,6
+Miriam Coffin,Terra Del Fuego,6
+Starbuck,Miriam Coffin,6
+the Pequod,John the Asiatic,6
+Methinks,the old Mogul,6
+Starbuck,the Nantucketer,6
+EZEKIEL HARDY,antique Crockett,6
+the Parsee,Fashioned,6
+Methinks,Father Mapple,6
+Hurrah,Lank Bildad,6
+Methinks,the Pequod,6
+Queequeg,Bulkington,6
+Ishmael,Lavater,6
+Methinks,little King - Post,6
+Methinks,Bowditch,6
+Methinks,Lionel,6
+Starbuck,Tash,6
+Methinks,the Bull,6
+Ishmael,King Tranquo,6
+Methinks,Gemini,6
+Methinks,Doubloon,6
+Don Pedro,Ho,6
+Methinks,Capricornus,6
+Jove,Father Mapple,6
+Peter Coffin,Noah,6
+Peter Coffin,Emperors,6
+Don Sebastian,old Rad,6
+Ishmael,the Nantucketer,6
+EZEKIEL HARDY,Hercules,6
+Jove,Abraham,6
+Alexander the Great,the Frenchman,6
+Columbus,the Bull,6
+Solomon,Owen,6
+Solomon,Daniel Boone,6
+Ishmael,Father Mapple,6
+Flask,Accessory,6
+Ishmael,unfort’nate Stiggs,6
+Solomon,Langsdorff,6
+Queequeg,Napoleon,6
+Ishmael,Peter Coffin,6
+Queequeg,the old Egyptians,6
+Queequeg,Nelson,6
+Starbuck,Nicholas the Czar,6
+JOHN TALBOT,EZEKIEL HARDY,6
+Kings,Dough - Boy,6
+Starbuck,Bulkington,6
+Starbuck,Pip,6
+Bulkington,Stubb (#771),6
+Starbuck,Americans,6
+Starbuck,Kings,6
+Queequeg,Archy,6
+Starbuck,Emperors,6
+Bulkington,Kings,6
+Peter Coffin,the Nantucketer,6
+Methinks,Stubb (#771),6
+Flask,Satan,6
+John the Asiatic,Justinian,6
+NANTUCKET SAILOR,Himmalehan,6
+Lionel,Manxman,6
+NANTUCKET SAILOR,Lank Bildad,6
+Captain Davis,Justinian,6
+NANTUCKET SAILOR,Tashtego,6
+Captain Davis,Procopius,6
+Jove,the Pequod,6
+Queequeg,Methinks,6
+Queequeg,ROBERT LONG,6
+Starbuck,Aristotle,6
+John the Asiatic,Procopius,6
+Starbuck,Europa,6
+Joppa,Delight,6
+Pip,Tash,5
+Pip,Cain,5
+Lima,Ahab,5
+NANTUCKET SAILOR,Peter Coffin,5
+Heaven,Lank Bildad,5
+Queequeg,JOHN TALBOT,5
+Goldsmith,Guido,5
+Lima,Tashtego,5
+Radney,St. George,5
+God,Cook,5
+Ahab,Bethink,5
+Quohog,Stubb (#771),5
+Quohog,young Nat Swaine,5
+Stubb (#771),Holloa,5
+Erskine,the Bull,5
+Ahab,Justinian,5
+Ere,Tun,5
+Stubb (#771),Whole Atlantics and Pacifics,5
+the Bashaw,Daniel Boone,5
+Ahab,the Frenchman,5
+Lima,the Pequod,5
+Pip,Elijah,5
+Goldsmith,Thomas Jefferson,5
+Bildad,Holloa,5
+Stubb (#771),Nicholas the Czar,5
+Ahab,the Yarman,5
+Stubb (#771),Forthwith,5
+Pip,the White Whale,5
+Kings,Stubb (#771),5
+Ca,Bildad,5
+God,Hoot,5
+Leviathan,Bennett,5
+Solomon,Napoleon,5
+Spermacetti Whales,Eckermann,5
+Solomon,Frederick Cuvier,5
+The Fossil Whale,Frederick Cuvier,5
+Fedallah,the Nantucketer,5
+Fedallah,Man,5
+Macey,Bishop Jebb,5
+Flask,Ho,5
+Spermacetti Whales,Susan,5
+Colnett,old Scotch Sibbald,5
+the Pequod,Procopius,5
+Colnett,Perseus,5
+Colnett,Vishnu,5
+the Pequod,Beale,5
+Fedallah,Leviathan,5
+Grand Turks,Leviathans,5
+Dan Coopman,Leviathan,5
+Dost,Pip (#1207),5
+Macey,Garnery,5
+Dost,Rachel,5
+Langsdorff,Procopius,5
+Peleg,Holloa,5
+NANTUCKET SAILOR,Ha,5
+John Hunter,Spermacetti Whales,5
+John Hunter,Colnett,5
+the Pequod,Lo,5
+Solomon,Leviathans,5
+Lima,Andes,5
+Leviathan,Ha,5
+Hark,Belshazzar,5
+The Fossil Whale,Napoleon,5
+Leviathan,ROBERT LONG,5
+God,Lank Bildad,5
+Lima,St. George,5
+Belshazzar,Manxman,5
+Ahab,Scoresby,5
+Lazarus,little King - Post,5
+Leviathan,Hercules,5
+Moby Dick,Alexander the Great,5
+Starbuck,Alexander the Great,5
+the Sperm Whale,Vishnoo,5
+Tashtego,Europa,5
+the Sperm Whale,Macey,5
+the Sperm Whale,Grand Turks,5
+God,Manxman,5
+the Sperm Whale,Angelo,5
+Death,Sir Clifford,5
+St. Paul,St. Peter,5
+St. Paul,Alexander the Great,5
+St. Paul,Fogo Von Slack,5
+Leviathan,Jungfrau,5
+the Sperm Whale,St. Paul,5
+Starbuck,Leviathans,5
+Daggoo,Ginger,5
+Hercules,Captain Sleet,5
+the Sperm Whale,Garnery,5
+Perseus,Bishop Jebb,5
+Leviathan,Daniel Boone,5
+the old Egyptians,Captain Sleet,5
+Peter Coffin,Himmalehan,5
+Moby Dick,Hast,5
+Leviathan,Kings,5
+Moby Dick,Bouton - de - Roses,5
+the Sperm Whale,the Parsee,5
+Ha,Peter Coffin,5
+Moby Dick,Leviathans,5
+Napoleon,Captain Sleet,5
+the Sperm Whale,Aunt Charity,5
+Daggoo,Pip (#1207),5
+Leviathan,antique Crockett,5
+Tashtego,Ginger,5
+Queequeg,Lank Bildad,5
+the Prophet Jonas,Scoresby,5
+Leviathan,Tash,5
+Hurrah,little King - Post,5
+Moby Dick,MATE,5
+God,Captain Pollard,5
+Langsdorff,Justinian,5
+NANTUCKET SAILOR,Noah,5
+Elijah,Americans,5
+Leviathan,Huggins,5
+Ahab,Mrs. Hussey,5
+NANTUCKET SAILOR,Emperors,5
+St. George,Bishop Jebb,5
+God,Yea,5
+Ahab,Lank Bildad,5
+Fogo Von Slack,Pip (#1207),5
+Jove,the White Whale,5
+NANTUCKET SAILOR,the Nantucketer,5
+Tash,Gall,5
+Tash,Lavater,5
+Starbuck,Yojo,5
+Ishmael,Gall,5
+Leviathan,Yojo,5
+Moby Dick,Ho,5
+Hitherto,King Tranquo,5
+the Sperm Whale,Pip (#1207),5
+Tashtego,Cain,5
+Sir William Davenant,ROBERT LONG,5
+the Pequod,Andrew Jackson,5
+Ginger,Hast,5
+Starbuck,Vanity,5
+Gabriel,Jove,5
+Moby Dick,Justinian,5
+Gabriel,Narcissus,5
+Steelkilt,St. George,5
+Leviathan,Aunt Charity,5
+Fedallah,the Samuel Enderby,5
+Flask,the Gay - Header,5
+Commodore J,Leviathans,5
+Alexander the Great,Commodore J,5
+the Nantucketer,Adam,5
+the Nantucketer,the Parsee,5
+Terra Del Fuego,Cato,5
+Sperm Whales,Americans,5
+Flask,Methinks,5
+Emperors,Stubb (#771),5
+Hackluyt,Stubb (#771),5
+Queequeg,Ca,5
+Emperors,Scoresby,5
+Bennett,Daniel Webster,5
+Noah,Americans,5
+the White Whale,the Yarman,5
+Sperm Whales,Vishnu,5
+Alexander the Great,Pip (#1207),5
+Noah,Peleg,5
+Sperm Whales,Don Sebastian,5
+Sperm Whales,Stubb (#771),5
+Alexander the Great,Bethink,5
+Ishmael,Euroclydon,5
+Sperm Whales,Bowditch,5
+Sperm Whales,Daniel Webster,5
+Terra Del Fuego,Ishmael,5
+Dagon,Vishnoo,5
+J. Ross Browne,Daniel Webster,5
+Flask,Forthwith,5
+Joppa,Hercules,5
+Joppa,antique Crockett,5
+Flask,Nicholas the Czar,5
+Flask,Emperors,5
+Flask,Kings,5
+Bethink,Fogo Von Slack,5
+Bethink,St. Peter,5
+Nelson,Captain Sleet,5
+Gall,Champollion,5
+the Samuel Enderby,Pip (#1207),5
+Himmalehan,Cousin Hosea,5
+Abraham,Perth,5
+Flask,Elijah,5
+Queequeg,Mayhew,5
+Stubb,Hemp,5
+Queequeg,Whole Atlantics and Pacifics,5
+Squid,the White Whale,5
+Adam,Abraham,5
+Man,the Bull,5
+the little Moss,Pip (#1207),5
+Vishnoo,Bishop Jebb,5
+the Nantucket Indians,Hast,5
+Ishmael,Lazarus,5
+Bishop Jebb,Grand Turks,5
+the Pequod,Holloa,5
+Sperm Whales,Squid,5
+Colnett,Andromeda,5
+the Pequod,the Quaker,5
+Ishmael,St. Paul,5
+Hackluyt,Garnery,5
+the Nantucketer,Tashtego,4
+EZEKIEL HARDY,Vishnoo,4
+the Nantucketer,Don Pedro,4
+Aunt Charity,Lank Bildad,4
+Aunt Charity,Ginger,4
+Ramadan,Mark,4
+Pip (#1207),Capricornus,4
+Chowder,Yojo,4
+Chowder,Ishmael,4
+Fedallah,Bowditch,4
+Moby Dick,old Rad,4
+the Pequod,Champollion,4
+Gabriel,Jonah,4
+Lionel,Ho,4
+Bowditch,Ho,4
+Bowditch,Pip (#1207),4
+Tashtego,Belshazzar,4
+Tashtego,King Ahab,4
+little King - Post,Pip (#1207),4
+Flask,Americans,4
+the Sperm Whale,Fate,4
+Queequeg,Hemp,4
+Halloa,Sikoke,4
+Chowder,NANTUCKET SAILOR,4
+the Pequod,Lank Bildad,4
+Flask,Scoresby,4
+Steelkilt,Vishnu,4
+Starbuck,Justinian,4
+Fedallah,the old Mogul,4
+Sperm Whales,Owen,4
+Scoresby,Guido,4
+Elijah,little King - Post,4
+the Bull,Pip (#1207),4
+Beale,Charley Coffin,4
+Starbuck,Beale,4
+Beale,Bowditch,4
+Beale,the old Mogul,4
+Stubb (#771),Sikoke,4
+the Parsee,Pip (#1207),4
+Beale,Lionel,4
+Bennett,Charley Coffin,4
+Moby Dick,Owen,4
+Emperors,King Ahab,4
+Stubb (#771),Captain Boomer,4
+the Prophet Jonas,Owen,4
+Beale,the Bull,4
+Beale,Gemini,4
+the White Whale,Bunger,4
+Bulkington,Joppa,4
+the Gay - Header,Gall,4
+Stubb (#771),Europa,4
+God,Radney,4
+the Gay - Header,Lavater,4
+Pip (#1207),Gemini,4
+Ahab,Quohog,4
+the Prophet Jonas,St. George,4
+Scoresby,Sir Clifford,4
+Elijah,Aunt Charity,4
+Scoresby,King Tranquo,4
+Alexander the Great,Tashtego,4
+God,Garnery,4
+Sperm Whales,Starbuck,4
+Garnery,the King of the Cannibals,4
+little King - Post,Ho,4
+the Pequod,Hercules,4
+Pip (#1207),Fashioned,4
+the Pequod,Napoleon,4
+Dough - Boy,Fogo Von Slack,4
+Hast,Carpenter,4
+Methinks,Manxman,4
+Jove,EZEKIEL HARDY,4
+Jove,Tash,4
+Queequeg,the Bull,4
+Pip (#1207),Gardiner,4
+Rabelais,King Henry,4
+little King - Post,Beale,4
+the Lakeman,Senor,4
+Nelson,the Pequod,4
+Daggoo,Belshazzar,4
+Daggoo,King Ahab,4
+Ha,Lazarus,4
+Daggoo,Perseus,4
+Fedallah,Gemini,4
+Ha,Forthwith,4
+the Sperm Whale,Hackluyt,4
+Queequeg,Genius,4
+Squid,Starbuck,4
+Peter Coffin,Mrs. Hussey,4
+Man,the Nantucketer,4
+Daggoo,the Yarman,4
+Queequeg,Lionel,4
+J. Ross Browne,Emperors,4
+Americans,Perseus,4
+Peter Coffin,the little Moss,4
+Adam,Yea,4
+Americans,Scoresby,4
+Queequeg,the old Mogul,4
+J. Ross Browne,Stubb (#771),4
+God,Andes,4
+Fedallah,the Bull,4
+Queequeg,Gemini,4
+St. Paul,Abraham,4
+the White Whale,the Parsee,4
+Beale,Capricornus,4
+NANTUCKET SAILOR,Daggoo,4
+Tashtego,MATE,4
+Flask,Pip,4
+the White Whale,Fate,4
+Tashtego,O Lord,4
+the Pequod,the old Egyptians,4
+Solomon,Canaris,4
+Tashtego,Ho,4
+Tashtego,Radney,4
+Tashtego,Steelkilt,4
+Starbuck,Hemp,4
+Leviathan,the Gay - Header,4
+Queequeg,Abraham,4
+the Samuel Enderby,Mt. Hecla,4
+Rabelais,Canaris,4
+the Sperm Whale,Commodore J,4
+Hast,Tarquin,4
+Tashtego,Macey,4
+Fedallah,Lionel,4
+the little Moss,Nay,4
+Tashtego,Grand Turks,4
+Queequeg,Capricornus,4
+Tashtego,Leviathans,4
+Hercules,Grand Turks,4
+Hercules,Macey,4
+Ha,Euroclydon,4
+Adam,Bethink,4
+Ha,St. Paul,4
+Man,Manxman,4
+Radney,Vishnu,4
+Moby Dick,Captain Pollard,4
+Ahab,Nelson,4
+Mrs. Hussey,Peleg,4
+Ca,Man,4
+Thomas Jefferson,Spermacetti Whales,4
+Thomas Jefferson,John Hunter,4
+the Pequod,the King of the Cannibals,4
+Ho,the Bull,4
+Miriam Coffin,the Pequod,4
+Joppa,Mark,4
+Cousin Hosea,Mrs. Hussey,4
+God,Goldsmith,4
+Noah,Carpenter,4
+the old Mogul,Ho,4
+Goldsmith,Andromeda,4
+Noah,Leviathans,4
+Lima,Vishnu,4
+Goldsmith,Vishnu,4
+Alexander the Great,Dough - Boy,4
+the old Mogul,Pip (#1207),4
+Ahab,Dr. Snodhead,4
+Ahab,Dan Coopman,4
+the Pequod,Steelkilt,4
+Sperm Whales,old Scotch Sibbald,4
+Goldsmith,Perseus,4
+Goldsmith,old Scotch Sibbald,4
+Ca,the Quaker,4
+Starbuck,old Scotch Sibbald,4
+Goldsmith,Edmund Burke,4
+Queequeg,King Ahab,4
+Andromeda,Vishnoo,4
+Lima,Ishmael,4
+Sperm Whales,Perseus,4
+Mt. Hecla,Solomon,4
+Yojo,The Lord,4
+the Pequod,Commodore J,4
+Alexander the Great,the Nantucket Indians,4
+Ho,Gemini,4
+the Pequod,Bouton - de - Roses,4
+Colnett,Emperors,4
+The Fossil Whale,Owen,4
+the Pequod,Bowditch,4
+the Pequod,the old Mogul,4
+the Pequod,Lionel,4
+the Pequod,the Bull,4
+the Pequod,Gemini,4
+the Pequod,Doubloon,4
+the Pequod,Capricornus,4
+The Fossil Whale,Starbuck,4
+Ishmael,Mr. Hosea Hussey,4
+the Pequod,Bunger (#1263),4
+Sperm Whales,Rabelais,4
+Hark,Methinks,4
+Hark,Ishmael,4
+Leviathans,the Nantucket Indians,4
+Colnett,Susan,4
+Mr. Hosea Hussey,Yojo,4
+Owen,Commodore J,4
+Flask,Lo,4
+Ho,Capricornus,4
+Colnett,Eckermann,4
+the Pequod,Radney,4
+Fedallah,Capricornus,4
+the Sperm Whale,Americans,4
+Pip,Perseus,4
+Emperors,Frederick Cuvier,4
+Emperors,Beale,4
+Pliny,Leviathans,4
+the Nantucket Indians,Fate,4
+Ahab,Steelkilt,4
+Ahab,Radney,4
+Stubb (#771),Huggins,4
+Ishmael,MATE,4
+Moby Dick,Cain,4
+Pip,the Spaniard,4
+EZEKIEL HARDY,Methinks,4
+Ahab,MATE,4
+Commodore J,Lionel,4
+Solomon,Ere,4
+Stubb (#771),Grand Turks,4
+Emperors,Don Pedro,4
+Kings,Jonah,4
+the Pequod,Quohog,4
+Lionel,Pip (#1207),4
+Ahab,Hercules,4
+Leviathans,the Bashaw,4
+Bulkington,Abraham,4
+Queequeg,the Yarman,4
+Nicholas the Czar,King Ahab,4
+Sperm Whales,Andromeda,4
+Sperm Whales,Guido,4
+Ahab,the old Egyptians,4
+Kings,King Ahab,4
+Ishmael,EZEKIEL HARDY,4
+Vanity,O Lord,3
+Jonah,Steelkilt,3
+Perseus,Derick,3
+Joppa,Jungfrau,3
+God,Frederick Cuvier,3
+Moby Dick,the Spaniard,3
+Perseus,Scoresby,3
+Perseus,Jungfrau,3
+Queequeg,the King of the Cannibals,3
+Dough - Boy,little King - Post,3
+The Fossil Whale,Queequeg,3
+Beale,Belshazzar,3
+Flask,the Nantucketer,3
+NANTUCKET SAILOR,Cousin Hosea,3
+the Sperm Whale,Emperors,3
+Champollion,Jungfrau,3
+Ha,Noah,3
+Champollion,Derick,3
+Moby Dick,Bethink,3
+J. Ross Browne,Americans,3
+the Pequod,Frederick Cuvier,3
+God,the Narwhale,3
+Moby Dick,Aloft,3
+Jove,Adam,3
+Jove,Fate,3
+Jove,the Gay - Header,3
+Joppa,Derick,3
+Flask,Ca,3
+Belshazzar,Pip (#1207),3
+Belshazzar,Ho,3
+Don Sebastian,St. George,3
+Joppa,the Pequod,3
+Fate,Europa,3
+Nay,Steelkilt,3
+Nay,Radney,3
+the Sperm Whale,Eckermann,3
+Jonah,Radney,3
+Lima,Jonah,3
+Columbus,Erskine,3
+the Pequod,Linnæus,3
+Frederick Cuvier,Guido,3
+Bethink,the Frenchman,3
+Jonah,Beale,3
+Queequeg,Bishop Jebb,3
+Carpenter,Sikoke,3
+Scoresby,Vishnu,3
+the Pequod,Halloa,3
+Lima,Leviathan,3
+God,Columbus,3
+Lima,Andromeda,3
+Joppa,Vishnoo,3
+Jonah,Daggoo,3
+Moby Dick,King Juba,3
+Jonah,the Pequod,3
+Rachel,Satan,3
+Lima,Guido,3
+Lima,Perseus,3
+Abraham,the Jeroboam,3
+Lima,old Scotch Sibbald,3
+Queequeg,Delight,3
+Queequeg,Champollion,3
+Flask,Hoot,3
+Scoresby,Andromeda,3
+Andes,Tashtego,3
+Moby Dick,Solomon,3
+Moby Dick,Bunger,3
+Fedallah,Captain Boomer,3
+Moby Dick,Lionel,3
+Owen,Langsdorff,3
+Jonah,Derick,3
+the Pequod,Aristotle,3
+Owen,Pip (#1207),3
+Jungfrau,Bishop Jebb,3
+Adam,Fate,3
+the Pequod,Pliny,3
+Owen,Charley Coffin,3
+Moby Dick,Ha,3
+Andes,Daggoo,3
+Nicholas the Czar,Belshazzar,3
+God,Beale,3
+Flask,Bulkington,3
+Flask,Andrew Jackson,3
+God,Americans,3
+little King - Post,the White Whale,3
+J. Ross Browne,the Pequod,3
+Perseus,Steelkilt,3
+Pip,the old Gay - Head Indian,3
+Stubb (#771),Says Plowdon,3
+Bulkington,Mayhew,3
+Stubb (#771),Tun,3
+Bennett,the Pequod,3
+Emperors,old Rad,3
+Satan,the Parsee,3
+Flask,Tash,3
+Leviathan,Radney,3
+Stubb (#771),Adam,3
+Emperors,Macey,3
+Bennett,the Samuel Enderby,3
+Ahab,King Juba,3
+Stubb (#771),Tash,3
+Kings,Belshazzar,3
+Ahab,Cain,3
+Leviathan,Steelkilt,3
+Commodore J,John the Asiatic,3
+Satan,Forthwith,3
+Captain Pollard,Commodore J,3
+Perseus,Radney,3
+the Pequod,the Gay - Header,3
+Fedallah,Belshazzar,3
+Bulkington,Ca,3
+Hackluyt,Emperors,3
+Radney,Andromeda,3
+Pip,Goldsmith,3
+the Prophet Jonas,Napoleon,3
+Bulkington,Heaven,3
+Radney,Guido,3
+Emperors,Belshazzar,3
+Ishmael,Narcissus,3
+Richard Strafford,Goldsmith,3
+Ishmael,Cain,3
+Ahab,Commodore J,3
+MATE,the White Whale,3
+the Pequod,Bethink,3
+the Pequod,Aloft,3
+John Hunter,the Pequod,3
+Flask,Perth,3
+unfort’nate Stiggs,the Pequod,3
+Sperm Whales,Captain Sleet,3
+Sperm Whales,the Samuel Enderby,3
+the Pequod,St. Peter,3
+Commodore J,Captain Davis,3
+Starbuck,Tarquin,3
+St. Peter,the Frenchman,3
+Dan Coopman,Gabriel,3
+the Pequod,King Juba,3
+Fedallah,Sperm Whales,3
+the Pequod,Andromeda,3
+Colnett,Americans,3
+Edmund Burke,John Hunter,3
+Noah,little King - Post,3
+Ca,little King - Post,3
+Leviathan,Rachel,3
+Sperm Whales,Stubb,3
+Flask,Hast,3
+Ahab,Prometheus,3
+Noah,Halloa,3
+Goldsmith,Stubb (#771),3
+Leviathan,Aristotle,3
+Mrs. Hussey,the Pequod,3
+Leviathan,Miriam Coffin,3
+Cook,Daggoo,3
+Leviathan,John Hunter,3
+Forthwith,Yonder,3
+Cousin Hosea,Mr. Hosea Hussey,3
+Thomas Jefferson,Colnett,3
+Queequeg,Mary,3
+Queequeg,Perseus,3
+the Sperm Whale,the Nantucket Indians,3
+Man,Pip (#1207),3
+the Sperm Whale,Andromeda,3
+Cato,Narcissus,3
+Andromeda,Jungfrau,3
+Cato,Jove,3
+Daggoo,the old Gay - Head Indian,3
+Starbuck,St. Paul,3
+St. Paul,Mayhew,3
+King Henry,Woe,3
+Squid,Yea,3
+Squid,Noah,3
+the Sperm Whale,Bouton - de - Roses,3
+St. Paul,the Frenchman,3
+the little Moss,Commodore J,3
+the White Whale,the Nantucket Indians,3
+Daggoo,Cain,3
+the Sperm Whale,Joppa,3
+Daggoo,Archy,3
+Daggoo,O Lord,3
+Daggoo,Fleece,3
+Peter Coffin,Mr. Hosea Hussey,3
+Man,the Parsee,3
+God,King Ahab,3
+Leviathan,Vishnoo,3
+Squid,Hemp,3
+God,Miriam Coffin,3
+Colnett,St. George,3
+Americans,the old Gay - Head Indian,3
+Americans,Beale,3
+Americans,Frederick Cuvier,3
+the Pequod,Owen,3
+Americans,the King of the Cannibals,3
+J. Ross Browne,the Samuel Enderby,3
+Hurrah,Kings,3
+Steelkilt,Andromeda,3
+old Scotch Sibbald,Steelkilt,3
+Andromeda,Derick,3
+Ishmael,Cabaco,3
+Bennett,Jonah,3
+Captain Pollard,Pip (#1207),3
+the Sperm Whale,Noah,3
+Ramadan,unfort’nate Stiggs,3
+Leviathan,the King of the Cannibals,3
+Leviathan,Dough - Boy,3
+the Nantucketer,old Rad,3
+the Nantucketer,the Huzza Porpoise,3
+old Scotch Sibbald,Radney,3
+Leviathan,Garnery,3
+Sperm Whales,Napoleon,3
+Sperm Whales,Tashtego,3
+Steelkilt,Guido,3
+Leviathan,the Nantucketer,3
+Mary,the Parsee,3
+the Gay - Header,Whole Atlantics and Pacifics,3
+Mary,Daggoo,3
+Ishmael,Adam,3
+Macey,Vishnoo,2
+Yea,Jungfrau,2
+Adam,Carpenter,2
+Captain Pollard,Langsdorff,2
+Napoleon,Bowditch,2
+St. George,Grand Turks,2
+Perth,Europa,2
+the Jeroboam,Death,2
+the old Egyptians,Bowditch,2
+Justinian,Leviathans,2
+Hercules,Bowditch,2
+the White Whale,Death,2
+the Parsee,Tarquin,2
+Nay,King Juba,2
+St. George,Derick,2
+Tash,Whole Atlantics and Pacifics,2
+St. George,Jungfrau,2
+St. Peter,Fogo Von Slack,2
+Nay,Captain Pollard,2
+Hercules,Jungfrau,2
+Vishnoo,Grand Turks,2
+Don Sebastian,Vishnu,2
+antique Crockett,Bishop Jebb,2
+St. George,Macey,2
+Bethink,Pip (#1207),2
+Ishmael,Nelson,2
+Cain,the White Whale,2
+ROBERT LONG,Jove,2
+Ishmael,the Spaniard,2
+Miriam Coffin,Adam,2
+Miriam Coffin,Charley Coffin,2
+J. Ross Browne,Charley Coffin,2
+Eckermann,Bennett,2
+John Hunter,Charley Coffin,2
+Cook,Elijah,2
+Goldsmith,St. George,2
+the Prophet Jonas,Adam,2
+the Prophet Jonas,Ere,2
+ROBERT LONG,Methinks,2
+ROBERT LONG,Ishmael,2
+Jonah,Owen,2
+Sir William Davenant,Pip,2
+Sir William Davenant,the Prophet Jonas,2
+King Henry,Delight,2
+Rabelais,Jonah,2
+Isaiah,King Henry,2
+God,Aristotle,2
+God,the Frenchman,2
+God,Death,2
+God,the Lakeman,2
+Gabriel,Isaiah,2
+Leviathan,Bunger (#1263),2
+Ishmael,Frederick Cuvier,2
+Jove,Nelson,2
+Jove,the Nantucketer,2
+Jove,Perth,2
+Nelson,Dough - Boy,2
+Nelson,Daggoo,2
+Nelson,Tashtego,2
+Methinks,Pip (#1207),2
+Methinks,Ho,2
+Methinks,Beale,2
+Methinks,Ere,2
+Methinks,Nelson,2
+EZEKIEL HARDY,Derick,2
+EZEKIEL HARDY,Jungfrau,2
+EZEKIEL HARDY,the Pequod,2
+EZEKIEL HARDY,Father Mapple,2
+Alexander the Great,St. Peter,2
+Andes,the Pequod,2
+Andes,Yonder,2
+Solomon,Commodore J,2
+Ca,Daggoo,2
+St. Paul,Pip (#1207),2
+Peter Coffin,Capting,2
+Ha,Prometheus,2
+NANTUCKET SAILOR,the old Mogul,2
+NANTUCKET SAILOR,Bulkington,2
+NANTUCKET SAILOR,Elijah,2
+Leviathan,the Yarman,2
+Leviathan,Peter Coffin,2
+Leviathan,Pip,2
+Ahab,Captain Davis,2
+Ahab,Andrew Jackson,2
+Ahab,old Scotch Sibbald,2
+Ramadan,Mr. Hosea Hussey,2
+Chowder,the Pequod,2
+the Sperm Whale,Dr. Snodhead,2
+the Sperm Whale,Dan Coopman,2
+the Sperm Whale,Bunger (#1263),2
+the Sperm Whale,antique Crockett,2
+the Sperm Whale,Dagon,2
+the Sperm Whale,EZEKIEL HARDY,2
+the Sperm Whale,Abraham,2
+the Sperm Whale,Huggins,2
+the Sperm Whale,Thomas Jefferson,2
+Moby Dick,Miriam Coffin,2
+Moby Dick,Commodore J,2
+Moby Dick,Death,2
+Moby Dick,Emperors,2
+Moby Dick,Noah,2
+Moby Dick,Captain Davis,2
+Moby Dick,Abraham,2
+Moby Dick,Satan,2
+Lima,Yea,2
+The Fossil Whale,Solomon,2
+Ahab,John the Asiatic,2
+Ahab,the Lakeman,2
+Hackluyt,Daggoo,2
+Ahab,Cook,2
+Hackluyt,Tashtego,2
+Hackluyt,Americans,2
+Hackluyt,Gabriel,2
+Queequeg,Tarquin,2
+Queequeg,Yea,2
+Queequeg,Hackluyt,2
+Queequeg,Hoot,2
+Queequeg,the old Gay - Head Indian,2
+Queequeg,Woe,2
+Starbuck,Fleece,2
+Starbuck,Cook,2
+Starbuck,Solomon,2
+Starbuck,Perseus,2
+Flask,Hemp,2
+Squid,Columbus,2
+Sperm Whales,Noah,2
+Sperm Whales,Ere,2
+Fedallah,the Nantucket Indians,2
+Fedallah,Tarquin,2
+Fedallah,Methinks,2
+Fedallah,Hurrah,2
+Hark,Yonder,2
+Ahab,Fleece,2
+Nelson,Bowditch,2
+Fate,Aloft,2
+Tashtego,Hercules,2
+Noah,Tashtego,2
+Mrs. Hussey,Bildad,2
+Mr. Hosea Hussey,the Pequod,2
+Halloa,the Burtons,2
+the Pequod,the Bashaw,2
+unfort’nate Stiggs,Peleg,2
+little King - Post,Vanity,2
+Dough - Boy,Hercules,2
+Tashtego,the Frenchman,2
+Dough - Boy,Napoleon,2
+Dough - Boy,the old Egyptians,2
+Perseus,Grand Turks,2
+the Spaniard,Elijah,2
+Tashtego,Tarquin,2
+Stubb (#771),the Burtons,2
+Daggoo,the old Egyptians,2
+Perseus,Macey,2
+Perseus,Frederick Cuvier,2
+the Pequod,Justinian,2
+Tashtego,Hoot,2
+Americans,Macey,2
+Stubb (#771),Garnery,2
+Daggoo,Tarquin,2
+the Pequod,the Lakeman,2
+the Pequod,Fashioned,2
+the Pequod,Ginger,2
+Daggoo,MATE,2
+the Pequod,St. George,2
+Daggoo,Hoot,2
+Daggoo,Hercules,2
+Tashtego,Nay,2
+Halloa,Prometheus,2
+Daggoo,Napoleon,2
+Tashtego,the Lakeman,2
+Man,Fate,2
+the little Moss,Langsdorff,2
+Frederick Cuvier,Andromeda,2
+Frederick Cuvier,Vishnu,2
+the Nantucketer,Mrs. Hussey,2
+Frederick Cuvier,Charley Coffin,2
+Mark,Heaven,2
+the Nantucketer,King Juba,2
+Tashtego,the old Mogul,2
+old Scotch Sibbald,Charley Coffin,2
+Emperors,Mrs. Hussey,2
+Mark,King Juba,2
+Owen,Nay,2
+Man,Erskine,2
+Pliny,Charley Coffin,2
+Emperors,Tashtego,2
+Rachel,Charley Coffin,2
+Jonah,Death,2
+Emperors,the King of the Cannibals,2
+Tashtego,Napoleon,2
+Noah,Mrs. Hussey,2
+Tashtego,Genius,2
+Aristotle,Charley Coffin,2
+Tashtego,the old Egyptians,2
+Huggins,the King of the Cannibals,1
+Flask,J. Ross Browne,1
+Flask,John Hunter,1
+Flask,Aristotle,1
+Flask,old Scotch Sibbald,1
+Flask,Miriam Coffin,1
+Jungfrau,Dagon,1
+Flask,Bennett,1
+Tashtego,Bishop Jebb,1
+Flask,Pliny,1
+Queequeg,Procopius,1
+Queequeg,Joppa,1
+Queequeg,Cook,1
+Tashtego,Champollion,1
+Tashtego,Commodore J,1
+Starbuck,Captain Davis,1
+Starbuck,John the Asiatic,1
+Tashtego,little King - Post,1
+Flask,Linnæus,1
+Starbuck,the old Gay - Head Indian,1
+Flask,Tarquin,1
+Flask,the Bashaw,1
+Queequeg,Dost,1
+Queequeg,Tarshish,1
+Flask,Frederick Cuvier,1
+Flask,Owen,1
+Jonah,Don Sebastian,1
+Derick,Dagon,1
+Moby Dick,Leviathan,1
+Halloa,Scoresby,1
+Scoresby,Adam,1
+Scoresby,St. George,1
+Belshazzar,Ere,1
+the Sperm Whale,Pip,1
+the Sperm Whale,Susan,1
+Moby Dick,Ca,1
+Moby Dick,the Samuel Enderby,1
+Queen Bess,the Huzza Porpoise,1
+Dagon,Bishop Jebb,1
+Sir Martin Frobisher,the Huzza Porpoise,1
+Dr. Snodhead,Hitherto,1
+Rachel,Tarquin,1
+Moby Dick,Langsdorff,1
+Carpenter,the Burtons,1
+Lima,the Prophet Jonas,1
+Charley Coffin,the Huzza Porpoise,1
+The Fossil Whale,the Sperm Whale,1
+Dough - Boy,Bethink,1
+Chowder,Peleg,1
+Ahab,John Hunter,1
+Ahab,Bennett,1
+Sperm Whales,Justinian,1
+Sperm Whales,King Juba,1
+Sperm Whales,Eckermann,1
+Fedallah,Adam,1
+Daggoo,Yea,1
+Daggoo,Lavater,1
+Daggoo,Gall,1
+Hark,Scoresby,1
+Daggoo,Fate,1
+Ahab,Hemp,1
+Ahab,Vanity,1
+Ahab,Langsdorff,1
+Ahab,Captain Sleet,1
+Ahab,the Huzza Porpoise,1
+Ahab,Linnæus,1
+Ahab,Pliny,1
+Ahab,J. Ross Browne,1
+Perseus,Don Sebastian,1
+Aunt Charity,Tashtego,1
+Dan Coopman,God,1
+Mr. Hosea Hussey,Peleg,1
+NANTUCKET SAILOR,St. Paul,1
+NANTUCKET SAILOR,Euroclydon,1
+Jove,Derick,1
+Jove,Jungfrau,1
+the Pequod,Deacon Deuteronomy,1
+Justinian,Daniel Boone,1
+Justinian,Erskine,1
+the Pequod,Stubb (#823),1
+Jove,JOHN TALBOT,1
+Ishmael,Death,1
+Ishmael,Tashtego,1
+Ishmael,Archy,1
+the Pequod,the Huzza Porpoise,1
+the White Whale,Bethink,1
+Ishmael,The Lord,1
+Ishmael,Mark,1
+Cain,the Huzza Porpoise,1
+Miriam Coffin,the Nantucket Indians,1
+the Pequod,Captain Sleet,1
+Miriam Coffin,Jonah,1
+Miriam Coffin,Cato,1
+NANTUCKET SAILOR,Lazarus,1
+Noah,Daggoo,1
+Dan Coopman,Hitherto,1
+Noah,Mr. Hosea Hussey,1
+Jonah,Pliny,1
+Jonah,Aristotle,1
+Mark,Woe,1
+Abraham,Yea,1
+Abraham,Pip (#1207),1
+Adam,Leviathans,1
+Himmalehan,Mrs. Hussey,1
+the Nantucketer,Mr. Hosea Hussey,1
+the Nantucketer,Peleg,1
+JOHN TALBOT,Methinks,1
+Commodore J,Procopius,1
+Commodore J,Justinian,1
+Alexander the Great,JOHN TALBOT,1
+Emperors,Mr. Hosea Hussey,1
+Solomon,Stubb (#771),1
+Hurrah,the White Whale,1
+Hurrah,Dough - Boy,1
+Hurrah,Ca,1
+Lazarus,the Pequod,1
+Lazarus,Jonah,1
+St. Paul,Dough - Boy,1
+Miriam Coffin,Ishmael,1
+the Samuel Enderby,Miriam Coffin,1
+Don Sebastian,Guido,1
+Don Sebastian,Andromeda,1
+old Rad,Canallers,1
+Stubb (#771),Death,1
+God,Gardiner,1
+Hoot,Satan,1
+Stubb (#771),Tarquin,1
+God,King Juba,1
+God,Huggins,1
+the Spaniard,the White Whale,1
+Gabriel,Daggoo,1
+Gabriel,Tashtego,1
+Tash,Genius,1
+Leviathan,Dr. Snodhead,1
+Jonah,Rachel,1
+Leviathan,the Nantucket Indians,1
+Aunt Charity,Daggoo,1
+Leviathan,Emperors,1
+Leviathan,Don Sebastian,1
+Leviathan,Lazarus,1
+Leviathan,St. Paul,1
+Leviathan,Euroclydon,1
+old Scotch Sibbald,Don Sebastian,1
+Rabelais,Sir William Davenant,1
+Rabelais,Stubb (#771),1
+Stubb (#771),Bishop Jebb,1
+the Pequod,Dagon,1
+J. Ross Browne,Jonah,1
+Eckermann,J. Ross Browne,1
+Ho,old Rad,1
+the Pequod,Columbus,1
+John Hunter,Jonah,1
+John Hunter,Eckermann,1
+John Hunter,Susan,1
+Thomas Jefferson,Bennett,1
+Cook,Mary,1
+Pip,Cook,1
+Dost,Hast,1
+Richard Strafford,Cook,1
+the Prophet Jonas,Pliny,1
+the Pequod,Grand Turks,1
+the Prophet Jonas,Stubb (#771),1
+the Prophet Jonas,Steelkilt,1
+the Prophet Jonas,Radney,1
+the Pequod,Captain Boomer,1
+the Pequod,Sikoke,1
+ROBERT LONG,Goldsmith,1
+Ishmael,JOHN TALBOT,1

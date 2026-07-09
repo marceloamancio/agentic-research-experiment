@@ -1,0 +1,1753 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-06-27">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="distance" type="double" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="mentions" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Geneva" label="Geneva">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Leghorn" label="Leghorn">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Frankenstein" label="Frankenstein">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Mrs. Saville" label="Mrs. Saville">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Margaret" label="Margaret">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Adieu" label="Adieu">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Walton" label="Walton">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Beaufort" label="Beaufort">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Elizabeth" label="Elizabeth">
+        <attvalues>
+          <attvalue for="0" value="85" />
+        </attvalues>
+      </node>
+      <node id="Clerval" label="Clerval">
+        <attvalues>
+          <attvalue for="0" value="81" />
+        </attvalues>
+      </node>
+      <node id="Cornelius Agrippa" label="Cornelius Agrippa">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Victor" label="Victor">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="Paracelsus" label="Paracelsus">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Albertus Magnus" label="Albertus Magnus">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Sir Isaac Newton" label="Sir Isaac Newton">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Alas" label="Alas">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="M. Krempe" label="M. Krempe">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="M. Waldman" label="M. Waldman">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Doth" label="Doth">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="God" label="God">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="Poor Clerval" label="Poor Clerval">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Dearest Clerval" label="Dearest Clerval">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Ernest" label="Ernest">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="Justine" label="Justine">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </node>
+      <node id="Madame Moritz" label="Madame Moritz">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="William" label="William">
+        <attvalues>
+          <attvalue for="0" value="25" />
+        </attvalues>
+      </node>
+      <node id="The pretty Miss Mansfield" label="The pretty Miss Mansfield">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Madame Tavernier" label="Madame Tavernier">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="M. Clerval" label="M. Clerval">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Frankenstein (#151)" label="Frankenstein (#151)">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </node>
+      <node id="Devil" label="Devil">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Begone" label="Begone">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Agatha" label="Agatha">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="Felix" label="Felix">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="the Arabian" label="the Arabian">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Safie" label="Safie">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="De Lacey" label="De Lacey">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="the Turk" label="the Turk">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="The Italian" label="The Italian">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Adam" label="Adam">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Satan" label="Satan">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Child" label="Child">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Boy" label="Boy">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Nay" label="Nay">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Charles I." label="Charles I.">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Man" label="Man">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Mr. Kirwin" label="Mr. Kirwin">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="Daniel Nugent" label="Daniel Nugent">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Wretch" label="Wretch">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Justine , poor unhappy Justine" label="Justine , poor unhappy Justine">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Geneva" target="Frankenstein" id="0" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Geneva" target="Clerval" id="1" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Geneva" target="Alas" id="2" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Geneva" target="Agatha" id="3" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Geneva" target="Felix" id="4" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Geneva" target="the Arabian" id="5" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Geneva" target="Safie" id="6" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Geneva" target="De Lacey" id="7" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Geneva" target="Elizabeth" id="8" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Geneva" target="Victor" id="9" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Leghorn" target="Agatha" id="10" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Leghorn" target="Felix" id="11" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Leghorn" target="Safie" id="12" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Leghorn" target="De Lacey" id="13" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Leghorn" target="the Turk" id="14" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Leghorn" target="the Arabian" id="15" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Leghorn" target="The Italian" id="16" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein" target="Mrs. Saville" id="17" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein" target="Paracelsus" id="18" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein" target="Albertus Magnus" id="19" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein" target="M. Krempe" id="20" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein" target="M. Waldman" id="21" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein" target="Cornelius Agrippa" id="22" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein" target="Elizabeth" id="23" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein" target="Clerval" id="24" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein" target="Victor" id="25" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein" target="Alas" id="26" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein" target="God" id="27" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein" target="Ernest" id="28" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein" target="William" id="29" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Saville" target="Margaret" id="30" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Saville" target="Adieu" id="31" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Margaret" target="Walton" id="32" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Margaret" target="Elizabeth" id="33" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Margaret" target="Clerval" id="34" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Margaret" target="Justine" id="35" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Margaret" target="William" id="36" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Margaret" target="Frankenstein (#151)" id="37" weight="19">
+        <attvalues>
+          <attvalue for="1" value="0.05263157894736842" />
+        </attvalues>
+      </edge>
+      <edge source="Margaret" target="Felix" id="38" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Margaret" target="Safie" id="39" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Margaret" target="Alas" id="40" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Margaret" target="God" id="41" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Adieu" target="Elizabeth" id="42" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Adieu" target="Clerval" id="43" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Adieu" target="Victor" id="44" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Adieu" target="Ernest" id="45" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Adieu" target="Justine" id="46" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Adieu" target="Madame Moritz" id="47" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Adieu" target="William" id="48" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Adieu" target="The pretty Miss Mansfield" id="49" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Adieu" target="Madame Tavernier" id="50" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Adieu" target="M. Waldman" id="51" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Adieu" target="Cornelius Agrippa" id="52" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Adieu" target="M. Clerval" id="53" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Adieu" target="M. Krempe" id="54" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Walton" target="Beaufort" id="55" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Walton" target="Elizabeth" id="56" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Walton" target="Clerval" id="57" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Walton" target="Justine" id="58" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Walton" target="William" id="59" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Walton" target="Frankenstein (#151)" id="60" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Walton" target="Felix" id="61" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Walton" target="Safie" id="62" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Walton" target="Alas" id="63" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Walton" target="God" id="64" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Beaufort" target="Elizabeth" id="65" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Beaufort" target="Victor" id="66" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Beaufort" target="Alas" id="67" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Beaufort" target="Ernest" id="68" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Beaufort" target="William" id="69" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Beaufort" target="God" id="70" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Beaufort" target="Justine" id="71" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Clerval" id="72" weight="152">
+        <attvalues>
+          <attvalue for="1" value="0.006578947368421052" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Cornelius Agrippa" id="73" weight="15">
+        <attvalues>
+          <attvalue for="1" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Victor" id="74" weight="118">
+        <attvalues>
+          <attvalue for="1" value="0.00847457627118644" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Paracelsus" id="75" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Albertus Magnus" id="76" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Sir Isaac Newton" id="77" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Alas" id="78" weight="75">
+        <attvalues>
+          <attvalue for="1" value="0.013333333333333334" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="M. Krempe" id="79" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="M. Waldman" id="80" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Doth" id="81" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="God" id="82" weight="72">
+        <attvalues>
+          <attvalue for="1" value="0.013888888888888888" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Poor Clerval" id="83" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Dearest Clerval" id="84" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Ernest" id="85" weight="57">
+        <attvalues>
+          <attvalue for="1" value="0.017543859649122806" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Justine" id="86" weight="93">
+        <attvalues>
+          <attvalue for="1" value="0.010752688172043012" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Madame Moritz" id="87" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="William" id="88" weight="101">
+        <attvalues>
+          <attvalue for="1" value="0.009900990099009901" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="The pretty Miss Mansfield" id="89" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Madame Tavernier" id="90" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="M. Clerval" id="91" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Frankenstein (#151)" id="92" weight="23">
+        <attvalues>
+          <attvalue for="1" value="0.043478260869565216" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Nay" id="93" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Charles I." id="94" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Devil" id="95" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Begone" id="96" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Man" id="97" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Mr. Kirwin" id="98" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Justine , poor unhappy Justine" id="99" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Felix" id="100" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Elizabeth" target="Safie" id="101" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Cornelius Agrippa" id="102" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Victor" id="103" weight="68">
+        <attvalues>
+          <attvalue for="1" value="0.014705882352941176" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Paracelsus" id="104" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Albertus Magnus" id="105" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Sir Isaac Newton" id="106" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Alas" id="107" weight="46">
+        <attvalues>
+          <attvalue for="1" value="0.021739130434782608" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="M. Krempe" id="108" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="M. Waldman" id="109" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Doth" id="110" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="God" id="111" weight="35">
+        <attvalues>
+          <attvalue for="1" value="0.02857142857142857" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Poor Clerval" id="112" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Dearest Clerval" id="113" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Ernest" id="114" weight="40">
+        <attvalues>
+          <attvalue for="1" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Justine" id="115" weight="51">
+        <attvalues>
+          <attvalue for="1" value="0.0196078431372549" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Madame Moritz" id="116" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="William" id="117" weight="64">
+        <attvalues>
+          <attvalue for="1" value="0.015625" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="The pretty Miss Mansfield" id="118" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Madame Tavernier" id="119" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="M. Clerval" id="120" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Nay" id="121" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Charles I." id="122" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Devil" id="123" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Man" id="124" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Mr. Kirwin" id="125" weight="31">
+        <attvalues>
+          <attvalue for="1" value="0.03225806451612903" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Daniel Nugent" id="126" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Justine , poor unhappy Justine" id="127" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Frankenstein (#151)" id="128" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Felix" id="129" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Safie" id="130" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Clerval" target="Wretch" id="131" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Cornelius Agrippa" target="Victor" id="132" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Cornelius Agrippa" target="Paracelsus" id="133" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Cornelius Agrippa" target="Albertus Magnus" id="134" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Cornelius Agrippa" target="Sir Isaac Newton" id="135" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Cornelius Agrippa" target="Alas" id="136" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Cornelius Agrippa" target="M. Krempe" id="137" weight="20">
+        <attvalues>
+          <attvalue for="1" value="0.05" />
+        </attvalues>
+      </edge>
+      <edge source="Cornelius Agrippa" target="M. Waldman" id="138" weight="22">
+        <attvalues>
+          <attvalue for="1" value="0.045454545454545456" />
+        </attvalues>
+      </edge>
+      <edge source="Cornelius Agrippa" target="William" id="139" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Cornelius Agrippa" target="The pretty Miss Mansfield" id="140" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Cornelius Agrippa" target="Madame Tavernier" id="141" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Cornelius Agrippa" target="M. Clerval" id="142" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="Paracelsus" id="143" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="Albertus Magnus" id="144" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="Sir Isaac Newton" id="145" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="God" id="146" weight="46">
+        <attvalues>
+          <attvalue for="1" value="0.021739130434782608" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="Poor Clerval" id="147" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="Dearest Clerval" id="148" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="Ernest" id="149" weight="32">
+        <attvalues>
+          <attvalue for="1" value="0.03125" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="Justine" id="150" weight="51">
+        <attvalues>
+          <attvalue for="1" value="0.0196078431372549" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="Madame Moritz" id="151" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="William" id="152" weight="59">
+        <attvalues>
+          <attvalue for="1" value="0.01694915254237288" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="The pretty Miss Mansfield" id="153" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="Madame Tavernier" id="154" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="M. Waldman" id="155" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="M. Clerval" id="156" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="M. Krempe" id="157" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="Alas" id="158" weight="46">
+        <attvalues>
+          <attvalue for="1" value="0.021739130434782608" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="Frankenstein (#151)" id="159" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="Nay" id="160" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Victor" target="Justine , poor unhappy Justine" id="161" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Paracelsus" target="Albertus Magnus" id="162" weight="21">
+        <attvalues>
+          <attvalue for="1" value="0.047619047619047616" />
+        </attvalues>
+      </edge>
+      <edge source="Paracelsus" target="Sir Isaac Newton" id="163" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Paracelsus" target="Alas" id="164" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Paracelsus" target="M. Krempe" id="165" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Paracelsus" target="M. Waldman" id="166" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Albertus Magnus" target="Sir Isaac Newton" id="167" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Albertus Magnus" target="Alas" id="168" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Albertus Magnus" target="M. Krempe" id="169" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Albertus Magnus" target="M. Waldman" id="170" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Alas" target="God" id="171" weight="30">
+        <attvalues>
+          <attvalue for="1" value="0.03333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Alas" target="Ernest" id="172" weight="24">
+        <attvalues>
+          <attvalue for="1" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="Alas" target="William" id="173" weight="38">
+        <attvalues>
+          <attvalue for="1" value="0.02631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="Alas" target="Justine" id="174" weight="20">
+        <attvalues>
+          <attvalue for="1" value="0.05" />
+        </attvalues>
+      </edge>
+      <edge source="Alas" target="Devil" id="175" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Alas" target="Begone" id="176" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Alas" target="Agatha" id="177" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Alas" target="Felix" id="178" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Alas" target="Nay" id="179" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Alas" target="Mr. Kirwin" id="180" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Alas" target="Frankenstein (#151)" id="181" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="M. Krempe" target="M. Waldman" id="182" weight="27">
+        <attvalues>
+          <attvalue for="1" value="0.037037037037037035" />
+        </attvalues>
+      </edge>
+      <edge source="M. Krempe" target="The pretty Miss Mansfield" id="183" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="M. Krempe" target="Madame Tavernier" id="184" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="M. Krempe" target="M. Clerval" id="185" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="M. Waldman" target="Justine" id="186" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="M. Waldman" target="Madame Moritz" id="187" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="M. Waldman" target="William" id="188" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="M. Waldman" target="The pretty Miss Mansfield" id="189" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="M. Waldman" target="Madame Tavernier" id="190" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="M. Waldman" target="M. Clerval" id="191" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Poor Clerval" id="192" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Dearest Clerval" id="193" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Ernest" id="194" weight="26">
+        <attvalues>
+          <attvalue for="1" value="0.038461538461538464" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="William" id="195" weight="49">
+        <attvalues>
+          <attvalue for="1" value="0.02040816326530612" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Justine" id="196" weight="42">
+        <attvalues>
+          <attvalue for="1" value="0.023809523809523808" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Frankenstein (#151)" id="197" weight="20">
+        <attvalues>
+          <attvalue for="1" value="0.05" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="The Italian" id="198" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Adam" id="199" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Satan" id="200" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Agatha" id="201" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Felix" id="202" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Safie" id="203" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="De Lacey" id="204" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Mr. Kirwin" id="205" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Nay" id="206" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Wretch" id="207" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Poor Clerval" target="Dearest Clerval" id="208" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Dearest Clerval" target="Ernest" id="209" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Dearest Clerval" target="Justine" id="210" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Dearest Clerval" target="Madame Moritz" id="211" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Ernest" target="Justine" id="212" weight="31">
+        <attvalues>
+          <attvalue for="1" value="0.03225806451612903" />
+        </attvalues>
+      </edge>
+      <edge source="Ernest" target="Madame Moritz" id="213" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Ernest" target="William" id="214" weight="39">
+        <attvalues>
+          <attvalue for="1" value="0.02564102564102564" />
+        </attvalues>
+      </edge>
+      <edge source="Ernest" target="The pretty Miss Mansfield" id="215" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Ernest" target="Madame Tavernier" id="216" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Ernest" target="Mr. Kirwin" id="217" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Ernest" target="Justine , poor unhappy Justine" id="218" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Justine" target="Madame Moritz" id="219" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Justine" target="William" id="220" weight="100">
+        <attvalues>
+          <attvalue for="1" value="0.01" />
+        </attvalues>
+      </edge>
+      <edge source="Justine" target="The pretty Miss Mansfield" id="221" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Justine" target="Madame Tavernier" id="222" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Justine" target="Frankenstein (#151)" id="223" weight="20">
+        <attvalues>
+          <attvalue for="1" value="0.05" />
+        </attvalues>
+      </edge>
+      <edge source="Justine" target="Charles I." id="224" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Justine" target="Mr. Kirwin" id="225" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Justine" target="Daniel Nugent" id="226" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Justine" target="Justine , poor unhappy Justine" id="227" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Justine" target="Felix" id="228" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Justine" target="Safie" id="229" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Madame Moritz" target="William" id="230" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Madame Moritz" target="The pretty Miss Mansfield" id="231" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Madame Moritz" target="Madame Tavernier" id="232" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="William" target="The pretty Miss Mansfield" id="233" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="William" target="Madame Tavernier" id="234" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="William" target="M. Clerval" id="235" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="William" target="Frankenstein (#151)" id="236" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="William" target="Charles I." id="237" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="William" target="Mr. Kirwin" id="238" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="William" target="Daniel Nugent" id="239" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="William" target="Justine , poor unhappy Justine" id="240" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="William" target="Man" id="241" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="William" target="Felix" id="242" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="William" target="Safie" id="243" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="The pretty Miss Mansfield" target="Madame Tavernier" id="244" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="The pretty Miss Mansfield" target="M. Clerval" id="245" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Madame Tavernier" target="M. Clerval" id="246" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein (#151)" target="Devil" id="247" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein (#151)" target="Begone" id="248" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein (#151)" target="Child" id="249" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein (#151)" target="Boy" id="250" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein (#151)" target="Felix" id="251" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein (#151)" target="Safie" id="252" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein (#151)" target="Nay" id="253" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Frankenstein (#151)" target="Wretch" id="254" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Devil" target="Begone" id="255" weight="19">
+        <attvalues>
+          <attvalue for="1" value="0.05263157894736842" />
+        </attvalues>
+      </edge>
+      <edge source="Devil" target="Man" id="256" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Begone" target="Felix" id="257" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Begone" target="Man" id="258" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Agatha" target="Felix" id="259" weight="81">
+        <attvalues>
+          <attvalue for="1" value="0.012345679012345678" />
+        </attvalues>
+      </edge>
+      <edge source="Agatha" target="the Arabian" id="260" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Agatha" target="Safie" id="261" weight="54">
+        <attvalues>
+          <attvalue for="1" value="0.018518518518518517" />
+        </attvalues>
+      </edge>
+      <edge source="Agatha" target="De Lacey" id="262" weight="35">
+        <attvalues>
+          <attvalue for="1" value="0.02857142857142857" />
+        </attvalues>
+      </edge>
+      <edge source="Agatha" target="the Turk" id="263" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="Agatha" target="The Italian" id="264" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Agatha" target="Adam" id="265" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Agatha" target="Satan" id="266" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Felix" target="the Arabian" id="267" weight="22">
+        <attvalues>
+          <attvalue for="1" value="0.045454545454545456" />
+        </attvalues>
+      </edge>
+      <edge source="Felix" target="Safie" id="268" weight="71">
+        <attvalues>
+          <attvalue for="1" value="0.014084507042253521" />
+        </attvalues>
+      </edge>
+      <edge source="Felix" target="De Lacey" id="269" weight="40">
+        <attvalues>
+          <attvalue for="1" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="Felix" target="the Turk" id="270" weight="21">
+        <attvalues>
+          <attvalue for="1" value="0.047619047619047616" />
+        </attvalues>
+      </edge>
+      <edge source="Felix" target="The Italian" id="271" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Felix" target="Adam" id="272" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Felix" target="Satan" id="273" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Felix" target="Boy" id="274" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Felix" target="Nay" id="275" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Felix" target="Wretch" id="276" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="the Arabian" target="Safie" id="277" weight="20">
+        <attvalues>
+          <attvalue for="1" value="0.05" />
+        </attvalues>
+      </edge>
+      <edge source="the Arabian" target="De Lacey" id="278" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="the Arabian" target="the Turk" id="279" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="the Arabian" target="The Italian" id="280" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Safie" target="De Lacey" id="281" weight="31">
+        <attvalues>
+          <attvalue for="1" value="0.03225806451612903" />
+        </attvalues>
+      </edge>
+      <edge source="Safie" target="the Turk" id="282" weight="22">
+        <attvalues>
+          <attvalue for="1" value="0.045454545454545456" />
+        </attvalues>
+      </edge>
+      <edge source="Safie" target="The Italian" id="283" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Safie" target="Adam" id="284" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Safie" target="Satan" id="285" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="De Lacey" target="the Turk" id="286" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="De Lacey" target="The Italian" id="287" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="De Lacey" target="Adam" id="288" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="De Lacey" target="Satan" id="289" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="the Turk" target="The Italian" id="290" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="The Italian" target="Adam" id="291" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="The Italian" target="Satan" id="292" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Adam" target="Satan" id="293" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Child" target="Boy" id="294" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Nay" target="Wretch" id="295" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Kirwin" target="Daniel Nugent" id="296" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,1742 @@
+source,target,weight
+Elizabeth,Mr. Darcy,1168
+Elizabeth,Jane,1019
+Elizabeth,Lady Catherine,703
+Elizabeth,Mrs. Bennet,667
+Mr. Bingley,Elizabeth,636
+Elizabeth,Wickham (#197),620
+Lydia,Elizabeth,592
+Jane,Mr. Darcy,590
+Mrs. Bennet,Jane,482
+Lydia,Jane,480
+Mr. Bingley,Jane,474
+Mr. Collins,Elizabeth,471
+Mr. Bingley,Mr. Darcy,454
+Elizabeth,Miss Bingley,408
+Wickham (#197),Mr. Darcy,399
+Elizabeth,Mr. Bennet,394
+Mr. Bingley,Mrs. Bennet,371
+Mr. Bennet,Mrs. Bennet,364
+Lydia,Mrs. Bennet,359
+Jane,Wickham (#197),350
+Mrs. Bennet,Lady Catherine,346
+Lady Catherine,Mr. Darcy,341
+Miss Bingley,Mr. Darcy,340
+Lady Catherine,Jane,332
+Mr. Collins,Lady Catherine,330
+Lydia,Lady Catherine,302
+Mr. Bennet,Jane,302
+Elizabeth,Mrs. Gardiner,298
+Lydia,Mr. Darcy,291
+Mrs. Bennet,Mr. Darcy,285
+Lydia,Wickham (#197),285
+Miss Darcy,Elizabeth,284
+Lydia,Mr. Bennet,266
+Mr. Collins,Mrs. Bennet,260
+Elizabeth,Charlotte,259
+Mr. Bennet,Lady Catherine,236
+Miss Bingley,Jane,227
+Mr. Collins,Jane,220
+Lydia,Mr. Bingley,217
+George Allen,Elizabeth,214
+Mr. Bingley,Lady Catherine,213
+Elizabeth,Rosings,208
+Elizabeth,Mr. Gardiner,205
+Miss Darcy,Mr. Darcy,202
+Elizabeth,Meryton,202
+Mr. Bingley,Mr. Bennet,202
+Mr. Collins,Charlotte,198
+Elizabeth,Pemberley,189
+Mr. Bingley,Miss Bingley,186
+Mr. Collins,Mr. Darcy,184
+Mrs. Gardiner,Mr. Darcy,181
+Elizabeth,Sir William,176
+Mrs. Bennet,Wickham (#197),172
+Mr. Collins,Mr. Bennet,168
+Lady Catherine,Rosings,167
+Lady Catherine,Wickham (#197),165
+Elizabeth,Mrs. Collins,162
+Lydia,Mr. Collins,158
+Charlotte,Jane,157
+Lady Catherine,Charlotte,153
+Lydia,Meryton,147
+Jane,Mrs. Gardiner,146
+Mr. Bingley,Wickham (#197),145
+Meryton,Jane,144
+Mrs. Hurst,Miss Bingley,143
+Mr. Collins,Wickham (#197),142
+Pemberley,Mr. Darcy,142
+Lady Catherine,Mrs. Collins,138
+Mrs. Gardiner,Wickham (#197),137
+Rosings,Mr. Darcy,136
+Mr. Bingley,Miss Darcy,135
+Elizabeth,Colonel Fitzwilliam,135
+Elizabeth,Miss de Bourgh,133
+Mr. Bingley,Mr. Collins,132
+Longbourn,Elizabeth,132
+Jane,Mr. Gardiner,129
+Charlotte,Mr. Darcy,124
+Mr. Darcy,Colonel Fitzwilliam,124
+Miss Darcy,Jane,123
+Lady Catherine,Meryton,123
+George Allen,Mr. Darcy,122
+George Allen,Jane,122
+Mr. Collins,Rosings,121
+Sir William,Mr. Darcy,121
+Mr. Bennet,Mr. Darcy,119
+Wickham (#197),Mr. Gardiner,119
+Elizabeth,Mrs. Hurst,118
+Meryton,Wickham (#197),117
+Lady Catherine,Miss de Bourgh,117
+Miss Darcy,Miss Bingley,115
+Mrs. Hurst,Mr. Darcy,113
+Mrs. Bennet,Miss Bingley,113
+Meryton,Mr. Darcy,112
+Mrs. Gardiner,Mr. Gardiner,110
+Charlotte,Sir William,110
+Elizabeth,Maria,110
+Longbourn,Jane,109
+Lady Catherine,Miss Bingley,107
+Mrs. Bennet,Charlotte,106
+Lady Catherine,Sir William,106
+Mr. Bennet,Wickham (#197),104
+Mrs. Bennet,Miss Lucas,103
+Mrs. Bennet,Meryton,103
+Elizabeth,Miss Lucas,102
+Mary,Elizabeth,101
+Lady Catherine,Maria,100
+Colonel Forster,Jane,99
+Rosings,Mrs. Collins,98
+George Allen,Mr. Bingley,98
+Lydia,Colonel Forster,97
+Miss Lucas,Jane,96
+Mr. Collins,Sir William,96
+Mr. Collins,Miss Lucas,96
+Elizabeth,Mrs. Philips,95
+Mr. Darcy,Mrs. Collins,93
+Charlotte,Miss Lucas,92
+Elizabeth,Colonel Forster,92
+Lydia,Miss Bingley,92
+Elizabeth,Georgiana,92
+Mr. Bingley,Mrs. Gardiner,91
+Elizabeth,Lady Lucas,89
+Miss Darcy,Wickham (#197),88
+Pemberley,Mrs. Gardiner,88
+Elizabeth (#153),Mr. Darcy,88
+Elizabeth,Caroline,88
+Mr. Hurst,Miss Bingley,88
+Mr. Bingley,Meryton,88
+Elizabeth,the Lucases,88
+Wickham,Elizabeth,87
+Mary,Jane,87
+Georgiana,Mr. Darcy,87
+Mr. Bingley,Sir William,86
+Mr. Bingley,Charlotte,86
+Mr. Collins,Mrs. Collins,86
+Elizabeth,Mr. Hurst,85
+Lydia,Mr. Gardiner,85
+George Allen,Lady Catherine,85
+Mary,Lydia,84
+Mr. Collins,Miss de Bourgh,84
+Miss Darcy,Pemberley,83
+Mary (#119),Mrs. Bennet,83
+Mrs. Bennet,Mrs. Gardiner,82
+Longbourn,Mrs. Bennet,81
+Jane,Rosings,80
+Charlotte,Rosings,80
+Miss Lucas,Mr. Darcy,80
+Miss de Bourgh,Mr. Darcy,79
+Mr. Gardiner,Mr. Darcy,79
+Rosings,Colonel Fitzwilliam,78
+Lydia,Charlotte,78
+Lydia,Mrs. Gardiner,76
+Caroline,Jane,76
+Elizabeth,Mary (#119),76
+Elizabeth,Mr. Philips,76
+Lady Lucas,Jane,76
+Mrs. Bennet,the Lucases,75
+Miss Bingley,Caroline,74
+the Lucases,Jane,74
+Miss Darcy,Mrs. Gardiner,74
+Mrs. Bennet,Sir William,74
+Elizabeth,the Parsonage,73
+Mr. Hurst,Mr. Darcy,73
+Mary (#119),Lady Catherine,73
+George Allen,Mrs. Bennet,72
+Mrs. Hurst,Jane,72
+Mr. Collins,Mrs. Philips,72
+Wickham,Mr. Darcy,71
+Mr. Bennet,Meryton,71
+Mrs. Bennet,Lady Lucas,71
+Netherfield,Elizabeth,70
+Mary (#119),Mr. Darcy,70
+Mary (#119),Jane,70
+Mr. Collins,Meryton,70
+Miss Bingley,Wickham (#197),68
+Charlotte,Wickham (#197),68
+Maria,Jane,68
+Mr. Bingley,Lady Lucas,67
+Longbourn,Mr. Collins,66
+George Allen,Wickham (#197),66
+Lydia,Mary (#119),66
+Mr. Bingley,Mrs. Hurst,66
+Mr. Bingley,Miss Lucas,65
+Sir William,Jane,65
+Mr. Bingley,Pemberley,65
+Mr. Collins,Maria,65
+Lydia,Mrs. Philips,65
+Mr. Bennet,Mr. Gardiner,63
+Mr. Bennet,Mary (#119),62
+Mrs. Bennet,Colonel Forster,62
+Miss Darcy,Mrs. Bennet,62
+Caroline,Mr. Darcy,62
+Pemberley,Jane,62
+Mr. Bennet,Colonel Forster,62
+Rosings,Wickham (#197),62
+Wickham,Jane,62
+Mr. Philips,Jane,61
+Mrs. Bennet,Mr. Gardiner,61
+George Allen,Mr. Bennet,61
+George Allen,Miss Bingley,60
+Lady Catherine,Pemberley,60
+Pemberley,Wickham (#197),60
+Mary,Lady Catherine,60
+George Allen,Mr. Collins,60
+Charlotte,Mrs. Collins,59
+Lady Catherine,the Parsonage,59
+George Allen,Lydia,59
+Netherfield,Mr. Darcy,59
+George Allen,Charlotte,59
+Lydia,Miss Lucas,59
+Mr. Collins,Miss Bingley,59
+the Lucases,Mr. Darcy,59
+Lady Catherine,Mrs. Philips,59
+Lydia,Miss Darcy,58
+Mrs. Bennet,Pemberley,58
+Mary,Mrs. Bennet,57
+Mr. Bingley,Mary (#119),57
+Mr. Bennet,Charlotte,56
+Mr. Bennet,Sir William,56
+Mr. Hurst,Mrs. Hurst,56
+Elizabeth,the Gardiners,56
+Mr. Bennet,Miss Lucas,56
+Mr. Bingley,Elizabeth (#153),56
+Lydia,the Miss Bennets,56
+Maria,Rosings,56
+Charlotte,Maria,56
+Pemberley,Mr. Gardiner,55
+Jane,Mrs. Collins,55
+Elizabeth,the Miss Bennets,55
+Lady Catherine,Colonel Fitzwilliam,55
+Maria,Mr. Darcy,54
+Elizabeth (#153),Jane,54
+Mr. Bingley,Caroline,54
+Sir William,Rosings,54
+Longbourn,Lydia,54
+Elizabeth,Mrs. Forster,54
+Lydia,Mrs. Forster,53
+Sir William,Lady Lucas,53
+Netherfield,Jane,52
+Miss Darcy,Mr. Gardiner,52
+Sir William,Miss Bingley,52
+George Allen,Sir William,52
+Elizabeth,Mr. Denny,52
+Elizabeth,Mrs. Jenkinson,52
+Jane,Colonel Fitzwilliam,52
+Mr. Denny,Wickham (#197),52
+Lydia,Mr. Denny,52
+Lady Catherine,Mrs. Jenkinson,52
+Mrs. Bennet,Mrs. Philips,52
+Mr. Bingley,Georgiana,52
+Mr. Collins,Mary (#119),52
+Elizabeth (#153),Miss Lucas,52
+Mr. Bennet,Lady Lucas,51
+Lady Catherine,Mrs. Gardiner,51
+Netherfield,Mr. Bingley,51
+Mr. Bingley,the Lucases,51
+Lydia,Pemberley,51
+Mrs. Collins,Colonel Fitzwilliam,51
+Lydia,Mr. Philips,51
+Sir William,Wickham (#197),50
+Lady Catherine,Miss Lucas,50
+Lydia,Sir William,49
+Lydia,Lady Lucas,49
+Miss Darcy,Caroline,49
+Longbourn,Mr. Bingley,49
+Mr. Bingley,Rosings,49
+Longbourn,Lady Catherine,49
+the Parsonage,Rosings,49
+Mr. Philips,Wickham (#197),48
+Elizabeth,the Bingleys,48
+Lady Catherine,Mr. Philips,48
+Colonel Forster,Wickham (#197),47
+Lydia,the Lucases,47
+Mrs. Philips,Wickham (#197),47
+Elizabeth,Kitty,47
+Longbourn,Mr. Darcy,46
+Elizabeth,Charlotte (#222),46
+Miss Bingley,Elizabeth (#153),46
+Elizabeth,Mrs. Long,46
+Mrs. Bennet,the Miss Bennets,46
+Mr. Collins,Lady Lucas,46
+Miss Darcy,Mr. Bennet,46
+Mr. Collins,the Parsonage,46
+Jane,Kitty,45
+Miss Darcy,Lady Catherine,45
+Mr. Bennet,Miss Bingley,45
+Meryton,Mrs. Philips,45
+the Miss Bennets,Jane,45
+Mrs. Bennet,Mr. Philips,44
+Lydia,Wickham (#253),44
+the Parsonage,Mr. Darcy,44
+Mrs. Long,Jane,44
+Mary,Mr. Bennet,44
+Elizabeth,Mrs. Reynolds,44
+Longbourn,Mr. Bennet,44
+Mrs. Philips,Jane,44
+Charlotte,Miss Bingley,44
+Mr. Collins,the Lucases,43
+the Bingleys,Mr. Darcy,43
+Mr. Bingley,Mrs. Long,43
+Wickham (#197),Colonel Fitzwilliam,43
+Mrs. Philips,Mr. Darcy,43
+Jane,Mrs. Forster,43
+Mr. Bennet,Mrs. Gardiner,43
+the Lucases,Charlotte,43
+Miss Darcy,Charlotte,42
+Sir William,Maria,42
+Elizabeth,Jane (#273),42
+Sir William,Elizabeth (#153),42
+Miss de Bourgh,Charlotte,42
+Mr. Philips,Mr. Darcy,42
+Lydia,Kitty,42
+Miss Darcy,Mrs. Hurst,42
+Mrs. Bennet,Caroline,41
+Mr. Bingley,Mr. Hurst,41
+Lydia,Mrs. Hurst,41
+Netherfield,Mrs. Bennet,41
+Mr. Hurst,Jane,41
+Sir William,Mrs. Collins,41
+Colonel Forster,Mr. Gardiner,41
+Charlotte,Elizabeth (#153),41
+Pemberley,Miss Bingley,41
+Jane,Georgiana,41
+Mr. Bingley,Mrs. Philips,41
+Miss Darcy,Georgiana,41
+Miss Bingley,Georgiana,41
+Miss Bingley,Meryton,40
+Longbourn,Mrs. Gardiner,40
+Miss Bingley,Miss Lucas,40
+Miss Bingley,Louisa,40
+Mr. Bingley,Maria,40
+Miss Bingley,Charles,40
+Mary,Wickham (#197),40
+Charlotte,Mrs. Gardiner,39
+Mr. Collins,Miss Darcy,39
+Elizabeth,Miss King,39
+Lady Catherine,Colonel Forster,39
+Longbourn,Charlotte,39
+Mrs. Bennet,Mrs. Long,39
+Meryton,Colonel Forster,39
+Sir William,Meryton,39
+Sir William,Miss Lucas,39
+Mrs. Bennet,Mrs. Forster,38
+Mrs. Bennet,Rosings,38
+Miss de Bourgh,Wickham (#197),38
+Wickham,Mr. Bingley,38
+Maria,Wickham (#197),38
+Longbourn,Mr. Gardiner,38
+Charlotte,Lady Lucas,38
+NIND,Jane,37
+Wickham,Lady Catherine,37
+Jane,the Parsonage,37
+Elizabeth,Wickham (#253),37
+Colonel Forster,Mrs. Gardiner,37
+Lydia,Wickham,37
+the Gardiners,Mr. Darcy,36
+Mary (#119),Miss Lucas,36
+Mrs. Jenkinson,Mrs. Collins,36
+Elizabeth,Louisa,36
+Netherfield,Wickham (#197),36
+Sir William,St. James,36
+Wickham (#197),Mrs. Forster,36
+Charles,Mr. Darcy,36
+Mary,Mr. Bingley,35
+Mr. Collins,Mr. Denny,35
+Mr. Collins,Mrs. Gardiner,35
+Pemberley,Georgiana,35
+Anne,Mr. Darcy,35
+Mr. Bennet,Mrs. Long,35
+Elizabeth,Charles,35
+Elizabeth,Anne,35
+Lady Catherine,Mrs. Forster,35
+Lady Catherine,Mr. Gardiner,35
+Lady Catherine,Anne,35
+Lady Catherine,Charlotte (#222),35
+Longbourn,Wickham (#197),35
+Miss Lucas,Meryton,35
+Netherfield,Miss Bingley,34
+Colonel Forster,Mr. Darcy,34
+Lydia,Mrs. Hill,34
+George Allen,Rosings,34
+Elizabeth,Wickham (#247),34
+the Lucases,Lady Lucas,34
+Charlotte,Meryton,34
+Jane,Mr. Denny,34
+Lady Catherine,Jane (#273),34
+Miss de Bourgh,Jane,34
+Mrs. Bennet,Mrs. Hurst,34
+Lady Lucas,Mr. Darcy,34
+Miss de Bourgh,Mrs. Jenkinson,34
+Miss Bingley,Mrs. Philips,34
+Elizabeth,Elizabeth (#153),34
+Louisa,Mr. Darcy,34
+Mrs. Long,Mr. Darcy,34
+the Parsonage,Mrs. Collins,34
+Elizabeth,Mr. Jones,34
+the Bingleys,Jane,33
+Miss de Bourgh,Sir William,33
+Elizabeth,the Collinses,33
+Lady Catherine,the Miss Bennets,33
+Netherfield,George Allen,33
+Wickham (#197),Kitty,33
+the Miss Bennets,Wickham (#197),33
+George Allen,Miss Lucas,33
+Maria,Mrs. Collins,33
+Colonel Forster,Mr. Denny,33
+Miss King,Jane,33
+Longbourn,Miss Bingley,32
+the Gardiners,Jane,32
+Lady Catherine,the Bingleys,32
+Mr. Darcy,Jane (#273),32
+Miss Lucas,Wickham (#197),32
+Lady Catherine,the Lucases,32
+Mrs. Bennet,the Gardiners,32
+Lady Catherine,Lady Lucas,32
+Mrs. Bennet,Mrs. Collins,32
+Mr. Collins,Mrs. Jenkinson,32
+Miss Bingley,Rosings,32
+the Lucases,Mrs. Gardiner,32
+Miss Bingley,Mrs. Gardiner,31
+Charlotte,the Parsonage,31
+Lady Catherine,Mr. Denny,31
+Mr. Denny,Mr. Darcy,31
+Mr. Bennet,Mr. Philips,31
+Wickham (#197),Georgiana,31
+Mrs. Bennet,Miss de Bourgh,31
+Charlotte,Colonel Fitzwilliam,30
+Lydia,Maria,30
+Miss de Bourgh,Rosings,30
+Lydia,Captain Carter,30
+Mr. Bingley,Mr. Philips,30
+Mr. Collins,the Miss Bennets,30
+Elizabeth,Mrs. Hill,30
+Jane,Mrs. Hill,30
+Caroline,Charles,30
+Mr. Collins,Charlotte (#222),30
+the Lucases,Miss Lucas,30
+Wickham,Mr. Bennet,30
+Mr. Bennet,Mrs. Philips,29
+Miss de Bourgh,Mrs. Collins,29
+George Allen,Meryton,29
+Mr. Bingley,Colonel Fitzwilliam,29
+Lady Lucas,Miss Lucas,29
+Mrs. Bennet,Elizabeth (#153),29
+the Gardiners,Pemberley,28
+Mr. Collins,St. James,28
+Wickham (#197),Mrs. Collins,28
+George Allen,Mrs. Collins,28
+Longbourn,Meryton,28
+Miss de Bourgh,Maria,28
+Elizabeth,NIND,28
+Longbourn,George Allen,28
+Miss Darcy,Meryton,28
+Wickham,Mrs. Bennet,27
+Mr. Bennet,Wickham (#247),27
+Jane,Wickham (#247),27
+Mr. Darcy,Mrs. Reynolds,27
+Meryton,Mr. Denny,27
+Elizabeth,St. James,27
+Miss Bingley,Maria,27
+the Gardiners,Wickham (#197),27
+Mr. Bingley,the Miss Bennets,27
+Mary,Kitty,27
+Meryton,Mrs. Gardiner,26
+Mr. Bingley,the Bingleys,26
+Maria,Mrs. Gardiner,26
+Miss Darcy,Mrs. Reynolds,26
+Louisa,Jane,26
+Mrs. Bennet,Wickham (#253),26
+Meryton,Mrs. Forster,26
+Lydia,Elizabeth (#153),26
+Mrs. Bennet,Mr. Jones,26
+Mary,Mr. Darcy,26
+Mr. Bennet,Mrs. Forster,26
+Colonel Forster,Wickham (#247),26
+Netherfield,Mr. Collins,25
+Miss King,Mr. Darcy,25
+Lady Catherine,Georgiana,25
+the Parsonage,Colonel Fitzwilliam,25
+Mr. Collins,the Bingleys,25
+Miss Bingley,Colonel Fitzwilliam,25
+Mr. Collins,Caroline,25
+Sir William,Mrs. Jenkinson,25
+the Lucases,Wickham (#197),25
+Lady Catherine,the Gardiners,25
+Mrs. Collins,Charlotte (#222),25
+the Lucases,Sir William,25
+Miss de Bourgh,Miss Bingley,25
+Mr. Jones,Jane,25
+Miss King,Mrs. Gardiner,24
+Elizabeth,John,24
+the Gardiners,the Lucases,24
+Miss King,Wickham (#197),24
+George Allen,Miss Darcy,24
+George Allen,Elizabeth (#153),24
+Mrs. Bennet,Maria,24
+Mr. Collins,Mr. Philips,24
+Miss Darcy,Colonel Fitzwilliam,24
+Mr. Collins,Colonel Fitzwilliam,24
+Elizabeth,Poor Reynolds,24
+John,Mr. Darcy,24
+Lydia,Miss de Bourgh,24
+Lady Catherine,Sir Lewis de Bourgh,24
+Mr. Bennet,Pemberley,24
+Mr. Gardiner,Kitty,24
+Meryton,Mr. Gardiner,24
+Lady Catherine,St. James,24
+Mr. Bingley,Mr. Jones,24
+Mary (#119),Elizabeth (#153),24
+Longbourn,Mrs. Hurst,24
+Mr. Bingley,Jane (#273),23
+Mr. Darcy,Mrs. Forster,23
+Elizabeth,Sir Lewis de Bourgh,23
+Lady Catherine,Mrs. Long,23
+George Allen,Colonel Fitzwilliam,23
+Miss Darcy,Sir William,23
+Lydia,NIND,23
+Lydia,Mrs. Long,23
+the Bingleys,Charlotte,23
+Mr. Gardiner,Mrs. Reynolds,23
+Mrs. Gardiner,Rosings,23
+Wickham,Wickham (#197),23
+Netherfield,Lydia,23
+Mary (#119),Miss Bingley,23
+Lydia,the Bingleys,23
+Wickham,Mr. Collins,23
+Charlotte,Mrs. Jenkinson,23
+Mr. Collins,Mr. Gardiner,22
+Captain Carter,Jane,22
+Mr. Bennet,Wickham (#253),22
+George Allen,Lady Lucas,22
+Netherfield,Mr. Bennet,22
+Lydia,Jane (#273),22
+George Allen,Mrs. Hurst,22
+Mary (#119),Meryton,22
+Mr. Collins,Colonel Forster,22
+Elizabeth (#153),Elizabeth (#159),22
+Mr. Hurst,Charles,22
+Mrs. Gardiner,Kitty,22
+Charlotte,Caroline,22
+Mr. Bingley,Elizabeth (#159),22
+George Allen,Mrs. Long,22
+Mrs. Bennet,Mr. Denny,22
+Jane,Wickham (#253),22
+Mrs. Hurst,Elizabeth (#153),22
+Mrs. Hurst,Miss Lucas,22
+Colonel Forster,Kitty,22
+Sir William,Colonel Forster,21
+Lydia,the Gardiners,21
+Anne,Mrs. Collins,21
+Mr. Bingley,Colonel Forster,21
+Caroline,Wickham (#197),21
+Mrs. Gardiner,Mrs. Reynolds,21
+Miss Bingley,Captain Carter,21
+Wickham,Charlotte,21
+Mr. Philips,Meryton,21
+Mrs. Bennet,Captain Carter,21
+Mrs. Bennet,Charlotte (#222),21
+Jane,the Collinses,21
+Mary,Mr. Collins,21
+Rosings,Georgiana,21
+Mrs. Gardiner,Georgiana,21
+Mr. Bennet,Mr. Denny,20
+Mr. Philips,Lady Lucas,20
+the Bingleys,Pemberley,20
+Mr. Gardiner,Wickham (#247),20
+the Lucases,the Miss Bennets,20
+Rosings,Mrs. Jenkinson,20
+Mary (#119),Wickham (#197),20
+Longbourn,Maria,20
+John,Jane,20
+the Gardiners,Mrs. Gardiner,20
+Longbourn,Lady Lucas,20
+John,Pemberley,20
+Wickham,Miss Bingley,20
+Mr. Bingley,Mr. Gardiner,20
+the Miss Bennets,Mr. Darcy,20
+Miss Darcy,Mr. Hurst,20
+Maria,Mrs. Jenkinson,20
+Meryton,Captain Carter,20
+Lydia,John,20
+Pemberley,Jane (#273),20
+Lydia,Rosings,20
+Mr. Collins,Sir Lewis de Bourgh,20
+Lady Lucas,Meryton,19
+Miss Austen,Miss Darcy,19
+Pemberley,Mrs. Reynolds,19
+Wickham (#197),Jane (#273),19
+Elizabeth (#153),Meryton,19
+Miss Bingley,Colonel Forster,19
+Lady Catherine,Miss King,19
+Wickham (#197),the Collinses,19
+Longbourn,Miss Lucas,19
+Miss Austen,Wickham,19
+Mrs. Bennet,Wickham (#247),19
+Mr. Bingley,Miss King,19
+Miss Austen,Elizabeth,19
+Longbourn,Sir William,19
+the Gardiners,Miss de Bourgh,19
+Lady Catherine,Wickham (#253),19
+George Allen,Mrs. Gardiner,19
+Miss Darcy,John,19
+Miss Darcy,Mr. Philips,19
+the Bingleys,the Gardiners,19
+Wickham,Miss Darcy,19
+Mr. Darcy,Poor Reynolds,19
+Charlotte,Miss King,19
+Lady Catherine,Caroline,18
+Mr. Bennet,Kitty,18
+Lady Catherine,the Collinses,18
+Miss Bingley,Mr. Gardiner,18
+Mr. Bennet,NIND,18
+Miss Bingley,Mr. Jones,18
+Mr. Bingley,Charles,18
+Longbourn,Rosings,18
+Mr. Bingley,the Parsonage,18
+Charlotte,St. James,18
+George Allen,Mr. Gardiner,18
+Miss Austen,Jane,18
+Sir William,Mrs. Gardiner,18
+Lady Lucas,Wickham (#197),18
+Mrs. Bennet,Kitty,18
+Mrs. Bennet,the Parsonage,18
+St. James,Mr. Darcy,18
+Mrs. Bennet,NIND,18
+Mr. Hurst,Caroline,18
+George Allen,the Miss Bennets,17
+Mrs. Gardiner,Wickham (#247),17
+Miss Bingley,Jane (#273),17
+Mr. Bennet,Mrs. Hurst,17
+Mrs. Bennet,St. James,17
+Mrs. Philips,Mr. Denny,17
+Mrs. Gardiner,Mrs. Forster,17
+George Allen,Mrs. Philips,17
+Mr. Bingley,Miss de Bourgh,17
+Elizabeth,Wickham (#228),17
+Lady Lucas,the Miss Bennets,17
+George Allen,Colonel Forster,17
+Miss King,Maria,17
+Mary,Lady Lucas,17
+George Allen,Mr. Hurst,17
+Elizabeth,Mrs. Annesley,17
+Mrs. Bennet,the Bingleys,17
+Longbourn,Mrs. Forster,17
+Colonel Forster,Captain Carter,17
+the Lucases,Maria,17
+Mr. Darcy,Wickham (#228),17
+Longbourn,the Lucases,17
+Pemberley,Mr. Hurst,17
+Jane,Wickham (#228),17
+Mrs. Hurst,Wickham (#197),17
+Pemberley,Meryton,17
+Mr. Bennet,Mrs. Hill,17
+Mrs. Bennet,the Collinses,17
+Mary (#119),Charlotte,17
+Lydia,Caroline,17
+Mr. Bennet,Jane (#273),17
+George Allen,Georgiana,17
+Wickham (#197),Wickham (#253),17
+Miss Bingley,Miss King,17
+Mr. Darcy,Charlotte (#222),16
+Miss Bingley,the Collinses,16
+Mr. Darcy,the Collinses,16
+Charlotte (#222),the Collinses,16
+Netherfield,Mrs. Long,16
+Longbourn,St. James,16
+Lady Catherine,Ladyship,16
+Sir William,Charlotte (#222),16
+Charlotte,Colonel Forster,16
+Georgiana,Mrs. Collins,16
+Wickham (#197),Mrs. Reynolds,16
+Mr. Denny,Kitty,16
+Mr. Philips,Mrs. Philips,16
+Mr. Darcy,Mrs. Younge,16
+Anne,Georgiana,16
+Mrs. Bennet,Mr. Hurst,16
+Lydia,Harriet,16
+Wickham (#197),the Philipses,16
+Georgiana,Colonel Fitzwilliam,16
+Mr. Bennet,Miss de Bourgh,16
+Mr. Bingley,Mr. Denny,16
+Wickham (#197),Anne,16
+Wickham,Colonel Fitzwilliam,16
+Lady Lucas,Mrs. Gardiner,16
+Wickham (#197),Mrs. Younge,16
+Mrs. Bennet,the Philipses,16
+Mrs. Jenkinson,Mr. Darcy,16
+Miss Darcy,Charles,16
+Mr. Philips,Mr. Denny,16
+the Bingleys,Rosings,16
+Jane,Charles,16
+Jane,Harriet,16
+Elizabeth,Captain Carter,16
+Elizabeth,the Philipses,16
+Colonel Forster,Harriet,16
+Elizabeth,Ladyship,16
+the Gardiners,Charlotte,16
+Mary,Mr. Philips,16
+Elizabeth,Harriet,16
+Miss de Bourgh,Anne,16
+Elizabeth,Mrs. Younge,16
+George Saintsbury,Mrs. Bennet,16
+George Allen,Maria,16
+Miss Darcy,the Lucases,16
+Miss Darcy,Miss de Bourgh,16
+Mary,Mr. Gardiner,16
+Mary (#119),the Lucases,15
+Lady Catherine,Captain Carter,15
+George Allen,Wickham,15
+Charlotte,the Miss Bennets,15
+Miss Austen,Mr. Collins,15
+Mr. Bennet,Maria,15
+Mr. Hurst,Louisa,15
+John,Lady Catherine,15
+the Bingleys,the Lucases,15
+Lady Catherine,Mrs. Hurst,15
+Maria,Sir Lewis de Bourgh,15
+John,Wickham (#197),15
+Lydia,Elizabeth (#159),15
+Louisa,Caroline,15
+Lydia,Miss King,15
+Louisa,Georgiana,15
+Netherfield,Miss Darcy,15
+Colonel Forster,NIND,15
+the Miss Bennets,Mrs. Philips,15
+the Bingleys,Caroline,15
+Mr. Bingley,Mrs. Collins,15
+Mrs. Long,Elizabeth (#153),15
+Mr. Collins,the Gardiners,15
+Mr. Darcy,Mrs. Annesley,15
+the Bingleys,Wickham (#197),15
+Maria,the Parsonage,15
+Miss Lucas,the Miss Bennets,15
+Miss Austen,Lydia,15
+Colonel Forster,Mrs. Forster,15
+Elizabeth (#159),Mr. Darcy,15
+Mary,Colonel Forster,14
+Mrs. Long,Miss Lucas,14
+Miss Austen,Fielding,14
+Mrs. Hurst,Maria,14
+Mr. Gardiner,Wickham (#253),14
+Lydia,Wickham (#247),14
+Mary,Maria,14
+Mr. Bingley,Michaelmas,14
+Lydia,Colonel Fitzwilliam,14
+Mary,Wickham,14
+Pemberley,Rosings,14
+Mary,the Lucases,14
+Sir William,Sir Lewis de Bourgh,14
+Elizabeth (#159),Jane,14
+Wickham,Sir William,14
+the Miss Bennets,Meryton,14
+Mr. Gardiner,Mrs. Forster,14
+the Lucases,Mrs. Philips,14
+Mr. Bennet,the Collinses,14
+Jane,the Philipses,14
+George Saintsbury,Jane,14
+Fielding,Mr. Collins,14
+Longbourn,Charlotte (#222),14
+Fielding,Miss Darcy,14
+Fielding,Elizabeth,14
+Fielding,Wickham,14
+Longbourn,Colonel Forster,14
+Fielding,Lydia,14
+Jane,Charlotte (#222),14
+Meryton,Rosings,14
+Fielding,Jane,14
+Mr. Bennet,the Lucases,14
+George Saintsbury,Elizabeth,14
+Mr. Bennet,St. James,14
+Mr. Philips,Mrs. Forster,14
+Charlotte,Mrs. Hurst,14
+Mr. Bennet,the Miss Bennets,14
+Lady Catherine,Wickham (#247),14
+the Bingleys,the Parsonage,13
+Sir Lewis de Bourgh,Mrs. Collins,13
+Miss de Bourgh,Meryton,13
+Mary,Wickham (#253),13
+Meryton,Wickham (#253),13
+Sir William,the Miss Bennets,13
+Elizabeth (#153),Colonel Forster,13
+Miss Lucas,Caroline,13
+Miss Darcy,Rosings,13
+Wickham,Rosings,13
+the Lucases,Pemberley,13
+the Lucases,Elizabeth (#153),13
+Miss Austen,Lady Catherine,13
+Miss Bingley,Anne,13
+Miss Darcy,the Bingleys,13
+Charlotte,Mr. Gardiner,13
+Caroline,Mrs. Gardiner,13
+George Allen,Mr. Philips,13
+Mr. Collins,Jane (#273),13
+Anne,Colonel Fitzwilliam,13
+the Philipses,Mr. Darcy,13
+Mr. Bennet,Captain Carter,13
+Maria,Mr. Gardiner,13
+Sir William,Caroline,13
+Longbourn,Elizabeth (#153),13
+Pemberley,Caroline,13
+Charlotte,Elizabeth (#159),13
+Mr. Bingley,Captain Carter,13
+Longbourn,the Miss Bennets,13
+Maria,Caroline,13
+Mrs. Hill,Wickham (#253),13
+Longbourn,the Parsonage,13
+Mary (#119),Mrs. Hurst,13
+Mr. Collins,Pemberley,13
+Captain Carter,Mr. Darcy,13
+Mary,Meryton,13
+Mrs. Hill,Mr. Gardiner,12
+Pemberley,Charles,12
+Miss Lucas,Elizabeth (#159),12
+Mrs. Hurst,Meryton,12
+Meryton,Kitty,12
+Miss Bingley,Mrs. Collins,12
+Maria,St. James,12
+Mr. Darcy,Wickham (#253),12
+Lady Catherine,Elizabeth (#153),12
+Miss de Bourgh,Mrs. Philips,12
+the Miss Bennets,Mr. Denny,12
+"Miss Bingley,--",Mr. Darcy,12
+Mr. Gardiner,Mrs. Collins,12
+Mr. Hurst,Meryton,12
+Rosings,Anne,12
+Miss Lucas,Mrs. Gardiner,12
+Pemberley,Wickham (#253),12
+the Bingleys,Miss Bingley,12
+Sir Lewis de Bourgh,Mrs. Jenkinson,12
+Wickham (#253),Jane (#273),12
+George Saintsbury,Lady Catherine,12
+George Allen,the Lucases,12
+Mary,Mr. Denny,12
+Mary (#119),Mr. Philips,12
+Miss Darcy,Mary (#119),12
+Mr. Bingley,the Philipses,12
+Miss Austen,Mr. Bennet,12
+Miss Austen,Mary (#119),12
+Mr. Bennet,Michaelmas,12
+Miss Darcy,Maria,12
+Mr. Bennet,Elizabeth (#153),12
+Mr. Bingley,Wickham (#253),12
+Fielding,Mr. Bennet,12
+Elizabeth,"Miss Bingley,--",12
+Netherfield,Mr. Jones,12
+Elizabeth,Colonel Miller,12
+Wickham,Mary (#119),12
+Netherfield,Miss Lucas,12
+Netherfield,Charlotte,12
+Mr. Collins,Mrs. Hurst,12
+George Allen,St. James,12
+Lydia,Addison,11
+Lady Catherine,Mrs. Hill,11
+Mr. Bennet,the Gardiners,11
+Lady Lucas,Elizabeth (#153),11
+Mr. Bennet,Mr. Morris,11
+Lydia,Georgiana,11
+Lydia,Colonel Miller,11
+Lady Lucas,Mr. Gardiner,11
+Sir William,Miss King,11
+Lydia,Swift,11
+Mr. Bennet,Rosings,11
+Mrs. Hurst,Mrs. Gardiner,11
+Miss Bingley,Elizabeth (#159),11
+Fielding,Mary (#119),11
+Fielding,Swift,11
+Fielding,Addison,11
+Lady Lucas,St. James,11
+Lady Catherine,Colonel Miller,11
+Wickham,Addison,11
+Miss Darcy,Lady Lucas,11
+Addison,Mr. Bennet,11
+Addison,Swift,11
+Elizabeth,Swift,11
+Elizabeth,Addison,11
+Miss Darcy,Miss King,11
+the Lucases,Caroline,11
+Miss Darcy,Louisa,11
+Miss Darcy,Colonel Forster,11
+Miss Darcy,Swift,11
+Wickham,Swift,11
+Mr. Philips,Charlotte,11
+Mr. Philips,the Lucases,11
+Miss Darcy,Addison,11
+Mr. Collins,Swift,11
+Mr. Collins,Addison,11
+Swift,Mr. Bennet,11
+Swift,Jane,11
+Mr. Bingley,Louisa,11
+Elizabeth (#153),Wickham (#197),11
+Addison,Jane,11
+Rosings,Charlotte (#222),11
+Meryton,Caroline,11
+Miss Austen,Swift,11
+Mrs. Bennet,Louisa,11
+St. James,Sir Lewis de Bourgh,11
+Miss Austen,Mrs. Bennet,11
+George Allen,Elizabeth (#159),11
+Mrs. Bennet,Mrs. Hill,11
+Mary,Mrs. Gardiner,11
+Miss Austen,Addison,11
+Netherfield,Longbourn,11
+Mary (#119),Colonel Forster,11
+Mrs. Bennet,Jane (#273),11
+Wickham,the Lucases,10
+Poor Eliza,Jane,10
+Poor Eliza,Mr. Darcy,10
+Sir William,Mrs. Philips,10
+George Allen,Miss King,10
+Lydia,the Collinses,10
+Wickham,Pemberley,10
+Sir William,Mrs. Hurst,10
+Miss Austen,Pemberley,10
+Mary (#119),Lady Lucas,10
+Swift,Mary (#119),10
+Charlotte,Sir Lewis de Bourgh,10
+Mr. Bingley,the Gardiners,10
+Miss de Bourgh,Sir Lewis de Bourgh,10
+George Allen,Pemberley,10
+Pemberley,Mrs. Collins,10
+George Saintsbury,Mr. Bingley,10
+Mr. Bennet,Mr. Jones,10
+Fielding,Mr. Darcy,10
+Addison,Mary (#119),10
+Miss King,Colonel Fitzwilliam,10
+Mrs. Hurst,Caroline,10
+Mrs. Hurst,Louisa,10
+Miss Austen,Mr. Darcy,10
+Georgiana,Mrs. Annesley,10
+Lydia,Mr. Hurst,10
+Fielding,Mrs. Bennet,10
+the Gardiners,Mrs. Forster,10
+Miss Darcy,Mrs. Annesley,10
+Maria,Meryton,10
+Mrs. Bennet,Elizabeth (#159),10
+Miss Bingley,Mrs. Annesley,10
+Netherfield,Lady Lucas,10
+Elizabeth (#153),Poor Eliza,10
+Mrs. Gardiner,Mrs. Collins,9
+Charlotte,Mr. Robinson,9
+Mrs. Hill,Wickham (#197),9
+Miss de Bourgh,Miss Lucas,9
+Georgiana,Mr. Gardiner,9
+the Lucases,Mrs. Long,9
+Longbourn,Elizabeth (#159),9
+the Gardiners,Meryton,9
+Miss Darcy,Mrs. Collins,9
+the Parsonage,Wickham (#197),9
+George Allen,George Saintsbury,9
+Wickham (#197),Poor Reynolds,9
+Miss Lucas,Maria,9
+Wickham,Mrs. Collins,9
+George Saintsbury,Miss Austen,9
+the Miss Bennets,St. James,9
+Elizabeth (#153),Mr. Robinson,9
+Miss Lucas,Mr. Robinson,9
+Miss Lucas,Poor Eliza,9
+Miss Lucas,Colonel Forster,9
+Miss Bingley,St. James,9
+Mrs. Hurst,Captain Carter,9
+Mrs. Hurst,Elizabeth (#159),9
+Mr. Hurst,Captain Carter,9
+Miss Austen,Emma,9
+Elizabeth (#159),the Miss Bennets,9
+Elizabeth (#159),Mr. Robinson,9
+St. James,Mrs. Jenkinson,9
+Mrs. Philips,Wickham (#253),9
+St. James,Mrs. Collins,9
+Mr. Robinson,Jane,9
+Lady Lucas,Mrs. Hurst,9
+Crawford,Emma,9
+Mrs. Long,Poor Eliza,9
+Mr. Bingley,Mr. Morris,9
+Mr. Bingley,St. James,9
+Crawford,Miss Austen,9
+Mary,Jane (#273),9
+Mary,Pemberley,9
+Mr. Bingley,Consoled,9
+Mrs. Hurst,Georgiana,9
+Mrs. Bennet,John,9
+Swift,Mrs. Bennet,9
+Swift,Mr. Darcy,9
+Mary (#119),Sir William,9
+Mary (#119),Mrs. Long,9
+Mrs. Bennet,Consoled,9
+Addison,Mr. Darcy,9
+Addison,Mrs. Bennet,9
+Mr. Philips,NIND,8
+Emma,Jane,8
+John,Georgiana,8
+John,Mrs. Collins,8
+Emma,Mr. Collins,8
+Elizabeth (#153),Maria,8
+Elizabeth (#153),Miss King,8
+Emma,Miss Darcy,8
+Emma,Elizabeth,8
+Fielding,Mr. Bingley,8
+Miss Bingley,Charlotte (#222),8
+Miss Bingley,Mrs. Younge,8
+Emma,Wickham,8
+John,Mrs. Gardiner,8
+Miss Bingley,NIND,8
+John,Mr. Gardiner,8
+Fielding,the late M. de Maupassant,8
+Mary (#119),John,8
+Mary (#119),the late M. de Maupassant,8
+Miss Bingley,the Miss Bennets,8
+Emma,Mr. Bingley,8
+Elizabeth (#153),Rosings,8
+John,Anne,8
+Miss Austen,the Gardiners,8
+the Miss Bennets,Mr. Jones,8
+Crawford,Elizabeth,8
+Crawford,Jane,8
+Elizabeth (#159),Poor Eliza,8
+Miss Austen,Mr. Bingley,8
+Miss Austen,the late M. de Maupassant,8
+Miss Austen,John,8
+Miss Austen,Mr. Philips,8
+Miss Lucas,Rosings,8
+Miss Austen,the Bingleys,8
+Miss Austen,the Lucases,8
+Fielding,John,8
+Miss Austen,Miss de Bourgh,8
+Miss Lucas,St. James,8
+Miss Austen,Charlotte,8
+Emma,Fielding,8
+Emma,Lydia,8
+Mary (#119),the Bingleys,8
+Mr. Philips,Kitty,8
+Elizabeth (#153),Mrs. Younge,8
+Elizabeth (#153),Colonel Fitzwilliam,8
+Elizabeth (#153),Georgiana,8
+Mr. Bennet,Mrs. Younge,8
+Mrs. Hurst,Mrs. Annesley,8
+Fielding,Lady Catherine,8
+Wickham,the late M. de Maupassant,8
+Sir William,Mrs. Younge,8
+Sir William,Colonel Fitzwilliam,8
+Sir William,Georgiana,8
+Sir William,Ladyship,8
+Lydia,Mrs. Nichols,8
+Lydia,Michaelmas,8
+Lydia,Mrs. Annesley,8
+Lydia,Charlotte (#222),8
+Lady Catherine,Mr. Jones,8
+Lady Catherine,the Philipses,8
+Sir William,Captain Carter,8
+Sir William,the Collinses,8
+Wickham,John,8
+Wickham,Mr. Philips,8
+Wickham,the Bingleys,8
+Wickham,the Gardiners,8
+Wickham,Miss de Bourgh,8
+Wickham,the Parsonage,8
+Michaelmas,Mr. Darcy,8
+Michaelmas,Mrs. Gardiner,8
+Michaelmas,Jane,8
+Michaelmas,Miss Lucas,8
+Lydia,Poor Reynolds,8
+Sir William,Jane (#273),8
+Crawford,Mr. Collins,8
+Lydia,the Parsonage,8
+Mr. Bennet,Charlotte (#222),8
+Mr. Bennet,the Forsters,8
+Mr. Bennet,Sir Lewis de Bourgh,8
+Lydia,the late M. de Maupassant,8
+Lydia,Mr. Robinson,8
+Lydia,Louisa,8
+Mr. Bennet,the Parsonage,8
+Lydia,Mr. Jones,8
+Mr. Bennet,Caroline,8
+Lydia,the Philipses,8
+Lady Lucas,Kitty,8
+Lydia,Mrs. Younge,8
+Lady Lucas,NIND,8
+Lady Lucas,Maria,8
+Mr. Bennet,Miss King,8
+Lydia,Mrs. Collins,8
+Lydia,Colonel F.,8
+Mr. Bennet,John,8
+Lydia,the Forsters,8
+Lady Lucas,Elizabeth (#159),8
+Mr. Bennet,the late M. de Maupassant,8
+Lydia,William Goulding,8
+Crawford,Miss Darcy,8
+the Miss Bennets,Rosings,8
+the Miss Bennets,the Philipses,8
+Mr. Denny,Colonel F.,8
+Wickham (#197),Colonel F.,8
+Wickham (#197),Mrs. Annesley,8
+Longbourn,Mr. Jones,8
+Wickham (#197),Charlotte (#222),8
+Wickham (#197),Harriet,8
+Wickham (#197),Mrs. Jenkinson,8
+Longbourn,Miss de Bourgh,8
+Longbourn,Mrs. Jenkinson,8
+Longbourn,Caroline,8
+Longbourn,Miss Darcy,8
+Mr. Denny,Harriet,8
+Longbourn,Mary (#119),8
+Mr. Denny,Mrs. Forster,8
+Mr. Denny,the Philipses,8
+Longbourn,the Collinses,8
+Rosings,the Collinses,8
+Longbourn,Pemberley,8
+Longbourn,Wickham (#247),8
+Sir Lewis de Bourgh,Mr. Darcy,8
+Sir Lewis de Bourgh,Wickham (#197),8
+the late M. de Maupassant,Mr. Darcy,8
+the late M. de Maupassant,Jane,8
+Wickham (#197),the Forsters,8
+Netherfield,Mr. Philips,8
+Mrs. Gardiner,Jane (#273),8
+Netherfield,Mrs. Hurst,8
+Kitty,Colonel F.,8
+the Collinses,the Forsters,8
+Mrs. Forster,Kitty,8
+Mrs. Forster,Harriet,8
+Netherfield,Mr. Morris,8
+Colonel Fitzwilliam,Mrs. Forster,8
+Colonel Fitzwilliam,Mrs. Younge,8
+Mrs. Collins,Wickham (#247),8
+Netherfield,Michaelmas,8
+Mrs. Collins,Ladyship,8
+Netherfield,Elizabeth (#153),8
+Mrs. Jenkinson,Ladyship,8
+Mr. Darcy,Kitty,8
+Mrs. Bennet,Miss King,8
+Netherfield,Meryton,8
+Mr. Gardiner,Mrs. Younge,8
+Mr. Gardiner,Charlotte (#222),8
+Netherfield,Lady Catherine,8
+Netherfield,the Miss Bennets,8
+Georgiana,Mrs. Younge,8
+Netherfield,Mrs. Collins,8
+Mrs. Jenkinson,Colonel Fitzwilliam,8
+the late M. de Maupassant,Mrs. Bennet,8
+Mrs. Gardiner,Mrs. Annesley,8
+Mrs. Long,Consoled,8
+Meryton,Mrs. Nichols,8
+Mrs. Philips,Mrs. Gardiner,8
+Mrs. Philips,Anne,8
+Mrs. Philips,Rosings,8
+Mrs. Philips,the Philipses,8
+Mrs. Philips,Mr. Jones,8
+Mary,Crawford,8
+Colonel Forster,Mrs. Collins,8
+Colonel Forster,Colonel F.,8
+Colonel Forster,Mrs. Philips,8
+Meryton,Jane (#273),8
+Mary,NIND,8
+Mrs. Philips,Mrs. Hill,8
+Meryton,Wickham (#247),8
+Meryton,Colonel Fitzwilliam,8
+Crawford,Fielding,8
+Crawford,Lydia,8
+Crawford,Wickham,8
+St. James,the Collinses,8
+St. James,Charlotte (#222),8
+St. James,Wickham (#197),8
+St. James,Rosings,8
+Crawford,Mr. Bingley,8
+Mrs. Philips,Mr. Gardiner,8
+Mrs. Philips,Mrs. Nichols,8
+George Allen,Mr. Jones,8
+George Saintsbury,Wickham,8
+Mrs. Bennet,Sir Lewis de Bourgh,8
+Mrs. Gardiner,the Philipses,8
+George Allen,Miss de Bourgh,8
+Charles,Georgiana,8
+Jane,Jane (#273),8
+Jane,Mrs. Nichols,8
+Jane,Mrs. Younge,8
+Jane,William Goulding,8
+George Allen,Colonel Miller,8
+George Allen,Charlotte (#222),8
+Mary (#119),the Miss Bennets,8
+NIND,Louisa,8
+George Saintsbury,Miss Darcy,8
+Mr. Jones,the Philipses,8
+Mr. Jones,Wickham (#197),8
+Mr. Jones,Mr. Denny,8
+Caroline,Georgiana,8
+Louisa,Charles,8
+NIND,Kitty,8
+NIND,Wickham (#247),8
+NIND,Harriet,8
+NIND,Mr. Jones,8
+Mr. Morris,Michaelmas,8
+Miss Lucas,Miss King,8
+Mrs. Bennet,the Forsters,8
+Miss de Bourgh,Caroline,8
+the Gardiners,Mr. Gardiner,8
+Swift,the late M. de Maupassant,8
+Pemberley,Wickham (#247),8
+Mr. Collins,the Collinses,8
+Mr. Philips,Colonel Forster,8
+the Gardiners,Miss Lucas,8
+the Gardiners,the Philipses,8
+Mr. Bingley,Mrs. Hill,8
+the Gardiners,Chapter XLVI,8
+the Bingleys,Jane (#273),8
+Pemberley,Sir William,8
+Lady Catherine,Harriet,8
+Pemberley,Mrs. Philips,8
+Mr. Collins,Harriet,8
+Elizabeth,the late M. de Maupassant,8
+Wickham,Miss Lucas,8
+Wickham,Michaelmas,8
+Addison,the late M. de Maupassant,8
+Pemberley,Mrs. Hurst,8
+Wickham,Mrs. Gardiner,8
+the Gardiners,Poor Reynolds,8
+the Gardiners,Georgiana,8
+the Lucases,Mrs. Hill,8
+the Lucases,the Philipses,8
+the Lucases,Wickham (#253),8
+Miss Darcy,Miss Lucas,8
+Addison,John,8
+the Lucases,Mrs. Collins,8
+Pemberley,Anne,8
+Swift,John,8
+Miss Darcy,Anne,8
+the Lucases,Elizabeth (#159),8
+Mr. Bingley,Mr. Robinson,8
+Miss Darcy,Wickham (#247),8
+Miss Darcy,Mrs. Younge,8
+Miss Darcy,the Gardiners,8
+Miss Darcy,the late M. de Maupassant,8
+the Lucases,Miss de Bourgh,8
+Mr. Bingley,Mrs. Nichols,8
+Colonel Miller,Chapter XLVI,8
+Mr. Philips,Harriet,8
+the Bingleys,Colonel Fitzwilliam,8
+Elizabeth,Consoled,8
+Mrs. Long,Michaelmas,8
+Elizabeth,Colonel F.,8
+Wickham,Elizabeth (#153),8
+Mr. Collins,the Philipses,8
+Elizabeth,the Forsters,8
+the Bingleys,Mr. Denny,8
+Elizabeth,William Goulding,8
+Elizabeth,Mrs. Nichols,8
+Mr. Collins,Mr. Jones,8
+Elizabeth,Michaelmas,8
+Mr. Collins,Anne,8
+Mr. Collins,John,8
+the Bingleys,Miss de Bourgh,8
+Charlotte,Poor Eliza,8
+Mrs. Long,Miss Bingley,8
+Mrs. Long,Lady Lucas,8
+Mrs. Long,Meryton,8
+Mr. Collins,the late M. de Maupassant,8
+Mr. Bingley,Mrs. Younge,8
+Mr. Philips,Mrs. Long,8
+the Bingleys,Mrs. Gardiner,8
+Wickham,Georgiana,8
+Miss Darcy,Mrs. Philips,8
+Mr. Collins,Ladyship,8
+Mrs. Long,Mr. Morris,8
+the Bingleys,Maria,8
+Miss de Bourgh,Poor Reynolds,8
+Colonel Miller,Meryton,8
+Chapter XLVI,Mr. Darcy,8
+Colonel Miller,the Miss Bennets,8
+Wickham,Mrs. Younge,8
+Miss de Bourgh,Ladyship,8
+Mr. Collins,Mrs. Forster,8
+Miss de Bourgh,St. James,7
+Elizabeth (#159),St. James,7
+Mary,the Miss Bennets,7
+Mary,Emma,7
+Charlotte,Mrs. Long,7
+Mary (#119),Mr. Denny,7
+Addison,Lady Catherine,7
+Mrs. Philips,Charlotte (#222),7
+Maria,Charlotte (#222),7
+Mary,Miss Austen,7
+Mr. Philips,the Gardiners,7
+Miss de Bourgh,Pemberley,7
+Mrs. Bennet,Mrs. Nichols,7
+the Miss Bennets,the Parsonage,7
+Mary (#119),Miss de Bourgh,7
+Mr. Philips,Miss de Bourgh,7
+Mary (#119),Miss King,7
+Mary (#119),Maria,7
+Mary (#119),Captain Carter,7
+Mary (#119),the Gardiners,7
+Mr. Philips,the Bingleys,7
+St. James,Mrs. Philips,7
+Charlotte,Pemberley,7
+St. James,Jane (#273),7
+Meryton,Mrs. Hill,7
+George Allen,Poor Eliza,7
+Mrs. Philips,the Collinses,7
+Netherfield,the Parsonage,7
+Longbourn,the Bingleys,7
+Miss Darcy,the Collinses,7
+Longbourn,Mrs. Philips,7
+the Bingleys,Georgiana,7
+Netherfield,Miss King,7
+Netherfield,Colonel Fitzwilliam,7
+the Bingleys,Mrs. Collins,7
+Netherfield,Caroline,7
+Georgiana,Jane (#273),7
+Netherfield,Rosings,7
+the Bingleys,the Philipses,7
+Mrs. Philips,Jane (#273),7
+Mr. Gardiner,Colonel F.,7
+Mr. Gardiner,the Collinses,7
+Mr. Gardiner,the Forsters,7
+Netherfield,Mrs. Philips,7
+Mr. Darcy,Colonel F.,7
+Netherfield,Sir William,7
+Charlotte (#222),Jane (#273),7
+Mr. Philips,Mrs. Hill,7
+Harriet,Wickham (#247),7
+the Collinses,Jane (#273),7
+Mr. Denny,Mr. Gardiner,7
+the Gardiners,Caroline,7
+Longbourn,Mrs. Collins,7
+Miss Darcy,Charlotte (#222),7
+NIND,Caroline,7
+Caroline,the Philipses,7
+Mr. Philips,the Miss Bennets,7
+Mr. Philips,Mr. Jones,7
+Jane,Anne,7
+the Lucases,St. James,7
+Jane,the Forsters,7
+Mr. Philips,the Philipses,7
+Jane,Consoled,7
+Mr. Philips,Colonel Fitzwilliam,7
+George Allen,Caroline,7
+Miss Darcy,Jane (#273),7
+Mrs. Gardiner,Charlotte (#222),7
+Mary (#119),the Parsonage,7
+Sir Lewis de Bourgh,Rosings,7
+the late M. de Maupassant,John,7
+Mr. Philips,Miss King,7
+Rosings,Ladyship,7
+Longbourn,the Gardiners,7
+Longbourn,Kitty,7
+Miss Darcy,St. James,7
+Charlotte,Mrs. Philips,7
+Mrs. Long,Mrs. Hill,7
+Mr. Bingley,NIND,7
+Miss Bingley,"Miss Bingley,--",7
+Mrs. Long,Elizabeth (#159),7
+Mrs. Hurst,Miss King,7
+Sir William,Elizabeth (#159),7
+Mrs. Hurst,Colonel Fitzwilliam,7
+Pemberley,the Collinses,7
+Fielding,Mr. Philips,7
+Pemberley,Charlotte (#222),7
+Pemberley,St. James,7
+Sir William,the Parsonage,7
+Lady Catherine,Kitty,7
+Charlotte,Charlotte (#222),7
+Swift,Lady Catherine,7
+Lady Lucas,Mrs. Hill,7
+Mr. Hurst,Wickham (#197),7
+Sir William,Mr. Gardiner,7
+Charlotte,Ladyship,7
+Lady Lucas,Caroline,7
+Mr. Robinson,Poor Eliza,6
+Fielding,the Bingleys,6
+Mr. Philips,Pemberley,6
+Lydia,Anne,6
+Mr. Philips,Miss Bingley,6
+Mrs. Bennet,Harriet,6
+Wickham,Charlotte (#222),6
+Mr. Robinson,Mr. Darcy,6
+George Allen,Mr. Morris,6
+Mrs. Bennet,Colonel Miller,6
+Mrs. Gardiner,Mr. Denny,6
+Miss Darcy,Mrs. Forster,6
+Mrs. Gardiner,Colonel F.,6
+Miss de Bourgh,the Parsonage,6
+Mrs. Gardiner,Wickham (#253),6
+Mary (#119),Rosings,6
+the Parsonage,Sir Lewis de Bourgh,6
+George Allen,Mary (#119),6
+Lady Lucas,Wickham (#253),6
+George Allen,Michaelmas,6
+George Allen,Mary,6
+Mr. Bingley,Addison,6
+George Allen,the Parsonage,6
+Meryton,Mr. Jones,6
+Meryton,the Philipses,6
+Fielding,Miss de Bourgh,6
+Mary,Fielding,6
+Pemberley,the Philipses,6
+Mary,Miss Darcy,6
+Colonel Forster,Wickham (#253),6
+Mr. Bennet,Harriet,6
+Captain Carter,NIND,6
+Fielding,Charlotte,6
+Miss Darcy,Captain Carter,6
+the Lucases,Mr. Gardiner,6
+George Saintsbury,Pemberley,6
+Louisa,Wickham (#197),6
+the Lucases,Colonel Forster,6
+Mary,Mrs. Forster,6
+Mr. Bingley,John,6
+Caroline,the Parsonage,6
+Mary,Harriet,6
+Caroline,Rosings,6
+Addison,Mr. Philips,6
+Jane,Sir Lewis de Bourgh,6
+Meryton,Ladyship,6
+Miss Darcy,Mr. Jones,6
+Fielding,the Lucases,6
+Fielding,the Gardiners,6
+Lydia,St. James,6
+Mrs. Long,Wickham (#253),6
+Lady Lucas,Mrs. Philips,6
+Lydia,Poor Eliza,6
+Mr. Bingley,Swift,6
+Pemberley,Colonel Forster,6
+Mrs. Hurst,Mrs. Philips,6
+Crawford,Addison,6
+Netherfield,Mary (#119),6
+Mrs. Bennet,Michaelmas,6
+Mary (#119),Pemberley,6
+Anne,Mrs. Jenkinson,6
+Colonel Miller,the Collinses,6
+Chapter XLVI,Jane,6
+Mrs. Bennet,Mr. Robinson,6
+Crawford,Swift,6
+Emma,Mr. Bennet,6
+Mr. Gardiner,Mrs. Annesley,6
+Wickham,Wickham (#228),6
+Emma,Swift,6
+the Bingleys,Wickham (#253),6
+Mr. Philips,Charlotte (#222),6
+Emma,Addison,6
+Miss Bingley,Wickham (#253),6
+Mr. Philips,the Collinses,6
+Swift,Mr. Philips,6
+Mr. Philips,Wickham (#253),6
+Charlotte,Mrs. Hill,6
+the Collinses,Kitty,6
+Kitty,the Forsters,6
+Mr. Bingley,Wickham (#228),6
+Miss de Bourgh,Mrs. Forster,6
+John,Mr. Philips,6
+Lady Lucas,the Parsonage,6
+Mrs. Bennet,Poor Reynolds,6
+the late M. de Maupassant,Lady Catherine,6
+Rosings,Mrs. Younge,6
+Crawford,Mr. Bennet,6
+Mr. Bennet,the Bingleys,6
+the Gardiners,Colonel Miller,6
+Lady Lucas,Miss Bingley,6
+Pemberley,Poor Reynolds,6
+Longbourn,Mr. Denny,6
+Rosings,Mr. Gardiner,6
+Swift,the Bingleys,5
+Swift,the Gardiners,5
+Rosings,Mrs. Reynolds,5
+Mrs. Long,Mr. Robinson,5
+the Lucases,Meryton,5
+the Gardiners,Miss Bingley,5
+Mrs. Hill,William Goulding,5
+Swift,the Lucases,5
+Mrs. Long,Wickham (#197),5
+Mr. Philips,Captain Carter,5
+the Lucases,Mr. Robinson,5
+Mrs. Hurst,Charles,5
+Mr. Philips,Mr. Gardiner,5
+Mrs. Long,Mr. Gardiner,5
+Wickham (#253),William Goulding,5
+Mrs. Philips,William Goulding,5
+Pemberley,Mrs. Annesley,5
+Mrs. Bennet,Mrs. Jenkinson,5
+Mr. Jones,Mr. Darcy,5
+Colonel Miller,Wickham (#197),5
+Netherfield,Poor Eliza,5
+Sir William,"Miss Bingley,--",5
+Wickham (#197),William Goulding,5
+the late M. de Maupassant,Mr. Philips,5
+Pemberley,Kitty,5
+Longbourn,Mr. Robinson,5
+Pemberley,Mrs. Forster,5
+Longbourn,Mr. Philips,5
+the Bingleys,Mrs. Hurst,5
+Mrs. Gardiner,Colonel Fitzwilliam,5
+Georgiana,Wickham (#253),5
+Mrs. Gardiner,the Collinses,5
+George Allen,John,5
+Swift,Charlotte,5
+George Allen,Anne,5
+Chapter XLVI,Mrs. Long,5
+Lady Catherine,Mr. Hurst,5
+George Allen,the Collinses,5
+Lady Lucas,Colonel Forster,5
+Mrs. Gardiner,the Forsters,5
+Swift,Miss de Bourgh,5
+George Allen,Wickham (#247),5
+George Allen,Mrs. Hill,5
+Sir William,NIND,5
+Longbourn,Mr. Hurst,5
+Fielding,Pemberley,5
+Meryton,the Collinses,5
+the Lucases,William Goulding,5
+Charlotte,Georgiana,5
+Crawford,Mary (#119),5
+Addison,Miss de Bourgh,5
+John,the Bingleys,5
+Colonel Forster,Mrs. Hill,5
+Addison,the Lucases,5
+Addison,the Gardiners,5
+Addison,the Bingleys,5
+Mary,the Collinses,5
+Mary,the Forsters,5
+Mr. Bingley,Anne,5
+John,the Gardiners,5
+Charlotte,Mr. Denny,5
+Charlotte,Mrs. Younge,5
+John,Charlotte,5
+Mrs. Hurst,Mr. Gardiner,5
+Mr. Collins,Mrs. Hill,5
+Mr. Bingley,Poor Eliza,5
+John,the Lucases,5
+John,Miss de Bourgh,5
+Mary,Miss Bingley,5
+Mary (#119),Mr. Hurst,5
+Mrs. Bennet,Mrs. Annesley,5
+Emma,Mary (#119),5
+the Miss Bennets,Mr. Robinson,5
+Elizabeth (#153),the Miss Bennets,5
+Addison,Charlotte,5
+Mr. Bennet,Mrs. Collins,5
+Mrs. Philips,Captain Carter,5
+Miss King,Mr. Gardiner,5
+the late M. de Maupassant,the Lucases,4
+Mr. Collins,Wickham (#247),4
+Elizabeth,Chapter XLVI,4
+the Miss Bennets,Caroline,4
+Netherfield,Mr. Denny,4
+Emma,the late M. de Maupassant,4
+the late M. de Maupassant,the Gardiners,4
+Mr. Philips,Maria,4
+Miss Bingley,Poor Eliza,4
+the late M. de Maupassant,the Bingleys,4
+John,Meryton,4
+the Lucases,Mrs. Annesley,4
+Miss Bingley,the Parsonage,4
+the Gardiners,Jane (#273),4
+Emma,Mr. Darcy,4
+Mrs. Bennet,Wickham (#228),4
+Miss King,Rosings,4
+Emma,Mrs. Bennet,4
+Swift,Pemberley,4
+the Bingleys,the Miss Bennets,4
+George Allen,Mrs. Jenkinson,4
+Mrs. Jenkinson,Georgiana,4
+Lady Lucas,Harriet,4
+Maria,Harriet,4
+Crawford,Mr. Darcy,4
+Maria,Mrs. Forster,4
+Maria,the Miss Bennets,4
+Longbourn,Colonel Miller,4
+Miss King,Caroline,4
+Miss King,Meryton,4
+Netherfield,the Bingleys,4
+Lady Lucas,Mr. Robinson,4
+Maria,Mr. Denny,4
+Mr. Collins,Miss King,4
+Miss Lucas,Mrs. Collins,4
+the late M. de Maupassant,Miss de Bourgh,4
+Maria,Colonel Forster,4
+Mr. Collins,Mr. Hurst,4
+Addison,Pemberley,4
+Longbourn,Colonel Fitzwilliam,4
+Lady Lucas,Mr. Denny,4
+Maria,Anne,4
+Crawford,the late M. de Maupassant,4
+Crawford,Mrs. Bennet,4
+Rosings,Mr. Denny,4
+Lady Lucas,Mrs. Forster,4
+Charles,Wickham (#197),4
+Mary,the Bingleys,4
+Mr. Darcy,Consoled,4
+George Allen,Wickham (#253),4
+George Saintsbury,Mary,4
+George Saintsbury,the Gardiners,4
+George Saintsbury,Crawford,4
+Mrs. Long,Mrs. Annesley,4
+Mary,Addison,4
+Mrs. Hurst,St. James,4
+Mary,Swift,4
+Mrs. Hurst,the Miss Bennets,4
+Wickham,Meryton,4
+George Saintsbury,Lydia,4
+Miss Darcy,the Parsonage,4
+George Saintsbury,Mr. Collins,4
+Mr. Philips,Wickham (#228),4
+Jane,Mrs. Annesley,4
+Elizabeth (#153),"Miss Bingley,--",4
+Charlotte (#222),Wickham (#247),4
+Mrs. Hurst,Rosings,4
+George Allen,Mrs. Forster,4
+George Saintsbury,Chapter XLVI,4
+Mary (#119),Mrs. Philips,4
+Mr. Hurst,Mr. Jones,4
+Mrs. Hurst,Mr. Jones,4
+Meryton,Anne,4
+Meryton,Georgiana,4
+the Lucases,Mr. Denny,4
+Jane,Colonel F.,4
+Colonel Forster,Charlotte (#222),4
+Mrs. Hurst,the Parsonage,4
+Mr. Darcy,Ladyship,4
+the Lucases,Mrs. Forster,4
+Meryton,Mrs. Collins,4
+the Lucases,Charlotte (#222),4
+the late M. de Maupassant,Charlotte,4
+Mr. Bingley,the late M. de Maupassant,4
+the Lucases,Harriet,4
+George Saintsbury,the Lucases,3
+the Lucases,Miss Bingley,3
+George Saintsbury,Miss de Bourgh,3
+Mrs. Forster,Wickham (#253),3
+Louisa,Mr. Gardiner,3
+Wickham (#197),Wickham (#228),3
+Mrs. Hurst,Colonel Forster,3
+George Saintsbury,Charlotte,3
+Captain Carter,Louisa,3
+Mary,Mary (#119),3
+Emma,John,3
+Longbourn,Captain Carter,3
+Crawford,John,3
+Lady Lucas,Mr. Hurst,3
+Elizabeth (#153),St. James,3
+Longbourn,Sir Lewis de Bourgh,3
+George Saintsbury,Colonel Miller,3
+Mr. Bennet,the Philipses,3
+Mrs. Bennet,Poor Eliza,3
+George Saintsbury,the Bingleys,3
+Netherfield,Elizabeth (#159),3
+St. James,Mr. Robinson,3
+St. James,Jane,3
+Mrs. Bennet,Charles,3
+Miss de Bourgh,Louisa,3
+Netherfield,Mr. Hurst,3
+Mary (#119),the Philipses,3
+George Allen,Mr. Robinson,3
+Mary (#119),Mr. Jones,3
+Mr. Hurst,Colonel Forster,3
+Mary,Georgiana,3
+Mrs. Gardiner,the Parsonage,3
+George Allen,Charles,3
+Mrs. Bennet,Colonel Fitzwilliam,3
+Mrs. Bennet,Georgiana,3
+Lady Catherine,Consoled,3
+Sir William,Mr. Robinson,3
+Miss de Bourgh,Charles,3
+Miss Lucas,the Parsonage,3
+Mr. Philips,Colonel Miller,3
+Colonel Forster,Louisa,3
+Longbourn,Colonel F.,3
+the late M. de Maupassant,Pemberley,3
+Miss de Bourgh,Georgiana,3
+the Gardiners,Kitty,3
+the Parsonage,Charlotte (#222),3
+the Parsonage,Georgiana,3
+the Parsonage,Anne,3
+George Saintsbury,Fielding,3
+George Saintsbury,Emma,3
+the Parsonage,Mr. Denny,3
+the Bingleys,Sir William,2
+Sir William,Louisa,2
+Colonel Miller,Mr. Darcy,2
+Sir William,Mr. Hurst,2
+Mr. Bingley,the Collinses,2
+Longbourn,Poor Eliza,2
+George Saintsbury,Mary (#119),2
+the Lucases,Mrs. Hurst,2
+Mr. Hurst,Georgiana,2
+Mr. Bennet,Louisa,2
+Mary,Mrs. Long,2
+Miss de Bourgh,Lady Lucas,2
+the Gardiners,Wickham (#253),2
+Mr. Bennet,William Goulding,2
+the Miss Bennets,the Collinses,2
+Longbourn,Wickham (#253),2
+the Lucases,Poor Eliza,2
+the Miss Bennets,Poor Eliza,2
+Colonel Forster,Caroline,2
+George Allen,the Bingleys,2
+Miss de Bourgh,Colonel Fitzwilliam,2
+Mr. Bingley,Charlotte (#222),2
+Emma,Lady Catherine,2
+Longbourn,Mrs. Hill,2
+Captain Carter,Caroline,2
+Mr. Bennet,Mr. Hurst,2
+Mary,the late M. de Maupassant,2
+Crawford,Lady Catherine,2
+Colonel Miller,Charlotte (#222),2
+George Saintsbury,Mr. Philips,2
+Captain Carter,Mrs. Gardiner,1
+George Saintsbury,Mr. Darcy,1
+Mary,Mrs. Hill,1
+Mr. Bingley,Mrs. Annesley,1
+Meryton,Charlotte (#222),1
+Mr. Jones,Rosings,1
+Mary (#119),Mrs. Hill,1
+Mary,John,1
+Louisa,Mrs. Annesley,1
+Louisa,Mrs. Gardiner,1
+George Saintsbury,Mr. Bennet,1
+Charlotte,Captain Carter,1
+Mrs. Bennet,Anne,1
+Mr. Bennet,Mrs. Nichols,1
+Pemberley,Maria,1
+Miss Bingley,Kitty,1
+Sir William,Mrs. Nichols,1
+Wickham (#197),Mrs. Nichols,1
+Crawford,Mr. Philips,1
+the Bingleys,Meryton,1
+Colonel Miller,Mrs. Forster,1
+Sir William,Wickham (#253),1
+Maria,Georgiana,1
+Lady Lucas,Poor Eliza,1
+Lady Lucas,Captain Carter,1
+the Gardiners,Maria,1
+Mrs. Bennet,William Goulding,1
+Miss Lucas,Colonel Fitzwilliam,1
+Emma,Mr. Philips,1
+Mr. Collins,Charles,1
+Rosings,the Philipses,1
+John,Rosings,1
+George Allen,Crawford,1
+the Miss Bennets,Mrs. Forster,1
+Mrs. Long,the Miss Bennets,1
+Longbourn,Mrs. Long,1
+Netherfield,Mr. Robinson,1
+St. James,Meryton,1
+Mr. Hurst,Elizabeth (#153),1
+John,Maria,1

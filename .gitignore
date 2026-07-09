@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# macOS
+.DS_Store
+
+# BookNLP intermediate output (bulky, regenerable via `make run`/`make all`)
+data/booknlp/
+
+# LaTeX build byproducts (main.pdf itself is committed as the built deliverable)
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.spl

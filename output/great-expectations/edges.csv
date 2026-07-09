@@ -1,0 +1,1183 @@
+source,target,weight
+Joe,Pip,640
+Miss Havisham,Estella,632
+Miss Havisham,Pip,488
+Joe,Miss Havisham,397
+Mr. Jaggers,Pip,395
+Mr. Jaggers,Wemmick,344
+Joe,Biddy,340
+Pip,Wemmick,339
+Joe,Mr. Pumblechook,328
+Estella,Pip,271
+Pip,Herbert,259
+Miss Havisham,Herbert,246
+Herbert,Handel,244
+Biddy,Pip,233
+Joe,Estella,226
+Joe,Mr. Wopsle,221
+Miss Havisham,Mr. Jaggers,192
+Herbert,Provis,186
+Mr. Pumblechook,Miss Havisham,185
+Estella,Herbert,175
+Wemmick,Herbert,170
+Mr. Jaggers,Herbert,156
+Mr. Pumblechook,Pip,137
+Mr. Wopsle,Pip,133
+Joe,Herbert,128
+Herbert,Startop,128
+Miss Havisham,Sarah Pocket,127
+Biddy,Miss Havisham,126
+Herbert,Clara,125
+Joe,Orlick,123
+Estella,Mr. Jaggers,104
+Miss Havisham,Wemmick,102
+Biddy,Estella,99
+Joe,Uncle Pumblechook,97
+Joe,Mr. Gargery,89
+Mr. Wopsle,Mr. Pumblechook,89
+Miss Havisham,Mr. Pocket,85
+Joe,Mum,83
+Joe,God,82
+Herbert,Mrs. Pocket,81
+Orlick,Pip,79
+Mum,Mr. Pumblechook,77
+God,Pip,76
+Joe,Mr. Jaggers,75
+Pip,Provis,73
+Mr. Pumblechook,Estella,72
+Joe,the Jolly Bargemen,72
+Mr. Wopsle,Biddy,71
+Estella,Sarah Pocket,71
+Miss Havisham,Orlick,71
+Mr. Gargery,Pip,70
+Wemmick,Miss Skiffins,66
+Biddy,Orlick,66
+Handel,Provis,65
+Uncle Pumblechook,Mr. Pumblechook,64
+Mr. Wopsle,Herbert,63
+Mr. Pocket,Pip,62
+Biddy,Herbert,61
+Mr. Wopsle,Miss Havisham,60
+Wemmick,Provis,59
+Sarah Pocket,Pip,59
+Mr. Pocket,Herbert,57
+Herbert,Compeyson,57
+Wemmick,Drummle (#297),56
+Wemmick,John,56
+Estella,Wemmick,56
+Mr. Jaggers,Provis,55
+Herbert,Drummle,54
+the Jolly Bargemen,Pip,53
+Mrs. Pocket,Flopson,52
+God,Miss Havisham,52
+Herbert,Drummle (#297),52
+Estella,Mr. Pocket,52
+Biddy,Mr. Gargery,51
+Mr. Wopsle,Estella,51
+Joe,Tickler,51
+Joe,Mr. Hubble,50
+Herbert,Jack,50
+Miss Havisham,Provis,50
+Mrs. Pocket,Startop,50
+Miss Havisham,Handel,49
+Estella,Drummle,49
+Miss Havisham,Drummle (#297),49
+Trabb,Herbert,48
+Herbert,Magwitch,48
+Mr. Jaggers,Mike,47
+Clara,Provis,47
+Joe,Trabb,47
+Camilla,Sarah Pocket,46
+Joe,Mrs. Hubble,46
+Mrs. Pocket,Millers,46
+Mr. Pumblechook,Biddy,46
+Handel,Clara,44
+Sarah Pocket,Mr. Pocket,44
+God,Estella,44
+Drummle,Startop,44
+Provis,Compeyson,43
+O,Pip,43
+Mr. Hubble,Mr. Pumblechook,43
+Mr. Wopsle,Mr. Hubble,42
+Magwitch,Compeyson,41
+Estella,Drummle (#297),41
+Pip,Trabb,41
+Mr. Pocket,Mr. Jaggers,40
+Provis,Magwitch,40
+Herbert,Clarriker,40
+Mr. Jaggers,Handel,39
+Flopson,Millers,39
+Joe,Sarah Pocket,39
+Uncle Pumblechook,Miss Havisham,39
+Pip,the Spider,39
+Wemmick,Clara,38
+Mr. Wopsle,the Jolly Bargemen,38
+Herbert,Mrs. Whimple,37
+John,Miss Skiffins,37
+Mr. Pocket,Mrs. Pocket,37
+Orlick,Herbert,37
+Mr. Jaggers,Drummle (#297),37
+Mum,Miss Havisham,37
+Pip,Mrs. Pocket,37
+Pip,John,37
+Herbert,Flopson,37
+Uncle Pumblechook,Pip,36
+Pip,Clara,36
+Estella,Handel,36
+Miss Havisham,Camilla,36
+Tom,Wemmick,35
+Barnard,Herbert,35
+Mrs. Pocket,Drummle,35
+Mr. Jaggers,Magwitch,34
+Herbert,Millers,34
+Mrs. Hubble,Mr. Pumblechook,34
+Sarah Pocket,Orlick,34
+Estella,Orlick,34
+Mr. Gargery,Herbert,33
+Tickler,Pip,33
+Mr. Wopsle,Mrs. Hubble,33
+Pip,Drummle,33
+Pip,Compeyson,33
+Startop,Provis,32
+Biddy,the Jolly Bargemen,32
+Mr. Wopsle,Uncle Pumblechook,32
+Herbert,Jane,32
+O,Estella,32
+Joe,Illustration,31
+Georgiana,Pip,31
+Mrs. Pocket,Jane,31
+Mr. Wopsle,Orlick,31
+Clara,old Bill Barley,31
+Pip,Magwitch,30
+Camilla,Cousin Raymond,30
+Mr. Wopsle,Mr. Gargery,30
+Mr. Pocket,Wemmick,30
+Pip,Startop,29
+Wemmick,Jack,29
+Joe,Old Clem,29
+Georgiana,Miss Havisham,29
+Joe,the Hulks,29
+Illustration,Pip,29
+Sarah Pocket,Mr. Jaggers,29
+Mr. Pumblechook,William,29
+Pip,Drummle (#297),28
+Joe,Mrs. J. Gargery,28
+Estella,Provis,28
+Mrs. Hubble,Pip,28
+Startop,Drummle (#297),28
+Cousin Raymond,Sarah Pocket,28
+Mrs. Hubble,Biddy,28
+Orlick,Trabb,28
+Mr. Hubble,Uncle Pumblechook,28
+Herbert,Mr. Waldengarver,28
+Mrs. Pocket,Belinda,28
+Herbert,old Bill Barley,28
+Biddy,Trabb,27
+Pip,Handel,27
+Mum,Flopson,27
+Mum,Mrs. Pocket,27
+Mr. Pumblechook,Trabb,27
+Mum,Herbert,27
+Herbert,Miss Skiffins,27
+Mr. Wopsle,Mr. Waldengarver,27
+God,Biddy,27
+Miss Havisham,Trabb,27
+Joe,Mr. Pocket,27
+Flopson,Drummle,27
+Georgiana,Sarah Pocket,27
+Clara,Mrs. Whimple,27
+Estella,Camilla,26
+Herbert,Estella (#423),26
+Jane,Flopson,26
+Miss Havisham,Estella (#423),26
+Mr. Pumblechook,Sarah Pocket,26
+O,Mr. Jaggers,26
+Mr. Jaggers,Compeyson,26
+Mr. Jaggers,Drummle,26
+the Jolly Bargemen,Orlick,26
+Pip,Jack,25
+Joe,Joe (#184),25
+Pip,Miss Skiffins,25
+Estella,Mrs. Brandley,25
+Camilla,Mr. Pocket,25
+Trabb,Handel,25
+Millers,Startop,25
+Wemmick,Startop,25
+Pip,Barnard,25
+Wemmick,Compeyson,25
+O,Miss Havisham,25
+Drummle,the Finches,24
+Clara,Chinks,24
+Joe,Tar,24
+Mr. Jaggers,Estella (#423),24
+Joe,Mrs. Pocket,24
+Miss Havisham,the Jolly Bargemen,24
+Wemmick,Clarriker,24
+Miss Havisham,Mrs. Camilla,24
+Millers,Drummle,24
+Mr. Jaggers,Startop,24
+Handel,Mrs. Whimple,23
+Joe,Georgiana,23
+Joe (#184),Pip,23
+Mr. Hubble,Pip,23
+the Finches,Finch,23
+Mr. Hubble,Mrs. Hubble,23
+Miss Havisham,Mrs. Brandley,23
+Uncle Pumblechook,Estella,23
+Mr. Pumblechook,Orlick,23
+Joe,Heaven,22
+Joe,Startop,22
+Mum,Pip,22
+Mike,Wemmick,22
+Flopson,Startop,22
+Tom,Pip,22
+Little Britain,Mr. Jaggers,22
+Estella,the Finches,22
+Startop,Jack,22
+Mr. Jaggers,Jaggerth,22
+Estella,Finch,22
+Herbert,The Avenger,21
+Herbert,Mr. Barley,21
+Mum,Millers,21
+Georgiana,Mr. Pocket,21
+Wemmick,Magwitch,21
+Mr. Pocket,Flopson,21
+Miss Havisham,Startop,21
+Wemmick,old Bill Barley,21
+Estella,Clara,21
+Biddy,Mr. Jaggers,21
+God,Herbert,21
+Joe,William,21
+Biddy,Mr. Pocket,21
+Joe,O,21
+Mum,Estella,21
+Mr. Jaggers,the Spider,20
+Joe,Clara,20
+Mr. Wopsle,Wemmick,20
+Uncle Pumblechook,Mum,20
+God,Mr. Jaggers,20
+Biddy,Sarah Pocket,20
+Jane,Drummle,20
+Herbert,Chinks,20
+Biddy,Heaven,20
+Orlick,Provis,20
+Miss Havisham,Mr. Gargery,20
+Drummle,Drummle (#297),20
+Startop,the Spider,20
+Biddy,Clara,20
+Miss Havisham,Mrs. Pocket,19
+Richard,Tom,19
+Miss Havisham,Miss Skiffins,19
+Richard,Wemmick,19
+Richard,Jack,19
+Compeyson,Arthur,19
+Pip,Mr. Waldengarver,19
+Illustration,Orlick,19
+Mr. Pocket,Belinda,19
+Pip,Mike,19
+Tom,Jack,19
+Handel,Startop,19
+Miss Havisham,Old Clem,19
+Joe,Ceptin Wopsle,19
+Orlick,Wolf,19
+Old Clem,Pip,18
+Miss Havisham,Cousin Raymond,18
+Richard,Pip,18
+Startop,Magwitch,18
+Handel,old Gruffandgrim,18
+Little Britain,Pip,18
+Mr. Pumblechook,Boy,18
+Mr. Jaggers,Trabb,18
+Herbert,old Gruffandgrim,18
+Joe,the Impostor,18
+Biddy,Mrs. Pocket,18
+Clara,old Gruffandgrim,18
+Wemmick,Estella (#423),18
+Mr. Gargery,Provis,18
+Pip,Estella (#423),18
+Mr. Jaggers,Hah,18
+Herbert,Mrs. Coiler,17
+Handel,Mr. Barley,17
+Cousin Raymond,Mr. Pocket,17
+O,Wemmick,17
+Mrs. Hubble,Uncle Pumblechook,17
+Mrs. Pocket,Drummle (#297),17
+Richard,Herbert,17
+Clara,Mr. Barley,17
+Mrs. Pocket,Mrs. Coiler,17
+Tom,Herbert,17
+Mr. Jaggers,Miss Skiffins,17
+Joe,Amen,16
+Wemmick,old Briton,16
+Joe,Partickler,16
+Mr. Pocket,Startop,16
+Sarah Pocket,Mistress Camilla,16
+Mr. Wopsle,Mum,16
+Provis,Chinks,16
+Mr. Wopsle,Richard,16
+Wemmick,Colonel,16
+Provis,Mrs. Whimple,16
+Wemmick,Hah,16
+Wemmick,the Spider,16
+Miss Havisham,Mother,16
+Mr. Pocket,Junior,16
+Pip,Flopson,16
+Drummle,Finch,16
+Mr. Jaggers,Molly,16
+Miss Havisham,Boy,16
+Estella,The Avenger,16
+George Barnwell,Wemmick,16
+Jane,Millers,16
+Illustration,Biddy,16
+Joe,Richard,16
+Herbert,Old Barley,16
+Mr. Gargery,Orlick,16
+Joe,Pork,16
+Clara,Old Barley,16
+Joe,Collins,16
+Joe,Howsever,16
+Georgiana,Mrs. Camilla,16
+Little Britain,Wemmick,16
+Estella,Mr. Gargery,16
+Mr. Pocket,Millers,16
+Estella,Old Clem,16
+Miss Havisham,Drummle,16
+Mr. Pumblechook,Pork,16
+Mr. Wopsle,Collins,16
+Mr. Pocket,Barnard,16
+Joe,Thereupon,16
+the Hulks,Orlick,16
+Herbert,Belinda,16
+Mrs. Whimple,Old Barley,15
+Joe,Flopson,15
+Pip,Hah,15
+Tom,Mr. Pocket,15
+Flopson,Belinda,15
+Joe,Drummle (#297),15
+Georgiana,Herbert,15
+Mr. Pumblechook,the Impostor,15
+Joe,Magwitch,15
+Mr. Pumblechook,Mrs. J. Gargery,15
+Miss Skiffins,Clarriker,15
+Mr. Pumblechook,God,15
+Mum,Jane,15
+Herbert,Finch,15
+Joe,Provis,15
+Drummle,Mrs. Coiler,15
+old Bill Barley,Provis,15
+Clara,Clarriker,15
+Mr. Jaggers,old Bill Barley,15
+Herbert,Mrs. Brandley,15
+Illustration,Herbert,15
+Mr. Pumblechook,the Jolly Bargemen,15
+Mr. Jaggers,Colonel,15
+Sarah Pocket,Herbert,15
+Wemmick,Molly (#402),15
+Mr. Wopsle,Pork,15
+Mr. Pumblechook,Herbert,14
+Mr. Pocket,Jane,14
+Pip,Millers,14
+the Hulks,Mr. Wopsle,14
+Joe,The Avenger,14
+old Bill Barley,Clarriker,14
+Orlick,George Barnwell,14
+Miss Havisham,Howsever,14
+Mr. Wopsle,George Barnwell,14
+Herbert,the Spider,14
+Herbert,the Finches,14
+Estella,the Jolly Bargemen,14
+Millers,Mrs. Coiler,14
+Mrs. Hubble,the Jolly Bargemen,14
+Biddy,Old Clem,14
+Estella,Mrs. Blandley,14
+Mr. Pocket,Mrs. Camilla,14
+Georgiana,Mistress Camilla,14
+Provis,old Gruffandgrim,14
+Mr. Pumblechook,Howsever,14
+Joe,Compeyson,14
+Mr. Wopsle,Mr. Jaggers,13
+Drummle,the Spider,13
+Tickler,Biddy,13
+Drummle (#297),old Briton,13
+Georgiana,Biddy,13
+Startop,Mrs. Coiler,13
+Mr. Pocket,Drummle,13
+Mrs. Hubble,Mr. Gargery,13
+Tar,Pip,13
+Mrs. Camilla,Pip,13
+Provis,Mr. Barley,13
+Trabb,Startop,13
+Joe,the Boar,13
+Pip,Heaven,13
+Old Barley,Chinks,13
+Herbert,Amen,13
+Joe,Millers,13
+Belinda,Drummle,13
+Pip,old Bill Barley,13
+Herbert,Pooh,13
+the Jolly Bargemen,Mr. Gargery,12
+Mr. Jaggers,Habraham Latharuth,12
+Miss Havisham,Pooh,12
+Belinda,Startop,12
+Little Britain,Herbert,12
+George Barnwell,Pip,12
+Pip,Colonel,12
+Miss Havisham,George Barnwell,12
+Estella,Mrs. Pocket,12
+Pip,Mrs. Brandley,12
+Herbert,XXVII,12
+Mrs. Camilla,Mr. Jaggers,12
+Wemmick,Mrs. Whimple,12
+Wemmick,Handel,12
+Boy,Pip,12
+Joe,Drummle,12
+Jaggerth,Habraham Latharuth,12
+Miss Havisham,Compeyson,12
+Joe,old Bill Barley,12
+Mr. Pumblechook,Old Clem,12
+One,Herbert,12
+Pip,XXVII,12
+Mrs. J. Gargery,Pip,12
+Mrs. Whimple,Chinks,12
+Georgiana,Estella,12
+Pip,Belinda,12
+Herbert,John,12
+Pip,Clarriker,12
+Miss Havisham,Clara,12
+Biddy,old Bill Barley,12
+Pip,Molly (#402),12
+Mrs. Hubble,Trabb,12
+Miss Havisham,Finch,11
+Miss Havisham,the Finches,11
+Miss Havisham,Ay,11
+Mr. Pocket,Sophia,11
+Mrs. J. Gargery,young Rantipole,11
+Mr. Pumblechook,Collins,11
+Herbert,Papa,11
+Biddy,the Boar,11
+Mr. Wopsle,Barnard,11
+Mrs. Pocket,Sophia,11
+Wemmick,Barnard,11
+Mr. Pumblechook,young Rantipole,11
+God,Wemmick,11
+Belinda,Sophia,11
+Trabb,Provis,11
+O,Herbert,11
+Georgiana,Camilla,11
+Mr. Barley,Papa,11
+Mum,Drummle,11
+Tickler,Mrs. J. Gargery,11
+Joe,Jane,11
+Clara,Compeyson,11
+Clara,Papa,11
+Miss Havisham,Mrs. J. Gargery,11
+Joe,young Rantipole,11
+Mum,Biddy,10
+Estella,Pooh,10
+Mr. Wopsle,Clara,10
+Joe,Miss A.,10
+Provis,Old Barley,10
+Mrs. Hubble,Pork,10
+Handel,Old Barley,10
+Joe,Barnard,10
+Herbert,Ceptin Wopsle,10
+Millers,Belinda,10
+Halloa,Wemmick,10
+Jane,Startop,10
+Joe,Lord (#7147),10
+Tar,Mr. Pumblechook,10
+Old Clem,Orlick,10
+Tickler,Lord (#7147),10
+old Bill Barley,Compeyson,10
+George Barnwell,John,10
+old Bill Barley,Chinks,10
+Georgiana,Mr. Pumblechook,10
+Mr. Gargery,XXVII,10
+Mr. Gargery,Barnard,10
+Provis,Estella (#423),10
+Pip,Miss A.,10
+Provis,Wolf,10
+Mrs. Whimple,old Gruffandgrim,10
+Miss Havisham,Miss A.,10
+Pip,Mrs. Blandley,10
+Biddy,Startop,10
+One,Wemmick,10
+One,Miss Skiffins,10
+Jaggerth,Wemmick,10
+Orlick,Handel,10
+Estella,Cousin Raymond,10
+Wemmick,Mrs. Wemmick,9
+old Bill Barley,Wolf,9
+Jane,Belinda,9
+Herbert,Lord,9
+Estella,Compeyson,9
+Pip,Dear Sir,9
+Joe,Windy,9
+Mr. Jaggers,Clara,9
+Mr. Pocket,Mistress Camilla,9
+Joe,the Carols,9
+Drummle,Mrs. Blandley,9
+Pip,Mrs. Wemmick,9
+Mr. Jaggers,Mrs. Pocket,9
+Little Britain,Clarriker,9
+Miss Havisham,Dear Sir,9
+Biddy,Wolf,9
+Drummle (#297),the Spider,9
+Miss Est,Pip,9
+Mr. Pumblechook,George Barnwell,9
+Orlick,old Bill Barley,9
+Estella (#423),LI,9
+Biddy,the Impostor,9
+Mr. Pumblechook,the wicked Noah,9
+One,John,9
+Estella,Dear Sir,9
+Mrs. Whimple,Mr. Barley,9
+Herbert,Wolf,9
+Herbert,Ay,9
+Joe,Miss Est,9
+Handel,Chinks,9
+Handel,Papa,9
+Joe,Boy,9
+Herbert,LI,9
+Molly,Startop,9
+Joe,Wolf,9
+Mr. Pumblechook,Windy,9
+Mr. Pocket,Pa,8
+Mrs. Camilla,Herbert,8
+Orlick,Drummle,8
+Chinks,Wolf,8
+Clara,Wolf,8
+Mrs. Camilla,Wemmick,8
+Clara,Jack,8
+Mrs. J. Gargery,Trabb,8
+old Bill Barley,Mr. Barley,8
+Clara,Mr. Campbell,8
+Mrs. Whimple,Mr. Campbell,8
+Old Barley,Mr. Campbell,8
+Mrs. Camilla,Drummle (#297),8
+Mrs. Camilla,Mrs. Pocket,8
+Mr. Barley,Chinks,8
+Mr. Barley,Old Barley,8
+Compeyson,Mr. Barley,8
+Jack,Magwitch,8
+Provis,Arthur,8
+Provis,Mr. Campbell,8
+Mrs. Brandley,Provis,8
+Halloa,Miss Skiffins,8
+Hah,Compeyson,8
+old Gruffandgrim,Mr. Barley,8
+Millers,Pa,8
+Orlick,Estella (#423),8
+Wemmick,Mrs. Pocket,8
+Herbert,Arthur,8
+Herbert,Dear Sir,8
+Herbert,Ophelia,8
+Herbert,that expensive Mercenary,8
+Mr. Jaggers,Molly (#402),8
+Mr. Jaggers,Mother,8
+Junior,Lord,8
+Barnard,Junior,8
+Wemmick,Mr. Barley,8
+Wemmick,Pa,8
+Pip,Junior,8
+Mike,Jaggerth,8
+Herbert,Mr. Campbell,8
+Molly,Drummle,8
+One,Provis,8
+One,Startop,8
+Trabb,the Boar,8
+Trabb,that expensive Mercenary,8
+Pip,Amen,8
+Pip,Partickler,8
+Pip,Pa,8
+Pip,old Briton,8
+Pip,Ay,8
+Pip,the Finches,8
+Herbert,Pa,8
+Mr. Jaggers,Jack,8
+Orlick,Heaven,8
+George Barnwell,Mr. Jaggers,8
+Partickler,Amen,8
+Pa,Jack,8
+Orlick,Clara,8
+Drummle (#297),Miss Skiffins,8
+Drummle (#297),Molly (#402),8
+Orlick,Chinks,8
+Orlick,Magwitch,8
+Orlick,Compeyson,8
+Orlick,Startop,8
+Mrs. Coiler,Drummle (#297),8
+Startop,Compeyson,8
+George Barnwell,Miss Skiffins,8
+Handel,Clarriker,8
+Drummle,Pa,8
+Mr. Jaggers,Barnard,8
+Mr. Jaggers,Junior,8
+Flopson,Pa,8
+Flopson,Mrs. Coiler,8
+Mrs. Pocket,Finch,8
+Mrs. Pocket,the Finches,8
+Mrs. Pocket,The Avenger,8
+Mr. Jaggers,old Briton,8
+Mrs. Pocket,the Spider,8
+Mrs. Pocket,Pa,8
+Sarah Pocket,Mrs. Camilla,8
+William,Windy,8
+Mr. Pumblechook,Mr. Gargery,8
+Mr. Hubble,Trabb,8
+Richard,Pa,8
+Richard,Mr. Pumblechook,8
+Estella,Miss Skiffins,8
+Mum,the Impostor,8
+Estella,Mother,8
+Estella,the Spider,8
+Mum,Howsever,8
+Uncle Pumblechook,Pork,8
+Uncle Pumblechook,Richard,8
+Mrs. Hubble,Richard,8
+Mrs. Hubble,Mum,8
+Estella,Chinks,8
+Mr. Hubble,the Jolly Bargemen,8
+O,Mr. Waldengarver,8
+Mr. Hubble,Biddy,8
+Mr. Hubble,Pork,8
+Mr. Hubble,Richard,8
+Mr. Hubble,Mum,8
+Mr. Wopsle,Provis,8
+Mr. Wopsle,Jack,8
+Howsever,Pip,8
+Mr. Wopsle,One,8
+Mr. Wopsle,Ophelia,8
+Mr. Wopsle,XXVII,8
+the Jolly Bargemen,Trabb,8
+Mr. Gargery,Drummle (#297),8
+Richard,Clara,8
+Estella,Millers,8
+Estella,Flopson,8
+Mr. Pumblechook,Mother,8
+Biddy,Clarriker,8
+Biddy,Amen,8
+Biddy,Mrs. J. Gargery,8
+Miss Havisham,Flopson,8
+Miss Havisham,Millers,8
+Biddy,Estella (#423),8
+Miss Havisham,Arthur,8
+Miss Havisham,Mistress Camilla,8
+Biddy,Ceptin Wopsle,8
+Biddy,XXVII,8
+Biddy,Thereupon,8
+God,Amen,8
+God,Mr. Pocket,8
+God,Trabb,8
+Estella,Halloa,8
+God,Boy,8
+Bear,Mr. Jaggers,8
+Mr. Pumblechook,Ay,8
+Mr. Pumblechook,the Boar,8
+Mr. Pumblechook,Mr. Jaggers,8
+Mr. Pumblechook,Handel,8
+Estella,Miss A.,8
+Mr. Pumblechook,Molly,8
+Mr. Pumblechook,One,8
+Mr. Pumblechook,Thereupon,8
+O,Provis,8
+Mr. Wopsle,Miss Skiffins,8
+Mr. Gargery,Miss A.,8
+Sarah Pocket,Compeyson,8
+Camilla,Tom,8
+Camilla,Mrs. Camilla,8
+Georgiana,Trabb,8
+Cousin Raymond,Tom,8
+O,Joe (#184),8
+Georgiana,Mrs. Pocket,8
+Georgiana,Wemmick,8
+Joe,Clarriker,8
+Sarah Pocket,Tom,8
+Joe,Mistress Camilla,8
+Joe,Estella (#423),8
+Sarah Pocket,Arthur,8
+Illustration,Mr. Jaggers,8
+Joe,Pa,8
+Joe,Bear,8
+Joe,George Barnwell,8
+Joe,the wicked Noah,8
+Tom,Barnard,8
+Tom,old Bill Barley,8
+Joe,Mrs.,8
+Little Britain,Miss Skiffins,8
+Tom,Pa,8
+Tom,Clara,8
+Little Britain,Provis,8
+Illustration,Miss Havisham,8
+Georgiana,Drummle (#297),8
+Miss Havisham,Miss Est,8
+Illustration,God,8
+Mr. Gargery,Wolf,8
+Tickler,O,8
+Tickler,Trabb,8
+Illustration,Trabb,8
+Startop,the Finches,7
+Startop,The Avenger,7
+Wemmick,Junior,7
+Trabb,Mother,7
+Collins,Biddy,7
+Molly,Drummle (#297),7
+Mrs. Pocket,XXVII,7
+Biddy,Flopson,7
+Mr. Wopsle,Mr. Pocket,7
+Startop,XXVII,7
+Magwitch,Arthur,7
+the wicked Noah,Pip,7
+Jane,Pa,7
+Mr. Wopsle,Sarah Pocket,7
+Biddy,The Avenger,7
+the Hulks,Bear,7
+Biddy,Provis,7
+Biddy,Magwitch,7
+Biddy,Compeyson,7
+Startop,Pa,7
+Tar,Uncle Pumblechook,7
+Chinks,Papa,7
+Pip,Finch,7
+Chinks,Mr. Campbell,7
+O,Magwitch,7
+Joe,XXVII,7
+the Spider,XXVII,7
+God,the wicked Noah,7
+Mr. Wopsle,John,7
+John,Mrs. Wemmick,7
+Herbert,Mistress Camilla,7
+Illustration,the Jolly Bargemen,7
+Georgiana,the Jolly Bargemen,7
+Mum,Startop,7
+Mum,Mrs. Coiler,7
+Georgiana,Mr. Hubble,7
+Drummle (#297),Provis,7
+Herbert,Partickler,7
+Drummle (#297),Finch,7
+Georgiana,Mrs. Hubble,7
+Drummle (#297),the Finches,7
+Mr. Pocket,Lord,7
+Mr. Wopsle,Compeyson,7
+Jack,Provis,7
+Tickler,the Boar,7
+Handel,Compeyson,7
+Startop,Finch,7
+Miss Skiffins,Mrs. Wemmick,7
+Barnard,Clara,7
+Barnard,Mr. Waldengarver,7
+Barnard,Drummle (#297),7
+Miss Havisham,Heaven,7
+Joe,Handel,7
+the Spider,Mrs. Blandley,7
+Joe,that expensive Mercenary,7
+Mr. Pocket,Mike,7
+Estella,Ay,7
+Miss Havisham,The Avenger,7
+Mrs. J. Gargery,Herbert,7
+the Impostor,William,7
+Pip,Jane,7
+Estella,Barnard,7
+Mrs. J. Gargery,Handel,7
+Mr. Jaggers,Mr. Barley,7
+Mr. Jaggers,Ay,7
+Miss Havisham,Magwitch,7
+Estella,Clarriker,7
+Pip,Pooh,7
+Orlick,Mr. Jaggers,7
+Mr. Jaggers,Mrs. Blandley,7
+Estella,Startop,7
+Mr. Gargery,Clara,7
+Sarah Pocket,George Barnwell,7
+Mr. Jaggers,The Avenger,7
+Tom,Mr. Jaggers,7
+Estella,Mrs. Camilla,7
+Mr. Pocket,Orlick,7
+the Jolly Bargemen,Old Clem,7
+Mr. Gargery,Chinks,7
+Mr. Pocket,Handel,7
+Miss Havisham,that expensive Mercenary,7
+Old Clem,the Boar,7
+Orlick,Mistress Camilla,7
+Estella,Mr. Campbell,7
+Miss Havisham,Barnard,7
+Estella,Old Barley,7
+Orlick,Thereupon,7
+Mr. Gargery,old Bill Barley,7
+Estella,Mrs. Whimple,7
+Amen,Clara,6
+Mrs. Brandley,Compeyson,6
+Magwitch,Wolf,6
+God,Drummle (#297),6
+Mr. Pumblechook,Miss A.,6
+Flopson,Drummle (#297),6
+Provis,Ay,6
+Barnard,Lord,6
+Joe,Mrs. Brandley,6
+Mr. Jaggers,LI,6
+Wemmick,Dear Sir,6
+God,Sarah Pocket,6
+the Carols,Mrs.,6
+Mr. Pumblechook,Wemmick,6
+Mr. Pumblechook,Provis,6
+Mr. Gargery,Compeyson,6
+the Spider,Hah,6
+God,Orlick,6
+God,Joe (#184),6
+Tickler,Uncle Pumblechook,6
+Mrs. Camilla,Startop,6
+Estella,Mr. Waldengarver,6
+the Jolly Bargemen,Thereupon,6
+Thereupon,Pip,6
+the Jolly Bargemen,Sarah Pocket,6
+Camilla,Pip,6
+Clara,Miss Skiffins,6
+Handel,Jane,6
+old Bill Barley,Papa,6
+Georgiana,Startop,6
+old Bill Barley,Miss Skiffins,6
+Illustration,Ceptin Wopsle,6
+Mr. Jaggers,Lord,6
+Uncle Pumblechook,Boy,6
+Mr. Wopsle,Mrs. Camilla,6
+Amen,old Bill Barley,6
+Clara,Dear Sir,6
+Georgiana,Cousin Raymond,6
+Mr. Wopsle,Joe (#184),6
+Jack,Clarriker,6
+Clara,Mr. Waldengarver,6
+The Avenger,Finch,6
+God,Clara,6
+Richard,Clarriker,6
+Tickler,Orlick,6
+The Avenger,the Finches,6
+Joe,Jack,6
+God,Magwitch,6
+Millers,Drummle (#297),6
+Biddy,Miss A.,6
+Startop,Sophia,6
+Pa,Clara,6
+Biddy,William,6
+Little Britain,Mike,6
+Heaven,Wolf,6
+Compeyson,Ay,6
+Tom,Clarriker,6
+Biddy,Joe (#184),6
+Compeyson,Wolf,6
+Biddy,Mrs. Camilla,6
+Miss Havisham,Mr. Waldengarver,6
+Little Britain,Clara,6
+Little Britain,old Bill Barley,6
+old Gruffandgrim,Old Barley,6
+Pip,Mistress Camilla,6
+Pip,Lord (#7147),6
+Trabb,The Avenger,6
+Miss Havisham,the Spider,6
+Heaven,Herbert,6
+Little Britain,John,6
+Heaven,Estella (#423),6
+Mr. Jaggers,Clarriker,6
+Mr. Gargery,Magwitch,6
+God,old Bill Barley,6
+Miss Havisham,young Rantipole,6
+Drummle (#297),XXVII,6
+Pip,the Boar,6
+Pip,The Avenger,6
+Mike,Miss Skiffins,6
+Mike,Clarriker,6
+Mr. Wopsle,the Spider,5
+Mr. Wopsle,Old Clem,5
+Biddy,the Finches,5
+Mr. Wopsle,Thereupon,5
+Mr. Gargery,Mrs. Pocket,5
+Mum,Old Clem,5
+old Bill Barley,Magwitch,5
+George Barnwell,Herbert,5
+the Jolly Bargemen,Miss Est,5
+Jane,Mrs. Coiler,5
+Jack,Hah,5
+Biddy,Millers,5
+Georgiana,Orlick,5
+Biddy,Finch,5
+Estella,Arthur,5
+Clara,Magwitch,5
+Handel,that expensive Mercenary,5
+Illustration,Sarah Pocket,5
+Mr. Wopsle,Mrs. Pocket,5
+Handel,Mrs. Pocket,5
+Illustration,Estella,5
+Old Barley,Papa,5
+Mr. Wopsle,Dear Sir,5
+Mr. Wopsle,Startop,5
+Halloa,John,5
+Mrs. Hubble,the Boar,5
+Miss Est,Orlick,5
+Miss Havisham,John,5
+Pip,Mrs. Whimple,5
+Thereupon,One,5
+the Impostor,Windy,5
+Estella,Tom,5
+Mum,Drummle (#297),5
+Mr. Gargery,the Spider,5
+Illustration,The Avenger,5
+Jack,Compeyson,5
+Molly,Herbert,5
+Mr. Gargery,Ceptin Wopsle,5
+Joe,Finch,5
+the Hulks,George Barnwell,5
+Joe,the Finches,5
+Bear,Miss Havisham,5
+Mrs. J. Gargery,Orlick,5
+Barnard,XXVII,5
+Estella,Howsever,5
+Handel,Magwitch,5
+Mike,Herbert,5
+the Spider,the Finches,5
+Mr. Pocket,The Avenger,5
+God,Clarriker,5
+Magwitch,Chinks,5
+Wemmick,Habraham Latharuth,5
+Compeyson,Chinks,5
+Joe,Wemmick,5
+Joe,One,5
+Sarah Pocket,Magwitch,5
+Hah,Magwitch,5
+Mr. Jaggers,John,5
+Mr. Gargery,Startop,5
+God,Compeyson,5
+Biddy,Drummle (#297),5
+Barnard,Dear Sir,5
+Amen,Clarriker,5
+Drummle (#297),Mrs. Brandley,5
+Orlick,the Boar,5
+Illustration,Boy,5
+young Rantipole,Pip,5
+Barnard,Handel,5
+Mr. Jaggers,the Finches,5
+O,Mr. Wopsle,5
+Mr. Gargery,Amen,4
+Mr. Wopsle,the wicked Noah,4
+Mrs. J. Gargery,Lord (#7147),4
+Partickler,Lord (#7147),4
+the Spider,Finch,4
+Flopson,Sophia,4
+Tickler,Mrs. Hubble,4
+Mr. Gargery,Partickler,4
+Millers,The Avenger,4
+the Hulks,Pip,4
+Tickler,Partickler,4
+Drummle,Provis,4
+the Hulks,the Jolly Bargemen,4
+Mr. Wopsle,Mrs.,4
+Mr. Wopsle,Drummle (#297),4
+Old Clem,William,4
+Biddy,Jane,4
+Handel,old Bill Barley,4
+Mr. Pumblechook,Mistress Camilla,4
+Bear,Pip,4
+Joe,Ophelia,4
+Provis,Papa,4
+God,that expensive Mercenary,4
+Mike,old Bill Barley,4
+Mike,Clara,4
+Mike,Habraham Latharuth,4
+Collins,Joe (#184),4
+Miss Havisham,Wolf,4
+Collins,Miss Havisham,4
+Molly,Wemmick,4
+Collins,Estella,4
+One,Molly,4
+Wemmick,Chinks,4
+Mrs. Whimple,Papa,4
+Biddy,the Spider,4
+old Gruffandgrim,Chinks,4
+Miss Havisham,Hah,4
+Biddy,Barnard,4
+Biddy,Wemmick,4
+Miss Havisham,Clarriker,4
+Biddy,Chinks,4
+Pip,Sophia,4
+Biddy,Lord (#7147),4
+Biddy,Windy,4
+Estella (#423),Wolf,4
+Pip,that expensive Mercenary,4
+Miss Havisham,Lord,4
+Wemmick,Mr. Campbell,4
+Wemmick,Old Barley,4
+Wemmick,LI,4
+Mum,Richard,4
+Illustration,Mr. Pumblechook,4
+Mr. Hubble,Mrs.,4
+Old Clem,Miss Est,4
+Halloa,Mrs. Wemmick,4
+Mr. Waldengarver,Dear Sir,4
+Handel,The Avenger,4
+Halloa,Pip,4
+Mrs. Hubble,Mrs.,4
+Uncle Pumblechook,Mrs.,4
+Uncle Pumblechook,God,4
+Uncle Pumblechook,Mr. Gargery,4
+Uncle Pumblechook,Mrs. J. Gargery,4
+Georgiana,Mr. Jaggers,4
+the Finches,Mrs. Blandley,4
+Herbert,old Briton,4
+Estella,George Barnwell,4
+Mr. Jaggers,Finch,4
+Mum,Belinda,4
+Junior,Herbert,4
+Joe,Chinks,4
+Richard,the Jolly Bargemen,4
+Hah,Arthur,4
+Clarriker,Mrs. Brandley,4
+Miss Skiffins,Mrs. Whimple,4
+Illustration,Mr. Gargery,3
+Ceptin Wopsle,Partickler,3
+Tom,John,3
+Georgiana,old Briton,3
+Mr. Pocket,Finch,3
+John,Mrs. Whimple,3
+Miss Skiffins,Mrs. Brandley,3
+John,Jack,3
+Mr. Pocket,the Finches,3
+Cousin Raymond,Mrs. Camilla,3
+Drummle (#297),Compeyson,3
+Mrs. Camilla,old Briton,3
+Ceptin Wopsle,Amen,3
+Finch,Mrs. Blandley,3
+the Boar,William,3
+Compeyson,Papa,3
+old Gruffandgrim,Papa,3
+Miss Havisham,old Briton,3
+Jane,Clara,3
+Estella,Mistress Camilla,3
+One,Magwitch,3
+Handel,the Finches,3
+Mr. Jaggers,Mrs. Wemmick,3
+Mr. Pumblechook,Heaven,3
+Handel,Finch,3
+Flopson,The Avenger,3
+Estella,Colonel,3
+God,Heaven,3
+Estella,Molly (#402),3
+Wemmick,Mrs. Brandley,3
+Estella,Trabb,3
+Mr. Wopsle,God,3
+Jane,Drummle (#297),3
+Estella,Mrs. J. Gargery,3
+Mrs. Pocket,old Briton,3
+Wemmick,Papa,3
+Handel,Miss Skiffins,3
+One,Jack,3
+Tar,Pork,3
+One,Clarriker,3
+Richard,Pork,3
+Pip,Ophelia,3
+Herbert,Hah,3
+Mr. Jaggers,Pooh,3
+Miss Havisham,Colonel,3
+Biddy,Mistress Camilla,3
+Mr. Pumblechook,Camilla,3
+Pip,Arthur,3
+Mother,Wemmick,3
+Mother,Estella (#423),3
+Richard,John,3
+Miss Havisham,old Gruffandgrim,3
+Mr. Wopsle,Clarriker,3
+Richard,Mr. Gargery,2
+Estella,One,2
+Mr. Jaggers,Sophia,2
+Hah,Molly (#402),2
+Estella,Lord,2
+Richard,Miss Skiffins,2
+Jack,Miss Skiffins,2
+Mrs. Brandley,Arthur,2
+Mum,young Rantipole,2
+Sarah Pocket,Thereupon,2
+Estella,Thereupon,2
+Tom,Miss Skiffins,2
+Miss Havisham,Thereupon,2
+Miss Havisham,Halloa,2
+Pip,Mrs. Coiler,2
+Pip,LI,2
+Trabb,Magwitch,2
+Trabb,Compeyson,2
+Sarah Pocket,Hah,2
+Mother,Herbert,2
+Mother,Provis,2
+Miss Havisham,LI,2
+Collins,Pip,2
+Magwitch,Ay,2
+Joe,Belinda,2
+Joe,the Spider,2
+Sarah Pocket,Trabb,2
+Mr. Jaggers,Belinda,2
+Mr. Jaggers,Papa,2
+Wemmick,Ay,2
+Mum,Collins,2
+Little Britain,Joe,2
+Tickler,Herbert,2
+the Carols,Mr. Hubble,2
+Pip,Ceptin Wopsle,2
+Pa,Clarriker,2
+Mr. Wopsle,Heaven,2
+the Jolly Bargemen,Heaven,2
+O,Mother,2
+the Carols,Uncle Pumblechook,2
+the Carols,Mrs. Hubble,2
+John,Hah,2
+Millers,the Finches,2
+the Carols,Mr. Wopsle,2
+Mrs. J. Gargery,the Boar,2
+John,Clarriker,2
+Tar,Mr. Wopsle,2
+Belinda,Pa,2
+Belinda,Mrs. Coiler,2
+the Hulks,Biddy,2
+Mrs. J. Gargery,the Impostor,2
+Handel,Mr. Campbell,2
+young Rantipole,the Impostor,2
+Mrs. Hubble,Heaven,2
+Mum,Mrs. J. Gargery,2
+Tickler,Handel,2
+Drummle,Mrs. Brandley,2
+Mrs. Hubble,Orlick,2
+Handel,John,2
+O,Barnard,2
+Millers,Finch,2
+Estella,Jack,2
+Drummle (#297),Hah,2
+Drummle,Sophia,2
+O,Clara,1
+Startop,old Briton,1
+Tickler,Mr. Pumblechook,1
+Joe,Mother,1
+Little Britain,Heaven,1
+Pip,Mother,1
+Pa,Sophia,1
+O,Colonel,1
+Flopson,the Finches,1
+Millers,Sophia,1
+Clarriker,Provis,1
+Cousin Raymond,Pip,1
+Mum,Mrs.,1
+Estella,John,1
+Hah,Miss Skiffins,1
+Uncle Pumblechook,Collins,1
+Mrs. Hubble,Estella,1
+Mrs. Hubble,Miss Havisham,1
+Mr. Jaggers,Heaven,1
+Ophelia,Mr. Waldengarver,1
+Handel,the Boar,1
+Thereupon,Molly,1
+Joe,Molly,1
+Thereupon,Mother,1
+the Jolly Bargemen,George Barnwell,1
+Sarah Pocket,Heaven,1
+God,Handel,1
+Joe,Sophia,1
+Herbert,the Boar,1
+Wemmick,Mr. Waldengarver,1
+Flopson,Finch,1
+God,Ay,1
+God,Startop,1
+the Impostor,Pip,1

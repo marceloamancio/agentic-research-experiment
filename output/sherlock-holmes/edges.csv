@@ -1,0 +1,532 @@
+source,target,weight
+Holmes,Watson,494
+Holmes,Lestrade,170
+Holmes,Mr. Wilson,134
+Holmes,Dr. Roylott,118
+Holmes,Mary,117
+Holmes,Miss Hunter,117
+Holmes,Lord St. Simon,117
+Holmes,young McCarthy,115
+Holmes,Mr. Rucastle,104
+Holmes,Miss Stoner,100
+Holmes,Mr. Hosmer Angel,100
+Holmes,God,95
+Holmes,Irene Adler,86
+Holmes,Mr. Neville St. Clair,85
+young McCarthy,Lestrade,82
+Holmes,Arthur,79
+Holmes,Toller,72
+Holmes,Mr. Holder,72
+Holmes,Mr. Windibank,71
+Holmes,Bradstreet,68
+Holmes,Turner,67
+Holmes,John Openshaw,67
+Holmes,Mr. Duncan Ross,64
+Holmes,Mr. Hatherley,63
+Dr. Roylott,Miss Stoner,63
+Mr. Rucastle,Toller,61
+Holmes,Sir George Burnwell,55
+Holmes,Mr. Henry Baker,54
+Miss Hunter,Mr. Rucastle,54
+Mr. Hosmer Angel,Mr. Windibank,54
+Holmes,Mrs. Rucastle,53
+Mary,Mr. Windibank,51
+Turner,young McCarthy,48
+Holmes,Colonel Lysander Stark,48
+Mr. Rucastle,Mrs. Rucastle,47
+Arthur,Sir George Burnwell,46
+Watson,Dr. Roylott,46
+Holmes,Miss Holder,45
+Miss Hunter,Toller,45
+Holmes,young Openshaw,43
+Lord St. Simon,Mr. Aloysius Doran,43
+Holmes,Mrs. St. Clair,42
+Lord St. Simon,Miss Hatty Doran,42
+Holmes,Vincent Spaulding,41
+Holmes,Mr. Merryweather,41
+Holmes,Jones,40
+Mary,Mr. Hosmer Angel,40
+Holmes,Stoke Moran,40
+Mr. Wilson,Vincent Spaulding,40
+Holmes,Ryder,39
+Stoke Moran,Dr. Roylott,39
+Holmes,Jem,38
+Holmes,Mrs. Oakshott,38
+Lestrade,Lord St. Simon,38
+Arthur,Mr. Holder,38
+Holmes,Ha,38
+Holmes,Mr. Aloysius Doran,38
+Mrs. Rucastle,Toller,38
+Watson,John Openshaw,38
+Arthur,Mary,37
+Miss Turner,Lestrade,37
+Watson,Mr. Wilson,37
+Holmes,Horner,36
+Watson,Lestrade,36
+Holmes,Peterson,36
+Watson,Lord St. Simon,35
+Holmes,Miss Turner,35
+Holmes,Hugh Boone,35
+young McCarthy,Miss Turner,35
+Holmes,Lee,35
+Holmes,Alice,34
+Holmes,Lady St. Simon,34
+Holmes,Breckinridge,32
+Watson,Mr. Neville St. Clair,32
+Jem,Ryder,32
+Watson,Miss Stoner,32
+Watson,Mr. Merryweather,31
+Holmes,the Lascar,31
+Watson,Miss Hunter,31
+Holmes,Flora Millar,30
+Lee,Mr. Neville St. Clair,30
+Mr. Neville St. Clair,Hugh Boone,29
+Lord St. Simon,Lady St. Simon,29
+Holmes,Mrs. Hudson,29
+Jones,Mr. Merryweather,29
+Mr. Holder,Miss Holder,29
+Mr. Neville St. Clair,Mrs. St. Clair,29
+Mr. Wilson,Mr. Duncan Ross,28
+Holmes,John Clay,28
+Alice,Lord St. Simon,27
+Watson,Mrs. St. Clair,27
+Watson,Mr. Henry Baker,27
+Miss Hunter,Mrs. Rucastle,26
+Lord St. Simon,Flora Millar,26
+Turner,Lestrade,26
+Watson,Jones,25
+Alice,Lady St. Simon,25
+Arthur,Miss Holder,25
+Watson,God,25
+Holmes,Cooee,25
+Holmes,Miss Alice,25
+Jones,John Clay,24
+Irene Adler,Mr. Godfrey Norton,24
+Holmes,Mr. Windigate of the Alpha,24
+Holmes,the Rucastles,24
+Miss Hunter,Miss Alice,24
+Watson,Mr. Hosmer Angel,23
+Holmes,Miss Stoper,23
+young McCarthy,God,22
+Holmes,K. K. K.,22
+Holmes,McCarthy (#328),22
+Mr. Aloysius Doran,Flora Millar,22
+Toller,Miss Alice,21
+Mr. Neville St. Clair,Bradstreet,21
+Watson,Stoke Moran,20
+Watson,Mary,20
+Lord St. Simon,Frank,20
+Holmes,Witness,20
+Watson,Toller,20
+Watson,Horner,19
+Mr. Merryweather,John Clay,19
+Mr. Holder,Sir George Burnwell,19
+Mr. Neville St. Clair,the Lascar,19
+Watson,Mrs. Hudson,19
+Lestrade,Lady St. Simon,19
+young McCarthy,Cooee,18
+Miss Hunter,Miss Stoper,18
+Miss Hunter,Mr. Fowler,18
+Holmes,Mr. John Hare,18
+Holmes,Ezekiah Hopkins,18
+Mr. Rucastle,Miss Alice,18
+Mr. Wilson,Ezekiah Hopkins,18
+Holmes,Mr. Fowler,18
+Holmes,Miss Hatty Doran,18
+the Lascar,Hugh Boone,18
+Briony Lodge,Holmes,18
+Turner,God,18
+Lestrade,Flora Millar,18
+Holmes,Mr. Ferguson,17
+Holmes,William Crowder,17
+Mrs. St. Clair,Hugh Boone,17
+Mr. Rucastle,Mr. Fowler,17
+Watson,Hugh Boone,17
+Isa Whitney,Kate,17
+William Crowder,young McCarthy,17
+Sir George Burnwell,Miss Holder,17
+John Openshaw,Lee,17
+John Openshaw,young Openshaw,17
+Lady St. Simon,Flora Millar,17
+Watson,John Clay,17
+God,McCarthy (#328),17
+Turner,William Crowder,16
+Mary,Lucy Parr,16
+Stoke Moran,Miss Stoner,16
+One,young McCarthy,16
+Hugh Boone,Bradstreet,16
+Horner,Catherine Cusack,16
+K. K. K.,young Openshaw,16
+Breckinridge,Mrs. Oakshott,16
+Mr. Henry Baker,Mr. Windigate of the Alpha,16
+Mrs. St. Clair,the Lascar,16
+Colonel Lysander Stark,Mr. Ferguson,16
+Mr. Windigate of the Alpha,Mrs. Oakshott,16
+Miss Alice,Mr. Fowler,16
+Watson,young McCarthy,16
+Holmes,Hullo,16
+Holmes,One,16
+Holmes,This American,16
+Holmes,Catherine Cusack,16
+Watson,Kate,16
+Holmes,John Swain,16
+Holmes,Frank,16
+Holmes,Major Prendergast,16
+God,Ryder,15
+Alice,Mr. Aloysius Doran,15
+Watson,Mr. Rucastle,15
+Horner,Mr. Henry Baker,15
+Toller,Mr. Fowler,15
+Mr. Duncan Ross,young McCarthy,15
+Holmes,Lucy Parr,15
+Watson,Bradstreet,15
+Holmes,Pshaw,15
+John Openshaw,Elias,15
+Turner,Miss Turner,15
+Watson,Breckinridge,15
+Watson,Lee,14
+Briony Lodge,Irene Adler,14
+Horner,Jem,14
+John Openshaw,K. K. K.,14
+Holmes,THE BERYL CORONET “ Holmes,14
+Watson,Isa Whitney,14
+Horner,Ryder,14
+Mr. Duncan Ross,Lestrade,14
+Watson,Ha,14
+McCarthy (#328),Alice,14
+Irene Adler,Watson,14
+Watson,Miss Alice,13
+Holmes,Mr. Godfrey Norton,13
+Lestrade,Cooee,13
+Holmes,Julia,13
+Lord St. Simon,Pa,13
+Toller,the Rucastles,13
+Mr. Aloysius Doran,Lady St. Simon,13
+Mary,Sir George Burnwell,13
+Frank,Pa,13
+Turner,McCarthy (#328),13
+Holmes,Kate,13
+Arthur,Lucy Parr,13
+Dr. Roylott,Julia,13
+Holmes,the Serpentine,12
+Lord St. Simon,"MR . SHERLOCK HOLMES,—Lord Backwater",12
+Mr. Henry Baker,Breckinridge,12
+Peterson,Mr. Henry Baker,12
+Mr. Duncan Ross,Vincent Spaulding,12
+Watson,Mr. Windigate of the Alpha,12
+Watson,Mr. Windibank,12
+Mr. Windigate of the Alpha,Breckinridge,12
+Watson,Catherine Cusack,12
+Miss Hunter,the Rucastles,12
+Watson,the Lascar,12
+Holmes,IV,12
+Mr. Rucastle,the Rucastles,12
+Alice,Black Jack of Ballarat,11
+Holmes,IX,11
+God,Mr. Neville St. Clair,11
+Watson,"MR . SHERLOCK HOLMES,—Lord Backwater",11
+McCarthy (#328),Black Jack of Ballarat,11
+Jem,Breckinridge,11
+Holmes,Black Jack of Ballarat,11
+Watson,Miss Holder,11
+Alice,Flora Millar,11
+Mrs. Hudson,Dr. Roylott,11
+One,Lestrade,10
+Turner,McCarthy,10
+God,Horner,10
+Lee,Hugh Boone,10
+Holmes,"MR . SHERLOCK HOLMES,—Lord Backwater",10
+Jem,Mr. Henry Baker,10
+Irene Adler,Mr. John Hare,10
+Holmes,Isa Whitney,10
+Watson,Jem,10
+Holmes,Captain James Calhoun,10
+Holmes,Mrs. Farintosh,10
+Watson,Peterson,10
+Pa,the Apaches,10
+Holmes,McCarthy,10
+Frank,the Apaches,10
+the Serpentine,Lestrade,10
+Watson,Alice,10
+Holmes,Elias,10
+Miss Hatty Doran,Mr. Aloysius Doran,10
+Lord St. Simon,the Apaches,10
+Dr. Roylott,IX,10
+John Openshaw,Captain James Calhoun,9
+Holmes,Fritz,9
+Holmes,Pa,9
+God,Mr. Holder,9
+Holmes,XII,9
+Lucy Parr,Sir George Burnwell,9
+Mr. Godfrey Norton,John Openshaw,9
+Watson,Lady St. Simon,9
+Lee,Bradstreet,9
+Mr. Duncan Ross,McCarthy,9
+Catherine Cusack,Ryder,9
+Mr. Duncan Ross,Turner,9
+Peterson,Horner,9
+Mr. Duncan Ross,William Crowder,9
+Watson,Ryder,9
+Colonel Lysander Stark,Fritz,9
+Lestrade,Mr. Aloysius Doran,9
+Irene Adler,Mary,9
+God,Alice,9
+Lestrade,Hullo,8
+Holmes,Father,8
+Alice,Miss Hunter,8
+Alice,Miss Stoper,8
+Elias,Lee,8
+Elias,Isa Whitney,8
+Elias,De Quincey,8
+Sir George Burnwell,Boots,8
+Toller,Carlo,8
+Mr. Rucastle,Carlo,8
+Witness,Cooee,8
+Irene Adler,the Serpentine,8
+Mrs. Rucastle,Mr. Fowler,8
+God,Bradstreet,8
+Briony Lodge,Mr. Godfrey Norton,8
+God,Jem,8
+God,Carlo,8
+Mr. Holder,Boots,8
+God,Mr. Rucastle,8
+God,Sir George Burnwell,8
+God,Toller,8
+Breckinridge,Ryder,8
+Arthur,Boots,8
+Mrs. Hudson,Mr. Henry Baker,8
+Mrs. Oakshott,Ryder,8
+Stoke Moran,Julia,8
+Jem,Mrs. Oakshott,8
+Dr. Roylott,Ha,8
+Dr. Roylott,Hullo,8
+Jem,Catherine Cusack,8
+Horner,Mrs. Oakshott,8
+Ha,Miss Stoner,8
+Ha,THE BERYL CORONET “ Holmes,8
+Holmes,Elise,8
+Miss Stoner,IX,8
+Bradstreet,Catherine Cusack,8
+Bradstreet,Jem,8
+Bradstreet,Horner,8
+Colonel Lysander Stark,Elise,8
+the Lascar,Bradstreet,8
+Fritz,Elise,8
+Holmes,the Apaches,8
+Holmes,Tiptoes,8
+Kate,Folk,8
+Isa Whitney,Hitherto,8
+Mr. Henry Baker,Mrs. Oakshott,8
+Isa Whitney,De Quincey,8
+Holmes,Carlo,8
+Captain James Calhoun,Kate,8
+Mrs. Hudson,Ha,8
+Holmes,John Cobb,8
+Holmes,Boots,8
+Mr. Windibank,Father,8
+McCarthy,One,8
+Watson,Mr. Fowler,8
+One,Cooee,8
+Mr. Wilson,Mary,8
+Watson,the Rucastles,8
+One,William Crowder,8
+Watson,young Openshaw,8
+Mr. Wilson,This American,8
+Watson,XII,8
+McCarthy,young McCarthy,8
+McCarthy,William Crowder,8
+Mary,Father,8
+Mary,Peterson,8
+Mr. Hatherley,Colonel Lysander Stark,8
+Watson,McCarthy (#328),8
+Ezekiah Hopkins,Mr. Duncan Ross,8
+Ezekiah Hopkins,Vincent Spaulding,8
+Ezekiah Hopkins,This American,8
+Watson,Mr. Aloysius Doran,8
+Mr. Duncan Ross,One,8
+Mr. Hatherley,McCarthy,8
+This American,Lestrade,8
+This American,Lord St. Simon,8
+Watson,Cooee,8
+Turner,Witness,8
+Turner,John Cobb,8
+Lestrade,"MR . SHERLOCK HOLMES,—Lord Backwater",8
+Watson,One,8
+Turner,One,8
+Watson,Mrs. Rucastle,8
+Turner,Mr. Hatherley,8
+Lestrade,God,8
+Irene Adler,Peterson,8
+William Crowder,John Cobb,8
+Watson,Mrs. Oakshott,8
+Mr. Godfrey Norton,the Serpentine,8
+Lestrade,Tiptoes,8
+John Openshaw,Mary,8
+Watson,Mrs. Farintosh,8
+Watson,Mr. Godfrey Norton,8
+Miss Turner,God,8
+young McCarthy,John Cobb,8
+young McCarthy,Tiptoes,8
+Mr. Duncan Ross,Mr. Hatherley,7
+Miss Hunter,Isa Whitney,7
+Miss Hunter,"DEAR MR . HOLMES,—I",7
+Miss Hunter,De Quincey,7
+Watson,Flora Millar,7
+God,Black Jack of Ballarat,7
+Miss Stoner,Julia,7
+Vincent Spaulding,This American,7
+Isa Whitney,Folk,7
+Catherine Cusack,Mr. Henry Baker,7
+Watson,THE BERYL CORONET “ Holmes,7
+Miss Holder,XII,7
+Watson,Turner,7
+Lord St. Simon,THE BERYL CORONET “ Holmes,7
+Turner,Cooee,7
+Captain James Calhoun,Isa Whitney,7
+Captain James Calhoun,Folk,7
+John Openshaw,Miss Hunter,7
+Mary,IV,7
+Watson,IX,7
+Mrs. Rucastle,Miss Alice,7
+Elias,Miss Hunter,7
+Bradstreet,Mr. Henry Baker,7
+Mrs. Rucastle,the Rucastles,7
+Lee,Mrs. St. Clair,7
+Watson,Mr. Holder,7
+Mr. Hatherley,IX,7
+young McCarthy,McCarthy (#328),7
+Sir George Burnwell,XII,7
+Mrs. Hudson,John Swain,7
+God,Catherine Cusack,7
+Watson,Sir George Burnwell,6
+the Serpentine,Flora Millar,6
+Pshaw,Mary,6
+Mr. Holder,Lucy Parr,6
+Watson,Captain James Calhoun,6
+John Openshaw,Mr. Neville St. Clair,6
+John Openshaw,De Quincey,6
+John Openshaw,Isa Whitney,6
+John Openshaw,Major Prendergast,6
+John Openshaw,Mrs. Hudson,6
+Stoke Moran,IX,6
+Pshaw,"DEAR MR . HOLMES,—I",6
+Horner,Stoke Moran,6
+Horner,Dr. Roylott,6
+Mr. Duncan Ross,Tiptoes,6
+Mr. Duncan Ross,Miss Turner,6
+John Openshaw,God,6
+Mr. Godfrey Norton,Mr. John Hare,6
+Miss Turner,Cooee,6
+Mrs. Hudson,Stoke Moran,6
+William Crowder,Lestrade,6
+Mr. Hatherley,young McCarthy,6
+Mr. Hatherley,Dr. Roylott,6
+Mr. Hatherley,William Crowder,6
+Mr. Hatherley,One,6
+Turner,Alice,6
+Arthur,God,6
+William Crowder,Miss Turner,6
+Mr. Hatherley,Bradstreet,6
+Mr. Hatherley,Dr. Becher,6
+Watson,Hullo,6
+Ha,Colonel Lysander Stark,5
+Mrs. Hudson,Horner,5
+Holmes,De Quincey,5
+McCarthy,Lestrade,5
+Watson,Mr. Duncan Ross,5
+John Openshaw,John Swain,5
+McCarthy,Miss Turner,5
+God,Breckinridge,5
+Watson,Miss Hatty Doran,5
+Mr. Wilson,Mr. Merryweather,5
+Captain James Calhoun,Hitherto,5
+Holmes,Dr. Becher,5
+God,young Openshaw,5
+One,Miss Turner,5
+God,the Rucastles,5
+Hullo,Colonel Lysander Stark,5
+Mr. Windibank,IV,5
+Carlo,the Rucastles,5
+Bradstreet,Ha,5
+Irene Adler,John Openshaw,5
+Pshaw,Miss Hunter,5
+Watson,Black Jack of Ballarat,5
+Lestrade,THE BERYL CORONET “ Holmes,5
+"MR . SHERLOCK HOLMES,—Lord Backwater",Mr. Aloysius Doran,5
+Kate,Hitherto,5
+"MR . SHERLOCK HOLMES,—Lord Backwater",Miss Hatty Doran,5
+Watson,Ezekiah Hopkins,5
+Mrs. Farintosh,Miss Stoner,5
+Mr. Holder,XII,4
+Major Prendergast,Mrs. Hudson,4
+Miss Stoner,Hullo,4
+Mary,"DEAR MR . HOLMES,—I",4
+John Cobb,Witness,4
+William Crowder,Witness,4
+Mr. Hosmer Angel,Father,4
+Watson,IV,4
+Folk,Hitherto,4
+Turner,Black Jack of Ballarat,4
+Holmes,"DEAR MR . HOLMES,—I",4
+Hullo,Lord St. Simon,4
+Mr. Hatherley,Miss Stoner,4
+God,Mrs. Oakshott,4
+Mary,Miss Holder,4
+Mary,Lee,4
+young McCarthy,Witness,4
+Lee,the Lascar,4
+Miss Hatty Doran,Lady St. Simon,3
+the Serpentine,Lady St. Simon,3
+God,Mrs. Rucastle,3
+Watson,Mr. Hatherley,3
+Mr. Wilson,John Clay,3
+Mr. Hatherley,Lestrade,3
+Watson,Miss Turner,3
+Bradstreet,Peterson,3
+Bradstreet,Dr. Becher,3
+Peterson,Jem,3
+Mr. Hatherley,Miss Turner,3
+Major Prendergast,John Swain,3
+Jem,Mr. Windigate of the Alpha,3
+Catherine Cusack,Mrs. Oakshott,3
+Mary,Miss Hunter,3
+Mary,Elias,3
+Stoke Moran,Ha,3
+Mr. Hosmer Angel,IV,3
+Mrs. Rucastle,Carlo,3
+Peterson,Catherine Cusack,3
+Watson,Julia,2
+Watson,This American,2
+Mr. Godfrey Norton,Pshaw,2
+Miss Stoper,Mr. Rucastle,2
+God,Ha,2
+the Serpentine,John Openshaw,2
+Bradstreet,Colonel Lysander Stark,2
+Irene Adler,Pshaw,2
+God,THE BERYL CORONET “ Holmes,2
+Elias,Kate,2
+Arthur,XII,2
+Mr. Hatherley,Stoke Moran,2
+Arthur,Irene Adler,2
+Watson,Father,2
+De Quincey,Kate,2
+Mary,XII,2
+Dr. Roylott,Mrs. Farintosh,2
+Ha,Fritz,2
+Ha,Elise,2
+Hullo,Mr. Ferguson,2
+Mrs. Farintosh,Julia,2
+Miss Holder,Boots,1
+Watson,the Serpentine,1
+Lestrade,Alice,1
+John Openshaw,Mrs. St. Clair,1
+God,Lee,1
+Irene Adler,Mr. Wilson,1
+Elias,Folk,1
+Arthur,Watson,1
+This American,THE BERYL CORONET “ Holmes,1
+Miss Hunter,Kate,1
+Watson,Hitherto,1
+De Quincey,Folk,1
+Stoke Moran,Mrs. Farintosh,1
+Lestrade,Miss Hatty Doran,1

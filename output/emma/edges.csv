@@ -1,0 +1,2032 @@
+source,target,weight
+Emma,Harriet,1100
+Emma,Mr. Knightley (#281),1035
+Emma,Mrs. Weston,894
+Mr. Knightley,Emma,819
+Emma,Miss Fairfax,810
+Miss Woodhouse,Emma,806
+Mr. Elton,Emma,702
+Mr. Weston,Emma,681
+Emma,Mr. Woodhouse,652
+Mrs. Weston,Mr. Knightley (#281),608
+Mr. Elton,Harriet,580
+Miss Fairfax,Mr. Knightley (#281),520
+Mr. Weston,Mr. Knightley (#281),501
+Harriet,Mr. Knightley (#281),500
+Mr. Weston,Mrs. Weston,489
+Miss Bates,Emma,459
+Miss Woodhouse,Harriet,442
+Mr. Knightley,Mrs. Weston,437
+Emma,Mrs. Elton,421
+Mr. Knightley,Harriet,411
+Miss Fairfax,Mrs. Weston,410
+Miss Woodhouse,Mr. Knightley (#281),409
+Randalls,Emma,394
+Mr. Knightley,Mr. Woodhouse,394
+Harriet,Mrs. Weston,378
+Miss Woodhouse,Mrs. Weston,369
+Mr. Woodhouse,Mrs. Weston,355
+Miss Woodhouse,Miss Fairfax,342
+Mr. Knightley,Mr. Elton,338
+Harriet,Mr. Woodhouse,326
+Miss Woodhouse,Mr. Knightley,319
+Mrs. Elton,Mr. Knightley (#281),314
+Mr. Knightley,Mr. Knightley (#281),306
+Isabella,Emma,306
+Mr. Woodhouse,Mr. Knightley (#281),305
+Harriet,Miss Fairfax,302
+Miss Bates,Miss Fairfax,302
+Miss Woodhouse,Mr. Elton,300
+Mr. Knightley,Miss Fairfax,298
+Mr. Weston,Mr. Knightley,297
+Miss Woodhouse,Mr. Woodhouse,293
+Mr. Weston,Mr. Woodhouse,288
+Miss Woodhouse,Mr. Weston,283
+Mr. Weston,Harriet,271
+Miss Bates,Mr. Knightley (#281),267
+Randalls,Mrs. Weston,260
+Mr. Weston,Miss Fairfax,245
+Miss Bates,Mrs. Weston,242
+Miss Woodhouse,Mrs. Elton,241
+Miss Woodhouse,Miss Bates,233
+Mrs. Weston,Mrs. Elton,228
+Miss Fairfax,Mrs. Elton,226
+Randalls,Mr. Knightley (#281),225
+Mr. Weston,Randalls,225
+Emma,Mr. Martin,224
+Mr. Elton,Mr. Knightley (#281),222
+Mr. Elton,Mr. Woodhouse,215
+Harriet,Mr. Martin,215
+Mr. Elton,Mrs. Weston,214
+Miss Bates,Harriet,210
+Mr. Weston,Mrs. Elton,207
+Mr. Perry,Emma,206
+Miss Fairfax,Mr. Woodhouse,200
+Mr. Knightley,Miss Bates,197
+Hartfield,Emma,196
+Emma,Mrs. Bates,194
+Isabella,Mr. Knightley,194
+Isabella,Mr. Woodhouse,193
+Randalls,Harriet,189
+Randalls,Mr. Knightley,184
+Miss Fairfax,Colonel Campbell,177
+Miss Bates,Mrs. Elton,172
+Isabella,Mrs. Weston,171
+Miss Woodhouse,Randalls,170
+Emma,Colonel Campbell,168
+Randalls,Mr. Woodhouse,167
+Mr. Weston,Mr. Elton,166
+Harriet,Mrs. Elton,160
+Mr. Knightley,Mrs. Elton,151
+Mrs. Churchill,Mr. Knightley (#281),151
+Emma,Donwell,147
+Emma,Mrs. Cole,143
+Isabella,Harriet,142
+Mr. Elton,Mrs. Elton,140
+Mrs. Bates,Miss Fairfax,140
+Emma,Mr. Cole,139
+Mr. Elton,Miss Bates,137
+Mr. Elton,Miss Fairfax,137
+Mr. Weston,Miss Bates,137
+Mr. Woodhouse,Mrs. Elton,134
+Mrs. Churchill,Emma,132
+Donwell,Mr. Knightley (#281),130
+Hartfield,Mr. Woodhouse,127
+Miss Fairfax,the Campbells,127
+Mr. Weston,Isabella,126
+Emma,the Campbells,125
+Emma,Mrs. John Knightley,125
+Randalls,Mr. Elton,124
+Mr. Elton,Mr. Martin,121
+Emma,Henry,120
+Mr. Perry,Harriet,118
+Miss Bates,Mr. Woodhouse,117
+Hartfield,Mr. Knightley,117
+Mr. Perry,Mr. Woodhouse,116
+Miss Bates,Mrs. Bates,114
+Mrs. Churchill,Mrs. Weston,114
+Hartfield,Mrs. Weston,111
+Mr. Knightley,Henry,110
+Isabella,Mr. Knightley (#281),108
+Hartfield,Mr. Weston,108
+Mr. Weston,Mrs. Churchill,107
+Randalls,Miss Fairfax,107
+Enscombe,Mrs. Weston,105
+Miss Woodhouse,Isabella,105
+Miss Bates,Mrs. Cole,105
+James,Emma,105
+Enscombe,Mr. Knightley (#281),103
+Miss Woodhouse,Mr. Perry,103
+Mrs. Bates,Mr. Knightley (#281),102
+Colonel Campbell,Mr. Knightley (#281),102
+Mrs. Bates,Mrs. Weston,101
+Mr. Perry,Mr. Knightley (#281),99
+Miss Fairfax,Mr. Dixon,99
+Mr. Knightley,Mr. Cole,98
+Miss Woodhouse,Mrs. Cole,98
+Enscombe,Emma,97
+Miss Fairfax,Mrs. Cole,95
+Hartfield,Miss Woodhouse,95
+Emma,the Coles,94
+Mr. Perry,Mrs. Weston,94
+Miss Woodhouse,Mrs. Bates,93
+Emma,Mr. Dixon,93
+Donwell,Mrs. Weston,93
+Mrs. Bates,Harriet,92
+Hartfield,Harriet,90
+Enscombe,Mr. Weston,89
+Isabella,Mr. Elton,85
+Hartfield,Mr. Knightley (#281),84
+Mr. Cole,Miss Fairfax,83
+Mrs. Cole,Mr. Knightley (#281),83
+Miss Woodhouse,Colonel Campbell,82
+Mrs. Churchill,Mrs. Elton,81
+Highbury,Emma,80
+Isabella,Mrs. John Knightley,79
+Mr. Elton,Mr. Cole,79
+Harriet,Mr. Cole,79
+Mr. Knightley,Mr. Perry,78
+the Churchills,Emma,78
+Mr. Knightley,Mr. Martin,76
+Miss Fairfax,Donwell,75
+Donwell,Mrs. Elton,75
+Mrs. Bates,Mr. Woodhouse,75
+Emma,the Eltons,75
+Mr. Cole,Mrs. Weston,73
+Randalls,Miss Bates,73
+Mr. Knightley,Mrs. Bates,72
+Miss Bates,Colonel Campbell,72
+Mrs. John Knightley,Mr. Woodhouse,71
+Mr. Perry,Miss Fairfax,71
+Miss Fairfax,Mrs. Dixon,71
+Harriet,Mrs. John Knightley,70
+James,Mr. Woodhouse,69
+Randalls,Mr. Perry,69
+Harriet,Donwell,69
+Colonel Campbell,Mrs. Campbell,69
+Miss Bates,Mr. Cole,68
+Mr. Weston,James,68
+Mr. Knightley,Mrs. Cole,68
+Mr. Elton,Mr. Perry,67
+Hartfield,Randalls,67
+Mrs. Perry,Emma,67
+Hartfield,Isabella,66
+Mr. Weston,the Churchills,66
+Emma,Mrs. Dixon,66
+Colonel Campbell,the Campbells,65
+Mr. Cole,Mr. Knightley (#281),65
+Harriet,the Eltons,65
+Enscombe,Mrs. Churchill,65
+Mr. Weston,Donwell,65
+Henry,Mrs. Weston,65
+the Campbells,Mr. Knightley (#281),65
+Mrs. John Knightley,Mr. Knightley (#281),65
+Hartfield,Mr. Elton,65
+Harriet,Mrs. Cole,64
+the Westons,Emma,64
+the Churchills,Mr. Knightley (#281),64
+James,Mr. Knightley,64
+Harriet,Miss Woodhouse (#122),63
+Emma,Miss Hawkins,63
+Mr. Elton,Mrs. Cole,63
+the Campbells,Mrs. Weston,62
+Miss Woodhouse,Mr. Cole,62
+Mr. Elton,Miss Hawkins,62
+Miss Woodhouse,Mr. Martin,62
+Miss Bates,the Coles,62
+Mr. Suckling,Mrs. Elton,62
+Mr. Knightley,Donwell,62
+Mr. Knightley,Mrs. John Knightley,62
+Colonel Campbell,Mrs. Weston,62
+Mr. Knightley,the Churchills,61
+Mr. Knightley,Mrs. Churchill,61
+Miss Fairfax,Mrs. Campbell,61
+Mrs. Cole,Mrs. Weston,60
+Randalls,Donwell,59
+Emma,Mrs. Campbell,59
+Emma,Mrs. Martin,59
+James,Mrs. Weston,59
+Emma,Miss Campbell,59
+Harriet,the Martins,58
+Henry,Miss Fairfax,58
+Isabella,Miss Fairfax,58
+Miss Fairfax,Miss Campbell,58
+Emma,the Martins,57
+Isabella,Randalls,57
+Miss Bates,Mr. Perry,57
+Miss Fairfax,the Coles,57
+Miss Woodhouse,Mrs. Churchill,56
+Mr. Knightley,the Westons,56
+Mr. Martin,Mr. Knightley (#281),56
+Randalls,Mrs. Elton,56
+Mr. Knightley,the Coles,55
+Colonel Campbell,Mr. Dixon,55
+Mr. E.,Mrs. Elton,55
+the Westons,Mrs. Weston,55
+Mr. Dixon,Miss Campbell,54
+Mr. Weston,Mrs. Bates,54
+the Coles,Mr. Knightley (#281),54
+Isabella,Mrs. Elton,53
+Mr. Elton,Mrs. John Knightley,53
+the Eltons,Mr. Knightley (#281),53
+Harriet,Mrs. Martin,53
+James,Harriet,53
+Emma,Mr. Wingfield,53
+Miss Bates,Donwell,52
+William Larkins,Mr. Knightley (#281),52
+Hartfield,Miss Fairfax,52
+Miss Woodhouse,the Coles,52
+Randalls,Mrs. Churchill,52
+Colonel Campbell,Mrs. Elton,52
+Emma,Mr. E.,52
+Enscombe,Mr. Knightley,51
+Donwell,Mr. Woodhouse,51
+Mr. Cole,Mrs. Cole,51
+Randalls,Mrs. Bates,51
+Mrs. Bates,Colonel Campbell,51
+Mrs. Churchill,Harriet,51
+the Churchills,Mrs. Weston,50
+Emma,William Larkins,50
+Henry,Mr. Knightley (#281),50
+Miss Woodhouse,James,49
+Mrs. Bates,Mrs. Elton,49
+Mrs. Dixon,Mr. Dixon,49
+Harriet,Colonel Campbell,49
+the Coles,Mrs. Weston,48
+Mrs. Perry,Miss Bates,48
+Isabella,Henry,48
+Miss Woodhouse,Miss Hawkins,48
+Mrs. John Knightley,Mrs. Weston,48
+Mr. Weston,the Westons,48
+Randalls,James,48
+Harriet,Henry,47
+Miss Woodhouse,the Westons,47
+Highbury,Mrs. Weston,47
+Mrs. Churchill,Mr. Woodhouse,47
+the Campbells,Mr. Dixon,47
+James,Mr. Knightley (#281),46
+Harriet,the Coles,46
+the Eltons,Mrs. Elton,46
+Emma,Mrs. Smallridge,46
+Highbury,Mr. Knightley (#281),45
+Mrs. Perry,Mr. Knightley (#281),45
+Miss Woodhouse,the Campbells,45
+Emma,Ford,45
+Mr. Weston,the Coles,45
+Mr. Weston,Mrs. Perry,45
+Miss Bates,the Campbells,45
+Maple Grove,Mrs. Elton,45
+Highbury,Mr. Woodhouse,45
+Emma,Miss Woodhouse (#122),45
+Harriet,Miss Nash,44
+Mr. Weston,Mr. Perry,44
+Colonel Campbell,Mrs. Dixon,44
+the Coles,Mrs. Cole,44
+Miss Woodhouse,Donwell,44
+Mrs. Churchill,Miss Fairfax,44
+Miss Woodhouse,Mrs. Perry,44
+Miss Fairfax,Mrs. Smallridge,44
+Harriet,Miss Hawkins,44
+Mr. Elton,Miss Nash,44
+Emma,Miss Nash,44
+Mr. Elton,the Eltons,43
+Mrs. Perry,Mrs. Weston,43
+Mr. E.,Mr. Knightley (#281),43
+Enscombe,Miss Fairfax,43
+Miss Woodhouse,the Eltons,43
+Mr. Dixon,Mr. Knightley (#281),43
+Mr. Elton,Donwell,43
+Colonel Campbell,Mrs. Cole,43
+Mr. Weston,Mrs. John Knightley,42
+Mr. Knightley,the Campbells,42
+Mrs. Campbell,the Campbells,42
+Mrs. Cole,Mrs. Elton,41
+Mr. Perry,Mrs. Bates,41
+Randalls,Mr. Martin,41
+the Campbells,Mrs. Elton,41
+Miss Fairfax,Patty,41
+Miss Fairfax,William Larkins,41
+Selina,Mrs. Elton,41
+Emma,George,41
+Emma,Elizabeth,40
+Harriet,Mr. William Cox,40
+Harriet,Elizabeth,40
+Emma,Mr. Suckling,40
+Enscombe,the Churchills,39
+Hartfield,Miss Bates,39
+Hartfield,Mrs. Bates,39
+Mr. Cole,Mr. Woodhouse,39
+Isabella,James,39
+Emma,Patty,39
+Mrs. Perry,Mr. Woodhouse,39
+Mr. Knightley,Colonel Campbell,39
+Ford,Mrs. Weston,39
+Mr. Elton,Mrs. Churchill,39
+Hartfield,Donwell,39
+the Campbells,Mrs. Dixon,39
+the Westons,Mr. Woodhouse,39
+Mr. Knightley,the Eltons,38
+Mr. Woodhouse,the Coles,38
+Miss Woodhouse,Henry,38
+Mr. Elton,Colonel Campbell,38
+Maple Grove,Emma,38
+Mrs. Elton,Mrs. Smallridge,38
+Enscombe,Miss Woodhouse,38
+Miss Bates,Mr. Dixon,38
+Highbury,Randalls,38
+Miss Bates,Patty,38
+Emma,Mr. William Cox,37
+the Martins,Mr. Martin,37
+Mrs. Perry,Mr. Perry,37
+Highbury,Miss Fairfax,37
+Henry,Mr. Woodhouse,37
+the Churchills,Mr. Woodhouse,37
+Highbury,Miss Woodhouse,37
+Mr. Woodhouse,Mrs. Cole,37
+Mr. Weston,Mrs. Cole,37
+Mr. Knightley (#281),Mrs. Smallridge,36
+Mr. Perry,Mr. Wingfield,36
+Mr. Cole,the Coles,36
+the Eltons,Mrs. Weston,36
+James,Mr. Elton,36
+Enscombe,Mr. Elton,36
+Nobody,Emma,35
+Emma,the Mr. Knightleys,35
+Isabella,Mr. Wingfield,35
+Mr. Knightley,Mr. Wingfield,35
+Hartfield,Mrs. John Knightley,35
+Mrs. Elton,Mrs. Bragge,35
+Enscombe,Miss Bates,35
+Miss Woodhouse,Mr. Dixon,35
+Highbury,Mr. Weston,35
+Mr. Weston,the Eltons,35
+Mrs. Bates,Mrs. Cole,34
+the Westons,Harriet,34
+Mr. Martin,Miss Nash,34
+Mrs. Perry,Miss Fairfax,34
+the Bateses,Mrs. Weston,33
+Miss Woodhouse,William Larkins,33
+Highbury,Harriet,33
+Mrs. Perry,the Coles,33
+Mrs. Churchill,Miss Bates,33
+Mrs. Churchill,the Churchills,33
+Emma,the Bateses,33
+Isabella,Mr. Perry,32
+Mr. Knightley,Mr. Dixon,32
+Miss Bates,Miss Hawkins,32
+Randalls,the Coles,32
+Randalls,Mrs. Perry,32
+Mr. Dixon,Mrs. Weston,32
+Mrs. Martin,Mr. Martin,32
+Miss Woodhouse,Mr. E.,32
+Mr. Elton,Mr. E.,32
+Miss Woodhouse,Mrs. John Knightley,32
+the Eltons,Miss Fairfax,32
+Mrs. Bates,Ford,32
+Henry,Donwell,31
+Mr. Elton,Mrs. Bates,31
+Mr. William Cox,Mrs. Weston,31
+Mr. William Cox,Mr. Knightley (#281),31
+the Westons,Mr. Knightley (#281),31
+Mr. Knightley,Mr. William Cox,31
+Mrs. Hodges,Mr. Knightley (#281),31
+Emma,Augusta,31
+Miss Woodhouse,Augusta,31
+Miss Fairfax,Ford,31
+Mr. Perry,Mrs. Elton,30
+the Westons,Miss Fairfax,30
+Mr. Cole,Mr. William Cox,30
+Maple Grove,Miss Fairfax,30
+Maple Grove,Miss Woodhouse,30
+Mrs. Dixon,Mr. Knightley (#281),30
+Mr. Elton,the Martins,30
+Harriet,Somebody,29
+Emma,God,29
+Mr. Weston,Henry,29
+Mr. Martin,Mr. Woodhouse,29
+Harriet,the Campbells,29
+Mr. Weston,Selina,29
+Mrs. Dixon,Mrs. Weston,29
+Isabella,Donwell,29
+Mrs. Martin,Mrs. Weston,29
+Miss Woodhouse,Ford,29
+Maple Grove,Mr. Knightley (#281),29
+Miss Bates,Mrs. Dixon,29
+Miss Bates,Mr. William Cox,28
+Mr. Knightley,the Mr. Knightleys,28
+Mr. Elton,the Westons,28
+Mr. Elton,the Coles,28
+Randalls,the Churchills,28
+the Campbells,Miss Campbell,28
+Colonel Campbell,Miss Campbell,28
+Enscombe,Harriet,28
+Mrs. Perry,Harriet,28
+Miss Woodhouse,Mrs. Martin,28
+Donwell,Mrs. Cole,28
+Enscombe,Mr. Woodhouse,28
+Mr. Elton,Miss Woodhouse (#122),28
+Mr. Woodhouse,Mr. Dixon,28
+Mr. Wingfield,Mr. Woodhouse,28
+Miss Woodhouse,George,28
+Miss Woodhouse,Mr. Suckling,28
+Miss Woodhouse,Mr. William Cox,28
+Miss Woodhouse,Mrs. Smallridge,28
+Mr. Weston,the Campbells,28
+the Mr. Knightleys,Mr. Woodhouse,27
+Miss Woodhouse,Elizabeth,27
+Emma,Nay,27
+Maple Grove,Mrs. Weston,27
+Mr. Knightley,Mrs. Perry,27
+Mrs. Perry,Mrs. Cole,27
+Mr. Knightley,William Larkins,27
+Emma,the Dixons,27
+Mrs. Bates,Patty,27
+Highbury,Miss Bates,27
+Randalls,Mrs. John Knightley,27
+Highbury,Mr. Perry,27
+Mrs. Cole,Mrs. Dixon,27
+Mrs. John Knightley,Miss Fairfax,27
+Miss Woodhouse,Patty,27
+Miss Woodhouse,Mrs. Dixon,27
+Mrs. Weston,William Larkins,27
+Isabella,Miss Bates,27
+Miss Bates,Ford,27
+Mr. Knightley,Miss Campbell,27
+Highbury,Mr. Elton,27
+Enscombe,Randalls,26
+Emma,Somebody,26
+Patty,Mrs. Weston,26
+Emma,the Sucklings,26
+Mr. Elton,Mr. William Cox,26
+Miss Bates,the Westons,26
+Harriet,Ford,26
+Mrs. Cole,Mr. Dixon,26
+Highbury,Mr. Knightley,26
+Mr. Martin,Miss Fairfax,26
+Mr. Knightley (#281),God,26
+Mr. Martin,Miss Woodhouse (#122),26
+Randalls,Mr. Cole,26
+Mrs. John Knightley,Henry,25
+Mrs. Bates,Donwell,25
+Mr. Knightley,the Bateses,25
+Miss Fairfax,Nay,25
+Selina,Mr. Knightley (#281),25
+Miss Woodhouse,the Churchills,25
+Harriet,Mr. Dixon,25
+Ford,Mr. Knightley (#281),25
+Mrs. Elton,the Sucklings,25
+Mr. Weston,Mr. Martin,25
+Mr. Elton,Mr. Dixon,25
+Mr. Knightley,Mrs. Martin,25
+Mr. Weston,Mrs. Martin,25
+Mrs. Bates,the Campbells,25
+Mrs. Cole,Miss Hawkins,25
+Mr. Elton,Mrs. Martin,25
+Miss Bates,Henry,25
+George,Mr. Knightley (#281),25
+Emma,grandmama,24
+Mrs. Campbell,Mr. Knightley (#281),24
+Mrs. Campbell,Mrs. Elton,24
+Mr. Knightley,George,24
+Emma,Selina,24
+Mr. Weston,Mr. Suckling,24
+Isabella,the Mr. Knightleys,24
+Mr. Elton,Elizabeth,24
+Emma,Wright,24
+Nobody,Miss Fairfax,24
+Mrs. Dixon,Mrs. Elton,24
+Colonel Campbell,Mr. Woodhouse,24
+Emma,Mrs. Suckling,24
+Mr. Knightley,Miss Hawkins,24
+Miss Fairfax,Mr. William Cox,24
+Randalls,Mrs. Cole,24
+George,Mrs. Weston,24
+the Eltons,Mr. Woodhouse,24
+Maple Grove,Mr. Weston,24
+Emma,Serle,24
+Mrs. Bates,Mrs. Dixon,24
+Wright,Mrs. Elton,24
+Harriet,God,24
+Mrs. Elton,June,24
+Elizabeth,Mr. Martin,24
+Mrs. Elton,Mrs. Suckling,23
+Augusta,Mrs. Elton,23
+Mr. Suckling,Mr. Knightley (#281),23
+Serle,Mr. Woodhouse,23
+George,Mrs. Elton,23
+Mr. Knightley (#281),the Sucklings,23
+George,Mr. Woodhouse,23
+Henry,Mr. Cole,23
+Mrs. Perry,Mrs. Elton,23
+Miss Woodhouse,Nobody,23
+William Larkins,Mrs. Hodges,23
+Mr. Knightley,Somebody,23
+Emma,June,23
+Mrs. Campbell,Mr. Dixon,23
+Randalls,the Martins,23
+Mr. Knightley,Patty,23
+Mr. Weston,Nobody,23
+Hartfield,the Westons,22
+Nobody,Mr. Knightley (#281),22
+Mr. Elton,Henry,22
+Emma,Mrs. Hodges,22
+Mrs. Dixon,Miss Campbell,22
+Enscombe,Mrs. Elton,22
+Emma,Mrs. Bragge,22
+Harriet,the Coxes,22
+Miss Woodhouse,Miss Campbell,22
+Randalls,Papa,22
+Miss Bates,Miss Campbell,22
+Kitty,Mr. Woodhouse,22
+the Mr. Knightleys,Miss Fairfax,22
+Miss Fairfax,the Dixons,22
+Papa,Mrs. Weston,22
+Harriet,George,22
+the Churchills,Miss Fairfax,22
+the Coles,Mrs. Elton,22
+Nobody,Harriet,21
+Isabella,the Churchills,21
+Somebody,Mr. Woodhouse,21
+the Westons,Mrs. Bates,21
+Mrs. Weston,Mr. Suckling,21
+Mr. Martin,Mrs. Weston,21
+Mrs. Cole,the Campbells,21
+Miss Woodhouse,Papa,21
+Harriet,grandmama,21
+Isabella,George,21
+Emma,Miss,21
+Nobody,Mr. Knightley,21
+Miss Bates,Mrs. Hodges,21
+Donwell,William Larkins,21
+Papa,Mr. Woodhouse,21
+Miss Fairfax,Wright,21
+Miss Fairfax,Miss Hawkins,21
+Mr. Elton,Mrs. Perry,21
+Mr. Elton,Mr. Knightley (#127),21
+Mrs. Weston,Mr. E.,20
+Harriet,Miss Campbell,20
+Elizabeth,the Martins,20
+the Martins,Mrs. Martin,20
+Mr. Suckling,Selina,20
+Miss Fairfax,Mrs. Hodges,20
+the Dixons,Mr. Knightley (#281),20
+Mrs. Weston,Nay,20
+the Churchills,Mrs. John Knightley,20
+Patty,Mr. Knightley (#281),20
+Mrs. John Knightley,Donwell,20
+Mr. Knightley (#281),Mrs. Suckling,20
+Mrs. Campbell,Miss Campbell,20
+the Campbells,Mr. Suckling,20
+Randalls,Henry,20
+Miss Woodhouse,the Martins,20
+Harriet,Mr. Knightley (#127),19
+Harriet,the Mr. Knightleys,19
+Mr. Perry,Donwell,19
+Harriet,Patty,19
+Harriet,William Larkins,19
+Somebody,Mrs. Weston,19
+Mrs. Martin,Mrs. Elton,19
+Mr. Perry,Mrs. John Knightley,19
+Mrs. John Knightley,Mrs. Elton,19
+Mr. Knightley,Nay,19
+Mrs. Perry,Mrs. Bates,19
+Mrs. John Knightley,Mrs. Cole,19
+Emma,Kitty,19
+Maple Grove,Mr. Woodhouse,19
+Isabella,Mrs. Churchill,19
+Miss Woodhouse,Mrs. Campbell,19
+Randalls,the Westons,19
+Miss Woodhouse,grandmama,19
+James,Mrs. Bates,19
+Miss Woodhouse,Mrs. Hodges,19
+Hartfield,Mrs. Elton,19
+Mrs. Weston,Mrs. Hodges,18
+the Martins,Mrs. Weston,18
+Mrs. Bragge,Mr. Knightley (#281),18
+Miss Campbell,Mr. Knightley (#281),18
+Highbury,Mrs. Bates,18
+Miss Bates,Mrs. John Knightley,18
+Mr. Weston,Colonel Campbell,18
+Patty,Mrs. Elton,18
+Mr. Cole,the Coxes,18
+Miss Woodhouse,Selina,18
+Nobody,Mr. Woodhouse,18
+Miss Woodhouse,Wright,18
+Mr. Elton,Augusta,17
+Isabella,the Westons,17
+Mrs. Bates,Mr. Cole,17
+Mrs. Bates,the Coles,17
+Mrs. Churchill,Selina,17
+Miss Fairfax,Mrs. Suckling,17
+Colonel Campbell,Mrs. Smallridge,17
+Mr. Woodhouse,Mr. Suckling,17
+Miss Bates,William Larkins,17
+Miss Hawkins,Mrs. Elton,17
+Colonel Campbell,Mr. Suckling,17
+Mrs. Bates,Miss Campbell,17
+Mr. Perry,the Coles,17
+the Bateses,Mr. Knightley (#281),17
+Isabella,Colonel Campbell,17
+Miss Nash,Mr. Knightley (#127),17
+Mrs. Partridge,Mrs. Elton,17
+Miss Fairfax,the Sucklings,17
+the Martins,Miss Hawkins,17
+Donwell,Mrs. Hodges,17
+Randalls,the Bateses,17
+Mr. Woodhouse,Patty,17
+Mr. Weston,Mr. Cole,17
+Mrs. Martin,Mr. Knightley (#281),17
+Mr. Woodhouse,William Larkins,17
+Mr. Cole,Colonel Campbell,16
+grandmama,Mr. Knightley (#281),16
+Maple Grove,Mrs. Churchill,16
+June,Mr. Knightley (#281),16
+Mr. Elton,Mr. Suckling,16
+Emma,the Coxes,16
+Mrs. Stokes,Mr. Knightley (#281),16
+the Eltons,the Sucklings,16
+Highbury,Enscombe,16
+Miss Hawkins,Augusta,16
+Mr. Elton,grandmama,16
+Mr. Knightley (#281),Astley,16
+Isabella,Mr. Cole,16
+Mr. Martin,Astley,16
+Emma,Mrs. Stokes,16
+Mrs. Bragge,Mrs. Suckling,16
+Harriet,Augusta,16
+Miss Woodhouse,the Sucklings,16
+Harriet,Astley,16
+Mrs. Churchill,Mr. Suckling,16
+Mrs. Weston,Mrs. Suckling,16
+Harriet,Man,16
+James,the Westons,16
+the Churchills,Harriet,16
+Miss Woodhouse,Mrs. Stokes,16
+Mr. Weston,Ford,16
+Mrs. Weston,Mrs. Stokes,16
+James,Henry,16
+Mr. Knightley (#281),John,16
+Mr. Weston,the Bateses,16
+Miss Woodhouse,the Bateses,16
+Hartfield,James,16
+Mr. Weston,Nay,16
+Mrs. Hodges,Mrs. Elton,16
+Mrs. John Knightley,Mr. Wingfield,16
+Emma,Astley,16
+Emma,John,16
+Maple Grove,Mr. Suckling,16
+Harriet,the Bateses,16
+Colonel Campbell,Mrs. Bragge,16
+the Campbells,June,16
+Mr. Dixon,Mrs. Elton,16
+Miss Fairfax,Mrs. Bragge,16
+Mr. Knightley,grandmama,16
+Hartfield,Mr. Perry,16
+Donwell,Mr. E.,16
+Miss Bates,grandmama,16
+Mr. Elton,the Churchills,16
+Mr. Dixon,the Dixons,16
+Hartfield,Mr. Wingfield,16
+Nobody,Mrs. Elton,16
+Hartfield,Enscombe,16
+Colonel Campbell,the Coles,16
+Mr. Knightley,Mrs. Hodges,16
+Donwell,the Coles,16
+Mrs. Dixon,the Dixons,16
+Mr. Knightley,June,16
+Mr. Elton,George,16
+Nobody,Miss Bates,16
+Mr. Woodhouse,Mr. William Cox,16
+Miss Fairfax,Mr. Suckling,16
+Miss Fairfax,the Coxes,16
+Emma,Hitherto,16
+Mrs. Cole,Patty,16
+Mr. Elton,Shakespeare,16
+Miss Bates,the Eltons,16
+Wright,Mr. Knightley (#281),16
+Miss Bates,Mr. E.,16
+Mr. Knightley,Serle,16
+Miss Bates,Mrs. Smallridge,16
+Highbury,Mrs. Elton,16
+the Westons,Mrs. Elton,16
+Hartfield,Highbury,15
+Miss Bates,George,15
+Enscombe,Mrs. Perry,15
+Mrs. Bates,the Eltons,15
+Mrs. Cole,Mr. E.,15
+Harriet,Mrs. Dixon,15
+Miss Bates,John,15
+Enscombe,Isabella,15
+Mrs. Martin,Mr. Woodhouse,15
+Mrs. Bates,the Bateses,15
+Nobody,Mrs. Weston,15
+Maple Grove,Harriet,15
+Emma,Papa,15
+Miss Bates,Elizabeth,15
+Mr. Elton,Miss Campbell,15
+Nobody,Mr. Dixon,15
+Miss Woodhouse,Serle,15
+Miss Woodhouse,Somebody,15
+the Westons,the Coles,15
+Mr. Weston,Mr. E.,15
+Mr. Weston,Mrs. Suckling,15
+Maple Grove,Mr. Elton,14
+Maple Grove,Mr. Knightley,14
+Mr. Weston,Somebody,14
+Mrs. Churchill,Colonel Campbell,14
+the Churchills,Henry,14
+Mr. Knightley,Miss Bickerton,14
+Mr. Knightley,Elizabeth,14
+the Westons,Colonel Campbell,14
+Mr. Cole,Mrs. Elton,14
+Mrs. Churchill,Mrs. Smallridge,14
+Mrs. Cole,Miss Campbell,14
+the Mr. Knightleys,Mrs. Elton,14
+Harriet,Miss Bickerton,14
+Hartfield,Henry,14
+the Coxes,Mr. Knightley (#281),14
+Mrs. Weston,Selina,14
+Miss Fairfax,the Bateses,14
+Mr. Weston,the Mr. Knightleys,14
+Mrs. Elton,John,14
+Colonel Campbell,Donwell,14
+Miss Fairfax,Mr. E.,14
+Mr. Dixon,Wright,14
+Mr. Knightley,Mr. Suckling,14
+Highbury,Mrs. Perry,14
+Mr. Martin,Mrs. John Knightley,14
+Mrs. Bates,Serle,14
+Enscombe,Mr. Cole,14
+Emma,Miss Bickerton,14
+Henry,Mrs. Elton,14
+Mr. Perry,Miss Nash,13
+Randalls,Mrs. Smallridge,13
+Miss Woodhouse,Mrs. Bragge,13
+Randalls,Mr. William Cox,13
+Miss Bates,Mrs. Wallis,13
+Mr. Suckling,Mrs. Partridge,13
+Mr. Perry,Miss Campbell,13
+Mrs. Bates,Mrs. Wallis,13
+Mr. Weston,Miss,13
+Miss Bates,Serle,13
+Mr. Weston,Captain Weston,13
+Miss Bates,Mrs. Campbell,13
+Emma,Mrs. Wallis,13
+the Westons,Mrs. Cole,13
+Randalls,Mrs. Martin,13
+Mrs. Wallis,Mr. Knightley (#281),13
+Miss Bates,Mr. Suckling,13
+Miss Woodhouse,Mrs. Wallis,13
+Miss Bates,Wright,13
+Mrs. Weston,Mrs. Wallis,13
+Nobody,Mr. Elton,13
+Miss Fairfax,June,13
+Miss Nash,Mr. Cole,13
+Mr. William Cox,the Coxes,13
+Mr. Elton,Man,13
+Mr. Elton,William Larkins,13
+Henry,Mrs. Cole,13
+Mr. Elton,the Mr. Knightleys,13
+Mr. Elton,Miss Bickerton,13
+the Dixons,Mrs. Weston,13
+Maple Grove,Miss Bates,13
+Maple Grove,the Eltons,13
+Patty,Mrs. Wallis,13
+Miss Fairfax,Miss,13
+Nobody,Colonel Campbell,13
+Miss Woodhouse,the Mr. Knightleys,13
+Highbury,Miss Campbell,13
+Colonel Campbell,Mr. William Cox,13
+Serle,Mrs. Weston,13
+Mr. Woodhouse,Mrs. Stokes,13
+Mrs. Campbell,Mrs. Dixon,13
+Mrs. Campbell,Mr. Suckling,13
+Mr. Woodhouse,Mrs. Suckling,13
+Mr. Woodhouse,Miss Hawkins,13
+Mr. Woodhouse,Mrs. Wallis,13
+Isabella,Mrs. Perry,12
+Miss Fairfax,Mr. Wingfield,12
+Enscombe,Selina,12
+Miss Fairfax,Mrs. Wallis,12
+Highbury,Mr. Dixon,12
+Mr. Knightley,Papa,12
+Harriet,Mrs.,12
+Isabella,Papa,12
+Mr. Woodhouse,Selina,12
+Mr. Woodhouse,grandmama,12
+Cromer,Emma,12
+Cromer,Mr. Perry,12
+Mr. Perry,Mr. Martin,12
+Nobody,Mr. Martin,12
+Hartfield,Mrs. Cole,12
+Mr. Elton,Hitherto,12
+Mr. Weston,Mrs. Smallridge,12
+Colonel Campbell,John,12
+Colonel Campbell,Wright,12
+Isabella,Mr. Martin,12
+Isabella,Kitty,12
+Mr. Cole,Miss Hawkins,12
+Harriet,Mrs. Campbell,12
+Mrs. Weston,the Sucklings,12
+Mrs. Weston,Mrs.,12
+Captain Weston,Mrs. Weston,12
+Mrs. Weston,the Coxes,12
+Harriet,Mr. Wingfield,12
+Henry,William Larkins,12
+Mr. Weston,Mrs. Dixon,12
+Ford,Mrs.,12
+Miss Woodhouse (#122),Mr. Knightley (#127),12
+Mrs. Churchill,Mrs. Suckling,12
+Mrs. Weston,Mrs. Bragge,12
+Harriet,Mr. E.,12
+Harriet,Mrs. Wallis,12
+Emma,Mrs.,12
+Mr. Knightley (#281),Miss,12
+Mr. Martin,the Coxes,12
+Somebody,Mr. Knightley (#281),11
+Mrs. Weston,Mr. Elton.—She,11
+Harriet,Kitty,11
+Donwell,Patty,11
+Mr. Woodhouse,Miss Campbell,11
+Harriet,Hitherto,11
+Mr. Woodhouse,the Bateses,11
+Harriet,Neptune,11
+Randalls,Serle,11
+Mr. Woodhouse,Mrs. Hodges,11
+Mr. Perry,the Campbells,11
+Mr. Woodhouse,Mr. E.,11
+Highbury,the Campbells,11
+Hartfield,the Churchills,11
+Harriet,Mr. Elton.—She,11
+Mr. Perry,Colonel Campbell,11
+Hartfield,the Bateses,11
+Elizabeth,Miss Hawkins,11
+Mrs. Weston,June,11
+Emma,Voices,11
+Emma,Mrs. John Knightley.—“It,11
+Augusta,Mr. Suckling,11
+Miss Woodhouse (#122),Neptune,11
+Emma,Surry,11
+Miss Fairfax,Mrs. John Knightley.—“It,11
+Emma,Mr. Elton.—She,11
+Ford,Voices,11
+Mr. Suckling,Wright,11
+Miss Woodhouse,Captain Weston,11
+Mrs. Bates,Mr. Dixon,11
+Mr. Suckling,Mrs. Bragge,11
+Mrs. Weston,Voices,11
+Miss Woodhouse,Voices,11
+Surry,Mrs. Elton,11
+Mr. Dixon,Mr. Suckling,11
+Mr. Cole,Donwell,11
+Mr. Dixon,Miss Hawkins,11
+the Martins,Mr. Cole,11
+Harriet,the Dixons,11
+Mr. Knightley,Kitty,11
+James,Mrs. Cole,11
+Miss Bates,Voices,11
+the Churchills,Mr. Martin,11
+Miss Bickerton,Mr. Knightley (#281),11
+Miss Bates,Mr. Wingfield,11
+Mrs. Churchill,the Eltons,11
+Mr. Knightley,Mrs. Campbell,11
+Mrs. Churchill,Mrs. Perry,11
+Captain Weston,Mr. Knightley (#281),11
+Mr. Elton,the Coxes,11
+Mr. Knightley,Mr. Elton.—She,11
+Mr. Elton,Mr. Elton.—She,11
+Mrs. John Knightley,Astley,10
+Harriet,Mrs. Smallridge,10
+Mrs. Perry,Mr. Cole,10
+Emma,Man,10
+Miss Woodhouse,Surry,10
+Randalls,the Coxes,10
+Mr. Perry,Mr. Dixon,10
+Mrs. Perry,Mrs. John Knightley,10
+Elizabeth,Mr. Woodhouse,10
+Mr. Knightley,Mr. Knightley—“I,10
+Mr. Elton,John,10
+Miss Fairfax,Mr. Knightley—“I,10
+Mrs. Dixon,Wright,10
+Emma,Mr. Knightley—“I,10
+Mr. Elton,Somebody,10
+the Martins,Miss Nash,10
+Hartfield,Papa,10
+Harriet,Voices,10
+Hartfield,Serle,10
+Ford,Mrs. Wallis,10
+Mr. Woodhouse,the Campbells,10
+Mr. Knightley,Mr.,10
+Papa,Mr. Knightley (#281),10
+Harriet,Shakespeare,10
+Mr. Woodhouse,Ford,10
+Mrs. John Knightley.—“It,Mr. Woodhouse,10
+the Campbells,the Dixons,10
+Mrs. Hodges,Mr. E.,10
+Henry,the Coles,10
+Mrs. Weston,Mr. Knightley—“I,10
+James,Mr. Perry,10
+Donwell,Mrs. Bragge,10
+Mr. Martin,Anne Cox,10
+Mr. Knightley,the Martins,10
+Mr. Suckling,June,10
+Donwell,the Bateses,10
+Mrs. Bates,Mrs.,10
+Miss Bates,the Martins,10
+Miss Bates,the Bateses,10
+Patty,Ford,10
+Enscombe,Mrs. John Knightley,10
+Miss Woodhouse,Mrs.,10
+Mr. Elton,Mr.,10
+Donwell,Mrs. Smallridge,10
+Emma,Mr.,10
+Highbury,Mr. Martin,10
+Mrs. Cole,Mrs. Smallridge,10
+Donwell,Mrs. Suckling,10
+Miss Bates,Mr.,10
+Miss Hawkins,Mr.,10
+Highbury,Colonel Campbell,10
+Mr. Elton,Mrs. Campbell,10
+Isabella,Mrs. Bates,10
+Mrs. Bates,Mr. Wingfield,9
+Mrs. Bates,Mrs. Campbell,9
+James,Hannah,9
+Highbury,Elizabeth,9
+Emma,Mr. Knightley (#127),9
+Emma,Anna Weston,9
+Emma,Mr. Knightley.—It,9
+Mr. Knightley,Ah,9
+June,Mrs. Bragge,9
+Emma,Miss Smith!—Miss Smith,9
+Mr. Weston,the Sucklings,9
+Mr. Knightley,Mr. E.,9
+Isabella,Mrs. Campbell,9
+Mrs. Campbell,Mrs. Weston,9
+Emma,Adopt,9
+Miss Woodhouse,June,9
+Mrs. Bates,Voices,9
+Mr. Knightley (#281),Mr. Knightley.—It,9
+the Martins,Mr. Knightley (#281),9
+Miss Woodhouse,Ah,9
+James,Miss Fairfax,9
+Mrs. Martin,Miss Fairfax,9
+Mr. Martin,Mr. Knightley (#127),9
+Mr. Martin,the Mr. Knightleys,9
+Mrs. Weston,Ah,9
+Captain Weston,Mrs. Churchill,9
+Miss Fairfax,grandmama,9
+Captain Weston,Emma,9
+Miss Nash,Miss Woodhouse (#122),9
+Captain Weston,Miss Churchill,9
+Mr. Knightley (#281),Anna Weston,9
+Augusta,Mr. E.,9
+Miss Woodhouse,Hannah,9
+Henry,the Campbells,9
+Mr. Knightley (#281),Adopt,9
+Cromer,Mr. Woodhouse,9
+Colonel Campbell,Miss Hawkins,9
+Highbury,the Churchills,9
+William Larkins,Mrs. Elton,9
+Mrs. Bates,Mrs. Smallridge,9
+Mr. Weston,Miss Churchill,9
+the Churchills,Miss Bates,9
+Miss Woodhouse,Anna Weston,9
+Highbury,James,9
+Harriet,Miss Smith!—Miss Smith,9
+Mrs. Churchill,John,9
+Mr. Elton,Mr. Wingfield,9
+Miss Fairfax,God,9
+Mr. Suckling,Surry,9
+Mrs. Churchill,Mrs. Bates,9
+Mrs. Weston,God,9
+Miss Fairfax,Ah,9
+Elizabeth,Mrs. Cole,9
+Miss Fairfax,Voices,9
+the Campbells,Mrs. Bragge,9
+Mr. Martin,Miss Hawkins,9
+Hartfield,Colonel Campbell,9
+Mrs. Partridge,Mrs. Bragge,9
+Randalls,Miss Nash,9
+Mr. Perry,Mr. Knightley (#127),9
+the Coles,the Bateses,9
+Miss Bates,Mr. Knightley.—It,9
+Hartfield,Miss Smith!—Miss Smith,9
+Randalls,Captain Weston,9
+Mr. Knightley—“I,Mrs. Elton,9
+Mr. Perry,Mrs. Cole,9
+the Campbells,Mrs. Partridge,9
+Randalls,Colonel Campbell,9
+Harriet,the Sucklings,8
+Miss Fairfax,Adopt,8
+the Martins,Donwell,8
+Mr. Knightley (#281),Hazle,8
+Mr. Perry,Papa,8
+the Martins,Mrs. Cole,8
+Nobody,Miss Hawkins,8
+Mr. Perry,Mr. Perry.—I,8
+Mrs. Churchill,Mrs. John Knightley,8
+Mrs. Churchill,the Sucklings,8
+Mr. E.,Wright,8
+Mrs. Churchill,Mr. Cole,8
+Mr. Dixon,Mrs. (#1828),8
+Mr. Dixon,dear Mr. Richard?—Oh,8
+Serle,Mr. Cole,8
+Serle,Miss Fairfax,8
+Mrs. Weston,Wright,8
+Mrs. Weston,Both,8
+Mr. Knightley (#281),Miss Woodhouse.—Dear Miss Woodhouse,8
+Mr. Perry,Kitty,8
+Mr. Dixon,Miss Woodhouse.—Dear Miss Woodhouse,8
+Miss Fairfax,Miss Woodhouse.—Dear Miss Woodhouse,8
+Cromer,Mr. Perry.—I,8
+Mr. Elton,Patty,8
+the Sucklings,Mrs. Smallridge,8
+Maple Grove,Wright,8
+Mr. Woodhouse,Mr. Knightley?—Who,8
+James,Mr. Martin,8
+Mr. Woodhouse,Mrs. (#1828),8
+Harriet,Mr. Suckling,8
+Maple Grove,the Campbells,8
+Maple Grove,Mrs. Campbell,8
+Mrs. Martin,Miss Woodhouse (#122),8
+Mrs. Martin,Miss Nash,8
+Mr. Perry,Miss Woodhouse (#122),8
+Maple Grove,Colonel Campbell,8
+Mr. Knightley (#281),Mrs. (#1828),8
+Miss Campbell,Miss Hawkins,8
+Miss Campbell,the Dixons,8
+Hannah,Nobody,8
+Randalls,Ford,8
+James,the Coles,8
+Miss Fairfax,Mrs.,8
+Hartfield,Elizabeth,8
+Mr. Perry,Voices,8
+Mrs. Churchill,the Tupmans,8
+Mr. Perry,Mrs. Wallis,8
+Mrs. Weston,Mrs. Smallridge,8
+Mrs. Weston,Miss F,8
+Mrs. Weston,Miss W.,8
+Miss Fairfax,Selina,8
+Mrs. Weston,Mr. Knightley?—Who,8
+Harriet,Mr. Knightley.—“Emma,8
+Harriet,Mr. Knightley.—Were,8
+Miss Fairfax,Mrs. Stokes,8
+Mr. Woodhouse,Miss Woodhouse.—Dear Miss Woodhouse,8
+Miss Fairfax,dear Mr. Richard?—Oh,8
+Harriet,John,8
+Harriet,Hazle,8
+Miss Fairfax,Mrs. (#1828),8
+Harriet,June,8
+James,Donwell,8
+Miss Fairfax,Both,8
+Mr. Perry,Ford,8
+Miss Woodhouse,Mrs. Partridge,8
+Mr. Perry,Miss Hawkins,8
+Mrs. Weston,the Tupmans,8
+Mrs. Weston,dear Mr. Richard?—Oh,8
+Mrs. Suckling,Mrs. Smallridge,8
+Elizabeth,Mr. Cole,8
+Mrs. Churchill,Mr. William Cox,8
+Mrs. Weston,Mrs. (#1828),8
+Mrs. Weston,Miss Woodhouse.—Dear Miss Woodhouse,8
+Mr. Elton,Kitty,8
+Nobody,the Westons,8
+Somebody,Miss _ Gilbert,8
+Mr. Perry,Patty,8
+Mr. Dixon,Mrs. Stokes,8
+Somebody,the Coxes,8
+Somebody,Mr. William Cox,8
+Somebody,Miss Fairfax,8
+the Mr. Knightleys,Nay,8
+Patty,Miss Hawkins,8
+Mrs. Elton,Miss Woodhouse.—Dear Miss Woodhouse,8
+Hartfield,Mrs. Perry,8
+Hartfield,the Mr. Knightleys,8
+Hitherto,Mrs. Weston,8
+the Bateses,Nay,8
+Miss Bates,Miss Woodhouse.—Dear Miss Woodhouse,8
+Hitherto,Mr. Knightley (#281),8
+Mrs. Cole,grandmama,8
+Henry,George,8
+Augusta,Selina,8
+Miss Bates,Miss Bickerton,8
+Mr. Knightley (#127),Shakespeare,8
+Mr. Knightley (#127),Mr. Cole,8
+grandmama,Mrs. Elton,8
+Mr. Elton,Mrs. Hodges,8
+grandmama,Mrs. Weston,8
+Mrs. John Knightley,Mr. (#4622),8
+grandmama,Mr. William Cox,8
+Highbury,Miss Hawkins,8
+Mrs. John Knightley,Miss Campbell,8
+Mrs. John Knightley,Mr. Dixon,8
+Augusta,Mr. Knightley (#281),8
+Maple Grove,Mrs. Smallridge,8
+Miss Bates,Mrs. (#1828),8
+Maple Grove,the Tupmans,8
+George,Mrs. (#1828),8
+George,Miss Woodhouse.—Dear Miss Woodhouse,8
+George,Mrs. Stokes,8
+George,Mr. Dixon,8
+George,Mrs. Dixon,8
+George,Colonel Campbell,8
+George,Miss Fairfax,8
+George,grandmama,8
+George,Mr. William Cox,8
+Henry,Colonel Campbell,8
+Maple Grove,the Sucklings,8
+Henry,Astley,8
+Mr. Knightley (#281),Mr. Knightley.—“Emma,8
+Ford,the Bateses,8
+Mrs. Cole,Augusta,8
+Miss Bates,Selina,8
+Miss Bates,Mrs. Stokes,8
+Miss Bates,dear Mr. Richard?—Oh,8
+Mr. Elton,Wright,8
+the Eltons,the Campbells,8
+Mrs. Weston,Miss _ Gilbert,8
+Miss Woodhouse,Kitty,8
+James,Mrs. Stokes,8
+Mr. Martin,William Larkins,8
+Mr. Martin,Henry,8
+Captain Weston,the Churchills,8
+Both,Mrs. Elton,8
+James,Selina,8
+Highbury,Captain Weston,8
+Mr. Knightley (#281),Mr. (#5256),8
+James,Mrs. Elton,8
+the Coles,Miss Hawkins,8
+Miss Churchill,Mrs. Churchill,8
+Miss Churchill,Mrs. Weston,8
+Mrs. Elton,Mrs. (#1828),8
+Mrs. Suckling,the Sucklings,8
+Patty,Voices,8
+the Coles,Mr. Dixon,8
+Mr. Cole,Mr. Knightley—“I,8
+Mr. Woodhouse,Nay,8
+Miss Fairfax,John,8
+Mr. Elton,the Campbells,8
+Captain Weston,Mr. Woodhouse,8
+Maple Grove,Mrs. Perry,8
+Patty,Mrs. Hodges,8
+Mr. Knightley (#281),Mr. Knightley.—Were,8
+the Eltons,June,8
+Mr. Knightley (#281),Mr. Knightley?—Who,8
+Mr. William Cox,Mrs. Elton,8
+Mr. Elton,Anne Cox,8
+Mr. Elton,Nay,8
+Shakespeare,Mr. Cole,8
+Hartfield,Mr. Knightley?—Who,8
+Miss Nash,Anne Cox,8
+Miss Nash,Hitherto,8
+Miss Nash,the Coxes,8
+the Coles,Mr. William Cox,8
+Miss Nash,Shakespeare,8
+Maple Grove,Mrs. Bates,8
+Mr. Cole,Patty,8
+Patty,William Larkins,8
+Mrs. Elton,the Tupmans,8
+Mrs. Elton,dear Mr. Richard?—Oh,8
+Harriet,Miss _ Gilbert,8
+Harriet,Mr. (#4622),8
+Miss Woodhouse,dear Mr. Richard?—Oh,8
+Ah,Mr. Knightley (#281),8
+Emma,Mr. Knightley.—Were,8
+Mr. Weston,George,8
+Colonel Campbell,Patty,8
+Mrs. Perry,Mr. Wingfield,8
+Emma,Hazle,8
+the Westons,the Bateses,8
+Mr. Weston,Mr. Dixon,8
+Mr. Weston,Mrs. Stokes,8
+Emma,Mr. (#4622),8
+Randalls,the Campbells,8
+Mrs. Perry,Colonel Campbell,8
+Emma,Miss Woodhouse.—Dear Miss Woodhouse,8
+Emma,Mrs. (#1828),8
+Emma,dear Mr. Richard?—Oh,8
+Colonel Campbell,Mrs. Suckling,8
+Mr. Weston,dear Mr. Richard?—Oh,8
+Mr. Weston,Mrs. (#1828),8
+Emma,Both,8
+Mr. Weston,Miss Woodhouse.—Dear Miss Woodhouse,8
+Emma,Mr. Knightley.—“Emma,8
+Emma,Miss F,8
+Emma,Miss W.,8
+Mr. Woodhouse,Voices,8
+Isabella,Mr. Knightley?—Who,8
+Mr. Weston,Mr. William Cox,8
+Hartfield,the Coles,8
+Mr. Weston,the Coxes,8
+Mr. Weston,Miss _ Gilbert,8
+Colonel Campbell,Mrs. Stokes,8
+Mrs. Hodges,Wright,8
+Mrs. Bates,the Martins,8
+Colonel Campbell,Mrs. (#1828),8
+Emma,Mrs. S.,8
+Colonel Campbell,Miss Woodhouse.—Dear Miss Woodhouse,8
+Mrs. Bragge,Mrs. Smallridge,8
+Mr. Weston,the Tupmans,8
+Emma,Mr. (#5256),8
+Mr. Weston,June,8
+Randalls,Miss,8
+Emma,Mr. Knightley?—Who,8
+Isabella,God,8
+Emma,Mrs. Partridge,8
+Randalls,Miss W.,8
+James,Miss Bates,8
+Highbury,Donwell,8
+Emma,Mr. Perry.—I,8
+Mrs. Elton,Miss F,8
+Mr. Knightley,the Coxes,8
+the Westons,Wright,8
+the Campbells,the Sucklings,8
+Randalls,John,8
+the Campbells,Wright,8
+Isabella,John,8
+Mr. Knightley,Mrs. Wallis,8
+Isabella,Mrs. Martin,8
+Randalls,June,8
+Enscombe,Captain Weston,8
+Miss F,Miss W.,8
+Miss Bates,Somebody,8
+Mrs. Elton,Miss W.,8
+Randalls,the Eltons,8
+Mrs. Stokes,Miss Woodhouse.—Dear Miss Woodhouse,8
+Donwell,Mrs. Wallis,8
+Enscombe,Miss Churchill,8
+Donwell,Miss F,8
+Emma,Mrs. (#3425),8
+Mrs. Stokes,Mrs. (#1828),8
+Mr. Suckling,the Tupmans,8
+Mrs. Perry,Mr. Dixon,8
+Mrs. Perry,Miss Hawkins,8
+Mr. Weston,Mrs. Bragge,8
+Mr. Knightley,Both,8
+Randalls,Miss F,8
+the Westons,William Larkins,8
+Emma,Anne Cox,8
+the Westons,the Eltons,8
+Mrs. Elton,Mr. Knightley.—It,8
+the Campbells,God,8
+Highbury,Miss F,8
+Highbury,Miss W.,8
+Donwell,Miss W.,8
+the Campbells,Miss,8
+Mrs. Stokes,Mrs. Elton,8
+Mrs. Stokes,dear Mr. Richard?—Oh,8
+Mrs. Campbell,Mrs. Bragge,8
+June,the Sucklings,8
+James,Nobody,8
+Colonel Campbell,dear Mr. Richard?—Oh,8
+George,dear Mr. Richard?—Oh,8
+Mrs. Dixon,Patty,8
+Mr. Wingfield,Mr. Knightley (#281),8
+Mr. Woodhouse,Miss _ Gilbert,8
+the Coxes,Anne Cox,8
+Mr. Weston,Papa,8
+Mrs. Wallis,William Larkins,8
+Mrs. Wallis,Mrs. Hodges,8
+Harriet,Serle,8
+the Churchills,Mrs. (#3425),8
+Randalls,Nobody,8
+Maple Grove,Selina,8
+Enscombe,Mr. William Cox,8
+Voices,Mrs. Wallis,8
+Mr. Woodhouse,Mrs. Partridge,8
+Miss Fairfax,Astley,8
+Mr. Perry,Mr. Knightley.—“Emma,8
+Mr. Weston,Hannah,8
+Mr. Woodhouse,the Coxes,8
+Mr. Perry,Mrs. Partridge,8
+Harriet,Mrs. John Knightley.—“It,8
+Miss Woodhouse,Miss W.,8
+Nobody,the Coxes,8
+Voices,Mr. Knightley (#281),8
+Miss Woodhouse,Miss F,8
+Mr. Woodhouse,Augusta,8
+Miss Woodhouse,God,8
+Mr. Perry,Mrs. Smallridge,8
+Mrs. Cole,Mr. William Cox,8
+Mrs. John Knightley.—“It,Colonel Campbell,8
+dear Mr. Richard?—Oh,Miss Woodhouse.—Dear Miss Woodhouse,8
+dear Mr. Richard?—Oh,Mrs. (#1828),8
+Mrs. John Knightley.—“It,Mrs. Campbell,8
+Mr. Weston,William Larkins,8
+Mrs. Bates,Mrs. S.,8
+Mrs. Dixon,Miss Woodhouse.—Dear Miss Woodhouse,8
+Hartfield,Miss Bickerton,8
+Mrs. Bates,Mr. William Cox,8
+Mrs. (#1828),Miss Woodhouse.—Dear Miss Woodhouse,8
+William Larkins,Ah,8
+Mr. Knightley,Mrs. Suckling,8
+Harriet,Anne Cox,8
+Mrs. Hodges,Ah,8
+Miss Woodhouse,Miss Woodhouse.—Dear Miss Woodhouse,8
+Mr. Knightley,Mrs. Bragge,8
+Mr. Perry,Mr. (#5256),8
+Mr. Knightley (#281),Mrs. (#3425),8
+Mr. Woodhouse,Mrs. Dixon,8
+Mrs. Dixon,Mrs. Stokes,8
+Miss Woodhouse,Mrs. (#1828),8
+dear Mr. Richard?—Oh,Mr. Knightley (#281),8
+Mr. Woodhouse,dear Mr. Richard?—Oh,8
+Randalls,Hannah,8
+Colonel Campbell,Ford,8
+Mrs. Dixon,dear Mr. Richard?—Oh,8
+Miss Fairfax,Miss W.,8
+Nobody,Wright,8
+Miss Fairfax,Mr. (#5256),8
+Mrs. Bates,Henry,8
+Mrs. Dixon,Mrs. (#1828),8
+Mr. Knightley,Mrs. (#3425),8
+Mr. Knightley,the Dixons,8
+Miss Fairfax,Mrs. S.,8
+Miss Fairfax,Miss F,8
+Mrs. Bates,William Larkins,8
+Mrs. Bates,Mrs. Hodges,8
+Miss Woodhouse (#122),Mr. Woodhouse,7
+Hartfield,Mrs. Martin,7
+Nobody,Miss Woodhouse.—Dear Miss Woodhouse,7
+Miss Fairfax,Mr. Knightley.—Were,7
+Mrs. Campbell,Mrs. Partridge,7
+George,Wright,7
+Miss Woodhouse (#122),Kitty,7
+Mrs. Campbell,Mrs. Smallridge,7
+Miss Fairfax,Hazle,7
+Nobody,Miss Campbell,7
+Mr. Woodhouse,Wright,7
+Enscombe,Mrs. (#3425),7
+Mrs. Campbell,John,7
+Hartfield,Nay,7
+Enscombe,Maple Grove,7
+Colonel Campbell,Mrs. Partridge,7
+Nobody,the Martins,7
+Mr. Knightley,Miss Nash,7
+Nobody,Mrs. Dixon,7
+Cromer,Mr. Wingfield,7
+Colonel Campbell,the Dixons,7
+Nobody,Mrs. Churchill,7
+Mr. Cole,Ford,7
+Mr. Cole,the Bateses,7
+Mr. Woodhouse,Mrs. Bragge,7
+Enscombe,Mr. Perry,7
+Mrs. Cole,Mrs. Bragge,7
+Cromer,Mr. Knightley,7
+Nobody,Mrs. Stokes,7
+Mr. Knightley,the Sucklings,7
+Maple Grove,Mr. Dixon,7
+Enscombe,the Coles,7
+the Campbells,Ford,7
+Mr. Woodhouse,Miss Bickerton,7
+Mr. Knightley,Mr. Perry.—I,7
+Enscombe,the Westons,7
+Nobody,Selina,7
+Kitty,Mrs. Weston,7
+Nobody,Mrs. (#1828),7
+Enscombe,the Bateses,7
+Mr. Elton,Selina,7
+Nobody,dear Mr. Richard?—Oh,7
+Miss Hawkins,Mr. Suckling,7
+Mr. Woodhouse,Miss Smith!—Miss Smith,7
+Enscombe,William Larkins,7
+Mrs. Dixon,Mr. Suckling,7
+Mrs. Campbell,Mr. Woodhouse,7
+Hannah,Emma,7
+the Coles,Mr. Knightley—“I,7
+Highbury,Mr. E.,7
+Nobody,George,7
+the Eltons,Mrs. Suckling,7
+Miss Bates,Both,7
+Ford,Mr. William Cox,7
+Mrs. Churchill,Mrs. Martin,7
+Mr. Weston,Mrs. Hodges,7
+the Tupmans,Mr. Knightley (#281),7
+Mr. Weston,Serle,7
+the Churchills,Astley,7
+Hartfield,Mrs.,7
+William Larkins,Wright,7
+Mr. Weston,Hitherto,7
+William Larkins,Mr. E.,7
+the Churchills,the Bateses,7
+Miss Woodhouse,Mrs. Suckling,7
+Mrs. Churchill,the Coles,7
+Mrs. Churchill,Mrs. Cole,7
+Mrs. Churchill,Mr. Perry,7
+Miss Woodhouse,Miss Bickerton,7
+Harriet,Mrs. Hodges,7
+Emma,Miss _ Gilbert,7
+Nay,Mrs. Smallridge,7
+Harriet,Mrs. Bragge,7
+Harriet,Mrs. Suckling,7
+Mrs. Churchill,June,7
+Somebody,Mr. Cole,7
+Mrs. Churchill,William Larkins,7
+Serle,Mr. Knightley (#281),7
+Mrs. Churchill,Mrs. (#3425),7
+the Martins,Mr. William Cox,7
+Mrs. Martin,Mr. Elton.—She,7
+Mrs. Martin,the Mr. Knightleys,7
+Miss Churchill,Mr. Knightley (#281),7
+Miss Churchill,the Churchills,7
+Mr. Martin,Hitherto,7
+Mr. Weston,Wright,7
+Mrs. Perry,the Eltons,7
+Mr. Martin,Mr. Cole,7
+the Westons,Mr. Cole,7
+Wright,Miss Woodhouse.—Dear Miss Woodhouse,7
+Wright,Mrs. (#1828),7
+Wright,dear Mr. Richard?—Oh,7
+Miss Bates,Nay,7
+Randalls,Somebody,7
+Mrs. Elton,Hazle,7
+Mrs. Partridge,June,7
+Mr. Perry,Mrs. Stokes,7
+Mr. Perry,Augusta,7
+Mr. Perry,Selina,7
+Mr. Perry,God,7
+Isabella,Nay,7
+the Westons,Henry,7
+the Westons,Donwell,7
+Miss Bates,the Mr. Knightleys,7
+Mrs. Perry,Donwell,7
+the Westons,Mr. William Cox,7
+the Westons,George,7
+the Westons,Mrs. Dixon,7
+the Westons,Mr. Dixon,7
+the Westons,Mrs. Stokes,7
+the Westons,dear Mr. Richard?—Oh,7
+the Westons,Mrs. (#1828),7
+the Westons,Miss Woodhouse.—Dear Miss Woodhouse,7
+Hartfield,Ford,7
+Mrs. Stokes,Wright,7
+Isabella,Mrs. Cole,7
+Mrs. Elton,Mrs. S.,7
+Isabella,Mrs. John Knightley.—“It,7
+Randalls,Mrs. Campbell,7
+Miss Bates,Mr. Knightley—“I,7
+the Churchills,Mrs. Bates,7
+Mr. Elton,God,7
+the Bateses,Mr. William Cox,7
+Miss Nash,Kitty,7
+Henry,Nay,7
+Miss Nash,Mr. Woodhouse,7
+George,the Mr. Knightleys,7
+Miss Woodhouse,Miss Churchill,7
+Hartfield,William Larkins,7
+Mr. Elton,Mrs. Bragge,7
+Mr. Elton,Astley,7
+Mrs. John Knightley,the Mr. Knightleys,7
+Mrs. John Knightley,Nay,7
+Miss Woodhouse,Mr.,7
+Mr. Woodhouse,June,6
+the Churchills,William Larkins,6
+the Eltons,the Mr. Knightleys,6
+Miss Woodhouse (#122),Man,6
+William Larkins,Astley,6
+Henry,Miss Bickerton,6
+Mrs. John Knightley,Colonel Campbell,6
+Mrs. John Knightley,Mr. Cole,6
+Mr. Woodhouse,the Sucklings,6
+Mr. Perry,Mr. E.,6
+the Churchills,the Mr. Knightleys,6
+the Churchills,Nay,6
+Mrs. Smallridge,John,6
+Mrs. John Knightley,Miss Hawkins,6
+the Churchills,the Westons,6
+Mr. Woodhouse,the Tupmans,6
+Miss Woodhouse,Mr. Knightley.—It,6
+Mr. Elton,the Tupmans,6
+Mr. Weston,the Martins,6
+Colonel Campbell,June,6
+Enscombe,Mr. Suckling,6
+Henry,Both,6
+Miss Woodhouse,Nay,6
+Mr. Knightley,Mrs. Dixon,6
+Mr. Elton.—She,Mr. Knightley (#281),6
+Miss Woodhouse,Mr. (#5256),6
+James,Miss Smith!—Miss Smith,6
+Mr. Knightley,Miss Smith!—Miss Smith,6
+Maple Grove,the Westons,6
+Miss _ Gilbert,Mr. Knightley (#281),6
+Mr. Knightley,the Tupmans,6
+Mrs. Perry,the Westons,6
+Mr. Weston,Mr. Knightley?—Who,6
+Mr. Weston,Mr. (#5256),6
+Isabella,Hannah,6
+the Westons,the Mr. Knightleys,6
+Mr. Perry.—I,Mr. Woodhouse,6
+the Eltons,Mr. Cole,6
+Mrs. Perry,Mrs. Smallridge,6
+Highbury,the Coles,6
+the Eltons,Shakespeare,6
+Augusta,Mrs. Partridge,6
+Mr. Elton,Mr. Knightley—“I,6
+Mrs. John Knightley,William Larkins,6
+James,the Campbells,6
+Isabella,Mrs. Bragge,6
+Mrs. Campbell,June,6
+Mr. Weston,the Dixons,6
+Highbury,Kitty,6
+Mr. Knightley,Selina,6
+Mr. Wingfield,Mrs. Weston,6
+Mrs. Bates,Elizabeth,6
+Mrs. Bates,Somebody,6
+Hartfield,Hitherto,6
+Selina,Mr. E.,6
+Emma,the Tupmans,6
+Miss Woodhouse (#122),Shakespeare,6
+Mrs. Perry,Serle,6
+Selina,Mrs. Partridge,6
+Emma,Ah,6
+Randalls,Ah,6
+Mr. Woodhouse,Mr.,6
+Mr. Weston,Augusta,6
+Mr. Knightley,Hitherto,6
+Mr. Wingfield,Mrs. John Knightley.—“It,6
+Nobody,Mr. Cole,6
+Isabella,Mrs. Suckling,6
+the Martins,the Coxes,6
+Hannah,Mr. Woodhouse,6
+Hannah,Mr. Knightley,6
+the Mr. Knightleys,Mr. Wingfield,6
+Elizabeth,grandmama,6
+Mrs. Churchill,Mrs. Dixon,6
+Hartfield,Somebody,6
+the Mr. Knightleys,Mrs. Weston,6
+Serle,the Coles,6
+Serle,Mrs. Cole,6
+Mr. Cole,grandmama,6
+Mr. Cole,the Campbells,6
+Hartfield,Mr. Dixon,6
+Miss Nash,Mrs. Weston,6
+Mrs. Martin,Nay,6
+Highbury,Selina,6
+the Martins,Anne Cox,6
+Miss Bates,Mrs. Bragge,6
+the Martins,Ford,6
+the Martins,the Bateses,6
+Captain Weston,Mrs. Perry,6
+James,Mr. Cole,6
+Miss Campbell,grandmama,6
+Miss Campbell,Mrs. Weston,6
+Mr. Elton,Miss Smith!—Miss Smith,6
+Mr. Knightley,Mr. Knightley (#127),6
+Miss Woodhouse,the Coxes,6
+Mrs. Martin,Donwell,6
+James,Mrs. John Knightley,6
+Highbury,Augusta,6
+Miss Bates,Mrs. S.,6
+Mrs. Weston,Mr. (#5256),6
+Nobody,Mrs. Perry,6
+Miss Woodhouse,Miss Smith!—Miss Smith,6
+Mr. Martin,the Eltons,6
+Highbury,the Dixons,6
+Mrs. Elton,Mr. Elton.—She,6
+Mrs. Cole,the Bateses,6
+Miss Woodhouse,Mr. Elton.—She,6
+Mr. Woodhouse,Mr. (#5256),6
+Mr. Elton,Mrs. Smallridge,6
+Captain Weston,Miss Bates,6
+Nobody,the Coles,6
+Nobody,Mr. Perry,6
+Highbury,the Martins,6
+Mr. Elton,Mrs. Dixon,6
+Mr. Cole,Mr.,6
+Mrs. Weston,Miss,6
+Enscombe,Mr. Knightley?—Who,6
+Harriet,Nay,6
+Somebody,the Eltons,6
+Somebody,Elizabeth,6
+James,the Churchills,6
+Miss Bates,the Sucklings,5
+Miss Bates,Mrs.,5
+Mrs. Cole,Mr.,5
+Highbury,Miss Woodhouse (#122),5
+Miss Bates,Ah,5
+Miss Bates,Mr. Elton.—She,5
+Highbury,Miss Nash,5
+Donwell,Wright,5
+Donwell,Mr. Dixon,5
+Highbury,Mrs. Cole,5
+Randalls,Miss Churchill,5
+the Coles,Mrs. Smallridge,5
+Mr. Elton,Mr. Knightley.—Were,5
+Mrs. Elton,Adopt,5
+George,Anna Weston,5
+Mr. Woodhouse,Miss,5
+Randalls,William Larkins,5
+Ford,William Larkins,5
+Randalls,Elizabeth,5
+Highbury,Mrs. Partridge,5
+Mr. Perry,Mr. Suckling,5
+Mr. Knightley (#281),Miss F,5
+Mr. Knightley,Mrs. John Knightley.—“It,5
+Mr. Knightley,Miss Churchill,5
+Mr. Knightley,Captain Weston,5
+the Coles,Miss Campbell,5
+Miss Bates,Mrs. Suckling,5
+Randalls,Mrs. Hodges,5
+Mr. Perry,the Mr. Knightleys,5
+Mr. Perry,Miss,5
+Ford,Mrs. Hodges,5
+Mr. Woodhouse,the Dixons,5
+Mrs. Cole,the Dixons,5
+Mr. Cole,Anne Cox,5
+Mrs. Bates,Mr. E.,5
+Nay,Mr. Knightley (#281),5
+Miss Nash,Mr. William Cox,5
+Mrs. Churchill,Mrs. Campbell,5
+Mrs. Churchill,Mr. Knightley.—It,5
+Nobody,Mrs. John Knightley,5
+Nobody,Mrs. Cole,5
+Mr. William Cox,Anne Cox,5
+Mr. Dixon,grandmama,5
+Mr. Elton,Miss Churchill,5
+Mr. Elton,Captain Weston,5
+Voices,Mrs.,5
+Mrs. Churchill,the Dixons,5
+Miss Woodhouse,Mr. Wingfield,5
+Mr. Weston,Mrs. Campbell,5
+Mr. Knightley (#127),the Eltons,5
+Enscombe,Colonel Campbell,5
+Nay,Mrs. Elton,5
+Miss Nash,the Eltons,5
+the Churchills,June,5
+Miss Fairfax,Augusta,5
+Mr. Martin,George,5
+Mr. Martin,Shakespeare,5
+Patty,Mr.,5
+Mr. Martin,Kitty,5
+Mr. Martin,Mr. William Cox,5
+Highbury,Mrs. Churchill,5
+Mr. Elton,Serle,5
+Mrs. Martin,Mrs. John Knightley,5
+Mrs. Martin,Mrs. Suckling,5
+Mrs. Martin,Mrs. Bragge,5
+Mr. Martin,Nay,5
+Elizabeth,Mrs. Weston,5
+Mr. Knightley (#281),Mr. (#4622),5
+Mr. Cole,Mr. Dixon,5
+Harriet,Mr. Knightley.—It,5
+James,Colonel Campbell,5
+Highbury,Mrs. Campbell,5
+Mr. Weston,Hazle,5
+Mr. Knightley (#281),Miss W.,5
+Mrs. Campbell,Wright,5
+Highbury,Somebody,5
+Enscombe,Hitherto,5
+Isabella,Nobody,5
+Randalls,Mr. Knightley.—It,5
+Mrs. John Knightley,George,5
+Randalls,Mr. Dixon,5
+Mrs. Perry,Miss Campbell,5
+Emma,Shakespeare,5
+Donwell,Nay,5
+Miss Churchill,Emma,5
+Mrs. Perry,the Mr. Knightleys,5
+Randalls,Astley,5
+Mr. Knightley,Ford,5
+Donwell,Ford,5
+Highbury,the Westons,5
+Mrs. John Knightley,Mr. Knightley?—Who,5
+Mrs. Bates,Mr. Martin,5
+the Eltons,Mr. E.,5
+Isabella,Mrs. Stokes,5
+Augusta,Surry,4
+Mr. Dixon,Selina,4
+Mrs. Weston,Anne Cox,4
+Highbury,Miss Churchill,4
+Adopt,Hazle,4
+God,Mr. Knightley.—“Emma,4
+Ford,Anne Cox,4
+Hartfield,Mr. Martin,4
+Mr. Suckling,dear Mr. Richard?—Oh,4
+the Bateses,the Coxes,4
+Mrs. Partridge,Mr. E.,4
+Selina,Miss Woodhouse.—Dear Miss Woodhouse,4
+Selina,Mrs. (#1828),4
+Ford,the Coxes,4
+Selina,dear Mr. Richard?—Oh,4
+the Bateses,Anne Cox,4
+Mr. E.,Mrs. Bragge,4
+Surry,Selina,4
+Mrs. Weston,Mrs. S.,4
+Mrs. Cole,Mrs. Suckling,4
+Mr. William Cox,Mr. Elton.—She,4
+Mr. Suckling,Miss Woodhouse.—Dear Miss Woodhouse,4
+Mr. Suckling,Mrs. (#1828),4
+Mrs. Dixon,Selina,4
+Mrs. Stokes,Mr. Suckling,4
+Mrs. Stokes,Selina,4
+grandmama,Mr. Elton.—She,4
+Mr. Martin,the Bateses,4
+Elizabeth,Serle,4
+Hitherto,the Coles,4
+Mr. Wingfield,Colonel Campbell,4
+Mr. Wingfield,Mrs. Campbell,4
+Mr. Knightley (#127),Mr. Woodhouse,4
+Mr. Knightley (#127),Kitty,4
+Harriet,Adopt,4
+Mr. Perry,the Westons,4
+Hitherto,Donwell,4
+Maple Grove,Isabella,4
+Enscombe,the Eltons,4
+Miss Bates,June,4
+Somebody,Mr. Martin,4
+Mrs. Bates,Miss Nash,4
+Miss Woodhouse (#122),the Eltons,4
+Colonel Campbell,Mrs.,4
+Mr. Knightley (#127),Neptune,4
+Maple Grove,the Mr. Knightleys,4
+George,Mr. Elton.—She,4
+Mrs. Bates,Mr. Knightley—“I,4
+Mrs. Bates,the Coxes,4
+Mr. Weston,grandmama,4
+Mrs. Bates,Anne Cox,4
+Isabella,the Campbells,4
+Isabella,the Eltons,4
+Isabella,Patty,4
+Mrs. Bates,the Mr. Knightleys,4
+Enscombe,Mrs. Cole,4
+Isabella,the Coles,4
+Maple Grove,Mr. Knightley—“I,4
+the Westons,Papa,4
+Cromer,Mrs. John Knightley,4
+the Eltons,Miss Bickerton,4
+Mrs. John Knightley,Mr. Perry.—I,4
+Colonel Campbell,Selina,4
+Mr. Cole,Miss Campbell,4
+Randalls,Patty,4
+Mr. Martin,Mrs. Cole,4
+Randalls,Miss Hawkins,4
+Henry,the Bateses,4
+Mrs. Churchill,the Westons,4
+the Martins,Augusta,4
+Miss Churchill,Mr. Woodhouse,4
+Mr. Woodhouse,Surry,4
+Mr. Woodhouse,Mr. Elton.—She,4
+the Churchills,Mrs. Martin,4
+Mr. Elton,the Dixons,4
+James,Mr. E.,4
+Mr. Martin,Ford,4
+Miss Nash,Ford,4
+Miss Nash,the Bateses,4
+Mrs. John Knightley,the Campbells,4
+Elizabeth,Miss Campbell,4
+Mrs. Churchill,Mrs. Bragge,4
+George,Selina,4
+Elizabeth,Mrs. Martin,4
+Enscombe,Donwell,4
+Enscombe,Mr. Dixon,4
+Randalls,Hitherto,4
+Mrs. Perry,Mr. Knightley—“I,4
+George,Mr. Suckling,4
+Donwell,the Campbells,4
+Randalls,Anne Cox,4
+Miss Bates,Mr. Martin,4
+Maple Grove,Nobody,4
+Randalls,Selina,4
+Mrs. Cole,Mrs. Hodges,3
+Mrs. John Knightley,Papa,3
+Voices,William Larkins,3
+Mrs. Bates,June,3
+Elizabeth,Mr. Dixon,3
+Mrs. Bates,Mrs. Bragge,3
+Mrs. Bates,Mrs. Suckling,3
+the Coxes,Miss _ Gilbert,3
+Mr. Weston,Mr. Perry.—I,3
+Voices,Mrs. Hodges,3
+Hartfield,Mr. Knightley.—Were,3
+Highbury,the Bateses,3
+Mr. Perry,Miss W.,3
+Mr. Weston,Ah,3
+the Churchills,Mrs. Perry,3
+Miss Bates,Anne Cox,3
+Miss Bates,the Coxes,3
+Miss Bates,Miss Nash,3
+Miss Bates,Mrs. Martin,3
+Mrs. Elton,Anna Weston,3
+Mrs. Elton,Mr. Knightley?—Who,3
+Randalls,Mr. (#5256),3
+the Churchills,Mrs. Elton,3
+James,Somebody,3
+Mr. Weston,Mr. Knightley.—It,3
+Mr. Knightley (#281),Mrs.,3
+James,the Bateses,3
+Mr. Elton,Mrs. Partridge,3
+James,June,3
+John,Mr. Knightley.—It,3
+Mr. Knightley,Miss _ Gilbert,3
+Mr. Knightley,Voices,3
+Nobody,Mr. Suckling,3
+Randalls,Mr. Perry.—I,3
+Miss Bates,Hazle,3
+Miss Bates,Mr. Knightley.—Were,3
+Randalls,Mr. Knightley (#127),3
+Isabella,Mr. Suckling,3
+Isabella,the Tupmans,3
+Isabella,Mr. Knightley.—It,3
+the Westons,Selina,3
+the Westons,Mr. Suckling,3
+Isabella,Mr. Knightley.—Were,3
+Isabella,Anna Weston,3
+Mr. Perry,Miss F,3
+Mr. Perry,the Sucklings,3
+Mr. Perry,June,3
+Selina,Wright,3
+Mr. Perry,the Eltons,3
+Mr. Perry,Surry,3
+Mr. Perry,Mrs. Hodges,3
+Mr. Perry,William Larkins,3
+Mr. Perry,Mrs. Dixon,3
+Mr. Perry,Mrs. John Knightley.—“It,3
+Mr. William Cox,Miss _ Gilbert,3
+Miss,Mr. (#5256),3
+Miss Woodhouse,Miss Nash,3
+Mrs. Dixon,Mrs. Smallridge,3
+the Eltons,Mr. Knightley—“I,3
+Patty,Mrs. S.,3
+Patty,Mrs. Smallridge,3
+Patty,Mrs. Suckling,3
+Patty,Mrs. Bragge,3
+Maple Grove,Mrs. Dixon,3
+Cromer,Mr. Weston,3
+Miss Fairfax,Mr.,3
+Miss Fairfax,Miss _ Gilbert,3
+Enscombe,Nobody,3
+Mr. Wingfield,Mr. Perry.—I,3
+Mr. Wingfield,Patty,3
+Mrs. Dixon,Mrs. Suckling,3
+Hitherto,Miss Fairfax,3
+Mrs. Dixon,Mrs. Bragge,3
+Colonel Campbell,the Sucklings,3
+Mrs. Campbell,Ford,3
+Mrs. Campbell,the Sucklings,3
+Donwell,Voices,3
+Donwell,the Sucklings,3
+Donwell,Mrs. Dixon,3
+Donwell,Mr. Knightley.—Were,3
+Mr. Woodhouse,Ah,3
+Mr. Woodhouse,Mr. Knightley—“I,3
+Mr. Woodhouse,Mr. Knightley.—Were,3
+Mr. Woodhouse,God,3
+Hitherto,the Bateses,3
+Cromer,Randalls,3
+Henry,June,3
+Mrs. John Knightley,the Coles,3
+Henry,Papa,3
+Mrs. John Knightley,Patty,3
+Mr. Dixon,Mr. William Cox,2
+Enscombe,Mrs. Dixon,2
+Randalls,the Sucklings,2
+Mr. Knightley,Miss Woodhouse (#122),2
+Donwell,Miss Hawkins,2
+Randalls,Mr. E.,2
+Mr. Martin,Donwell,2
+Mrs. Dixon,Mr. William Cox,2
+Mrs. Campbell,Mrs. Cole,2
+Hartfield,Mrs. Smallridge,2
+Enscombe,the Campbells,2
+Randalls,Mr. Wingfield,2
+Mr. Martin,Augusta,2
+Randalls,Mr. Knightley?—Who,2
+Maple Grove,John,2
+Miss Bates,Mr. Knightley?—Who,2
+Maple Grove,Randalls,2
+Mr. Perry,Mrs. Campbell,2
+Mr. Perry,Mrs.,2
+the Martins,grandmama,2
+Mr. Perry,Mrs. S.,2
+Isabella,Astley,2
+Surry,Mrs. Partridge,2
+the Westons,Somebody,2
+the Westons,Hitherto,2
+Mrs. Perry,Mr. Knightley?—Who,2
+Mr. Martin,Mrs. Elton,2
+Cromer,Harriet,2
+Miss Nash,Mr. Knightley (#281),2
+Mr. Woodhouse,Astley,2
+Mr. Woodhouse,Mrs. Smallridge,2
+Mr. Knightley,Mr. (#4622),2
+the Sucklings,John,2
+James,the Eltons,2
+James,Mrs. Churchill,2
+Mrs. Cole,Mr. Knightley?—Who,2
+Mrs. John Knightley,grandmama,2
+Mr. Elton,Ford,2
+Mr. Elton,the Bateses,2
+Mr. Elton,Surry,2
+Mr. Elton,the Sucklings,2
+the Campbells,Nay,2
+Captain Weston,Mr. Perry,2
+Miss Churchill,Mrs. Perry,2
+Miss Churchill,Miss Bates,2
+James,Mrs. Perry,2
+Mr. Woodhouse,Mrs.,2
+Mrs. Churchill,the Campbells,2
+Mrs. Churchill,Mr. Dixon,2
+Highbury,Mr. Knightley (#127),2
+Mrs. Churchill,Henry,2
+the Campbells,Mr. William Cox,2
+Mrs. Churchill,Nay,2
+the Westons,Mr. Knightley—“I,2
+Somebody,Serle,2
+Miss Woodhouse,Mr. (#4622),2
+Serle,the Martins,2
+Harriet,Mr. Knightley—“I,2
+Harriet,Surry,2
+Miss Hawkins,Surry,2
+Elizabeth,Donwell,2
+Man,Neptune,2
+Miss Woodhouse,John,2
+Mr. Cole,Mrs. Dixon,2
+Miss Woodhouse,Mrs. S.,2
+Mr. Weston,Mr. Elton.—She,2
+Mrs. Bates,Mrs. Martin,2
+Patty,Mrs.,2
+Mr. Knightley (#127),Man,2
+Anne Cox,Mr. Knightley (#281),2
+Harriet,Mr. Perry.—I,2
+Miss Woodhouse,Astley,2
+Harriet,Miss F,2
+Maple Grove,Mr. Cole,2
+Hartfield,the Eltons,2
+Mrs. Wallis,Mrs.,2
+Harriet,Anna Weston,2
+the Mr. Knightleys,Mr. Knightley (#281),2
+Henry,the Eltons,2
+Isabella,Elizabeth,2
+the Eltons,Donwell,2
+Serle,Mrs. Martin,2
+Harriet,Miss W.,2
+Mr. Cole,Ah,2
+Mr. Cole,Miss _ Gilbert,2
+Mr. Cole,Both,2
+Miss Woodhouse,Mr. Knightley—“I,2
+Henry,Mr. Wingfield,1
+James,Elizabeth,1
+Mrs. John Knightley,Anna Weston,1
+Mrs. Churchill,Donwell,1
+Donwell,Mr. Knightley?—Who,1
+the Campbells,the Bateses,1
+Miss Woodhouse,Miss,1
+the Mr. Knightleys,Astley,1
+the Coxes,Ah,1
+Harriet,Mrs. S.,1
+Highbury,Mr. Suckling,1
+the Coles,Mr.,1
+George,Mr. Wingfield,1
+Harriet,Mr. (#5256),1
+Mr. Elton,Mr. Perry.—I,1
+Mrs. Weston,Mr. Knightley.—Were,1
+Mrs. Weston,Anna Weston,1
+Mr. Weston,Mrs. (#3425),1
+Hitherto,Mr. Woodhouse,1
+Harriet,Wright,1
+Mr. Elton,Mr. (#4622),1
+Nay,Astley,1
+Mr. Elton,Mr. Knightley?—Who,1
+Harriet,Ah,1
+the Campbells,Both,1
+Elizabeth,Augusta,1
+Mrs. Perry,Mr.,1
+Mr. Martin,Mr. (#5256),1
+Mr. Wingfield,Donwell,1
+Mr. Perry,Mr.,1
+Mr. Weston,Miss W.,1
+Mr. Weston,Anna Weston,1
+Mr. Dixon,Mr.,1
+Miss Woodhouse (#122),Mr. Cole,1
+Mr. Wingfield,Papa,1
+Miss Woodhouse,Miss _ Gilbert,1
+Miss Fairfax,Miss Bickerton,1
+the Martins,Mr. Woodhouse,1
+Cromer,Miss Fairfax,1
+Cromer,Mrs. John Knightley.—“It,1
+Mr. Cole,Mrs. Hodges,1
+Serle,Mr. Martin,1
+the Westons,Mrs. John Knightley,1
+Mr. William Cox,Ah,1
+Isabella,Mr. E.,1
+Mr. Weston,Miss F,1
+Mr. Cole,William Larkins,1
+Mr. Wingfield,Mrs. Elton,1
+Mrs. Campbell,the Dixons,1
+Miss Hawkins,grandmama,1
+William Larkins,Mrs. Smallridge,1
+Cromer,Mr. Elton,1
+Enscombe,Mrs. Bates,1
+Mrs. Campbell,Miss Hawkins,1
+Randalls,Mrs. Stokes,1
+Randalls,Miss _ Gilbert,1
+Randalls,Mr.,1
+Randalls,George,1
+Miss Bates,the Dixons,1
+Maple Grove,the Coles,1
+Colonel Campbell,the Bateses,1
+Colonel Campbell,Mr.,1
+Mrs. Bates,Hitherto,1
+Mr. Weston,Adopt,1
+Miss Woodhouse,the Dixons,1
+Somebody,Ah,1

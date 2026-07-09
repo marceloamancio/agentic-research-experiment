@@ -1,0 +1,9 @@
+booknlp
+torch
+transformers
+spacy
+networkx
+pandas
+matplotlib
+requests
+tqdm

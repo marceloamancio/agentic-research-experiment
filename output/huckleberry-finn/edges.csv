@@ -1,0 +1,894 @@
+source,target,weight
+Huck,Jim,224
+Jim,Aunt Sally,224
+Jim,Huck (#115),188
+Jim,Uncle Silas,125
+Uncle Silas,Aunt Sally,96
+Jim,Sid,93
+Jim,Pap,93
+Jim,Jack,68
+Mary Jane,Susan,67
+Jim,Mars Tom,62
+Mary Jane,Harvey,58
+Jim,Dey,58
+Mary Jane,William,57
+Aunt Sally,Sid,55
+Jim,Buck,53
+Peter,William,51
+Mary Jane,Peter,51
+Jim,Doan,50
+Jim,Aunt Polly,48
+Huck,Aunt Sally,46
+Uncle Silas,Sid,45
+Buck,Harney,43
+Huck (#115),Jack,42
+Jim,Jim (#165),42
+Jim,Ben Rogers,42
+Jim,Aunty,41
+Buck,Miss Sophia,40
+Jim,Judge Thatcher,39
+Judge Thatcher,Pap,39
+Jim,Mary Jane,38
+William,Harvey,38
+Huck,Huck (#115),37
+Mary Jane,Mr. Lothrop,37
+Peter,Harvey,37
+Huck,Uncle Silas,36
+Jim,Bob,36
+Mary Jane,the Proctors,35
+Jim,Jo Harper,34
+Jim,Bill,33
+Jim,the Snake Old Hank Bunker,33
+Jim,Sis,33
+Huck,Judge Thatcher,33
+Jim,Sollermun,32
+Harney,Miss Sophia,32
+Jim,Le,32
+Jim,De,32
+Jim,Shucks,31
+Jim,Juliet,30
+Bill,Jim (#184),29
+Juliet,Romeo,29
+Aunt Sally,Aunty,27
+Buck,Bob,27
+Jim,Bilgewater,26
+Huck (#115),Jim (#165),26
+Huck (#115),Sollermun,26
+Huck (#115),Judge Thatcher,26
+Aunt Sally,Aunt Polly,25
+Aunt Sally,Sis,25
+Aunt Polly,Sid,24
+Jim,Pa,24
+Jim,Looky,24
+Mary Jane,Jo Harper,24
+Buck,Shepherdsons,24
+Huck (#115),Pap,23
+Jim,Solomon,23
+Abner Shackleford,Dr. Robinson,23
+Bill,Packard,23
+Jim,Tom,23
+Sherburn,Colonel Sherburn,23
+Jo Harper,Ben Rogers,22
+Bill,Buck,22
+Jim,Phelps,22
+Solomon,Sollermun,22
+Huck,Mars Tom,22
+Jim,Sarah,21
+Huck (#115),Doan,21
+Judge Thatcher,Aunt Polly,21
+Jim,Harney,21
+Pap,the Snake Old Hank Bunker,20
+Jim,Romeo,20
+Jim,Providence,19
+Huck (#115),Ben Rogers,19
+Jim (#165),Le,19
+Juliet,Richard III,19
+Jim (#184),Packard,19
+Pap,Juliet,19
+Jim,Mr. Archibald Nichols,19
+Harvey,Levi Bell,18
+Huck (#115),Dey,18
+Jim,Nat,18
+Jim,goodness,18
+Buck,Emmeline,18
+Mary Jane,Dr. Robinson,18
+Jim,Gimme,18
+Mrs. Phelps,Sis,18
+Mr. Archibald Nichols,Aunt Sally,18
+Huck,Pap,18
+George,Peter,18
+Aunt Sally,Mrs. Phelps,18
+George,Harvey,17
+Romeo,Richard III,17
+Jim,Moses,17
+Harvey,Susan,17
+George,William,17
+Huck (#115),Solomon,17
+Jim,Dad,17
+Jim,George,17
+Doan,Jack,17
+Huck (#115),De,17
+Jim,Sid (#367),16
+Uncle Silas,Aunt Polly,16
+Jim,Huck The Duke,16
+Mary Jane,Abner Shackleford,16
+Pap,Jo Harper,16
+Buck,Jack,16
+Buck,Jo Harper,16
+Pap,Cain,16
+Buck,the Grangerfords,16
+Jim,Old Miss Watson,16
+Mary Jane,George,16
+Dey,Jack,16
+Jim,the Widow Douglas,16
+Jack,Dah,16
+Huck (#115),Providence,16
+Shepherdsons,the Grangerfords,16
+Aunt Polly,Sis,16
+Jim,Dah,16
+Levi Bell,Dr. Robinson,16
+Jim,Cain,16
+Abner Shackleford,Levi Bell,16
+Jim,Lizabeth,16
+Jo Harper,Susan,16
+Mary Jane,Shucks,16
+Aunt Sally,Brer Phelps,16
+Peter,Dr. Robinson,16
+Huck,Huck The Duke,16
+Aunt Sally,Old Miss Watson,16
+Mary Jane,Ther,16
+Buck,Mars Saul,16
+Peter,Levi Bell,15
+William,Susan,15
+Aunt Sally,Silas,15
+Aunt Sally,Lize,15
+Moses,Buck,15
+Buck,Sherburn,15
+Moses,Huck (#115),15
+Jim,Whoever,15
+Huck,Aunt Polly,15
+Jim,Miss Hooker,15
+Jim,Ai,15
+Jim,Richard III,14
+Dey,De,14
+Peter,Abner Shackleford,14
+Mary Jane,Levi Bell,14
+Mary Jane,Aunt Sally,14
+Judge Thatcher,Uncle Silas,14
+Judge Thatcher,Aunt Sally,14
+Harvey,Dr. Robinson,14
+Moses,Judge Thatcher,14
+Uncle Silas,Miss ’ Sally,14
+Jim,Miss Sophia,14
+Pap,Jim (#290),14
+Aunt Sally,Whoever,14
+Huck,the Snake Old Hank Bunker,14
+Huck (#115),Dah,14
+Aunt Sally,old Mrs. Damrell,14
+Buck,Dey,14
+Uncle Silas,Brer Phelps,14
+Uncle Silas,Sis,13
+Pap,Lizabeth,13
+William,Ther,13
+Sister Hotchkiss,old Mrs. Damrell,13
+Mary Jane,Hines,13
+Aunt Sally,Sister Hotchkiss,13
+Jim,Lady Jane Grey,13
+Harvey,Abner Shackleford,13
+Aunt Sally,Sid (#367),13
+Buck,Mars Jawge,13
+Huck,Gimme,12
+Aunt Polly,Old Miss Watson,12
+Mary Jane,Sid,12
+Peter,Harvey Wilks,12
+Jim,Silas Phelps,12
+Bilgewater,Romeo,12
+Shepherdsons,Miss Sophia,12
+Buck,Henry,12
+Miss Sophia,the Grangerfords,12
+Miss Sophia,Mars Jawge,12
+Juliet,Bilgewater,12
+Jim,Mrs. Phelps,12
+Uncle Silas,Nat,12
+Sollermun,Jack,12
+Wher,Harvey,12
+Ben Rogers,Little Tommy Barnes,11
+Harney,Emmeline,11
+Providence,Phelps,11
+Wher,Peter,11
+Jim,Mister,11
+Pap,Romeo,11
+Solomon,Jack,11
+Judge Thatcher,General Washington,11
+Jim,Little Tommy Barnes,11
+Sid,Mrs. Phelps,11
+Jim (#165),De,11
+Bob,Shepherdsons,11
+Bob,Betsy,11
+Bob,George,11
+Huck,Ben Rogers,10
+Jim,Mr. Mark Twain,10
+William,Levi Bell,10
+Doan,Lizabeth,10
+Huck,Mary Jane,10
+Aunt Sally,Dear,10
+Buck,Juliet,10
+Huck,Sid,10
+Huck (#115),Jo Harper,10
+Pap,Le,10
+Jack,generly,10
+Bill,Ai,10
+Aunt Sally,Nat,10
+Sid,Old Miss Watson,10
+Harvey,the Proctors,10
+Mary Jane,Wher,10
+Aunt Sally,Thomas Franklin Benjamin Jefferson Elexander Phelps,9
+old Mrs. Damrell,Brer Phelps,9
+Buck,Young Stephen Dowling Bots,9
+Harney,Dey,9
+Huck,Phelps,9
+Bill,generly,9
+Dey,Miss Sophia,9
+Jim,Brer Phelps,9
+William,Harvey Wilks,9
+Jim,Thomas Franklin Benjamin Jefferson Elexander Phelps,9
+Jim (#290),the Royal Nonesuch,9
+Providence,Mrs. Phelps,9
+Mary Jane,Mam,9
+Susan,Mam,9
+Wher,William,9
+Mary Jane,the Apthorps,9
+Jim,Emmeline,9
+Bob,Emmeline,9
+Jim,Jim (#184),9
+Jim,old Mrs. Damrell,9
+Henry,generly,9
+Peter,the Apthorps,9
+George,Wher,9
+Buck,Pa,8
+Harvey,Peter (#302),8
+Sister Hotchkiss,Brer Phelps,8
+Henry,Gimme,8
+Buck,Col,8
+Young Stephen Dowling Bots,Alas,8
+Buck,the Widow Douglas,8
+Mars Saul,Miss Sophia,8
+Buck,Bud,8
+Buck,Poor Emmeline,8
+Betsy,Mars Saul,8
+Emmeline,Poor Emmeline,8
+Spidery,Juliet,8
+George,Betsy,8
+Miss Hooker,George,8
+Buck,generly,8
+Emmeline,Miss Sophia,8
+Spidery,Sherburn,8
+Spidery,Mr. Archibald Nichols,8
+Spidery,Uncle Silas,8
+Spidery,Aunt Sally,8
+Harney,Juliet,8
+Harney,Sherburn,8
+Miss Hooker,Miss What,8
+Harney,Mr. Archibald Nichols,8
+Harney,Uncle Silas,8
+Harney,Aunt Sally,8
+Emmeline,Col,8
+Jo Harper,Little Tommy Barnes,8
+old Mrs. Damrell,Sister Utterback,8
+Peter,the Reverend Hobson,8
+Sollermun,Sherburn,8
+Sollermun,Juliet,8
+Sollermun,Harney,8
+Sollermun,Spidery,8
+Sollermun,Buck,8
+Solomon,Louis Sixteenth,8
+Solomon,Aunt Sally,8
+Pa,Sid (#367),8
+Solomon,Uncle Silas,8
+Solomon,Mr. Archibald Nichols,8
+Peter,the Proctors,8
+Solomon,Sherburn,8
+Solomon,Juliet,8
+Solomon,Harney,8
+Sollermun,Mr. Archibald Nichols,8
+Sollermun,Uncle Silas,8
+Sollermun,Aunt Sally,8
+Jim (#290),Mr. Lothrop,8
+Sollermun,Dah,8
+Sollermun,Doan,8
+Sollermun,De,8
+Sollermun,Dey,8
+Buck,Spidery,8
+Lizabeth,Jim (#290),8
+Romeo,Edmund Kean the Elder,8
+Buck,Mr. Archibald Nichols,8
+Buck,Uncle Silas,8
+Sister Hotchkiss,Sister Utterback,8
+Buck,Betsy,8
+generly,Gimme,8
+Buck,Ai,8
+Buck,Aunt Sally,8
+Jim (#184),Ai,8
+Harney,Shepherdsons,8
+Dr. Robinson,Harvey Wilks,8
+Yo,Dey,8
+Dey,Bob,8
+Susan,Ther,8
+Harvey,Ther,8
+Levi Bell,Harvey Wilks,8
+Dey,Jim (#184),8
+Solomon,Spidery,8
+Dey,er ole Mars Silas,8
+Dey,Mars Tom,8
+General Washington,Looky,8
+Looky,Miss Hooker,8
+Cain,Henry,8
+Uncle Silas,Mrs. Phelps,8
+Cain,Thomas Franklin Benjamin Jefferson Elexander Phelps,8
+Sid,Dad,8
+Aunt Sally,Ther,8
+Shucks,Harvey,8
+Aunt Sally,Cain,8
+Aunt Polly,Jo Harper,8
+Jo Harper,Providence,8
+the Widow Douglas,Col,8
+the Widow Douglas,Emmeline,8
+Aunt Polly,Mrs. Phelps,8
+Jo Harper,Miss Sophia,8
+Jo Harper,Henry,8
+Aunt Polly,the Widow Douglas,8
+Ben Rogers,Providence,8
+Peter (#302),Abner Shackleford,8
+Jo Harper,generly,8
+Jo Harper,Harvey,8
+Aunt Sally,Sister Utterback,8
+Peter (#302),Levi Bell,8
+Peter (#302),Dr. Robinson,8
+Sid,Aunty,8
+goodness,the Royal Nonesuch,8
+Ai,Shepherdsons,8
+the Proctors,the Apthorps,8
+Jack,Lizabeth,8
+Juliet,Le,8
+De,Bob,8
+De,Balum,8
+Bob,Miss Sophia,8
+Bob,Pa,8
+Juliet,Aunt Sally,8
+Juliet,Uncle Silas,8
+Sarah,Honey,8
+Juliet,Mr. Archibald Nichols,8
+Juliet,Sherburn,8
+Harney,Jo Harper,8
+Harney,Mars Saul,8
+Susan,Mr. Lothrop,8
+Harney,the Grangerfords,8
+Juliet,Edmund Kean the Elder,8
+Sherburn,Mr. Archibald Nichols,8
+Sherburn,Uncle Silas,8
+Le,Romeo,8
+Doan,Jim (#165),8
+Doan,De,8
+Uncle Silas,Lize,8
+Le,Jack,8
+Uncle Silas,Ther,8
+Silas,Mrs. Phelps,8
+Uncle Silas,Sid (#367),8
+Sherburn,Aunt Sally,8
+Jack,De,8
+Jack,Louis Sixteenth,8
+Jack,Mars Jawge,8
+Sis,Sid (#367),8
+Mr. Archibald Nichols,Uncle Silas,8
+Lady Jane Grey,Mars Tom,8
+Jo Harper,Sid,8
+Spidery,Harney,8
+Solomon,Buck,8
+Judge Thatcher,Sollermun,8
+Judge Thatcher,Bill,8
+Judge Thatcher,the Snake Old Hank Bunker,8
+Huck (#115),Phelps,8
+Jim,Mr. Foster,8
+Jim,Lize,8
+Jim,er ole Mars Silas,8
+Jim,Dear,8
+Jim,Sister Hotchkiss,8
+Mr. Mark Twain,Aunt Polly,8
+Mr. Mark Twain,the Widow Douglas,8
+Huck The Duke,Moses,8
+Huck (#115),Louis Sixteenth,8
+Huck The Duke,Huck (#115),8
+Huck The Duke,Judge Thatcher,8
+Huck The Duke,Pap,8
+Judge Thatcher,Solomon,8
+Judge Thatcher,Buck,8
+Huck The Duke,Bill,8
+Judge Thatcher,Spidery,8
+Pap,Solomon,8
+Pap,Bill,8
+Jim,Drot,8
+Jim,Edmund Kean the Elder,8
+Judge Thatcher,Sid,8
+Jim,Henry,8
+Judge Thatcher,Jo Harper,8
+Moses,Solomon,8
+Judge Thatcher,Cain,8
+Jim,Peter,8
+Judge Thatcher,the Widow Douglas,8
+Judge Thatcher,Mr. Archibald Nichols,8
+Judge Thatcher,Sherburn,8
+Judge Thatcher,Juliet,8
+Judge Thatcher,Harney,8
+Huck The Duke,the Snake Old Hank Bunker,8
+Huck The Duke,Solomon,8
+Pap,Sollermun,8
+Huck (#115),Buck,8
+Huck (#115),the Snake Old Hank Bunker,8
+Bill,Jack,8
+Moses,Aunt Sally,8
+Moses,Uncle Silas,8
+Moses,Mr. Archibald Nichols,8
+Moses,Sherburn,8
+Moses,Juliet,8
+Mary Jane,the Reverend Hobson,8
+Mary Jane,Jim (#290),8
+Moses,Harney,8
+Mary Jane,the Royal Nonesuch,8
+Moses,Spidery,8
+Moses,Pap,8
+Moses,the Snake Old Hank Bunker,8
+Moses,Bill,8
+Huck (#115),Bill,8
+Huck (#115),Spidery,8
+Huck The Duke,Sollermun,8
+Huck The Duke,Bilgewater,8
+Huck (#115),Le,8
+Huck The Duke,Buck,8
+Huck The Duke,Spidery,8
+Huck The Duke,Harney,8
+Huck The Duke,Juliet,8
+Huck The Duke,Sherburn,8
+Huck The Duke,Mr. Archibald Nichols,8
+Huck The Duke,Uncle Silas,8
+Huck (#115),Aunt Sally,8
+Huck (#115),Uncle Silas,8
+Huck (#115),Mr. Archibald Nichols,8
+Huck (#115),Sherburn,8
+Huck The Duke,Aunt Sally,8
+Huck (#115),Juliet,8
+Huck (#115),Harney,8
+Jim,Dern,8
+Jim,Jim (#290),8
+the Snake Old Hank Bunker,Buck,8
+Bill,Juliet,8
+Bill,Spidery,8
+Bill,Sollermun,8
+Bill,Solomon,8
+the Snake Old Hank Bunker,Mars Tom,8
+the Snake Old Hank Bunker,Aunt Sally,8
+the Snake Old Hank Bunker,Uncle Silas,8
+the Snake Old Hank Bunker,Mr. Archibald Nichols,8
+the Snake Old Hank Bunker,Sherburn,8
+the Snake Old Hank Bunker,Juliet,8
+the Snake Old Hank Bunker,Harney,8
+the Snake Old Hank Bunker,Spidery,8
+the Snake Old Hank Bunker,Sollermun,8
+the Snake Old Hank Bunker,Solomon,8
+the Snake Old Hank Bunker,Bill,8
+Huck,Mr. Archibald Nichols,8
+Bill,Harney,8
+Huck,Sherburn,8
+Pap,the Royal Nonesuch,8
+Bill,Sherburn,8
+Huck,Moses,8
+Huck,Bill,8
+Huck,Solomon,8
+Huck,Sollermun,8
+Huck,Buck,8
+Huck,Spidery,8
+Huck,Harney,8
+Huck,Juliet,8
+Bill,Miss What,8
+Bill,Miss Hooker,8
+Bill,Dey,8
+Bill,Le,8
+Bill,Aunt Sally,8
+Bill,Uncle Silas,8
+Bill,Mr. Archibald Nichols,8
+Huck,Shucks,8
+Moses,Sollermun,8
+Huck,Lady Jane Grey,8
+Pap,Uncle Silas,8
+Pap,Aunt Sally,8
+Pap,Mr. Archibald Nichols,8
+Jim,Balum,8
+Huck,Doan,8
+Pap,Sherburn,8
+Pap,Aunt Polly,8
+Pap,Sid,8
+Jim,Sherburn,8
+Pap,Harney,8
+Pap,Spidery,8
+Jim,Niggers,8
+Pap,Bilgewater,8
+Huck,Tom,8
+Pap,Henry,8
+Huck,Looky,8
+Huck,Providence,8
+Pap,Ben Rogers,8
+Pap,Buck,8
+Jim,Betsy,8
+Jim,Spidery,8
+Mr. Mark Twain,Judge Thatcher,7
+Dey,Mars Jawge,7
+Dey,Mars Saul,7
+Dey,Tom,7
+Dey,Louis Sixteenth,7
+Tom,er ole Mars Silas,7
+Providence,Sis,7
+Jim,the Royal Nonesuch,7
+Mary Jane,Harvey Wilks,7
+Mrs. Phelps,Old Miss Watson,7
+Lize,Miss ’ Sally,7
+Jo Harper,Gimme,7
+Bilgewater,Richard III,7
+Peter,Susan,7
+Doan,Jim (#290),7
+Jim,Louis Sixteenth,7
+Jim,Goshen,7
+Bob,Col,7
+Huck,Cain,7
+Abner Shackleford,Harvey Wilks,7
+Jim,Col,7
+Harvey,the Apthorps,7
+George,Dr. Robinson,7
+William,the Apthorps,7
+Le,Ai,7
+Le,Packard,7
+Phelps,Mr. Foster,7
+Silas,Abram G. Foster,7
+Young Stephen Dowling Bots,Emmeline,7
+Young Stephen Dowling Bots,Poor Emmeline,7
+Jim (#165),Jack,7
+Alas,Emmeline,7
+Alas,Poor Emmeline,7
+Sarah,Goshen,7
+Jim,Yo,7
+Sid,Sis,7
+the Royal Nonesuch,Mr. Lothrop,7
+Sid,Brer Phelps,7
+Niggers,Ben Rogers,7
+Niggers,Jo Harper,7
+Pap,Providence,7
+Harney,Bob,7
+Uncle Silas,Pa,7
+Pap,Doan,7
+Uncle Silas,old Mrs. Damrell,7
+Aunt Sally,Doan,7
+Buck,Dern,7
+the Widow Douglas,Bob,7
+Sollermun,Louis Sixteenth,7
+Buck,Alas,7
+Solomon,Dey,7
+Uncle Silas,Old Miss Watson,7
+Bill,Henry,7
+Bill,Gimme,7
+Buck,Gimme,7
+Betsy,Shepherdsons,6
+Mars Saul,Shepherdsons,6
+Jim,Silas,6
+Mars Saul,Mars Jawge,6
+Mr. Archibald Nichols,Lize,6
+George,Levi Bell,6
+George,Abner Shackleford,6
+Huck (#115),Silas Phelps,6
+Jim,Miss ’ Sally,6
+Huck (#115),Mister,6
+Shepherdsons,Emmeline,6
+Uncle Silas,er ole Mars Silas,6
+Uncle Silas,Dey,6
+Uncle Silas,Sister Hotchkiss,6
+Doan,Dah,6
+Le,Jim (#184),6
+Le,Bilgewater,6
+Huck (#115),Shucks,6
+Huck (#115),Yo,6
+Jack,Henry,6
+Jack,Gimme,6
+De,Dah,6
+Ai,Mars Saul,6
+Bob,Balum,6
+Bob,the Grangerfords,6
+Bob,Bud,6
+Huck (#115),Dad,6
+Shepherdsons,Bud,6
+Packard,Ai,6
+Ai,Betsy,6
+Jim,the Apthorps,6
+Emmeline,the Grangerfords,6
+Henry,Young Stephen Dowling Bots,6
+Jim,the Proctors,6
+Huck,Ai,6
+Susan,Peter (#302),6
+Susan,Abner Shackleford,6
+Susan,Levi Bell,6
+Susan,Dr. Robinson,6
+Huck,Silas Phelps,6
+Huck,Dad,6
+Pap,Wher,6
+Silas,Sis,6
+Dear,Lize,6
+Solomon,De,6
+Solomon,Doan,6
+Solomon,Dah,6
+Mars Tom,Thomas Franklin Benjamin Jefferson Elexander Phelps,6
+Bill,Jo Harper,6
+Huck,Old Miss Watson,6
+Huck,Mrs. Phelps,6
+William,the Proctors,6
+Pa,Bud,6
+Jim,Harvey,6
+Jim,William,6
+Judge Thatcher,Looky,6
+goodness,Pa,6
+Harney,Mars Jawge,6
+the Grangerfords,Bud,6
+Dern,Drot,6
+Buck,Doan,6
+generly,Richard III,6
+Jim,Mars Jawge,6
+Jim,Bud,6
+Jim,the Grangerfords,6
+Jim,Shepherdsons,6
+William,Dr. Robinson,6
+Doan,Le,6
+Dad,Nat,6
+Jo Harper,Abner Shackleford,6
+Jo Harper,Levi Bell,6
+Moses,Bob,6
+Providence,Silas Phelps,6
+Dey,Doan,6
+Cain,Mars Tom,6
+Mary Jane,Uncle Silas,6
+Dey,Balum,6
+Mary Jane,Peter (#302),6
+Jo Harper,Peter (#302),6
+Mary Jane,Le,6
+Shucks,Sarah,6
+Moses,the Widow Douglas,6
+Sid,Nat,6
+Looky,George,6
+Mary Jane,Old Miss Watson,6
+Mary Jane,Aunt Polly,6
+Jo Harper,Jack,6
+Shucks,Peter,6
+Jo Harper,Dr. Robinson,6
+Shucks,Ther,6
+Aunt Sally,Mars Tom,6
+Huck,Dear,5
+Uncle Silas,Tom,5
+William,Abner Shackleford,5
+Pap,goodness,5
+Mary Jane,Sherburn,5
+Mary Jane,Juliet,5
+William,the Reverend Hobson,5
+Mary Jane,Buck,5
+George,Miss What,5
+Mary Jane,Spidery,5
+Mary Jane,Harney,5
+Jo Harper,Mam,5
+Mary Jane,Huck (#115),5
+Harney,the Widow Douglas,5
+Peter,Hines,5
+Buck,Richard III,5
+Shucks,Levi Bell,5
+Shucks,Bilgewater,5
+Alas,Peter,5
+Mary Jane,Moses,5
+Alas,Dern,5
+Harney,Jack,5
+Judge Thatcher,goodness,5
+Harney,Col,5
+Shucks,Dey,5
+Jim,Ther,5
+Henry,Richard III,5
+Jim (#290),Wher,5
+Moses,Aunt Polly,5
+the Royal Nonesuch,Wher,5
+Aunt Polly,goodness,5
+Wher,Susan,5
+Mary Jane,Mr. Archibald Nichols,5
+Peter,Peter (#302),5
+Peter,Ther,5
+Mary Jane,Sollermun,5
+Mary Jane,Solomon,5
+Mr. Mark Twain,Moses,5
+Huck,Sarah,5
+Jo Harper,Wher,5
+Abner Shackleford,Poor William,5
+Huck (#115),Cain,5
+Harney,Doan,5
+Le,Ther,5
+Le,Susan,5
+Le,William,5
+Jo Harper,Richard III,5
+Mary Jane,Pap,5
+Huck (#115),Little Tommy Barnes,5
+Mary Jane,Judge Thatcher,5
+Dear,Aunty,5
+Lize,Whoever,5
+Aunt Sally,Pa,5
+Nat,Lady Jane Grey,5
+Doan,Miss Sophia,5
+Bill,George,5
+Doan,Louis Sixteenth,5
+Jo Harper,goodness,5
+Jack,Miss Sophia,5
+Sid,old Mrs. Damrell,5
+Sid,Sister Hotchkiss,5
+Pap,Jack,5
+Huck (#115),Miss Hooker,5
+Huck (#115),Sarah,5
+Huck The Duke,Mary Jane,5
+Sid,goodness,5
+De,Louis Sixteenth,5
+Mary Jane,Bill,5
+Susan,the Proctors,5
+Mary Jane,the Snake Old Hank Bunker,5
+Huck,Nat,5
+Bob,Ai,5
+the Widow Douglas,Miss Sophia,4
+Susan,Harvey Wilks,4
+Jo Harper,Dey,4
+Pa,Sis,4
+Pap,Jim (#184),4
+Harvey,Harvey Wilks,4
+the Grangerfords,Pa,4
+Abram G. Foster,Mr. Foster,4
+Richard III,Edmund Kean the Elder,4
+Richard III,Gimme,4
+Jo Harper,Peter,4
+Gimme,Mars Tom,4
+Pap,Richard III,4
+the Widow Douglas,Poor Emmeline,4
+Little Tommy Barnes,Providence,4
+the Snake Old Hank Bunker,Miss Hooker,4
+Poor William,Harvey Wilks,4
+Ther,the Apthorps,4
+Dr. Robinson,Poor William,4
+Mary Jane,Mrs. Phelps,4
+Miss Sophia,Bud,4
+Sister Utterback,Brer Phelps,4
+Col,Miss Sophia,4
+Shepherdsons,Pa,4
+Sid,Sister Utterback,4
+Uncle Silas,Lady Jane Grey,4
+Huck (#115),the Widow Douglas,4
+Jim,Abram G. Foster,4
+Dey,Packard,4
+Jim,Hines,4
+Dey,Dah,4
+Le,Richard III,4
+Poor Emmeline,Col,4
+Jim,Poor Emmeline,3
+Ai,Edmund Kean the Elder,3
+Wher,Peter (#302),3
+Wher,Abner Shackleford,3
+Wher,Levi Bell,3
+Wher,Dr. Robinson,3
+Bob,Mars Saul,3
+the Grangerfords,Mars Jawge,3
+Pap,Little Tommy Barnes,3
+Shucks,William,3
+Huck,Dey,3
+Jim,Miss What,3
+Jim,Sister Utterback,3
+Bill,Goshen,3
+Huck,Mr. Mark Twain,3
+George,Mars Saul,3
+Silas,Mr. Foster,3
+the Widow Douglas,Alas,3
+Dah,Louis Sixteenth,3
+Dey,Sarah,3
+Alas,Col,3
+Pap,General Washington,3
+Susan,Poor William,3
+the Widow Douglas,Young Stephen Dowling Bots,3
+Mr. Archibald Nichols,Whoever,3
+Looky,Miss What,3
+Bill,Richard III,3
+Ther,the Proctors,3
+Mr. Mark Twain,Huck (#115),3
+Phelps,Abram G. Foster,3
+Juliet,generly,3
+generly,Romeo,3
+Mary Jane,Poor William,3
+Silas Phelps,Phelps,3
+Drot,Bilgewater,3
+Sollermun,Miss Hooker,3
+Bill,Looky,3
+Bilgewater,Peter,3
+Young Stephen Dowling Bots,Col,3
+Huck (#115),Mars Jawge,3
+Huck The Duke,goodness,3
+Doan,Mister,3
+Nat,Mars Tom,3
+goodness,Bilgewater,3
+Jack,Sarah,3
+Jo Harper,Doan,3
+Sis,Old Miss Watson,3
+Huck (#115),Aunt Polly,3
+Shepherdsons,Mars Jawge,3
+Alas,Drot,3
+Bob,Poor Emmeline,3
+Mary Jane,Silas,2
+Shucks,the Apthorps,2
+Jo Harper,Romeo,2
+Sid,Silas,2
+Uncle Silas,Mars Tom,2
+Sid,Tom,2
+Jack,Richard III,2
+Jo Harper,William,2
+Uncle Silas,Sister Utterback,2
+Jack,Mars Saul,2
+Huck (#115),Niggers,2
+Pap,Peter,2
+Jo Harper,George,2
+Huck,Jo Harper,2
+Ther,Poor William,2
+Phelps,Silas,2
+Huck (#115),Looky,2
+Buck,Romeo,2
+Bob,Young Stephen Dowling Bots,2
+Dey,Ai,2
+Juliet,Henry,2
+Aunt Sally,Lady Jane Grey,2
+Henry,Romeo,2
+generly,Edmund Kean the Elder,2
+Lizabeth,the Royal Nonesuch,2
+Aunt Sally,Miss ’ Sally,2
+Jo Harper,Mars Saul,2
+Bob,Alas,2
+Jim,Alas,2
+Jim,Young Stephen Dowling Bots,2
+Juliet,Jo Harper,2
+Providence,Dear,2
+Jim,Packard,2
+Providence,Mr. Foster,2
+Buck,Edmund Kean the Elder,2
+George,Susan,2
+Huck,Sis,2
+William,Poor William,2
+Miss Sophia,Pa,2
+Huck,Aunty,2
+Jim,generly,2
+Aunt Sally,Dad,1
+Silas,Lize,1
+Moses,Shepherdsons,1
+Doan,the Royal Nonesuch,1
+Huck The Duke,Pa,1
+Moses,Ai,1
+Jo Harper,Edmund Kean the Elder,1
+Pap,Ai,1
+Shucks,the Proctors,1
+Judge Thatcher,Shucks,1
+Alas,generly,1
+Bud,Mars Jawge,1
+Judge Thatcher,Sis,1
+Romeo,Gimme,1
+Juliet,Gimme,1
+Shucks,Lady Jane Grey,1
+Henry,Edmund Kean the Elder,1
+Shucks,Jack,1
+Mary Jane,Alas,1
+Jim (#290),Peter,1
+the Royal Nonesuch,Peter,1
+Harney,Poor Emmeline,1
+Peter,Poor William,1
+Huck,er ole Mars Silas,1
+Uncle Silas,Dad,1
+Jack,Dern,1
+Uncle Silas,Aunty,1
+Huck,Niggers,1
+Le,Peter,1
+Pa,Bilgewater,1

@@ -1,0 +1,298 @@
+source,target,weight
+Elizabeth,Clerval,152
+Elizabeth,Victor,118
+Elizabeth,William,101
+Justine,William,100
+Elizabeth,Justine,93
+Agatha,Felix,81
+Elizabeth,Alas,75
+Elizabeth,God,72
+Felix,Safie,71
+Clerval,Victor,68
+Clerval,William,64
+Victor,William,59
+Elizabeth,Ernest,57
+Agatha,Safie,54
+Clerval,Justine,51
+Victor,Justine,51
+God,William,49
+Victor,Alas,46
+Victor,God,46
+Clerval,Alas,46
+God,Justine,42
+Felix,De Lacey,40
+Clerval,Ernest,40
+Ernest,William,39
+Alas,William,38
+Agatha,De Lacey,35
+Clerval,God,35
+Victor,Ernest,32
+Ernest,Justine,31
+Clerval,Mr. Kirwin,31
+Safie,De Lacey,31
+Alas,God,30
+M. Krempe,M. Waldman,27
+God,Ernest,26
+Alas,Ernest,24
+Elizabeth,Frankenstein (#151),23
+Felix,the Arabian,22
+Safie,the Turk,22
+Cornelius Agrippa,M. Waldman,22
+Paracelsus,Albertus Magnus,21
+Felix,the Turk,21
+Alas,Justine,20
+Cornelius Agrippa,M. Krempe,20
+God,Frankenstein (#151),20
+Justine,Frankenstein (#151),20
+the Arabian,Safie,20
+Devil,Begone,19
+Margaret,Frankenstein (#151),19
+Walton,Frankenstein (#151),18
+Frankenstein (#151),Felix,18
+Agatha,the Arabian,18
+Agatha,the Turk,17
+Walton,Clerval,16
+Walton,Elizabeth,16
+Justine,Mr. Kirwin,16
+Clerval,Nay,16
+Clerval,Frankenstein (#151),16
+Margaret,Walton,16
+William,Frankenstein (#151),16
+Elizabeth,Cornelius Agrippa,15
+Clerval,M. Krempe,14
+Clerval,M. Waldman,14
+Cornelius Agrippa,Paracelsus,14
+Elizabeth,Mr. Kirwin,14
+Cornelius Agrippa,Albertus Magnus,14
+Clerval,Cornelius Agrippa,14
+Geneva,Clerval,14
+Ernest,Mr. Kirwin,14
+De Lacey,the Turk,14
+Clerval,Dearest Clerval,13
+Mrs. Saville,Margaret,13
+God,Felix,13
+Beaufort,Elizabeth,12
+Elizabeth,Paracelsus,12
+Elizabeth,Albertus Magnus,12
+Clerval,Madame Moritz,11
+Elizabeth,M. Waldman,11
+Elizabeth,Dearest Clerval,11
+Alas,Frankenstein (#151),11
+Victor,Madame Moritz,11
+Elizabeth,M. Krempe,11
+Clerval,M. Clerval,11
+Frankenstein (#151),Nay,11
+Justine,Madame Moritz,11
+Elizabeth,Madame Moritz,11
+Clerval,Felix,10
+Frankenstein (#151),Begone,10
+Clerval,Poor Clerval,10
+Cornelius Agrippa,Victor,10
+Leghorn,Safie,10
+Clerval,Albertus Magnus,9
+Clerval,Paracelsus,9
+God,Nay,9
+God,Satan,9
+God,Adam,9
+Mr. Kirwin,Daniel Nugent,9
+M. Waldman,M. Clerval,9
+Agatha,Adam,9
+Nay,Wretch,9
+Felix,Adam,9
+Margaret,Clerval,9
+Margaret,Elizabeth,9
+Adam,Satan,9
+the Arabian,De Lacey,9
+Elizabeth,Poor Clerval,9
+Safie,Adam,9
+Frankenstein (#151),Wretch,9
+Leghorn,the Turk,9
+Elizabeth,Man,8
+Frankenstein,M. Waldman,8
+Safie,The Italian,8
+Frankenstein,M. Krempe,8
+Frankenstein,Clerval,8
+Victor,Madame Tavernier,8
+Victor,The pretty Miss Mansfield,8
+the Arabian,The Italian,8
+Felix,Nay,8
+Cornelius Agrippa,M. Clerval,8
+God,Wretch,8
+Albertus Magnus,Sir Isaac Newton,8
+Paracelsus,Sir Isaac Newton,8
+Paracelsus,M. Krempe,8
+God,Mr. Kirwin,8
+Albertus Magnus,M. Krempe,8
+Leghorn,Felix,8
+Alas,Agatha,8
+Alas,Felix,8
+Alas,Nay,8
+Alas,Mr. Kirwin,8
+Geneva,Elizabeth,8
+M. Krempe,M. Clerval,8
+Geneva,Safie,8
+Geneva,Felix,8
+Geneva,Alas,8
+Justine,"Justine , poor unhappy Justine",8
+Frankenstein (#151),Devil,8
+Frankenstein (#151),Safie,8
+Frankenstein (#151),Boy,8
+Clerval,The pretty Miss Mansfield,8
+Clerval,Madame Tavernier,8
+Walton,Justine,8
+Clerval,Charles I.,8
+Elizabeth,Doth,8
+Walton,Alas,8
+Devil,Man,8
+Elizabeth,Madame Tavernier,8
+Clerval,"Justine , poor unhappy Justine",8
+Walton,William,8
+Elizabeth,Nay,8
+Beaufort,Victor,8
+Beaufort,Ernest,8
+Elizabeth,The pretty Miss Mansfield,8
+William,Mr. Kirwin,8
+William,"Justine , poor unhappy Justine",8
+Adieu,Clerval,8
+The pretty Miss Mansfield,Madame Tavernier,8
+Beaufort,William,8
+Adieu,Elizabeth,8
+Cornelius Agrippa,Sir Isaac Newton,8
+Leghorn,the Arabian,7
+Leghorn,The Italian,7
+Albertus Magnus,M. Waldman,7
+Begone,Man,7
+Paracelsus,M. Waldman,7
+Clerval,Doth,7
+Madame Moritz,William,7
+Ernest,Madame Moritz,7
+William,The pretty Miss Mansfield,7
+Frankenstein,Cornelius Agrippa,7
+Adieu,Madame Tavernier,7
+Adieu,The pretty Miss Mansfield,7
+Felix,Wretch,7
+Child,Boy,7
+Clerval,Wretch,7
+Adieu,Victor,7
+Margaret,Felix,7
+Margaret,Safie,7
+William,Madame Tavernier,7
+God,Agatha,6
+the Turk,The Italian,6
+Safie,Satan,6
+De Lacey,Adam,6
+God,Safie,6
+Poor Clerval,Dearest Clerval,6
+Madame Moritz,Madame Tavernier,6
+the Arabian,the Turk,6
+Agatha,Satan,6
+Madame Moritz,The pretty Miss Mansfield,6
+God,Poor Clerval,6
+Justine,Madame Tavernier,6
+Felix,Satan,6
+Justine,The pretty Miss Mansfield,6
+Victor,Dearest Clerval,6
+Mrs. Saville,Adieu,6
+Margaret,God,6
+Victor,"Justine , poor unhappy Justine",6
+Walton,Safie,6
+Elizabeth,M. Clerval,6
+Geneva,Victor,6
+Walton,Felix,6
+Victor,Poor Clerval,6
+Victor,Sir Isaac Newton,6
+Victor,Albertus Magnus,6
+Victor,Paracelsus,6
+Frankenstein,Victor,6
+Adieu,William,6
+Frankenstein,Elizabeth,5
+Elizabeth,Felix,5
+Margaret,William,5
+Elizabeth,Safie,5
+Frankenstein (#151),Child,5
+Frankenstein,William,5
+Beaufort,God,5
+Frankenstein,Alas,5
+Victor,Nay,5
+Clerval,Safie,5
+Clerval,Daniel Nugent,5
+Felix,The Italian,5
+Adieu,Justine,5
+Geneva,De Lacey,5
+Geneva,the Arabian,5
+Geneva,Agatha,5
+Adieu,Madame Moritz,5
+Margaret,Justine,5
+Clerval,Sir Isaac Newton,4
+Justine,Safie,4
+William,Felix,4
+William,Safie,4
+Elizabeth,Devil,4
+Elizabeth,Sir Isaac Newton,4
+Beaufort,Justine,4
+Beaufort,Alas,4
+Walton,God,4
+Margaret,Alas,4
+Adieu,M. Waldman,4
+Leghorn,De Lacey,4
+Justine,Felix,4
+Alas,Begone,4
+Alas,Devil,4
+Leghorn,Agatha,4
+Victor,Frankenstein (#151),4
+Cornelius Agrippa,Alas,3
+M. Waldman,The pretty Miss Mansfield,3
+Adieu,Cornelius Agrippa,3
+Adieu,M. Clerval,3
+God,De Lacey,3
+Albertus Magnus,Alas,3
+Paracelsus,Alas,3
+Dearest Clerval,Ernest,3
+De Lacey,Satan,3
+Clerval,Man,3
+Victor,M. Clerval,3
+M. Waldman,Madame Tavernier,3
+Elizabeth,"Justine , poor unhappy Justine",3
+Victor,M. Waldman,3
+Justine,Charles I.,3
+Justine,Daniel Nugent,3
+Frankenstein,God,3
+William,Daniel Nugent,3
+William,Charles I.,3
+Frankenstein,Paracelsus,2
+Frankenstein,Albertus Magnus,2
+Felix,Boy,2
+The Italian,Adam,2
+The Italian,Satan,2
+God,Dearest Clerval,2
+The pretty Miss Mansfield,M. Clerval,2
+Geneva,Frankenstein,2
+William,Man,2
+Ernest,The pretty Miss Mansfield,2
+Ernest,Madame Tavernier,2
+Adieu,M. Krempe,2
+Cornelius Agrippa,Madame Tavernier,2
+Cornelius Agrippa,The pretty Miss Mansfield,2
+Dearest Clerval,Madame Moritz,2
+God,The Italian,2
+Madame Tavernier,M. Clerval,2
+Elizabeth,Begone,2
+Elizabeth,Charles I.,2
+Begone,Felix,2
+Walton,Beaufort,2
+M. Waldman,William,2
+Dearest Clerval,Justine,2
+M. Waldman,Madame Moritz,1
+M. Waldman,Justine,1
+M. Krempe,Madame Tavernier,1
+M. Krempe,The pretty Miss Mansfield,1
+Agatha,The Italian,1
+De Lacey,The Italian,1
+Victor,M. Krempe,1
+Frankenstein,Mrs. Saville,1
+Cornelius Agrippa,William,1
+Frankenstein,Ernest,1
+Clerval,Devil,1
+William,M. Clerval,1
+Adieu,Ernest,1
+Ernest,"Justine , poor unhappy Justine",1

@@ -1,0 +1,346 @@
+\documentclass[preprint,12pt]{elsarticle}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage[hidelinks]{hyperref}
+
+\journal{Physica A: Statistical Mechanics and its Applications}
+
+\begin{document}
+
+\begin{frontmatter}
+
+\title{Bridging characters: betweenness centrality in co-occurrence networks
+of classic English novels}
+
+\author[a]{Marcelo Amancio\corref{cor1}}
+\ead{marcelo.amancio@gmail.com}
+
+\affiliation[a]{organization={Inoama Research}, country={Brazil}}
+
+\cortext[cor1]{Corresponding author.}
+
+\begin{abstract}
+Networks extracted from works of fiction provide a quantitative window into
+narrative structure. Here we model ten canonical English novels from Project
+Gutenberg as weighted character co-occurrence networks, where two characters are
+linked whenever they are mentioned within a sliding window of eight paragraphs.
+The main methodological difficulty is not the network analysis itself but the
+reliable identification of characters: we rely on a neural literary
+natural-language-processing pipeline (BookNLP) that performs named-entity
+recognition, alias resolution (e.g.\ \emph{Elizabeth}, \emph{Lizzy} and
+\emph{Miss Bennet} collapse into a single vertex) and coreference resolution,
+so that anaphoric pronouns contribute to the presence of the correct character.
+Across all books the resulting networks display a pronounced small-world
+signature, with high clustering ($C\!\approx\!0.69$--$0.79$), short average path
+lengths ($L\!\approx\!1.6$--$2.1$) and small-world coefficients $\sigma$ between
+$2$ and $9.5$, together with disassortative degree mixing and clear community
+structure. We rank characters by betweenness centrality and show that the most
+``between'' character is the narrative connector rather than simply the most
+frequent one: in first-person novels, where the narrator is realised mostly
+through pronouns, a secondary character (e.g.\ \emph{Jim} in \emph{Huckleberry
+Finn} or \emph{Joe} in \emph{Great Expectations}) emerges as the structural
+bridge. Betweenness is also the centrality least correlated with the others,
+confirming that it captures a distinct, mediation-oriented notion of importance.
+\end{abstract}
+
+\begin{keyword}
+complex networks \sep character networks \sep betweenness centrality \sep
+natural language processing \sep small-world \sep digital humanities
+\end{keyword}
+
+\end{frontmatter}
+
+\section{Introduction}
+\label{sec:intro}
+
+The application of network science to written texts has become a productive
+research line, ranging from word-adjacency networks for stylometry and
+authorship attribution to the identification of literary movements
+\cite{amancio2015stylometry,amancio2015shorttexts,amancio2012movements}. A
+complementary representation focuses not on words but on the \emph{entities} that
+populate a text: by linking named entities that appear in the same context, one
+obtains a co-occurrence network whose topology carries information that is
+largely orthogonal to word-level descriptors \cite{amancio2016entity}. When the
+entities are the characters of a work of fiction, such networks become
+\emph{character networks}, a representation that has been used for tasks as
+diverse as summarisation, classification and role detection
+\cite{labatut2019survey,elson2010social}.
+
+A character network is a graph whose vertices are the characters of a narrative
+and whose edges encode some notion of interaction or proximity between them
+\cite{labatut2019survey}. Once the network is built, the toolbox of complex
+networks can be brought to bear: degree, clustering, community structure and,
+crucially, centrality measures that quantify the structural importance of each
+character. Among these, \emph{betweenness centrality}
+\cite{freeman1977betweenness,brandes2001betweenness} is particularly appealing
+for narrative analysis because it measures the extent to which a vertex lies on
+the shortest paths between other vertices, i.e.\ the degree to which a character
+\emph{bridges} otherwise weakly connected parts of the story.
+
+In this work we build weighted character co-occurrence networks for ten classic
+English novels and ask a deceptively simple question: \emph{which character has
+the highest betweenness centrality in each book?} Answering it reliably requires
+solving several natural-language-processing problems first --- recognising which
+entities are characters, merging the many aliases of a single character, and
+resolving anaphoric pronouns to their referents. We address these with BookNLP,
+a pipeline specifically designed for English fiction whose entity and
+coreference components build on the literary-character model of Bamman et
+al.\ \cite{bamman2014character}. Our contributions are: (i) a fully reproducible
+pipeline from raw Gutenberg text to analysed network; (ii) a characterisation of
+the global topology of the ten networks, which turn out to be markedly
+small-world; and (iii) an analysis of betweenness that reveals the structural
+role of \emph{connector} characters and its interaction with narrative point of
+view.
+
+\section{Related work}
+\label{sec:related}
+
+The extraction and analysis of fictional character networks is reviewed
+comprehensively by Labatut and Bost \cite{labatut2019survey}, who distinguish
+\emph{conversational}, \emph{co-occurrence} and \emph{affiliation} networks
+according to how edges are defined. Early influential work by Elson et
+al.\ \cite{elson2010social} extracted conversational networks from
+nineteenth-century British fiction by attributing quoted speech to speakers. Our
+edges instead follow the co-occurrence convention: two characters are linked when
+they are mentioned close together in the text, a criterion that is robust to the
+difficulties of speech attribution and aligns with the named-entity
+co-occurrence networks of Amancio \cite{amancio2016entity}, who showed that such
+networks exhibit a small-world structure and provide complementary information
+for text characterisation.
+
+The reliability of any character network hinges on the quality of the underlying
+entity processing. We use BookNLP, whose statistical character model originates
+in the Bayesian mixed-effects formulation of literary character by Bamman et
+al.\ \cite{bamman2014character}, and which internally relies on modern NLP
+components in the spirit of \cite{honnibal2017spacy}. For the network side we
+adopt standard measures and algorithms \cite{freeman1977betweenness,
+brandes2001betweenness,newman2010networks} and interpret the global topology
+through the small-world lens of Watts and Strogatz \cite{watts1998smallworld}.
+
+\section{Materials and methods}
+\label{sec:methods}
+
+\subsection{Corpus}
+We selected ten widely studied novels in English, downloaded as plain UTF-8 text
+from Project Gutenberg \cite{gutenberg}. The Gutenberg header and licence footer
+were stripped, keeping only the body of each work. Table~\ref{tab:corpus}
+summarises the corpus, including the number of tokens and paragraphs after
+cleaning.
+
+\begin{table}[H]
+\centering
+\caption{The ten-novel corpus and the size of the extracted networks.}
+\label{tab:corpus}
+\resizebox{\textwidth}{!}{\input{tables/tab_corpus.tex}}
+\end{table}
+
+\subsection{Character identification, alias and anaphora resolution}
+The central NLP challenge is to turn raw prose into a clean set of characters.
+We process each novel with BookNLP (English, \texttt{small} model), which
+performs, in a single pass: (i) named-entity recognition, tagging spans as
+persons (\textsc{per}) and other categories; (ii) \emph{alias clustering}, so
+that the multiple surface forms of a character (\emph{Elizabeth}, \emph{Lizzy},
+\emph{Miss Bennet}) are grouped into one coreference cluster; and (iii)
+\emph{coreference resolution}, which attaches anaphoric pronouns
+(\emph{she}, \emph{he}) to the appropriate cluster. From the resulting
+annotations we retain a coreference cluster as a \emph{character} only if it is of
+type \textsc{per}, contains at least one proper-name mention, and is mentioned at
+least three times; the canonical label of a character is its most frequent
+proper-name form. This procedure discards generic nominal mentions
+(``the man'') while keeping pronominal mentions, which --- having been resolved
+to their referent --- count towards the presence of the character in a paragraph.
+
+\subsection{Network construction}
+Each mention is assigned to the paragraph in which it occurs. Let
+$P_0,P_1,\dots$ be the paragraphs of a novel. We slide a window of
+$W=8$ consecutive paragraphs (step one) over the text; for every window we take
+the set of characters mentioned within it and connect every pair of them. The
+weight $w_{ij}$ of an edge is the number of windows in which characters $i$ and
+$j$ co-occur, yielding an undirected weighted graph $G=(V,E)$ where $V$ is the
+set of characters. The eight-paragraph window is large enough to capture
+characters that interact across a short scene without being adjacent in a single
+paragraph, in the spirit of context-window co-occurrence
+networks \cite{amancio2016entity}.
+
+\subsection{Network measures}
+For each network we compute vertex-level centralities: degree $k$, weighted
+degree (strength), closeness, eigenvector centrality and betweenness centrality
+$C_B$. Betweenness is computed with Brandes' algorithm
+\cite{brandes2001betweenness} on the weighted graph, mapping each weight to a
+distance $d_{ij}=1/w_{ij}$ so that frequently co-occurring characters are
+``closer''. At the global level we report the density, the average degree
+$\langle k\rangle$, the average clustering coefficient $C$, the average shortest
+path length $L$ and diameter (on the giant component), the degree assortativity
+$r$, and the modularity $Q$ of the partition returned by greedy modularity
+maximisation, together with the number of communities. To assess the
+small-world character \cite{watts1998smallworld} we compute
+$\sigma=(C/C_{\mathrm{rand}})/(L/L_{\mathrm{rand}})$, where $C_{\mathrm{rand}}$
+and $L_{\mathrm{rand}}$ are averaged over Erd\H{o}s--R\'enyi graphs with the same
+number of vertices and edges. The whole pipeline is implemented in Python with
+NetworkX \cite{hagberg2008networkx}; Figure~\ref{fig:method} summarises it.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{figures/fig_method.pdf}
+\caption{From raw text to analysed network: BookNLP resolves characters,
+aliases and anaphora; co-occurrence within an eight-paragraph window defines
+weighted edges; centralities are then computed on the resulting graph.}
+\label{fig:method}
+\end{figure}
+
+\section{Results and discussion}
+\label{sec:results}
+
+\subsection{Global topology: small-world character networks}
+Table~\ref{tab:metrics} reports the global measures for the ten networks. All of
+them combine a high clustering coefficient ($C\approx0.69$--$0.79$) with a short
+average path length ($L\approx1.6$--$2.1$), and the small-world coefficient
+$\sigma$ is well above unity in every case (from $\sigma\approx2.0$ for
+\emph{Pride and Prejudice} to $\sigma\approx9.5$ for \emph{The Adventures of
+Sherlock Holmes}). This confirms, on a new corpus and with a different edge
+definition, the small-world nature previously reported for named-entity
+co-occurrence networks \cite{amancio2016entity}. The networks are also
+consistently disassortative ($r<0$): high-degree protagonists tend to connect to
+low-degree minor characters rather than to one another. Modularity is moderate
+($Q\approx0.08$--$0.40$), with the most episodic works --- \emph{Sherlock
+Holmes}, a collection of self-contained stories, and the seafaring
+\emph{Moby-Dick} --- being split into the largest number of communities.
+Figure~\ref{fig:examples} shows three representative networks, with vertex size
+proportional to betweenness and colours encoding communities.
+
+\begin{table}[H]
+\centering
+\caption{Global network measures: number of vertices $N$ and edges $E$, average
+degree $\langle k\rangle$, clustering $C$, average path length $L$, assortativity
+$r$, modularity $Q$ and small-world coefficient $\sigma$.}
+\label{tab:metrics}
+\resizebox{\textwidth}{!}{\input{tables/tab_metrics.tex}}
+\end{table}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=\textwidth]{figures/fig_examples.pdf}
+\caption{Representative character co-occurrence networks. Vertex size is
+proportional to betweenness centrality; colours indicate communities obtained by
+greedy modularity maximisation. (a) \emph{Pride and Prejudice}, (b) \emph{The
+Adventures of Sherlock Holmes}, (c) \emph{A Tale of Two Cities}.}
+\label{fig:examples}
+\end{figure}
+
+\subsection{The most ``between'' character}
+Table~\ref{tab:main} and Figure~\ref{fig:topbtw} give the central result: the
+character with the highest betweenness in each novel. The ranking is
+linguistically sensible and, in several cases, more revealing than a simple
+frequency count. In \emph{A Tale of Two Cities} the top vertex is
+\emph{Mr.\ Lorry}, the banker who literally shuttles between the English and
+French halves of the plot --- a textbook bridge. In \emph{Pride and Prejudice},
+\emph{Emma} and \emph{Sherlock Holmes}, betweenness recovers the obvious
+protagonist (\emph{Elizabeth}, \emph{Emma}, \emph{Holmes}).
+
+A striking pattern emerges when betweenness is compared with degree
+(Table~\ref{tab:main}): the two measures disagree precisely in first-person
+narratives. In \emph{Great Expectations}, \emph{Joe} has the largest betweenness
+although the narrator \emph{Pip} has the largest degree; in \emph{Jane Eyre}, the
+narrator \emph{Jane} leads in betweenness while \emph{Mrs.\ Fairfax} leads in
+degree. The reason is methodological and interpretable: a first-person narrator
+is rendered overwhelmingly through the pronoun ``I'', which coreference assigns to
+the narrator but which does not generate co-mentions in the same way explicit
+naming does; consequently another character often becomes the structural
+connector. This is visible at the corpus level in Figure~\ref{fig:topbtw}, where
+first-person narratives (red) populate both extremes of the betweenness scale.
+
+\begin{table}[H]
+\centering
+\caption{Character with the highest betweenness $C_B$ and the highest degree $k$
+in each novel. The two criteria diverge mainly in first-person narratives.}
+\label{tab:main}
+\resizebox{\textwidth}{!}{\input{tables/tab_main.tex}}
+\end{table}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/fig_top_betweenness.pdf}
+\caption{Top betweenness value per novel, coloured by narrative point of view.}
+\label{fig:topbtw}
+\end{figure}
+
+\subsection{Betweenness captures a distinct notion of importance}
+Pooling all characters across the ten books, Figure~\ref{fig:corr} shows the
+Spearman correlations between centrality measures. Degree, weighted degree,
+closeness and eigenvector centrality are strongly inter-correlated, as expected,
+whereas betweenness is the measure least aligned with the others. In other words,
+the most frequent or most connected character is not necessarily the one that
+mediates information flow through the narrative --- exactly the property that
+makes betweenness valuable for identifying connector characters.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.62\textwidth]{figures/fig_centrality_corr.pdf}
+\caption{Spearman correlation between centrality measures, pooled over all
+characters of the ten novels. Betweenness is the least correlated with the
+remaining measures.}
+\label{fig:corr}
+\end{figure}
+
+\subsection{Narrative point of view and the concentration of betweenness}
+Figure~\ref{fig:pov} relates the inequality of the betweenness distribution
+(measured by its Gini coefficient) to the maximum betweenness, separating
+first- and third-person novels. Third-person novels with a clear central
+protagonist (\emph{Emma}, \emph{Pride and Prejudice}) reach the highest peak
+betweenness, since one vertex dominates the shortest-path structure. First-person
+novels show a broader range, consistent with the narrator-pronoun effect
+discussed above. These observations should be read together with the choice of
+the \texttt{small} BookNLP model and the eight-paragraph window; both are stated
+explicitly to keep the study reproducible, and neither affects the qualitative
+conclusions.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.62\textwidth]{figures/fig_pov.pdf}
+\caption{Concentration of betweenness (Gini coefficient) versus the maximum
+betweenness, separated by narrative point of view.}
+\label{fig:pov}
+\end{figure}
+
+\section{Conclusion}
+\label{sec:conclusion}
+
+We built weighted character co-occurrence networks for ten classic English
+novels using a neural literary-NLP pipeline that resolves characters, aliases
+and anaphora, and connected characters co-occurring within an eight-paragraph
+window. The networks are robustly small-world and disassortative, and their
+betweenness rankings identify the \emph{connector} characters of each story,
+which need not coincide with the most frequent ones --- a divergence that is
+systematic in first-person narratives. Betweenness emerges as the centrality
+least correlated with the others, underlining its complementary, mediation-based
+view of narrative importance. Future work includes scaling the analysis with the
+larger BookNLP model, contrasting co-occurrence with conversational edges
+\cite{elson2010social}, varying the context window, and extending the corpus to
+enable network-based classification of authorship and genre along the lines of
+\cite{amancio2015stylometry,amancio2012movements}. All code, intermediate
+artefacts and per-book networks are released to ensure full reproducibility.
+
+\section*{Acknowledgements}
+The authors thank Project Gutenberg for curating the public-domain texts and the
+maintainers of BookNLP and NetworkX for their open-source tools.
+
+\bibliographystyle{elsarticle-num}
+\bibliography{refs}
+
+\clearpage
+\appendix
+\section{Per-novel networks and character rankings}
+\label{app:books}
+This appendix collects, for each of the ten novels, the full character
+co-occurrence network and the ten most central characters ranked by betweenness.
+\input{tables/appendix_books.tex}
+
+\end{document}

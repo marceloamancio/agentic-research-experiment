@@ -1,0 +1,3198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-06-27">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="distance" type="double" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="mentions" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Briony Lodge" label="Briony Lodge">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Holmes" label="Holmes">
+        <attvalues>
+          <attvalue for="0" value="1008" />
+        </attvalues>
+      </node>
+      <node id="Arthur" label="Arthur">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </node>
+      <node id="Irene Adler" label="Irene Adler">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </node>
+      <node id="Watson" label="Watson">
+        <attvalues>
+          <attvalue for="0" value="91" />
+        </attvalues>
+      </node>
+      <node id="Mr. Godfrey Norton" label="Mr. Godfrey Norton">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="the Serpentine" label="the Serpentine">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="John Openshaw" label="John Openshaw">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="Mr. John Hare" label="Mr. John Hare">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Pshaw" label="Pshaw">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Mr. Wilson" label="Mr. Wilson">
+        <attvalues>
+          <attvalue for="0" value="54" />
+        </attvalues>
+      </node>
+      <node id="Mary" label="Mary">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </node>
+      <node id="Ezekiah Hopkins" label="Ezekiah Hopkins">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Mr. Duncan Ross" label="Mr. Duncan Ross">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="Vincent Spaulding" label="Vincent Spaulding">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="This American" label="This American">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Jones" label="Jones">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="Mr. Merryweather" label="Mr. Merryweather">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="John Clay" label="John Clay">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="Mr. Hosmer Angel" label="Mr. Hosmer Angel">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </node>
+      <node id="Mr. Windibank" label="Mr. Windibank">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </node>
+      <node id="Father" label="Father">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="IV" label="IV">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Turner" label="Turner">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="Mr. Hatherley" label="Mr. Hatherley">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="McCarthy" label="McCarthy">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="One" label="One">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="William Crowder" label="William Crowder">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="young McCarthy" label="young McCarthy">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="Miss Turner" label="Miss Turner">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Lestrade" label="Lestrade">
+        <attvalues>
+          <attvalue for="0" value="60" />
+        </attvalues>
+      </node>
+      <node id="John Cobb" label="John Cobb">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Witness" label="Witness">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Cooee" label="Cooee">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="God" label="God">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="Tiptoes" label="Tiptoes">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="McCarthy (#328)" label="McCarthy (#328)">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Alice" label="Alice">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="Black Jack of Ballarat" label="Black Jack of Ballarat">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Major Prendergast" label="Major Prendergast">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Elias" label="Elias">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Lee" label="Lee">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="K. K. K." label="K. K. K.">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="young Openshaw" label="young Openshaw">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Mrs. Hudson" label="Mrs. Hudson">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="John Swain" label="John Swain">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Captain James Calhoun" label="Captain James Calhoun">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Miss Hunter" label="Miss Hunter">
+        <attvalues>
+          <attvalue for="0" value="38" />
+        </attvalues>
+      </node>
+      <node id="Isa Whitney" label="Isa Whitney">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="De Quincey" label="De Quincey">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Kate" label="Kate">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Folk" label="Folk">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Hitherto" label="Hitherto">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Mr. Neville St. Clair" label="Mr. Neville St. Clair">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </node>
+      <node id="Mrs. St. Clair" label="Mrs. St. Clair">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="the Lascar" label="the Lascar">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Hugh Boone" label="Hugh Boone">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="Bradstreet" label="Bradstreet">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="Peterson" label="Peterson">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="Horner" label="Horner">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Jem" label="Jem">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Catherine Cusack" label="Catherine Cusack">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Mr. Henry Baker" label="Mr. Henry Baker">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="Mr. Windigate of the Alpha" label="Mr. Windigate of the Alpha">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Breckinridge" label="Breckinridge">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="Mrs. Oakshott" label="Mrs. Oakshott">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Ryder" label="Ryder">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="Stoke Moran" label="Stoke Moran">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Dr. Roylott" label="Dr. Roylott">
+        <attvalues>
+          <attvalue for="0" value="36" />
+        </attvalues>
+      </node>
+      <node id="Ha" label="Ha">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="Mrs. Farintosh" label="Mrs. Farintosh">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Miss Stoner" label="Miss Stoner">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="Julia" label="Julia">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Hullo" label="Hullo">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="IX" label="IX">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Colonel Lysander Stark" label="Colonel Lysander Stark">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Mr. Ferguson" label="Mr. Ferguson">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Fritz" label="Fritz">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Elise" label="Elise">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Dr. Becher" label="Dr. Becher">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Lord St. Simon" label="Lord St. Simon">
+        <attvalues>
+          <attvalue for="0" value="68" />
+        </attvalues>
+      </node>
+      <node id="MR . SHERLOCK HOLMES,—Lord Backwater" label="MR . SHERLOCK HOLMES,—Lord Backwater">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Miss Hatty Doran" label="Miss Hatty Doran">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="Mr. Aloysius Doran" label="Mr. Aloysius Doran">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="Lady St. Simon" label="Lady St. Simon">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="Flora Millar" label="Flora Millar">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Frank" label="Frank">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="Pa" label="Pa">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="the Apaches" label="the Apaches">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="THE BERYL CORONET “ Holmes" label="THE BERYL CORONET “ Holmes">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Mr. Holder" label="Mr. Holder">
+        <attvalues>
+          <attvalue for="0" value="23" />
+        </attvalues>
+      </node>
+      <node id="Lucy Parr" label="Lucy Parr">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Sir George Burnwell" label="Sir George Burnwell">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="Miss Holder" label="Miss Holder">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="Boots" label="Boots">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="XII" label="XII">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="DEAR MR . HOLMES,—I" label="DEAR MR . HOLMES,—I">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="Miss Stoper" label="Miss Stoper">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Mr. Rucastle" label="Mr. Rucastle">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="Mrs. Rucastle" label="Mrs. Rucastle">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="Toller" label="Toller">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="Carlo" label="Carlo">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="the Rucastles" label="the Rucastles">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Miss Alice" label="Miss Alice">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Mr. Fowler" label="Mr. Fowler">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Briony Lodge" target="Holmes" id="0" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Briony Lodge" target="Irene Adler" id="1" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Briony Lodge" target="Mr. Godfrey Norton" id="2" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Arthur" id="3" weight="79">
+        <attvalues>
+          <attvalue for="1" value="0.012658227848101266" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Irene Adler" id="4" weight="86">
+        <attvalues>
+          <attvalue for="1" value="0.011627906976744186" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Watson" id="5" weight="494">
+        <attvalues>
+          <attvalue for="1" value="0.0020242914979757085" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. John Hare" id="6" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Godfrey Norton" id="7" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Pshaw" id="8" weight="15">
+        <attvalues>
+          <attvalue for="1" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Wilson" id="9" weight="134">
+        <attvalues>
+          <attvalue for="1" value="0.007462686567164179" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mary" id="10" weight="117">
+        <attvalues>
+          <attvalue for="1" value="0.008547008547008548" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Ezekiah Hopkins" id="11" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Duncan Ross" id="12" weight="64">
+        <attvalues>
+          <attvalue for="1" value="0.015625" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Vincent Spaulding" id="13" weight="41">
+        <attvalues>
+          <attvalue for="1" value="0.024390243902439025" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="This American" id="14" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Jones" id="15" weight="40">
+        <attvalues>
+          <attvalue for="1" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Merryweather" id="16" weight="41">
+        <attvalues>
+          <attvalue for="1" value="0.024390243902439025" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="John Clay" id="17" weight="28">
+        <attvalues>
+          <attvalue for="1" value="0.03571428571428571" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Hosmer Angel" id="18" weight="100">
+        <attvalues>
+          <attvalue for="1" value="0.01" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Windibank" id="19" weight="71">
+        <attvalues>
+          <attvalue for="1" value="0.014084507042253521" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Father" id="20" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="IV" id="21" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Turner" id="22" weight="67">
+        <attvalues>
+          <attvalue for="1" value="0.014925373134328358" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Hatherley" id="23" weight="63">
+        <attvalues>
+          <attvalue for="1" value="0.015873015873015872" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="McCarthy" id="24" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="One" id="25" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="William Crowder" id="26" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="young McCarthy" id="27" weight="115">
+        <attvalues>
+          <attvalue for="1" value="0.008695652173913044" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Miss Turner" id="28" weight="35">
+        <attvalues>
+          <attvalue for="1" value="0.02857142857142857" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Lestrade" id="29" weight="170">
+        <attvalues>
+          <attvalue for="1" value="0.0058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="John Cobb" id="30" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Witness" id="31" weight="20">
+        <attvalues>
+          <attvalue for="1" value="0.05" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Cooee" id="32" weight="25">
+        <attvalues>
+          <attvalue for="1" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="God" id="33" weight="95">
+        <attvalues>
+          <attvalue for="1" value="0.010526315789473684" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Tiptoes" id="34" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="McCarthy (#328)" id="35" weight="22">
+        <attvalues>
+          <attvalue for="1" value="0.045454545454545456" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Alice" id="36" weight="34">
+        <attvalues>
+          <attvalue for="1" value="0.029411764705882353" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Black Jack of Ballarat" id="37" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Major Prendergast" id="38" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="John Openshaw" id="39" weight="67">
+        <attvalues>
+          <attvalue for="1" value="0.014925373134328358" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Elias" id="40" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Lee" id="41" weight="35">
+        <attvalues>
+          <attvalue for="1" value="0.02857142857142857" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="K. K. K." id="42" weight="22">
+        <attvalues>
+          <attvalue for="1" value="0.045454545454545456" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="young Openshaw" id="43" weight="43">
+        <attvalues>
+          <attvalue for="1" value="0.023255813953488372" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mrs. Hudson" id="44" weight="29">
+        <attvalues>
+          <attvalue for="1" value="0.034482758620689655" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="John Swain" id="45" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Captain James Calhoun" id="46" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Miss Hunter" id="47" weight="117">
+        <attvalues>
+          <attvalue for="1" value="0.008547008547008548" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Isa Whitney" id="48" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="De Quincey" id="49" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Kate" id="50" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Neville St. Clair" id="51" weight="85">
+        <attvalues>
+          <attvalue for="1" value="0.011764705882352941" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mrs. St. Clair" id="52" weight="42">
+        <attvalues>
+          <attvalue for="1" value="0.023809523809523808" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="the Lascar" id="53" weight="31">
+        <attvalues>
+          <attvalue for="1" value="0.03225806451612903" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Hugh Boone" id="54" weight="35">
+        <attvalues>
+          <attvalue for="1" value="0.02857142857142857" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Bradstreet" id="55" weight="68">
+        <attvalues>
+          <attvalue for="1" value="0.014705882352941176" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Peterson" id="56" weight="36">
+        <attvalues>
+          <attvalue for="1" value="0.027777777777777776" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Horner" id="57" weight="36">
+        <attvalues>
+          <attvalue for="1" value="0.027777777777777776" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Jem" id="58" weight="38">
+        <attvalues>
+          <attvalue for="1" value="0.02631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Catherine Cusack" id="59" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Henry Baker" id="60" weight="54">
+        <attvalues>
+          <attvalue for="1" value="0.018518518518518517" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Windigate of the Alpha" id="61" weight="24">
+        <attvalues>
+          <attvalue for="1" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Breckinridge" id="62" weight="32">
+        <attvalues>
+          <attvalue for="1" value="0.03125" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mrs. Oakshott" id="63" weight="38">
+        <attvalues>
+          <attvalue for="1" value="0.02631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Ryder" id="64" weight="39">
+        <attvalues>
+          <attvalue for="1" value="0.02564102564102564" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Stoke Moran" id="65" weight="40">
+        <attvalues>
+          <attvalue for="1" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Dr. Roylott" id="66" weight="118">
+        <attvalues>
+          <attvalue for="1" value="0.00847457627118644" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Ha" id="67" weight="38">
+        <attvalues>
+          <attvalue for="1" value="0.02631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mrs. Farintosh" id="68" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Miss Stoner" id="69" weight="100">
+        <attvalues>
+          <attvalue for="1" value="0.01" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Julia" id="70" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="IX" id="71" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Colonel Lysander Stark" id="72" weight="48">
+        <attvalues>
+          <attvalue for="1" value="0.020833333333333332" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Ferguson" id="73" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Hullo" id="74" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Fritz" id="75" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Elise" id="76" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Dr. Becher" id="77" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Lord St. Simon" id="78" weight="117">
+        <attvalues>
+          <attvalue for="1" value="0.008547008547008548" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="MR . SHERLOCK HOLMES,—Lord Backwater" id="79" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Miss Hatty Doran" id="80" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Aloysius Doran" id="81" weight="38">
+        <attvalues>
+          <attvalue for="1" value="0.02631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Lady St. Simon" id="82" weight="34">
+        <attvalues>
+          <attvalue for="1" value="0.029411764705882353" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Flora Millar" id="83" weight="30">
+        <attvalues>
+          <attvalue for="1" value="0.03333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="the Serpentine" id="84" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Frank" id="85" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Pa" id="86" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="the Apaches" id="87" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="THE BERYL CORONET “ Holmes" id="88" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Holder" id="89" weight="72">
+        <attvalues>
+          <attvalue for="1" value="0.013888888888888888" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Lucy Parr" id="90" weight="15">
+        <attvalues>
+          <attvalue for="1" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Sir George Burnwell" id="91" weight="55">
+        <attvalues>
+          <attvalue for="1" value="0.01818181818181818" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Miss Holder" id="92" weight="45">
+        <attvalues>
+          <attvalue for="1" value="0.022222222222222223" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Boots" id="93" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="XII" id="94" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="DEAR MR . HOLMES,—I" id="95" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Miss Stoper" id="96" weight="23">
+        <attvalues>
+          <attvalue for="1" value="0.043478260869565216" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Rucastle" id="97" weight="104">
+        <attvalues>
+          <attvalue for="1" value="0.009615384615384616" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mrs. Rucastle" id="98" weight="53">
+        <attvalues>
+          <attvalue for="1" value="0.018867924528301886" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Toller" id="99" weight="72">
+        <attvalues>
+          <attvalue for="1" value="0.013888888888888888" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Carlo" id="100" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="the Rucastles" id="101" weight="24">
+        <attvalues>
+          <attvalue for="1" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Miss Alice" id="102" weight="25">
+        <attvalues>
+          <attvalue for="1" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="Holmes" target="Mr. Fowler" id="103" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Arthur" target="Irene Adler" id="104" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Arthur" target="Mr. Holder" id="105" weight="38">
+        <attvalues>
+          <attvalue for="1" value="0.02631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="Arthur" target="Lucy Parr" id="106" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Arthur" target="Sir George Burnwell" id="107" weight="46">
+        <attvalues>
+          <attvalue for="1" value="0.021739130434782608" />
+        </attvalues>
+      </edge>
+      <edge source="Arthur" target="Mary" id="108" weight="37">
+        <attvalues>
+          <attvalue for="1" value="0.02702702702702703" />
+        </attvalues>
+      </edge>
+      <edge source="Arthur" target="God" id="109" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Arthur" target="Miss Holder" id="110" weight="25">
+        <attvalues>
+          <attvalue for="1" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="Arthur" target="Boots" id="111" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Arthur" target="XII" id="112" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Arthur" target="Watson" id="113" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Irene Adler" target="Watson" id="114" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Irene Adler" target="Mr. Godfrey Norton" id="115" weight="24">
+        <attvalues>
+          <attvalue for="1" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="Irene Adler" target="the Serpentine" id="116" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Irene Adler" target="John Openshaw" id="117" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Irene Adler" target="Pshaw" id="118" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Irene Adler" target="Mr. John Hare" id="119" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Irene Adler" target="Mr. Wilson" id="120" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Irene Adler" target="Mary" id="121" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Irene Adler" target="Peterson" id="122" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Godfrey Norton" id="123" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="the Serpentine" id="124" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="John Openshaw" id="125" weight="38">
+        <attvalues>
+          <attvalue for="1" value="0.02631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Wilson" id="126" weight="37">
+        <attvalues>
+          <attvalue for="1" value="0.02702702702702703" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mary" id="127" weight="20">
+        <attvalues>
+          <attvalue for="1" value="0.05" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Ezekiah Hopkins" id="128" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Duncan Ross" id="129" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Jones" id="130" weight="25">
+        <attvalues>
+          <attvalue for="1" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Merryweather" id="131" weight="31">
+        <attvalues>
+          <attvalue for="1" value="0.03225806451612903" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="John Clay" id="132" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Hosmer Angel" id="133" weight="23">
+        <attvalues>
+          <attvalue for="1" value="0.043478260869565216" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Windibank" id="134" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Father" id="135" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="IV" id="136" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="young McCarthy" id="137" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Miss Turner" id="138" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Lestrade" id="139" weight="36">
+        <attvalues>
+          <attvalue for="1" value="0.027777777777777776" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="God" id="140" weight="25">
+        <attvalues>
+          <attvalue for="1" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="One" id="141" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Cooee" id="142" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Turner" id="143" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="McCarthy (#328)" id="144" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Alice" id="145" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Black Jack of Ballarat" id="146" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="young Openshaw" id="147" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Captain James Calhoun" id="148" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Isa Whitney" id="149" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Hitherto" id="150" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Kate" id="151" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Neville St. Clair" id="152" weight="32">
+        <attvalues>
+          <attvalue for="1" value="0.03125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Lee" id="153" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mrs. St. Clair" id="154" weight="27">
+        <attvalues>
+          <attvalue for="1" value="0.037037037037037035" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="the Lascar" id="155" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Hugh Boone" id="156" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Bradstreet" id="157" weight="15">
+        <attvalues>
+          <attvalue for="1" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Peterson" id="158" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Horner" id="159" weight="19">
+        <attvalues>
+          <attvalue for="1" value="0.05263157894736842" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Jem" id="160" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Catherine Cusack" id="161" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Henry Baker" id="162" weight="27">
+        <attvalues>
+          <attvalue for="1" value="0.037037037037037035" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mrs. Hudson" id="163" weight="19">
+        <attvalues>
+          <attvalue for="1" value="0.05263157894736842" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Windigate of the Alpha" id="164" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Breckinridge" id="165" weight="15">
+        <attvalues>
+          <attvalue for="1" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mrs. Oakshott" id="166" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Ryder" id="167" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Stoke Moran" id="168" weight="20">
+        <attvalues>
+          <attvalue for="1" value="0.05" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Dr. Roylott" id="169" weight="46">
+        <attvalues>
+          <attvalue for="1" value="0.021739130434782608" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Ha" id="170" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mrs. Farintosh" id="171" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Miss Stoner" id="172" weight="32">
+        <attvalues>
+          <attvalue for="1" value="0.03125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Julia" id="173" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Hullo" id="174" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="IX" id="175" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Hatherley" id="176" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Lord St. Simon" id="177" weight="35">
+        <attvalues>
+          <attvalue for="1" value="0.02857142857142857" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="MR . SHERLOCK HOLMES,—Lord Backwater" id="178" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Miss Hatty Doran" id="179" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Aloysius Doran" id="180" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Lady St. Simon" id="181" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Flora Millar" id="182" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="This American" id="183" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="THE BERYL CORONET “ Holmes" id="184" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Holder" id="185" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Miss Holder" id="186" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Sir George Burnwell" id="187" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="XII" id="188" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Miss Hunter" id="189" weight="31">
+        <attvalues>
+          <attvalue for="1" value="0.03225806451612903" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Toller" id="190" weight="20">
+        <attvalues>
+          <attvalue for="1" value="0.05" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Miss Alice" id="191" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Rucastle" id="192" weight="15">
+        <attvalues>
+          <attvalue for="1" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="the Rucastles" id="193" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mrs. Rucastle" id="194" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Watson" target="Mr. Fowler" id="195" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Godfrey Norton" target="the Serpentine" id="196" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Godfrey Norton" target="John Openshaw" id="197" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Godfrey Norton" target="Mr. John Hare" id="198" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Godfrey Norton" target="Pshaw" id="199" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="the Serpentine" target="John Openshaw" id="200" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="the Serpentine" target="Lestrade" id="201" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="the Serpentine" target="Lady St. Simon" id="202" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="the Serpentine" target="Flora Millar" id="203" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="Elias" id="204" weight="15">
+        <attvalues>
+          <attvalue for="1" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="Lee" id="205" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="Mary" id="206" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="K. K. K." id="207" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="young Openshaw" id="208" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="Major Prendergast" id="209" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="Mrs. Hudson" id="210" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="John Swain" id="211" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="God" id="212" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="Captain James Calhoun" id="213" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="Miss Hunter" id="214" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="Isa Whitney" id="215" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="De Quincey" id="216" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="Mr. Neville St. Clair" id="217" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="John Openshaw" target="Mrs. St. Clair" id="218" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Pshaw" target="Mary" id="219" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Pshaw" target="DEAR MR . HOLMES,—I" id="220" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Pshaw" target="Miss Hunter" id="221" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Wilson" target="Mary" id="222" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Wilson" target="Ezekiah Hopkins" id="223" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Wilson" target="Mr. Duncan Ross" id="224" weight="28">
+        <attvalues>
+          <attvalue for="1" value="0.03571428571428571" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Wilson" target="Vincent Spaulding" id="225" weight="40">
+        <attvalues>
+          <attvalue for="1" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Wilson" target="This American" id="226" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Wilson" target="Mr. Merryweather" id="227" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Wilson" target="John Clay" id="228" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Mary" target="Mr. Hosmer Angel" id="229" weight="40">
+        <attvalues>
+          <attvalue for="1" value="0.025" />
+        </attvalues>
+      </edge>
+      <edge source="Mary" target="Mr. Windibank" id="230" weight="51">
+        <attvalues>
+          <attvalue for="1" value="0.0196078431372549" />
+        </attvalues>
+      </edge>
+      <edge source="Mary" target="Father" id="231" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mary" target="IV" id="232" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Mary" target="Elias" id="233" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Mary" target="Lee" id="234" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Mary" target="Peterson" id="235" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mary" target="Lucy Parr" id="236" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Mary" target="Sir George Burnwell" id="237" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Mary" target="Miss Holder" id="238" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Mary" target="XII" id="239" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Mary" target="DEAR MR . HOLMES,—I" id="240" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Mary" target="Miss Hunter" id="241" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Ezekiah Hopkins" target="Mr. Duncan Ross" id="242" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Ezekiah Hopkins" target="Vincent Spaulding" id="243" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Ezekiah Hopkins" target="This American" id="244" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Duncan Ross" target="Vincent Spaulding" id="245" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Duncan Ross" target="Turner" id="246" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Duncan Ross" target="Mr. Hatherley" id="247" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Duncan Ross" target="McCarthy" id="248" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Duncan Ross" target="One" id="249" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Duncan Ross" target="William Crowder" id="250" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Duncan Ross" target="young McCarthy" id="251" weight="15">
+        <attvalues>
+          <attvalue for="1" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Duncan Ross" target="Miss Turner" id="252" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Duncan Ross" target="Lestrade" id="253" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Duncan Ross" target="Tiptoes" id="254" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Vincent Spaulding" target="This American" id="255" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="This American" target="Lestrade" id="256" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="This American" target="Lord St. Simon" id="257" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="This American" target="THE BERYL CORONET “ Holmes" id="258" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Jones" target="Mr. Merryweather" id="259" weight="29">
+        <attvalues>
+          <attvalue for="1" value="0.034482758620689655" />
+        </attvalues>
+      </edge>
+      <edge source="Jones" target="John Clay" id="260" weight="24">
+        <attvalues>
+          <attvalue for="1" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Merryweather" target="John Clay" id="261" weight="19">
+        <attvalues>
+          <attvalue for="1" value="0.05263157894736842" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hosmer Angel" target="Mr. Windibank" id="262" weight="54">
+        <attvalues>
+          <attvalue for="1" value="0.018518518518518517" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hosmer Angel" target="Father" id="263" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hosmer Angel" target="IV" id="264" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Windibank" target="Father" id="265" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Windibank" target="IV" id="266" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="Mr. Hatherley" id="267" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="McCarthy" id="268" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="One" id="269" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="William Crowder" id="270" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="young McCarthy" id="271" weight="48">
+        <attvalues>
+          <attvalue for="1" value="0.020833333333333332" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="Miss Turner" id="272" weight="15">
+        <attvalues>
+          <attvalue for="1" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="Lestrade" id="273" weight="26">
+        <attvalues>
+          <attvalue for="1" value="0.038461538461538464" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="John Cobb" id="274" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="Witness" id="275" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="Cooee" id="276" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="God" id="277" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="McCarthy (#328)" id="278" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="Alice" id="279" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Turner" target="Black Jack of Ballarat" id="280" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hatherley" target="McCarthy" id="281" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hatherley" target="One" id="282" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hatherley" target="William Crowder" id="283" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hatherley" target="young McCarthy" id="284" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hatherley" target="Miss Turner" id="285" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hatherley" target="Lestrade" id="286" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hatherley" target="Stoke Moran" id="287" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hatherley" target="Dr. Roylott" id="288" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hatherley" target="Miss Stoner" id="289" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hatherley" target="IX" id="290" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hatherley" target="Colonel Lysander Stark" id="291" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hatherley" target="Bradstreet" id="292" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Hatherley" target="Dr. Becher" id="293" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="McCarthy" target="One" id="294" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="McCarthy" target="William Crowder" id="295" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="McCarthy" target="young McCarthy" id="296" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="McCarthy" target="Miss Turner" id="297" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="McCarthy" target="Lestrade" id="298" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="One" target="William Crowder" id="299" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="One" target="young McCarthy" id="300" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="One" target="Miss Turner" id="301" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="One" target="Lestrade" id="302" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="One" target="Cooee" id="303" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="William Crowder" target="young McCarthy" id="304" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="William Crowder" target="Miss Turner" id="305" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="William Crowder" target="Lestrade" id="306" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="William Crowder" target="John Cobb" id="307" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="William Crowder" target="Witness" id="308" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="young McCarthy" target="Miss Turner" id="309" weight="35">
+        <attvalues>
+          <attvalue for="1" value="0.02857142857142857" />
+        </attvalues>
+      </edge>
+      <edge source="young McCarthy" target="Lestrade" id="310" weight="82">
+        <attvalues>
+          <attvalue for="1" value="0.012195121951219513" />
+        </attvalues>
+      </edge>
+      <edge source="young McCarthy" target="John Cobb" id="311" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="young McCarthy" target="Witness" id="312" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="young McCarthy" target="God" id="313" weight="22">
+        <attvalues>
+          <attvalue for="1" value="0.045454545454545456" />
+        </attvalues>
+      </edge>
+      <edge source="young McCarthy" target="Cooee" id="314" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="young McCarthy" target="Tiptoes" id="315" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="young McCarthy" target="McCarthy (#328)" id="316" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Turner" target="Lestrade" id="317" weight="37">
+        <attvalues>
+          <attvalue for="1" value="0.02702702702702703" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Turner" target="God" id="318" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Turner" target="Cooee" id="319" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Lestrade" target="God" id="320" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Lestrade" target="Cooee" id="321" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Lestrade" target="Tiptoes" id="322" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Lestrade" target="Lord St. Simon" id="323" weight="38">
+        <attvalues>
+          <attvalue for="1" value="0.02631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="Lestrade" target="MR . SHERLOCK HOLMES,—Lord Backwater" id="324" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Lestrade" target="Miss Hatty Doran" id="325" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Lestrade" target="Mr. Aloysius Doran" id="326" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Lestrade" target="Alice" id="327" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Lestrade" target="Flora Millar" id="328" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Lestrade" target="Hullo" id="329" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Lestrade" target="Lady St. Simon" id="330" weight="19">
+        <attvalues>
+          <attvalue for="1" value="0.05263157894736842" />
+        </attvalues>
+      </edge>
+      <edge source="Lestrade" target="THE BERYL CORONET “ Holmes" id="331" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="John Cobb" target="Witness" id="332" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Witness" target="Cooee" id="333" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="McCarthy (#328)" id="334" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Alice" id="335" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Black Jack of Ballarat" id="336" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="young Openshaw" id="337" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Lee" id="338" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Mr. Neville St. Clair" id="339" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Bradstreet" id="340" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Horner" id="341" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Catherine Cusack" id="342" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Ryder" id="343" weight="15">
+        <attvalues>
+          <attvalue for="1" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Mrs. Oakshott" id="344" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Jem" id="345" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Breckinridge" id="346" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Ha" id="347" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="THE BERYL CORONET “ Holmes" id="348" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Mr. Holder" id="349" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Sir George Burnwell" id="350" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Mr. Rucastle" id="351" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Mrs. Rucastle" id="352" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Toller" id="353" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="Carlo" id="354" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="God" target="the Rucastles" id="355" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="McCarthy (#328)" target="Alice" id="356" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="McCarthy (#328)" target="Black Jack of Ballarat" id="357" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Alice" target="Black Jack of Ballarat" id="358" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Alice" target="Lord St. Simon" id="359" weight="27">
+        <attvalues>
+          <attvalue for="1" value="0.037037037037037035" />
+        </attvalues>
+      </edge>
+      <edge source="Alice" target="Mr. Aloysius Doran" id="360" weight="15">
+        <attvalues>
+          <attvalue for="1" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="Alice" target="Lady St. Simon" id="361" weight="25">
+        <attvalues>
+          <attvalue for="1" value="0.04" />
+        </attvalues>
+      </edge>
+      <edge source="Alice" target="Flora Millar" id="362" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Alice" target="Miss Hunter" id="363" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Alice" target="Miss Stoper" id="364" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Major Prendergast" target="Mrs. Hudson" id="365" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Major Prendergast" target="John Swain" id="366" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Elias" target="Lee" id="367" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Elias" target="Miss Hunter" id="368" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Elias" target="Isa Whitney" id="369" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Elias" target="De Quincey" id="370" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Elias" target="Kate" id="371" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Elias" target="Folk" id="372" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Lee" target="Mr. Neville St. Clair" id="373" weight="30">
+        <attvalues>
+          <attvalue for="1" value="0.03333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Lee" target="Mrs. St. Clair" id="374" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Lee" target="the Lascar" id="375" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Lee" target="Hugh Boone" id="376" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Lee" target="Bradstreet" id="377" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="K. K. K." target="young Openshaw" id="378" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Hudson" target="John Swain" id="379" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Hudson" target="Horner" id="380" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Hudson" target="Mr. Henry Baker" id="381" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Hudson" target="Stoke Moran" id="382" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Hudson" target="Dr. Roylott" id="383" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Hudson" target="Ha" id="384" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Captain James Calhoun" target="Kate" id="385" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Captain James Calhoun" target="Folk" id="386" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Captain James Calhoun" target="Isa Whitney" id="387" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Captain James Calhoun" target="Hitherto" id="388" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Hunter" target="Isa Whitney" id="389" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Hunter" target="De Quincey" id="390" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Hunter" target="Kate" id="391" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Hunter" target="DEAR MR . HOLMES,—I" id="392" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Hunter" target="Miss Stoper" id="393" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Hunter" target="Mr. Rucastle" id="394" weight="54">
+        <attvalues>
+          <attvalue for="1" value="0.018518518518518517" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Hunter" target="Mrs. Rucastle" id="395" weight="26">
+        <attvalues>
+          <attvalue for="1" value="0.038461538461538464" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Hunter" target="Toller" id="396" weight="45">
+        <attvalues>
+          <attvalue for="1" value="0.022222222222222223" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Hunter" target="the Rucastles" id="397" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Hunter" target="Miss Alice" id="398" weight="24">
+        <attvalues>
+          <attvalue for="1" value="0.041666666666666664" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Hunter" target="Mr. Fowler" id="399" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Isa Whitney" target="De Quincey" id="400" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Isa Whitney" target="Kate" id="401" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="Isa Whitney" target="Folk" id="402" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Isa Whitney" target="Hitherto" id="403" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="De Quincey" target="Kate" id="404" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="De Quincey" target="Folk" id="405" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Kate" target="Folk" id="406" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Kate" target="Hitherto" id="407" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Folk" target="Hitherto" id="408" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Neville St. Clair" target="Mrs. St. Clair" id="409" weight="29">
+        <attvalues>
+          <attvalue for="1" value="0.034482758620689655" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Neville St. Clair" target="the Lascar" id="410" weight="19">
+        <attvalues>
+          <attvalue for="1" value="0.05263157894736842" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Neville St. Clair" target="Hugh Boone" id="411" weight="29">
+        <attvalues>
+          <attvalue for="1" value="0.034482758620689655" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Neville St. Clair" target="Bradstreet" id="412" weight="21">
+        <attvalues>
+          <attvalue for="1" value="0.047619047619047616" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. St. Clair" target="the Lascar" id="413" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. St. Clair" target="Hugh Boone" id="414" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="the Lascar" target="Hugh Boone" id="415" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="the Lascar" target="Bradstreet" id="416" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Hugh Boone" target="Bradstreet" id="417" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Bradstreet" target="Horner" id="418" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Bradstreet" target="Jem" id="419" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Bradstreet" target="Catherine Cusack" id="420" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Bradstreet" target="Mr. Henry Baker" id="421" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Bradstreet" target="Peterson" id="422" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Bradstreet" target="Ha" id="423" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Bradstreet" target="Colonel Lysander Stark" id="424" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Bradstreet" target="Dr. Becher" id="425" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Peterson" target="Horner" id="426" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Peterson" target="Jem" id="427" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Peterson" target="Catherine Cusack" id="428" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Peterson" target="Mr. Henry Baker" id="429" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Horner" target="Jem" id="430" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Horner" target="Catherine Cusack" id="431" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Horner" target="Mr. Henry Baker" id="432" weight="15">
+        <attvalues>
+          <attvalue for="1" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="Horner" target="Ryder" id="433" weight="14">
+        <attvalues>
+          <attvalue for="1" value="0.07142857142857142" />
+        </attvalues>
+      </edge>
+      <edge source="Horner" target="Mrs. Oakshott" id="434" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Horner" target="Stoke Moran" id="435" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Horner" target="Dr. Roylott" id="436" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Jem" target="Catherine Cusack" id="437" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Jem" target="Mr. Henry Baker" id="438" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Jem" target="Mr. Windigate of the Alpha" id="439" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Jem" target="Breckinridge" id="440" weight="11">
+        <attvalues>
+          <attvalue for="1" value="0.09090909090909091" />
+        </attvalues>
+      </edge>
+      <edge source="Jem" target="Mrs. Oakshott" id="441" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Jem" target="Ryder" id="442" weight="32">
+        <attvalues>
+          <attvalue for="1" value="0.03125" />
+        </attvalues>
+      </edge>
+      <edge source="Catherine Cusack" target="Mr. Henry Baker" id="443" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Catherine Cusack" target="Ryder" id="444" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Catherine Cusack" target="Mrs. Oakshott" id="445" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Henry Baker" target="Mr. Windigate of the Alpha" id="446" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Henry Baker" target="Breckinridge" id="447" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Henry Baker" target="Mrs. Oakshott" id="448" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Windigate of the Alpha" target="Mrs. Oakshott" id="449" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Windigate of the Alpha" target="Breckinridge" id="450" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Breckinridge" target="Mrs. Oakshott" id="451" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Breckinridge" target="Ryder" id="452" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Oakshott" target="Ryder" id="453" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Stoke Moran" target="Dr. Roylott" id="454" weight="39">
+        <attvalues>
+          <attvalue for="1" value="0.02564102564102564" />
+        </attvalues>
+      </edge>
+      <edge source="Stoke Moran" target="Ha" id="455" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Stoke Moran" target="Mrs. Farintosh" id="456" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Stoke Moran" target="Miss Stoner" id="457" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Stoke Moran" target="Julia" id="458" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Stoke Moran" target="IX" id="459" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Dr. Roylott" target="Ha" id="460" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Dr. Roylott" target="Mrs. Farintosh" id="461" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Dr. Roylott" target="Miss Stoner" id="462" weight="63">
+        <attvalues>
+          <attvalue for="1" value="0.015873015873015872" />
+        </attvalues>
+      </edge>
+      <edge source="Dr. Roylott" target="Julia" id="463" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Dr. Roylott" target="Hullo" id="464" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Dr. Roylott" target="IX" id="465" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Ha" target="Miss Stoner" id="466" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Ha" target="Colonel Lysander Stark" id="467" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Ha" target="Fritz" id="468" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Ha" target="Elise" id="469" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Ha" target="THE BERYL CORONET “ Holmes" id="470" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Farintosh" target="Miss Stoner" id="471" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Farintosh" target="Julia" id="472" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Stoner" target="Julia" id="473" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Stoner" target="Hullo" id="474" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Stoner" target="IX" id="475" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Hullo" target="Colonel Lysander Stark" id="476" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Hullo" target="Mr. Ferguson" id="477" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Hullo" target="Lord St. Simon" id="478" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Colonel Lysander Stark" target="Mr. Ferguson" id="479" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+      <edge source="Colonel Lysander Stark" target="Fritz" id="480" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Colonel Lysander Stark" target="Elise" id="481" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Fritz" target="Elise" id="482" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Lord St. Simon" target="MR . SHERLOCK HOLMES,—Lord Backwater" id="483" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Lord St. Simon" target="Miss Hatty Doran" id="484" weight="42">
+        <attvalues>
+          <attvalue for="1" value="0.023809523809523808" />
+        </attvalues>
+      </edge>
+      <edge source="Lord St. Simon" target="Mr. Aloysius Doran" id="485" weight="43">
+        <attvalues>
+          <attvalue for="1" value="0.023255813953488372" />
+        </attvalues>
+      </edge>
+      <edge source="Lord St. Simon" target="Lady St. Simon" id="486" weight="29">
+        <attvalues>
+          <attvalue for="1" value="0.034482758620689655" />
+        </attvalues>
+      </edge>
+      <edge source="Lord St. Simon" target="Flora Millar" id="487" weight="26">
+        <attvalues>
+          <attvalue for="1" value="0.038461538461538464" />
+        </attvalues>
+      </edge>
+      <edge source="Lord St. Simon" target="Frank" id="488" weight="20">
+        <attvalues>
+          <attvalue for="1" value="0.05" />
+        </attvalues>
+      </edge>
+      <edge source="Lord St. Simon" target="Pa" id="489" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Lord St. Simon" target="the Apaches" id="490" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Lord St. Simon" target="THE BERYL CORONET “ Holmes" id="491" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="MR . SHERLOCK HOLMES,—Lord Backwater" target="Miss Hatty Doran" id="492" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="MR . SHERLOCK HOLMES,—Lord Backwater" target="Mr. Aloysius Doran" id="493" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Hatty Doran" target="Mr. Aloysius Doran" id="494" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Hatty Doran" target="Lady St. Simon" id="495" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Aloysius Doran" target="Lady St. Simon" id="496" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Aloysius Doran" target="Flora Millar" id="497" weight="22">
+        <attvalues>
+          <attvalue for="1" value="0.045454545454545456" />
+        </attvalues>
+      </edge>
+      <edge source="Lady St. Simon" target="Flora Millar" id="498" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="Frank" target="Pa" id="499" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Frank" target="the Apaches" id="500" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Pa" target="the Apaches" id="501" weight="10">
+        <attvalues>
+          <attvalue for="1" value="0.1" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Holder" target="Lucy Parr" id="502" weight="6">
+        <attvalues>
+          <attvalue for="1" value="0.16666666666666666" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Holder" target="Sir George Burnwell" id="503" weight="19">
+        <attvalues>
+          <attvalue for="1" value="0.05263157894736842" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Holder" target="Miss Holder" id="504" weight="29">
+        <attvalues>
+          <attvalue for="1" value="0.034482758620689655" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Holder" target="Boots" id="505" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Holder" target="XII" id="506" weight="4">
+        <attvalues>
+          <attvalue for="1" value="0.25" />
+        </attvalues>
+      </edge>
+      <edge source="Lucy Parr" target="Sir George Burnwell" id="507" weight="9">
+        <attvalues>
+          <attvalue for="1" value="0.1111111111111111" />
+        </attvalues>
+      </edge>
+      <edge source="Sir George Burnwell" target="Miss Holder" id="508" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="Sir George Burnwell" target="Boots" id="509" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Sir George Burnwell" target="XII" id="510" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Holder" target="Boots" id="511" weight="1">
+        <attvalues>
+          <attvalue for="1" value="1.0" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Holder" target="XII" id="512" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Stoper" target="Mr. Rucastle" id="513" weight="2">
+        <attvalues>
+          <attvalue for="1" value="0.5" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Rucastle" target="Mrs. Rucastle" id="514" weight="47">
+        <attvalues>
+          <attvalue for="1" value="0.02127659574468085" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Rucastle" target="Toller" id="515" weight="61">
+        <attvalues>
+          <attvalue for="1" value="0.01639344262295082" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Rucastle" target="Carlo" id="516" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Rucastle" target="the Rucastles" id="517" weight="12">
+        <attvalues>
+          <attvalue for="1" value="0.08333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Rucastle" target="Miss Alice" id="518" weight="18">
+        <attvalues>
+          <attvalue for="1" value="0.05555555555555555" />
+        </attvalues>
+      </edge>
+      <edge source="Mr. Rucastle" target="Mr. Fowler" id="519" weight="17">
+        <attvalues>
+          <attvalue for="1" value="0.058823529411764705" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Rucastle" target="Toller" id="520" weight="38">
+        <attvalues>
+          <attvalue for="1" value="0.02631578947368421" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Rucastle" target="Carlo" id="521" weight="3">
+        <attvalues>
+          <attvalue for="1" value="0.3333333333333333" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Rucastle" target="the Rucastles" id="522" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Rucastle" target="Mr. Fowler" id="523" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Mrs. Rucastle" target="Miss Alice" id="524" weight="7">
+        <attvalues>
+          <attvalue for="1" value="0.14285714285714285" />
+        </attvalues>
+      </edge>
+      <edge source="Toller" target="Carlo" id="525" weight="8">
+        <attvalues>
+          <attvalue for="1" value="0.125" />
+        </attvalues>
+      </edge>
+      <edge source="Toller" target="the Rucastles" id="526" weight="13">
+        <attvalues>
+          <attvalue for="1" value="0.07692307692307693" />
+        </attvalues>
+      </edge>
+      <edge source="Toller" target="Miss Alice" id="527" weight="21">
+        <attvalues>
+          <attvalue for="1" value="0.047619047619047616" />
+        </attvalues>
+      </edge>
+      <edge source="Toller" target="Mr. Fowler" id="528" weight="15">
+        <attvalues>
+          <attvalue for="1" value="0.06666666666666667" />
+        </attvalues>
+      </edge>
+      <edge source="Carlo" target="the Rucastles" id="529" weight="5">
+        <attvalues>
+          <attvalue for="1" value="0.2" />
+        </attvalues>
+      </edge>
+      <edge source="Miss Alice" target="Mr. Fowler" id="530" weight="16">
+        <attvalues>
+          <attvalue for="1" value="0.0625" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

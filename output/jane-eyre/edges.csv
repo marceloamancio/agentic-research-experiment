@@ -1,0 +1,1421 @@
+source,target,weight
+Mrs. Fairfax,Mr. Rochester,666
+Jane,Mr. Rochester,619
+Jane,Mrs. Fairfax,467
+Adèle,Mr. Rochester,346
+St. John,Diana,338
+St. John,Mary,303
+Mary,Diana,287
+Jane,St. John,269
+Mrs. Fairfax,Adèle,247
+Mrs. Fairfax,St. John,244
+Jane,Bessie,226
+Jane,Mrs. Reed,222
+Mr. Rochester,Miss Ingram,220
+Bessie,Mrs. Reed,217
+Jane,Adèle,195
+Mr. Rochester,Mason,182
+Mrs. Fairfax,Bessie,179
+St. John,Mr. Rochester,157
+Miss Temple,Helen,139
+Grace Poole,Mr. Rochester,135
+Mr. Brocklehurst,Miss Temple,127
+Jane,Diana,114
+Jane,Janet,114
+Mr. Rochester,Colonel Dent,112
+Mrs. Fairfax,Grace Poole,110
+Sophie,Mr. Rochester,108
+Pilot,Mr. Rochester,108
+Jane,Mary,104
+Jane,Mason,103
+Bessie,Mr. Rochester,101
+Missis,Bessie,94
+Eliza,Mrs. Reed,93
+Janet,Mr. Rochester,92
+Carter,Mr. Rochester,91
+St. John,Bessie,90
+Mrs. Fairfax,Sophie,89
+Mr. Brocklehurst,Mrs. Reed,89
+Colonel Dent,Miss Ingram,88
+Abbot,Mrs. Reed,88
+Mrs. Fairfax,Miss Ingram,87
+Abbot,Bessie,85
+Eliza,Bessie,84
+Mrs. Fairfax,Diana,84
+John,Mrs. Reed,83
+Jane,Miss Temple,83
+St. John,Morton,82
+Jane,Miss Ingram,82
+Eliza,Georgiana,81
+Jane,Helen,80
+Sophie,Adèle,78
+Georgiana,Mrs. Reed,76
+Adèle,Pilot,74
+Mrs. Fairfax,Pilot,73
+Amy Eshton,Louisa,73
+Mrs. Fairfax,Mary,71
+Mrs. Fairfax,Janet,71
+Jane,Grace Poole,70
+Carter,Mason,69
+St. John,Miss Oliver,69
+Georgiana,Bessie,69
+Mr. Rochester,Blanche,68
+Jane,Mr. Brocklehurst,68
+Miss Scatcherd,Helen,67
+Jane,Carter,67
+Mrs. Fairfax,Mrs. Reed,67
+Bessie,Adèle,66
+Mr. Brocklehurst,Helen,64
+John,Bessie,63
+Bessie,Grace Poole,63
+Mr. Rochester,Louisa,60
+St. John,Mr. Briggs,60
+Mr. Rochester,Mr. Briggs,60
+Mr. Rochester,Jane (#386),60
+Miss Temple,Mrs. Reed,60
+St. John,Mr. Oliver,59
+Mrs. Reed,Mr. Rochester,58
+Grace Poole,Adèle,57
+Mr. Rochester,Richard,57
+Jane,Pilot,56
+Miss Ingram,Louisa,55
+Miss Ingram,Amy Eshton,55
+Mr. Edward,Mr. Rochester,55
+Grace Poole,Mason,55
+Jane,Eliza,53
+Mr. Lloyd,Bessie,53
+Mr. Rochester,Lord Ingram,53
+Adèle,Miss Ingram,53
+Mrs. Fairfax,Mason,52
+Mr. Rochester,Amy Eshton,52
+Bessie,Sophie,52
+Colonel Dent,Louisa,51
+Bessie,Robert,51
+Jane,Mr. Lloyd,51
+Mr. Rochester,Sir George Lynn,50
+Eliza,John,50
+Richard,Mason,50
+Thornfield,Mrs. Fairfax,49
+Missis,Mrs. Reed,49
+Jane,Missis,49
+Miss Georgiana,Bessie,49
+Colonel Dent,Amy Eshton,48
+Mrs. Reed,Helen,48
+Mary,Mr. Rochester,48
+St. John,Jane Elliott,48
+Jane (#250),Mr. Rochester,47
+Adèle,Janet,47
+Mrs. Fairfax,Mr. Brocklehurst,47
+Mr. Eshton,Colonel Dent,47
+Mr. Rochester,Mrs. Rochester,46
+Janet,Jane (#386),46
+Mrs. Fairfax,Miss Temple,46
+Grace Poole,Mrs. Poole,46
+Jane,Richard,45
+Mr. Rochester,Mr. Eshton,45
+St. John,Rosamond,45
+Jane,Abbot,45
+Miss Temple,Miss Scatcherd,45
+Mr. Rochester,Bertha Mason,44
+Mr. Lloyd,Mrs. Reed,44
+Colonel Dent,Lady Ingram,44
+Mrs. Fairfax,Jane (#386),44
+Mr. Reed,Mrs. Reed,43
+Mrs. Fairfax,Mrs. Poole,43
+Aunt Reed,Mrs. Reed,43
+Miss Georgiana,Mrs. Reed,42
+St. John,Jane (#250),42
+St. John,Adèle,42
+Bessie,Jane (#250),41
+Diana,Mary (#434),41
+Grace Poole,Sophie,41
+Miss Ingram,Lady Ingram,41
+Mr. Rochester,Mrs. Poole,41
+Mr. Eshton,Louisa,40
+St. John,Mary (#434),40
+Miss Ingram,Blanche,40
+Lord Ingram,Miss Ingram,40
+Colonel Dent,Blanche,39
+Mary,Morton,39
+John,Georgiana,39
+Mr. Rochester,Lady Ingram,38
+Lord Ingram,Colonel Dent,38
+Diana,Jane Elliott,37
+St. John,Carlo,37
+Lord Ingram,Amy Eshton,37
+Mrs. Fairfax,Mrs. Rochester,37
+Miss Temple,Miss Miller,37
+Jane,Miss Georgiana,37
+Lord Ingram,Louisa,36
+Henry Lynn,Colonel Dent,35
+Jane,Georgiana,35
+Jane,Aunt Reed,35
+Henry Lynn,Mr. Rochester,35
+Mrs. Fairfax,Colonel Dent,35
+Mr. Eshton,Amy Eshton,35
+Louisa,Lady Ingram,34
+Jane,Robert,34
+Lowood,Miss Temple,34
+Fairfax Rochester,Mr. Rochester,34
+Adèle,Colonel Dent,34
+Thornfield,Mr. Rochester,34
+Mr. Eshton,Lord Ingram,34
+Mr. Rochester,Diana,33
+Jane,John,33
+Carter,Richard,33
+Mr. Rochester,Mary Ingram,33
+Mr. Rochester,Wood,32
+Miss Temple,Miss Smith,32
+Mary Ingram,Louisa,32
+Jane,Bertha Mason,32
+Abbot,Mr. Lloyd,32
+Sam,Miss Ingram,32
+Sophie,Janet,32
+Colonel Dent,Mrs. Eshton,32
+Sir George Lynn,Miss Ingram,32
+Sir George Lynn,Colonel Dent,32
+Mr. Reed,Bessie,31
+Mrs. Fairfax,Carter,31
+Sophie,Jane (#386),31
+Georgiana,Mr. Rochester,31
+Blanche,Lady Ingram,31
+Mr. Rochester,Mrs. Eshton,31
+Eliza,Mr. Rochester,31
+mademoiselle,Mr. Rochester,31
+Adèle,Blanche,31
+Mr. Eshton,Miss Ingram,31
+Mr. Eshton,Sir George Lynn,30
+Miss Smith,Miss Scatcherd,30
+Lowood,Mr. Brocklehurst,30
+Jane,Mrs. Rochester,30
+Diana,Miss Oliver,30
+Bessie,Mrs. Leaven,30
+Mr. Eshton,Mary Ingram,29
+John,Mr. Rochester,29
+Blanche,Amy Eshton,29
+Lord Ingram,Blanche,29
+Mr. Oliver,Miss Oliver,29
+Amy Eshton,Lady Ingram,29
+Diana,Morton,29
+Blanche,Louisa,29
+Sam,Lady Ingram,29
+Jane,Jane (#250),29
+Diana,Die,28
+St. John,Grace Poole,28
+Mrs. Fairfax,Mr. Edward,28
+Bessie,Mrs. Poole,28
+Colonel Dent,Mary (#316),28
+Adèle,mademoiselle,28
+Jane,Sophie,28
+Adèle,Mrs. Poole,28
+Mary Ingram,Miss Ingram,28
+St. John,Hindostanee,27
+Thornfield,Jane,27
+Henry Lynn,Louisa,27
+Adèle,Sir George Lynn,27
+John,Abbot,27
+St. John,Missis,27
+Jane,Reader,27
+Mr. Brocklehurst,Miss Smith,26
+Mr. Rochester,Mary (#316),26
+Mrs. Fairfax,Blanche,26
+Mr. Eshton,Lady Ingram,26
+Mary,Mr. Oliver,26
+John,Jane (#250),25
+Miss Oliver,Rosamond,25
+St. John,Die,25
+Mr. Rochester,Edward Fairfax Rochester,25
+Mrs. Fairfax,Sir George Lynn,25
+Adèle,Amy Eshton,25
+Adèle,Louisa,25
+St. John,Mrs. Reed,25
+Jane,Mr. Briggs,25
+Abbot,Missis,24
+the Reeds,Bessie,24
+Lowood,Helen,24
+Aunt Reed,Bessie,24
+Louisa,Mary (#316),24
+John,Mr. Reed,24
+Mary Ingram,Amy Eshton,24
+Pilot,Mesrour,24
+Amy Eshton,Mary (#316),24
+Mr. Oliver,Morton,24
+Miss Ingram,the Misses Eshton,24
+Mrs. Eshton,Louisa,24
+Mrs. Fairfax,Bertha Mason,24
+St. John,Christian,24
+Mrs. Eshton,Amy Eshton,24
+Mr. Eshton,Mrs. Eshton,24
+Miss Temple,Madame Pierrot,24
+Mary,Jane Elliott,24
+Mary,Miss Oliver,24
+Miss Miller,Helen,24
+Mr. Rochester,the Misses Eshton,24
+Sir George Lynn,Amy Eshton,24
+Sir George Lynn,Louisa,24
+Mrs. Reed,Miss Ingram,24
+Mrs. Eshton,Miss Ingram,24
+Colonel Dent,Richard,23
+Mr. Rochester,Ferndean,23
+Georgiana,Miss Ingram,23
+Miss Smith,Helen,23
+Lord Ingram,Sir George Lynn,23
+Eliza,Abbot,23
+Millcote,Mrs. Fairfax,23
+Henry Lynn,Lord Ingram,23
+Jane,Fairfax Rochester,23
+St. John,Pilot,23
+Missis,Jane (#250),23
+Colonel Dent,Mary Ingram,23
+Jane,Blanche,23
+Mrs. Fairfax,Helen,23
+Jane,Céline,23
+Mr. Rochester,Mesrour,23
+Mrs. Fairfax,Lady Ingram,23
+John,Miss Georgiana,23
+Mr. Reed,Abbot,23
+Adèle,Céline,23
+St. John,Schiller,22
+Mrs. Fairfax,Heaven,22
+Henry Lynn,Blanche,22
+Mrs. Fairfax,Eliza,22
+Georgiana,Abbot,22
+Mary,John (#375),22
+Mary,Mr. Briggs,22
+Jane,Morton,21
+Lord Ingram,Mary Ingram,21
+Janet,Miss Ingram,21
+Mr. Oliver,Diana,21
+Mr. Briggs,Diana,21
+John,Mr. Lloyd,21
+John (#375),Jane (#386),21
+Sir George Lynn,Mary Ingram,21
+Sam,Colonel Dent,21
+Henry Lynn,Mr. Eshton,20
+Henry Lynn,Amy Eshton,20
+Mary,Carlo,20
+Bewick,Bessie,20
+St. John,Mr. St John,20
+Mrs. Reed,Jane (#250),20
+Miss Georgiana,Robert,20
+Mr. Brocklehurst,Miss Miller,20
+Grace Poole,Carter,20
+Mr. Eyre,Mr. Briggs,20
+Lowood,Jane,20
+Mrs. Fairfax,Mr. Eshton,20
+Mrs. Fairfax,Morton,20
+Hay,Man,20
+Mr. Eshton,Blanche,20
+Colonel Dent,Mason,20
+Diana,Carlo,20
+Blanche,Mary (#316),20
+Mr. Rochester,Céline,19
+Mrs. Poole,Mason,19
+Mrs. Eshton,Lady Ingram,19
+Mrs. Fairfax,Mrs. Eshton,19
+Adèle,Mary (#316),19
+Adèle,Lady Ingram,19
+Mr. Oliver,Rosamond,19
+Mrs. Fairfax,Ere,19
+Jane,John (#375),19
+Lord Ingram,Mrs. Eshton,19
+Jane,Die,19
+Mrs. Fairfax,the Rochesters,19
+Miss Scatcherd,Madame Pierrot,18
+Jane,Mr.,18
+Jane,Mr. Edward,18
+Mrs. Eshton,Mary Ingram,18
+Mrs. Eshton,Blanche,18
+Mary Ingram,Blanche,18
+Mr. Rochester,Reader,18
+Mr. Brocklehurst,Miss Scatcherd,18
+Mr. Rochester,John (#483),18
+Wood,Mr. Briggs,18
+Eliza,Miss Georgiana,18
+Mr. Lloyd,Miss Temple,18
+Miss Georgiana,Jane (#250),18
+Diana,Christian,18
+Carter,Fairfax Rochester,18
+St. John,Papa,18
+the Rochesters,Mr. Rochester,17
+Jane,Sam,17
+Adèle,Mrs. Rochester,17
+Mason,Mr. Briggs,17
+Lady Ingram,Richard,17
+Jane,Mr. Reed,17
+Sarah,Bessie,17
+Mrs. Fairfax,Fairfax Rochester,17
+Henry Lynn,Lady Ingram,17
+Jane,Mrs. Leaven,17
+Mary,John (#483),17
+Mr. Lloyd,Helen,17
+Mrs. Fairfax,Robert,17
+Adèle,Mr. Eshton,17
+St. John,Robert,17
+Mrs. Fairfax,Mr. Briggs,17
+Mrs. Fairfax,Georgiana,17
+Missis,Robert,17
+Mason,Wood,17
+Mrs. Fairfax,Missis,17
+Sam,Louisa,17
+Grace Poole,Jane (#386),16
+Georgiana,Mr. Gibson,16
+Ere,Mr. Rochester,16
+the Reeds,Jane (#250),16
+Helen,Mr. Bates,16
+Mrs. Poole,Mrs. Rochester,16
+Jane,Ferndean,16
+Jane Elliott,Mary (#434),16
+Diana,Miss Elliott,16
+Jane,Mrs. Dionysius O’Gall of Bitternutt Lodge,16
+Jane,Colonel Dent,16
+Jane,Providence,16
+Sir George Lynn,Blanche,16
+Sir George Lynn,Lady Ingram,16
+Bessie,Janet,16
+St. John,Marmion,16
+Madeira,John (#375),16
+St. John,Jesus,16
+St. John,Sophie,16
+St. John,Miss Elliott,16
+St. John,John (#375),16
+Mary (#316),Lady Ingram,16
+Madeira,Mr. Eyre,16
+Mama,Mrs. Reed,16
+Eliza,Mama,16
+Eliza,Mr. Gibson,16
+Mrs. Leaven,Jane (#250),16
+Robert,Mrs. Leaven,16
+Georgiana,Mr. Reed,16
+Mr. Rochester,the Honourable Blanche,16
+Mrs. Fairfax,Wood,16
+Eliza,Bewick,16
+Sophie,Mrs. Poole,16
+Providence,Mr. Rochester,16
+Robert,Jane (#250),16
+Mrs. Fairfax,Providence,16
+Mrs. Fairfax,Mary (#434),16
+Jane (#250),Mr. Eyre,16
+Mr. Rochester,Mother,16
+Eliza,Miss Ingram,16
+Miss Temple,Adèle,15
+Augusta,Mrs. Reed,15
+Jane,Madame Pierrot,15
+Carlo,Miss Oliver,15
+Jane,Heaven,15
+Mrs. Fairfax,Mesrour,15
+Mrs. Eshton,Mary (#316),15
+Miss Temple,Mr. Rochester,15
+Miss Ingram,Mesrour,15
+Sam,Blanche,15
+Mrs. Eshton,Richard,15
+Mrs. Fairfax,the Misses Eshton,15
+Gulliver,Bessie,15
+Mr. Brocklehurst,Augusta,15
+Pilot,Miss Ingram,15
+Mr. Briggs,Bertha Mason,15
+Mr. Briggs,Edward Fairfax Rochester,15
+Mason,Bertha Mason,15
+St. John,Edward Fairfax Rochester,15
+Fairfax Rochester,Jane (#386),15
+John (#375),Diana,15
+Adèle,Mesrour,15
+Mrs. Reed,John (#375),15
+Mrs. Rochester,Jane (#386),15
+Jane (#250),Miss Ingram,15
+Janet,Mrs. Rochester,15
+Grace Poole,Janet,15
+Mr. Eshton,Richard,15
+Jane,King Ahasuerus,15
+Louisa,Richard,14
+Jane,Mrs. Poole,14
+Helen,Barbara,14
+Mrs. Fairfax,Richard,14
+Missis,Miss Georgiana,14
+Sophie,Mason,14
+Mrs. Fairfax,Miss Georgiana,14
+Bessie,Mr. Eyre,14
+Mr. Eshton,Mary (#316),14
+Amy Eshton,Richard,14
+Jane,Schiller,14
+Bessie,Mrs. Rochester,14
+St. John,Miss Ingram,14
+Mr. Oliver,Carlo,14
+Jane,Hindostanee,14
+St. John,Reader,14
+Providence,Mrs. Poole,14
+Mary,Pilot,14
+Mary (#316),Richard,14
+Thornfield,Bessie,14
+Mrs. Fairfax,Christ,14
+Fairfax Rochester,Mason,14
+Mrs. Fairfax,Carlo,14
+Mary,Jane (#250),14
+Mrs. Fairfax,Mother,14
+Mademoiselle,Mr. Rochester,14
+Sam,Amy Eshton,14
+Henry Lynn,Mary (#316),14
+Janet,Fairfax Rochester,14
+Sir George Lynn,Mrs. Eshton,14
+Jane (#250),the Misses Eshton,14
+Miss Miller,Miss Scatcherd,14
+Henry Lynn,Mary Ingram,14
+Henry Lynn,Richard,14
+Miss Temple,Barbara,14
+Jane (#250),Diana,14
+Missis,Mr. Eyre,14
+Mr. Eyre,Mr. Rochester,14
+Jane,Mr. Eyre,14
+Sam,the rigorous Sibyl,14
+Miss Temple,Augusta,14
+Bessie,Mason,13
+Miss Temple,Mr. Bates,13
+Lowood,Mrs. Reed,13
+Diana,Rosamond,13
+Millcote,Mrs. Reed,13
+Bessie,Pilot,13
+Lord Ingram,Mary (#316),13
+St. John,Miss Georgiana,13
+Mrs. Fairfax,Louisa,13
+Georgiana,Gulliver,13
+Janet,Mesrour,13
+Janet,Pilot,13
+Jane,Edward Fairfax Rochester,13
+Mama,Bessie,13
+Mr. Rochester,John (#375),13
+Mrs. Fairfax,Mademoiselle,13
+Mr. Edward,Mrs. Rochester,13
+Morton,Miss Oliver,13
+Man,Mr. Rochester,13
+Madeira,Jane (#250),13
+Miss Ingram,Mary (#316),13
+Mr. Reed,Mr. Rochester,13
+Jane,Hitherto,13
+Bessie,Providence,13
+Mrs. Fairfax,Madame Pierrot,13
+Blanche,Richard,13
+Eliza,Mr. Reed,13
+Lord Ingram,Richard,13
+Madame Pierrot,Mademoiselle,13
+Sam,Mr. Eshton,13
+Mary Ingram,Lady Ingram,13
+Sarah,Mrs. Reed,12
+Carlo,Papa,12
+Bessie,Miss Varens,12
+Hay,Mr. Rochester,12
+Mrs. Rochester,Bertha Mason,12
+Mr. Lloyd,Miss Georgiana,12
+Diana,Mr. St John,12
+Mr. Lloyd,Aunt Reed,12
+Mary,Mr. St John,12
+Bewick,Mrs. Reed,12
+St. John,Janet,12
+Jane,Sir George Lynn,12
+Henry Lynn,Sam,12
+Miss Adela,Mr. Rochester,12
+Mrs. Fairfax,Mary Ingram,12
+Jane,Bewick,12
+Sam,Mary Ingram,12
+Abbot,Miss Georgiana,12
+Mrs. Fairfax,Jane (#250),12
+Miss Ingram,Miss Mary,12
+Lord Ingram,Lady Ingram,12
+Mrs. Poole,Bertha Mason,12
+Amy Eshton,the Misses Eshton,12
+Bessie,Miss Ingram,12
+Louisa,the Misses Eshton,12
+Mrs. Fairfax,Miss Adela,12
+Mrs. Fairfax,Jane Elliott,12
+Adèle,Lord Ingram,12
+Mason,Mrs. Rochester,12
+Jesus,Miss Oliver,11
+Mary,Schiller,11
+Hay,Pilot,11
+Helen,Mary,11
+Mary,Mak,11
+Madame Pierrot,Mr. Rochester,11
+Mr. Rochester,Mr. Gibson,11
+John (#375),Mr. Briggs,11
+Diana,Schiller,11
+Miss Temple,Mary,11
+Pilot,Céline,11
+Bessie,Hay,11
+Bessie,Mr. Brocklehurst,11
+Mary,Miss Elliott,11
+Bessie,Bobby,11
+Adèle,Jane (#386),11
+Amy Eshton,Miss Mary,11
+Louisa,Miss Mary,11
+Lady Ingram,the Misses Eshton,11
+Janet,John (#375),11
+Schiller,Hindostanee,11
+Jane,Jane (#386),11
+Jack,Mrs. Reed,11
+Thornfield,Adèle,11
+Lowood,Bessie,11
+Georgiana,Bewick,11
+Missis,the Reeds,11
+John,Mrs. Leaven,11
+Mrs. Fairfax,Sam,11
+Henry Lynn,Miss Ingram,11
+Jane,Hope,11
+John,Jack,11
+Jane,Bobby,11
+St. John,Mrs. Leaven,10
+Grace Poole,Wood,10
+Grace Poole,Bertha Mason,10
+Millcote,Bessie,10
+Mary,Zealous,10
+Mr. Eshton,the Misses Eshton,10
+Bessie,the Eyres,10
+Jane,Clara,10
+Jane,Giacinta,10
+Lord Ingram,Miss Wilson,10
+Missis,Mr. Lloyd,10
+Mary,Christian,10
+Christ,Helen,10
+Georgiana,Sarah,10
+Miss Georgiana,Mrs. Leaven,10
+Edward Fairfax Rochester,Ferndean,10
+Grace Poole,Richard,10
+Henry Lynn,Adèle,10
+Mr. Brocklehurst,Julia Severn,10
+Jane,Rosamond,10
+Miss Temple,Julia Severn,10
+Mrs. Poole,Mr. Briggs,10
+Mr. Reed,Jane (#250),10
+Mrs. Poole,Wood,10
+Céline,Clara,10
+Céline,Giacinta,10
+Colonel Dent,the Misses Eshton,10
+Sam,the Misses Eshton,10
+Mr. Rochester,Jane Elliott,10
+Mr. Rochester,Clara,10
+Miss Scatcherd,Felix,10
+Mr. Rochester,Giacinta,10
+Giacinta,Clara,10
+Madame Pierrot,Sophie,10
+Helen,Felix,10
+Janet,Mason,10
+Grace Poole,Mr. Briggs,10
+Lowood,Mrs. Fairfax,10
+Diana,Zealous,10
+Lowood,Madame Pierrot,10
+Lowood,Mr. Rochester,10
+Sophie,Miss Ingram,10
+Miss Oliver,Papa,10
+Lowood,Miss Scatcherd,10
+the Reeds,the Eyres,10
+Mademoiselle,Sophie,10
+John,Bewick,10
+Morton,Schiller,10
+Jane (#250),the Eyres,10
+Janet,Blanche,10
+Mrs. Fairfax,Edward Fairfax Rochester,9
+Adèle,Mary Ingram,9
+Diana,Hindostanee,9
+Jane,Augusta,9
+Sam,Miss Mary,9
+Mr. Lloyd,Poor Miss Jane,9
+Mrs. Reed,Mr. Gibson,9
+Mrs. Fairfax,the Honourable Blanche,9
+Mrs. Fairfax,Mary (#316),9
+Mr. Rochester,Morton,9
+Miss Ingram,King Ahasuerus,9
+Mr. Rochester,Donna Bianca,9
+Sam,Mrs. Eshton,9
+Eliza,Goldsmith,9
+Miss Ingram,Donna Bianca,9
+Poor Miss Jane,Bessie,9
+Mrs. Fairfax,Hay,9
+Morton,Carlo,9
+Adèle,Richard,9
+Mrs. Fairfax,Miss Varens,9
+Abbot,Poor Miss Jane,9
+Mrs. Fairfax,Abbot,9
+Mr. Reed,Missis,9
+Mr. Rochester,Messalina,9
+Mary,Mary (#434),9
+John,Missis,9
+Miss Miller,Miss Smith,9
+Missis,Mrs. Leaven,9
+Georgiana,Goldsmith,9
+Jane,Messalina,9
+Mary,Hindostanee,9
+St. John,Mr. Eyre,9
+Jane,Miss Scatcherd,9
+Mrs. Rochester,Wood,9
+Miss Gryce,J.E.,9
+Poor Miss Jane,Mrs. Reed,9
+Mrs. Reed,Miss Gryce,9
+Henry Lynn,Miss Wilson,8
+Miss Smith,Madame Pierrot,8
+Mrs. Reed,Miss Scatcherd,8
+Jane,Mesrour,8
+Adèle,Mrs. Eshton,8
+John,Aunt Reed,8
+John,St. John,8
+Mr. Eyre,John (#375),8
+Henry Lynn,Theodore,8
+Jane,Miss Mason,8
+Henry Lynn,Sir George Lynn,8
+Mr. Eyre,Mason,8
+Mrs. Reed,Miss Smith,8
+Mrs. Reed,Blanche,8
+Mr. Eshton,Mother,8
+Mrs. Reed,Adèle,8
+Mrs. Reed,Mary (#316),8
+Adèle,Providence,8
+Mrs. Reed,Lady Ingram,8
+Mrs. Reed,Colonel Dent,8
+Mr. Rochester,Miss Mason,8
+Mrs. Reed,Sir George Lynn,8
+Madame Frédéric,Mr. Rochester,8
+Mrs. Reed,Miss (#5365),8
+Adèle,Mr. Edward,8
+Mrs. Fairfax,Mr. Reed,8
+Eliza,Sarah,8
+Mrs. Reed,Mrs. Leaven,8
+Céline,Messalina,8
+John,Mama,8
+Mr. Rochester,Carlo,8
+Mr. Eshton,Mason,8
+Adèle,the Honourable Blanche,8
+Mr. Rochester,Mr. Oliver,8
+Rasselas,Helen,8
+Robert,Bobby,8
+Madame Pierrot,Hope,8
+Hay,Mary Ingram,8
+Fairfax Rochester,Mrs. Rochester,8
+Hope,Mr. Rochester,8
+Carter,Mrs. Rochester,8
+Mary,Mr. Bates,8
+Carter,Bertha Mason,8
+Pilot,mademoiselle,8
+Bewick,Henry Lynn,8
+Pilot,Mason,8
+Man,Pilot,8
+Hay,Blanche,8
+Hay,Miss Ingram,8
+Adèle,Bertha Mason,8
+Adèle,Ferndean,8
+Ere,Louisa,8
+Hay,Mrs. Eshton,8
+Hay,Colonel Dent,8
+Mary,Marmion,8
+Georgiana,Sir George Lynn,8
+Fielding,Mr. Thackeray,8
+Mary,Rosamond,8
+Robert,Miss Ingram,8
+Janet,King Ahasuerus,8
+Robert,Mr. Eyre,8
+Janet,Mr. Edward,8
+Christ,St. John,8
+Mary,Mr. Edward,8
+Providence,old Madam Reed,8
+Providence,Mason,8
+the Eyres,Mr. Eyre,8
+Grace Poole,Pilot,8
+Henry Lynn,Mrs. Eshton,8
+Jane (#250),Mr. Briggs,8
+Jane (#250),John (#375),8
+Helen,Charles the First,8
+Mr. Rochester,Mr.,8
+Helen,Miss Temple’s,8
+Mr. Rochester,Mrs. Dionysius O’Gall of Bitternutt Lodge,8
+Mr. Rochester,old Madam Reed,8
+Mrs. Fairfax,mademoiselle,8
+Henry Lynn,Mrs. Reed,8
+Henry Lynn,Bessie,8
+Mrs. Fairfax,Céline,8
+Grace Poole,Providence,8
+Providence,Mrs. Rochester,8
+Mrs. Fairfax,Mr.,8
+Mrs. Fairfax,King Ahasuerus,8
+Mrs. Fairfax,John (#375),8
+Bewick,Mr. Brocklehurst,8
+Mrs. Fairfax,Hope,8
+Bewick,Gulliver,8
+Mr. Edward,Jane (#386),8
+Providence,Bertha Mason,8
+Eliza,Jack,8
+Mama,Mademoiselle,8
+Providence,Mr. Briggs,8
+Providence,Wood,8
+Ere,Amy Eshton,8
+Lord Ingram,Miss Mary,8
+Jane,old Madam Reed,8
+Mason,Jane (#386),8
+Bessie,Carter,8
+Mason,Miss Mason,8
+Bessie,Man,8
+the Misses Eshton,old Madam Reed,8
+St. John,Heaven,8
+John (#375),Wood,8
+St. John,Mr. Edward,8
+Missis,Sarah,8
+Mrs. Rochester,Mr. Briggs,8
+Uncle Reed,Mrs. Reed,8
+Thornfield,Miss Varens,8
+Wood,Bertha Mason,8
+Thornfield,St. John,8
+Mr. Briggs,Jane Elliott,8
+Missis,the Eyres,8
+Thornfield,Edward Fairfax Rochester,8
+Lady Ingram,Miss Mary,8
+Ferndean,Bertha Mason,8
+Lady Ingram,Mother,8
+Blanche,Miss Mary,8
+Bessie,Jane (#386),8
+St. John,Mesrour,8
+Blanche,Mason,8
+Bessie,old Madam Reed,8
+Blanche,Miss Mason,8
+Bessie,Helen,8
+Millcote,Lord Ingram,8
+Bessie,Miss (#5365),8
+Millcote,Mr. Eshton,8
+St. John,Mason,8
+Lord Ingram,Donna Bianca,8
+Millcote,Man,8
+Amy Eshton,the rigorous Sibyl,8
+Louisa,the rigorous Sibyl,8
+Edward Fairfax Rochester,Bertha Mason,8
+Messalina,Giacinta,8
+Bessie,Mr. Edward,8
+Mary (#434),Die,8
+Morton,Papa,8
+Morton,Rosamond,8
+Mr. St John,Carlo,8
+Ere,Adèle,8
+Mr. St John,Zealous,8
+Ere,Sir George Lynn,8
+Lowood,Augusta,8
+Miss Oliver,Schiller,8
+Ere,Colonel Dent,8
+Ere,Miss Ingram,8
+Miss Oliver,Christian,8
+Ere,Diana,8
+Ere,Mary,8
+Rosamond,Schiller,8
+Ere,Lady Ingram,8
+Mary (#434),Morton,8
+Mary (#434),Christian,8
+Messalina,Clara,8
+Jane Elliott,Christian,8
+Thornfield,Millcote,8
+Mr. Oliver,Papa,8
+Ere,Bessie,8
+Ere,Mrs. Reed,8
+Ca,Bessie,8
+Heaven,Mr. Rochester,8
+Heaven,Bessie,8
+Lowood,Thornfield,8
+Gulliver,Mr. Brocklehurst,8
+Gulliver,Mrs. Reed,8
+the Reeds,Mr. Eyre,8
+Diana,Marmion,8
+Jane Elliott,Miss Elliott,8
+Lowood,Hope,8
+Ere,Miss Miller,8
+Blanche,the Misses Eshton,8
+Millcote,Mr. Rochester,8
+Mrs. Eshton,the Honourable Blanche,8
+Mr. Reed,Mr. Lloyd,8
+Mr. Reed,Miss Ingram,8
+Goldsmith,Abbot,8
+Goldsmith,Bessie,8
+Goldsmith,Mrs. Reed,8
+Colonel Dent,Mother,8
+Abbot,St. John,8
+Abbot,Ere,8
+Millcote,Sir George Lynn,8
+Jane,Mr. Thackeray,8
+Sam,Mother,8
+Jane,Fielding,8
+Abbot,the Reeds,8
+Jane,Ahab,8
+Jane,Christ,8
+Madeira,Mr. Briggs,8
+Mr. Reed,Sir George Lynn,8
+Miss Temple,Felix,8
+Sam,Mrs. Reed,8
+Miss Temple,Charles the First,8
+Theodore,Miss Wilson,8
+Theodore,Lord Ingram,8
+Jane,mademoiselle,8
+Theodore,Mrs. Reed,8
+Augusta,Theodore,8
+Jane,Mademoiselle,8
+Miss Temple,Sophie,8
+Sir George Lynn,Mary (#316),8
+Sir George Lynn,Richard,8
+Sir George Lynn,King Ahasuerus,8
+Miss Temple,Miss Temple’s,8
+Jack,Mr. Reed,8
+Miss Temple,Brocklehursts,8
+Miss Temple,Hitherto,8
+Miss Temple,Grace Poole,8
+Sam,Mr. Rochester,8
+Sophie,Sir George Lynn,8
+St. John,Miss Varens,8
+Mr. Brocklehurst,Theodore,8
+Madeira,Bessie,8
+Mr. Brocklehurst,Barbara,8
+Mary Ingram,Richard,8
+Mr. Brocklehurst,Brocklehursts,8
+Mary Ingram,Mary (#316),8
+Mr. Brocklehurst,Hitherto,8
+Mr. Brocklehurst,Grace Poole,8
+Madeira,Missis,8
+Miss Ingram,the rigorous Sibyl,8
+Madeira,Mrs. Reed,8
+Madeira,Mr. Rochester,8
+Miss Ingram,Mason,8
+Mr. Brocklehurst,Mr. Rochester,8
+Mary Ingram,the rigorous Sibyl,8
+the Honourable Blanche,Miss Ingram,8
+the Honourable Blanche,Mary Ingram,8
+Mrs. Eshton,the Misses Eshton,8
+Miss Ingram,Mr.,8
+Millcote,Colonel Dent,8
+Mrs. Fairfax,Amy Eshton,7
+Blanche,Miss Wilson,7
+Eliza,St. John,7
+Jane Elliott,Morton,7
+Sophie,Mrs. Rochester,7
+Sophie,Céline,7
+Eliza,Mr. Lloyd,7
+Jane,Gulliver,7
+Jane,Jane Elliott,7
+Eliza,Uncle Reed,7
+Madame Frédéric,Adèle,7
+Eliza,Gulliver,7
+Eliza,Mr. Brocklehurst,7
+Jane,Little Jane,7
+Eliza,Missis,7
+Mrs. Fairfax,Reader,7
+Jane,Mama,7
+old Madam Reed,John (#375),7
+Diana,Papa,7
+Mrs. Poole,Ferndean,7
+Millcote,Hay,7
+Hay,Louisa,7
+Mrs. Fairfax,Brocklehursts,7
+Thornfield,the Rochesters,7
+Hay,Sir George Lynn,7
+Mrs. Fairfax,Miss Gryce,7
+the Misses Eshton,Miss Mary,7
+Hay,Lord Ingram,7
+Hay,Mr. Eshton,7
+Mrs. Fairfax,J.E.,7
+Mr. Briggs,Ferndean,7
+Christ,Mrs. Reed,7
+Mrs. Fairfax,Mr. Oliver,7
+Ferndean,Reader,7
+Colonel Dent,Miss Mary,7
+Fairfax Rochester,Richard,7
+Mr. Rochester,Miss Oliver,7
+Christ,Diana,7
+Mr. Rochester,Rosamond,7
+Christ,Mary (#434),7
+Mrs. Fairfax,Mr. Lloyd,7
+Jane,Uncle Reed,7
+Janet,Mrs. Dionysius O’Gall of Bitternutt Lodge,7
+Jane,Miss Miller,7
+Mrs. Fairfax,Zealous,7
+Fairfax Rochester,Mr. Edward,7
+Providence,John (#375),7
+Hay,Amy Eshton,7
+Mrs. Fairfax,Henry Lynn,7
+Miss Temple,Theodore,7
+Hitherto,Providence,7
+Bessie,Bertha Mason,7
+Gulliver,Miss Ingram,7
+Abbot,Gulliver,7
+Miss Smith,Hitherto,7
+Poor Miss Jane,Miss Georgiana,7
+Henry Lynn,Mason,7
+Theodore,Blanche,7
+Miss Georgiana,Uncle Reed,7
+Mr. Brocklehurst,Mary,7
+John,Sir George Lynn,7
+Miss Georgiana,Bobby,7
+John,Miss Ingram,7
+Bobby,Jane (#250),7
+Uncle Reed,Bessie,7
+Goldsmith,St. John,7
+Bessie,John (#375),7
+Georgiana,Mama,7
+St. John,Zealous,7
+Bobby,Mrs. Leaven,7
+Robert,Mr. Rochester,7
+Mary,Papa,7
+St. John,Ere,7
+Mrs. Reed,Robert,7
+Mary,Die,7
+Georgiana,St. John,7
+St. John,the Misses Eshton,7
+Georgiana,Missis,7
+Grace Poole,Ferndean,7
+Mr. Brocklehurst,Miss Ingram,7
+Julia Severn,Grace Poole,7
+Miss Temple,Sir George Lynn,7
+Mr. Lloyd,Madame Pierrot,7
+Mr. Lloyd,Miss Scatcherd,7
+Miss Temple,Pilot,7
+Ere,Grace Poole,7
+Madame Pierrot,Miss Adela,7
+Miss Adela,Mademoiselle,7
+Mama,Missis,7
+the Reeds,Mrs. Reed,7
+the Reeds,Gulliver,7
+Bewick,Miss Ingram,7
+Mr. Lloyd,Ca,7
+Mr. Lloyd,Heaven,7
+Hitherto,Miss,7
+mademoiselle,John (#375),6
+Georgiana,the Reeds,6
+Georgiana,Jane (#250),6
+Hitherto,Mr. Rochester,6
+Georgiana,Mr. Brocklehurst,6
+Mama,Jack,6
+Grace Poole,Hope,6
+Bessie,Mr. Gibson,6
+Providence,Miss,6
+Bessie,the Misses Eshton,6
+Mrs. Fairfax,Miss Mason,6
+Mrs. Reed,mademoiselle,6
+Jane,Ca,6
+Pilot,Miss,6
+Christ,Ahab,6
+Sam,Richard,6
+Sam,Mason,6
+Bewick,Mama,6
+Pilot,Carter,6
+Sam,Edward Fairfax Rochester,6
+Sam,John (#483),6
+Carter,Mr. Edward,6
+Pilot,Fairfax Rochester,6
+Lord Ingram,the Misses Eshton,6
+Millcote,Mr. Brocklehurst,6
+Hope,Bertha Mason,6
+Miss Miller,Charles the First,6
+Madeira,mademoiselle,6
+Lord Ingram,the Honourable Blanche,6
+Jane,Miss Smith,6
+Hope,Carter,6
+Miss Temple,Hope,6
+Mr. Eshton,Miss Mary,6
+Mr. Edward,Mrs. Poole,6
+Mrs. Fairfax,Jesus,6
+Louisa,Mason,6
+Adèle,Reader,6
+Millcote,J.E.,6
+Eliza,Jane (#386),6
+Jane (#250),old Madam Reed,6
+Jane (#250),Mr. Oliver,6
+Thornfield,J.E.,6
+Thornfield,Miss Gryce,6
+Aunt Reed,Helen,6
+Eliza,Aunt Reed,6
+Lowood,Mr. Eyre,6
+Eliza,Helen,6
+Lowood,Robert,6
+Ere,Mr. Lloyd,6
+Lowood,Missis,6
+Lowood,Mary,6
+Miss Scatcherd,Charles the First,6
+Ferndean,John (#483),6
+Adèle,Fairfax Rochester,6
+Adèle,Carter,6
+John,Henry Lynn,6
+Miss Adela,Sophie,6
+Madame Pierrot,Helen,6
+Ere,Pilot,6
+Mr. Rochester,Miss Wilson,6
+Sophie,Fairfax Rochester,6
+Carlo,Christian,6
+Ere,Mr. Eshton,6
+Ere,Jane Elliott,6
+Rosamond,Marmion,6
+Lady Ingram,Mason,6
+Jane (#250),Sir George Lynn,6
+Mrs. Fairfax,Sarah,6
+Missis,Poor Miss Jane,6
+Millcote,Miss Gryce,6
+Richard,the Misses Eshton,6
+Mason,Mother,6
+Bessie,Miss,6
+Christ,Jesus,6
+Ahab,Fielding,6
+Robert,the Misses Eshton,6
+Ahab,Mr. Thackeray,6
+Thornfield,Céline,6
+Mrs. Reed,Mr. Briggs,6
+Thornfield,Sophie,6
+Thornfield,Mr. Brocklehurst,6
+Adèle,Mason,6
+Thornfield,Mrs. Reed,6
+John,Mr. Gibson,6
+John,Miss (#5365),6
+Sir George Lynn,the Honourable Blanche,5
+Mama,Madame Pierrot,5
+Mrs. Fairfax,Mama,5
+Céline,Mesrour,5
+Rasselas,Miss Scatcherd,5
+Mrs. Reed,Louisa,5
+Henry Lynn,Miss Mary,5
+Mrs. Reed,Mrs. Eshton,5
+Jane,Mr. Oliver,5
+Mr. Eshton,the rigorous Sibyl,5
+Mrs. Reed,Amy Eshton,5
+Mr. Rochester,Little Jane,5
+Mesrour,Giacinta,5
+Jane,the Honourable Blanche,5
+Theodore,Mr. Rochester,5
+Mesrour,Clara,5
+Bessie,Colonel Dent,5
+Thornfield,Hay,5
+Miss Georgiana,Mr. Rochester,5
+Missis,Mr. Rochester,5
+Bertha Mason,Miss Mason,5
+Mr. Oliver,Schiller,5
+Mr. Oliver,Marmion,5
+Diana,Jesus,5
+Sarah,Mr. Rochester,5
+Ere,Miss Temple,5
+Mary (#434),Jesus,5
+Morton,Hindostanee,5
+Carlo,Zealous,5
+Lowood,Mr. Lloyd,5
+Henry Lynn,Mama,5
+Mesrour,Lady Ingram,5
+Blanche,Bertha Mason,5
+Madeira,Robert,5
+Jane,Miss Adela,5
+Sam,Lord Ingram,5
+Mrs. Eshton,Mother,5
+Madeira,St. John,5
+Madeira,Jane,5
+Mary Ingram,Mason,5
+Madeira,the Eyres,5
+Bessie,Wood,5
+Madeira,the Reeds,5
+Miss Ingram,Richard,5
+Mr. Brocklehurst,Felix,5
+Mr. Brocklehurst,Madame Pierrot,5
+St. John,Céline,5
+Bessie,Mr. Briggs,5
+Mrs. Fairfax,Madame Frédéric,5
+John,Goldsmith,5
+Miss Miller,Mrs. Reed,5
+Adèle,Hay,5
+Mrs. Fairfax,Mr. St John,5
+Hitherto,Mrs. Poole,5
+Pilot,Lady Ingram,5
+Grace Poole,Mr. Eyre,5
+Georgiana,Helen,5
+Georgiana,Miss (#5365),5
+Mr. Edward,Diana,5
+Eliza,Henry Lynn,5
+Janet,Hay,5
+Adèle,old Madam Reed,5
+Adèle,the Misses Eshton,5
+Grace Poole,Hitherto,5
+Grace Poole,Miss,5
+Eliza,Miss (#5365),5
+Mrs. Fairfax,Christian,5
+Sophie,Providence,5
+Sophie,Wood,5
+Mrs. Fairfax,Lord Ingram,5
+Sophie,Mr. Edward,5
+Sophie,Bertha Mason,5
+Mrs. Fairfax,Miss,5
+Sophie,Pilot,5
+Sophie,Mr. Briggs,5
+Christ,Mr. Thackeray,4
+Pilot,Mrs. Eshton,4
+Mary Ingram,the Misses Eshton,4
+Pilot,Colonel Dent,4
+Christ,Fielding,4
+St. John,Hay,4
+Millcote,Miss Ingram,4
+Pilot,Mary Ingram,4
+Miss Ingram,Mrs. Dionysius O’Gall of Bitternutt Lodge,4
+St. John,Carter,4
+Millcote,Mary Ingram,4
+Millcote,Mrs. Eshton,4
+Morton,Marmion,4
+Mary Ingram,Mesrour,4
+John,Uncle Reed,4
+Mr. Brocklehurst,Miss Gryce,4
+Abbot,Sarah,4
+Carter,John (#483),4
+Bewick,Jack,4
+Colonel Dent,Donna Bianca,4
+Colonel Dent,Mesrour,4
+Sam,Adèle,4
+Mrs. Fairfax,Die,4
+Jane,Ere,4
+Blanche,Mesrour,4
+Sophie,Colonel Dent,4
+Pilot,Jane (#386),4
+Mrs. Eshton,Mesrour,4
+Sophie,Hay,4
+Pilot,Blanche,4
+Madeira,Janet,4
+Mr. Brocklehurst,J.E.,4
+Georgiana,Aunt Reed,4
+Hay,Mesrour,4
+Miss Georgiana,Mr. Brocklehurst,4
+Miss Georgiana,Miss Ingram,4
+Adèle,Edward Fairfax Rochester,4
+Adèle,Mrs. Dionysius O’Gall of Bitternutt Lodge,4
+Morton,Jesus,4
+Edward Fairfax Rochester,Jane Elliott,4
+Edward Fairfax Rochester,John (#483),4
+Missis,Miss Ingram,4
+Blanche,Mrs. Dionysius O’Gall of Bitternutt Lodge,4
+Missis,the Misses Eshton,4
+John,Bobby,4
+Mr. Eyre,Wood,4
+John,Mr. Brocklehurst,4
+Sarah,the Reeds,4
+Sarah,Mr. Gibson,4
+Miss Georgiana,the Misses Eshton,4
+Adèle,Giacinta,4
+Jane (#386),Wood,4
+Mrs. Rochester,John (#483),4
+Adèle,Clara,4
+Missis,Aunt Reed,4
+the Misses Eshton,the rigorous Sibyl,4
+Bessie,Fairfax Rochester,4
+Janet,Céline,4
+Colonel Dent,the Honourable Blanche,4
+Janet,Clara,4
+Millcote,Pilot,4
+Amy Eshton,Donna Bianca,4
+St. John,Fairfax Rochester,4
+Mesrour,Jane (#386),4
+St. John,Richard,4
+the Rochesters,Miss Adela,4
+Janet,Giacinta,4
+Millcote,the Honourable Blanche,4
+Henry Lynn,Mother,4
+Miss Scatcherd,Miss Temple’s,4
+Mrs. Reed,Rasselas,4
+Mr. Edward,Miss Ingram,4
+Mrs. Fairfax,Giacinta,4
+Mrs. Fairfax,Ahab,4
+Mr. Eshton,the Honourable Blanche,4
+Jane,Mr. Gibson,4
+Jane,Sarah,4
+Mrs. Poole,Miss,4
+Mrs. Reed,Janet,4
+Mr. Rochester,Mary (#434),4
+Jane,the Misses Eshton,4
+Mrs. Fairfax,Clara,4
+Mrs. Reed,J.E.,4
+Mrs. Fairfax,Julia Severn,4
+Miss Temple,Miss Gryce,4
+John,Poor Miss Jane,3
+Grace Poole,the Rochesters,3
+Mother,Reader,3
+Mother,Little Jane,3
+Mother,the Misses Eshton,3
+Thornfield,Blanche,3
+Lowood,Theodore,3
+Millcote,St. John,3
+Louisa,Mother,3
+Sophie,Mesrour,3
+Louisa,Donna Bianca,3
+Louisa,Miss Wilson,3
+Millcote,Adèle,3
+Helen,Brocklehursts,3
+Bessie,Richard,3
+Ere,Mr. Oliver,3
+Amy Eshton,Miss Wilson,3
+Christ,Miss Scatcherd,3
+Mesrour,Messalina,3
+Mesrour,Louisa,3
+Mesrour,Amy Eshton,3
+Mama,Mr. Reed,3
+Mr. Eshton,Mesrour,3
+St. John,Mak,3
+Mr. Rochester,Miss,3
+Miss Scatcherd,Brocklehursts,3
+Mr. Oliver,Jesus,3
+Sarah,Gulliver,3
+Grace Poole,Hay,3
+Ere,Mr. Brocklehurst,3
+Lowood,Madeira,3
+Eliza,Adèle,3
+Gulliver,Robert,3
+Miss Smith,Brocklehursts,3
+Lowood,St. John,3
+Lowood,Miss Varens,3
+Mr. Eyre,Jane Elliott,3
+Mr. Lloyd,Hope,3
+Mademoiselle,Madame Frédéric,3
+Bewick,Robert,3
+Jane (#250),Adèle,3
+Mr. Rochester,King Ahasuerus,3
+Mrs. Reed,Hitherto,3
+Mrs. Reed,old Madam Reed,3
+Mrs. Reed,Providence,3
+Helen,Hitherto,3
+Thornfield,Miss Adela,3
+John (#375),Miss Oliver,3
+Miss Mary,the rigorous Sibyl,3
+Jack,Bessie,3
+Henry Lynn,Jack,3
+Abbot,Aunt Reed,3
+Mrs. Eshton,Mason,3
+Lord Ingram,Mesrour,3
+Pilot,Mr. Eshton,3
+Mama,Mr. Rochester,3
+Hitherto,Pilot,3
+Jane,the Rochesters,3
+Pilot,Amy Eshton,3
+Mr. Brocklehurst,Robert,3
+Mrs. Fairfax,Schiller,3
+Pilot,John (#483),3
+Pilot,Louisa,3
+Mr. Brocklehurst,Mr. Bates,3
+Jane,Miss (#5365),3
+Pilot,Lord Ingram,3
+Mary Ingram,Miss Mary,3
+Miss Miller,Mr. Bates,3
+Georgiana,Adèle,3
+Pilot,Sir George Lynn,3
+Sir George Lynn,Mesrour,3
+Mama,Sophie,3
+Mrs. Fairfax,Gulliver,2
+Adèle,Messalina,2
+Mary Ingram,Mother,2
+Hitherto,Janet,2
+Missis,Gulliver,2
+Mrs. Fairfax,Miss Smith,2
+Mrs. Reed,Mason,2
+Mrs. Fairfax,Miss Scatcherd,2
+Miss Scatcherd,Hope,2
+Janet,Man,2
+Mrs. Fairfax,Hitherto,2
+Mrs. Fairfax,Mr. Eyre,2
+Mr. Edward,Bertha Mason,2
+Adèle,John (#375),2
+Aunt Reed,Miss Georgiana,2
+Madeira,Diana,2
+Madeira,Mary,2
+Abbot,Uncle Reed,2
+the Reeds,Robert,2
+Lowood,Mr. Bates,2
+Theodore,Colonel Dent,2
+Mr. Eyre,Diana,2
+Eliza,Robert,2
+Aunt Reed,Mr. Brocklehurst,2
+Grace Poole,Mrs. Rochester,2
+Lord Ingram,the rigorous Sibyl,2
+Mrs. Fairfax,Mr. Gibson,2
+Eliza,Wood,2
+Eliza,Poor Miss Jane,2
+the Honourable Blanche,Blanche,2
+Mr. Rochester,Schiller,2
+Miss Miller,Felix,2
+Edward Fairfax Rochester,Reader,2
+Adèle,Man,2
+Madeira,Adèle,2
+Barbara,Miss Temple’s,2
+Mama,Aunt Reed,2
+Janet,Sir George Lynn,2
+Mr. Lloyd,Mr. Brocklehurst,2
+Sophie,Mr. Eshton,2
+Millcote,Janet,2
+Janet,Ferndean,2
+Mademoiselle,Adèle,2
+St. John,the Reeds,2
+Helen,Hope,2
+Mr. Lloyd,Uncle Reed,2
+Grace Poole,Fairfax Rochester,2
+Millcote,Sophie,2
+Jane,Theodore,2
+Mary,Mr. Eyre,2
+Sam,Mary,2
+Mr. Edward,John (#483),2
+Mr. Rochester,Miss (#5365),2
+Mrs. Fairfax,Man,2
+Jane,Mother,2
+Mrs. Fairfax,Messalina,2
+Blanche,the rigorous Sibyl,2
+Mrs. Fairfax,Ferndean,2
+Lowood,Miss Gryce,2
+Bessie,Sir George Lynn,2
+Mary,Reader,2
+Thornfield,Mrs. Rochester,2
+Mason,Ferndean,2
+Mason,Edward Fairfax Rochester,2
+Mrs. Fairfax,Mr. Thackeray,2
+Janet,mademoiselle,2
+Sophie,John (#375),2
+Robert,the Eyres,2
+Bessie,Lord Ingram,2
+Thornfield,Reader,2
+Bessie,Mr. Eshton,2
+Mrs. Fairfax,Fielding,2
+Colonel Dent,Miss Wilson,2
+Jane,Poor Miss Jane,2
+Janet,Miss Mason,2
+Janet,Messalina,2
+Mr. Lloyd,Miss Temple’s,1
+Mrs. Fairfax,Papa,1
+Sophie,Lord Ingram,1
+Jane Elliott,Die,1
+the Reeds,Mrs. Leaven,1
+Miss Oliver,Marmion,1
+Sophie,Lady Ingram,1
+Morton,Zealous,1
+Mrs. Fairfax,Augusta,1
+Sophie,Man,1
+Mrs. Fairfax,Little Jane,1
+Grace Poole,Lord Ingram,1
+the Rochesters,Janet,1
+Bewick,Mrs. Leaven,1
+Mason,the Misses Eshton,1
+Jane,Miss Temple’s,1
+Mary,Ferndean,1
+Mr. Brocklehurst,Miss Temple’s,1
+Miss Ingram,Miss Wilson,1
+Bessie,Mesrour,1
+Jane,John (#483),1
+Jane,Christian,1
+Miss Miller,Brocklehursts,1
+Millcote,Grace Poole,1
+Janet,Reader,1
+St. John,Man,1
+Georgiana,Heaven,1
+Mary,Jesus,1
+Bewick,Mr. Reed,1
+Georgiana,Robert,1
+Mr. Brocklehurst,Sam,1
+Robert,Mason,1
+Mr. Brocklehurst,Hope,1
+Grace Poole,Colonel Dent,1
+Miss Georgiana,Mason,1
+Gulliver,Mrs. Leaven,1
+Miss Smith,Grace Poole,1
+John,Robert,1
+Mr. Brocklehurst,Mrs. Leaven,1
+Rasselas,Miss Smith,1
+Mr. Rochester,Die,1
+Grace Poole,Mr. Eshton,1
+Theodore,Amy Eshton,1
+St. John,Ferndean,1
+Hay,Lady Ingram,1
+Theodore,Louisa,1
+Mrs. Fairfax,the Reeds,1
+Mrs. Fairfax,John,1
+Missis,Ca,1
+Grace Poole,Sir George Lynn,1
+Bessie,the Rochesters,1
+Richard,Mother,1

@@ -1,0 +1,770 @@
+source,target,weight
+Mr. Lorry,Darnay,282
+Darnay,Lucie,280
+Mr. Lorry,Miss Pross,249
+Madame Defarge,Jacques,244
+Mr. Lorry,Doctor Manette,243
+Mr. Lorry,Lucie,234
+Darnay,Doctor Manette,202
+Mr. Lorry,Tellson,185
+Mr. Lorry,Madame Defarge,175
+Doctor Manette,Lucie,166
+Carton,Mr. Lorry (#305),155
+Darnay,Carton,145
+Mr. Stryver,Carton,139
+Mr. Lorry,Mr. Stryver,130
+Doctor Manette,Miss Pross,129
+Lucie,Miss Pross,125
+Mr. Lorry,Miss Manette,121
+Madame Defarge,Saint Antoine,117
+Madame Defarge,Monsieur Defarge,116
+Darnay,Mr. Carton,114
+Mr. Cruncher,Miss Pross,111
+Darnay,Miss Pross,107
+Darnay,Mr. Stryver,106
+Mr. Lorry,Carton,104
+Mr. Lorry,Mr. Cruncher,99
+Miss Manette,Mr. Stryver,98
+Doctor Manette,Carton,88
+Miss Manette,Mr. Carton,86
+Darnay,Mr. Lorry (#305),86
+Mrs. Cruncher,Mr. Cruncher,85
+Madame Defarge,Lucie,84
+Lucie,Carton,83
+Carton,Mr. Barsad,82
+Madame Defarge,Doctor Manette,78
+Lucie,Mr. Lorry (#305),76
+God,Lucie,71
+Mr. Cruncher,Young Jerry,69
+Tellson,Darnay,69
+Mr. Stryver,Lucie,69
+Miss Manette,Darnay,67
+Miss Pross,Ladybird,67
+Madame Defarge,Miss Pross,66
+Mr. Lorry,Mr. Barsad,66
+Doctor Manette,Mr. Lorry (#305),65
+Madame Defarge,the Defarges,62
+Carton,Miss Pross,61
+Mr. Stryver,Mr. Carton,61
+Mr. Lorry,Mr. Carton,59
+Darnay,Charles Evrémonde,59
+Mr. Lorry,Ladybird,58
+Mr. Lorry,Lucie (#192),58
+Darnay,Defarge,57
+Doctor Manette,Mr. Stryver,57
+Mr. Lorry,Monsieur Defarge,55
+Madame Defarge,Darnay,54
+Miss Pross,Solomon,52
+Mr. Cruncher,Cly,52
+Mr. Lorry,God,52
+Tellson,Mr. Cruncher,51
+Doctor Manette,Ladybird,50
+Tellson,Lucie,50
+God,Mr. Carton,50
+Monseigneur,Monsieur the Marquis,49
+Saint Antoine,the Defarges,48
+Jacques,Saint Antoine,47
+Mr. Carton,Carton,47
+Madame Defarge,Carton,47
+Darnay,Lucie (#192),46
+Darnay,Monseigneur,46
+Madame Defarge,Mr. Lorry (#305),46
+Mr. Cruncher,Carton,46
+Mrs. Cruncher,Young Jerry,45
+Madame Defarge,Monsieur the Marquis,45
+Tellson,Miss Manette,43
+Miss Manette,Lucie,42
+Mr. Lorry,Mr. Lorry (#305),42
+Lucie (#192),Miss Pross,41
+Monsieur Defarge,Jacques,41
+Mr. Cruncher,Mr. Barsad,41
+Mr. Lorry,Monsieur Manette,41
+God,Miss Pross,41
+God,Darnay,41
+Miss Manette,Doctor Manette,40
+Doctor Manette,Charles Evrémonde,39
+Heaven,Darnay,39
+Doctor Manette,Lucie (#192),38
+Mr. Cruncher,the Old Bailey,38
+Darnay,Monsieur Gabelle,37
+Mr. Lorry,Monseigneur,36
+Heaven,Lucie,35
+Miss Manette,God,35
+Miss Manette,Carton,34
+Tellson,Miss Pross,34
+Mr. Lorry,Co.,33
+Madame Defarge,Mr. Cruncher,32
+Cly,Mr. Barsad,32
+La Force,Darnay,32
+Mr. Lorry,Solomon,32
+Miss Pross,Mr. Lorry (#305),31
+Lucie,O,30
+Mr. Carton,Lucie,30
+Mr. Cruncher,Solomon,30
+Madame Defarge,God,29
+Mr. Carton,Mr. Lorry (#305),29
+God,Mr. Stryver,29
+Lucie,Charles Evrémonde,29
+Monseigneur,Monsieur Gabelle,29
+Tellson,Doctor Manette,29
+Mr. Lorry,Defarge,29
+Darnay,La Guillotine,28
+Monsieur the Marquis,Monsieur Gabelle,28
+Mr. Lorry,Cly,28
+Carton,the Conciergerie,28
+Tellson,Mr. Stryver,28
+Madame Defarge,the Bastille,26
+Monsieur Defarge,Saint Antoine,26
+Darnay,Saint Antoine,26
+Miss Pross,Mr. Barsad,25
+God,Carton,25
+Jacques,Jacques Two,25
+Darnay,Monsieur the Marquis,25
+Madame Defarge,Gaspard,24
+Madame Defarge,Alexandre Manette,24
+Madame Defarge,Heaven,24
+Mr. Lorry,Fraternity,24
+Co.,Tellson,24
+Darnay,Fraternity,24
+Madame Defarge,Jacques Two,24
+Miss Manette,Madame Defarge,23
+Jacques,the Defarges,23
+Mr. Lorry,the Conciergerie,23
+Mr. Barsad,the Conciergerie,23
+Mr. Lorry,Mr. Attorney - General,23
+Tellson,Monseigneur,23
+Carton,the Defarges,23
+Mr. Lorry,Heaven,23
+Darnay,the Conciergerie,22
+Jacques,Monsieur the Marquis,22
+Madame Defarge,Ernest Defarge,22
+God,Saint Antoine,22
+Miss Pross,Solomon John,22
+Doctor Manette,the Defarges,21
+Mr. Cruncher,Lucie,21
+Monsieur Manette,Madame Defarge,21
+Mr. Cruncher,Doctor Manette,21
+Joe,Tom,21
+Heaven,Saint Antoine,21
+Mr. Lorry,Darnay (#275),21
+Heaven,Miss Pross,21
+Lucie,Monsieur Gabelle,21
+Tellson,Mrs. Cruncher,21
+Miss Pross,O,20
+Lucie,Darnay (#275),20
+Cly,Carton,20
+Tellson,the Old Bailey,20
+Tellson,Young Jerry,20
+Mr. Carton,Lucie (#192),20
+Doctor Manette,Mr. Barsad,20
+God,Doctor Manette,20
+Monsieur the Marquis,The Gorgon,19
+Mr. Lorry,Monsieur Gabelle,19
+Miss Pross,Charles Evrémonde,19
+Mr. Cruncher,Aggerawayter,19
+Doctor Manette,Ernest Defarge,19
+Lucie,the Carmagnole,19
+Tellson,God,19
+Lucie,Defarge,18
+Mr. Lorry,Jacques,18
+God,Mr. Cruncher,18
+Mr. Lorry,Solomon John,18
+Mr. Lorry,Barsad,18
+Lucie,Ladybird,18
+Carton,Sheep,17
+Mr. Cruncher,Mr. Carton,17
+Mr. Barsad,Sheep,17
+Doctor Manette,Alexandre Manette,17
+Mr. Attorney - General,Cly,17
+Lucie,the Defarges,17
+Mr. Barsad,Mr. Lorry (#305),17
+Mr. Attorney - General,Barsad,17
+the Old Bailey,Cly,17
+God,Mr. Lorry (#305),17
+Madame Defarge,Mr. Barsad,17
+Mr. Cruncher,Mr. Crunches,17
+Ladybird,Solomon,16
+La Force,Mr. Lorry,16
+Mr. Cruncher,Solomon John,16
+Saint Antoine,Mr. Barsad,16
+George Washington,Mr. Attorney - General,16
+George Washington,Miss Manette,16
+La Force,Doctor Manette,16
+Saint Antoine,Rend Foulon,16
+Darnay,Mr. Barsad,16
+Tellson,Cly,16
+Monseigneur,Louis,16
+Father,Lucie,16
+Mr. Lorry,Beauvais,16
+Defarge,La Guillotine,16
+Mr. Stryver,Lucie (#192),16
+Beauvais,Darnay,16
+Jacques,Carton,16
+Beauvais,Monsieur Manette,16
+Carton,Saint Antoine,16
+Mr. Cruncher,Father,16
+Mr. Lorry,Sheep,16
+Ernest Defarge,Alexandre Manette,16
+Madame Defarge,Charles Evrémonde,16
+Defarge,Mr. Lorry (#305),16
+Lucie (#192),Ladybird,16
+Saint Antoine,the Bastille,16
+the Old Bailey,Mr. Stryver,16
+Mr. Lorry,Saint Antoine,15
+Mr. Lorry,Mrs. Cruncher,15
+Madame Defarge,Defarge,15
+Beauvais,Doctor Manette,15
+the Defarges,Rend Foulon,15
+King,Mr. Stryver,15
+Monseigneur,Saint Antoine,15
+Darnay,O,15
+Mr. Cruncher,Mr. Lorry (#305),15
+Mr. Cruncher,the Conciergerie,15
+Miss Manette,Monsieur Manette,15
+Barsad,Cly,15
+Miss Pross,Dear papa,15
+God,Heaven,15
+Mr. Barsad,Solomon John,15
+Beauvais,Madame Defarge,15
+Charles Evrémonde,Mr. Lorry (#305),15
+God,Ladybird,15
+Mr. Lorry,George Washington,15
+Mr. Lorry,the Defarges,15
+Mr. Lorry,Charles Evrémonde,15
+God,Charles Evrémonde,15
+King,Doctor Manette,14
+Saint Antoine,Monsieur the Marquis,14
+Darnay,Liberty,14
+Doctor Manette,Defarge,14
+Mr. Cruncher,Charles Evrémonde,14
+Doctor Manette,Mr. Carton,14
+Mr. Cruncher,Blest,14
+Father,Miss Pross,14
+Mrs. Cruncher,Miss Pross,14
+Mr. Stryver,Monseigneur,14
+Doctor Manette,Solomon,14
+Saint Antoine,Gaspard,14
+George Washington,Mr. Carton,14
+Madame Defarge,the Conciergerie,14
+Madame Defarge,Rend Foulon,14
+Lucie,Solomon,14
+Tellson,Ladybird,14
+Monsieur Defarge,the Defarges,14
+the Defarges,Mr. Lorry (#305),14
+Lucie,Monseigneur,14
+Madame Defarge,Monseigneur,13
+Lucie,La Guillotine,13
+Miss Manette,Monsieur Defarge,13
+Mr. Cruncher,Ladybird,13
+Doctor Manette,Fraternity,13
+Madame Defarge,Barsad,13
+the Old Bailey,Carton,13
+Tellson,Mr. Carton,13
+Carton,Solomon John,13
+Jacques,Monseigneur,13
+Carton,La Guillotine,13
+Mr. Cruncher,Yaha,13
+Lucie,Fraternity,12
+Mr. Lorry,Monsieur the Marquis,12
+God,O,12
+Lucie,the Conciergerie,12
+Miss Manette,Mr. Cruncher,12
+Miss Pross,Sheep,12
+La Force,Madame Defarge,12
+God,the Defarges,12
+Mr. Carton,Citizen Evrémonde,12
+Lucie,Saint Antoine,12
+Jacques,the Bastille,12
+George Washington,Mr. Cruncher,11
+Alexandre Manette,Charles Evrémonde,11
+Doctor Manette,the Conciergerie,11
+Heaven,O,11
+King,Carton,11
+Mr. Cruncher,Mr. Stryver,11
+Monseigneur,The Gorgon,11
+George Washington,Mr. Stryver,11
+the Old Bailey,Yaha,11
+Father,Darnay,11
+Tellson,Darnay (#275),11
+Shooter,Joe,10
+Heaven,Doctor Manette,10
+Solomon,Solomon John,10
+Joe,Mr. Lorry,10
+Doctor Manette,Citizen Manette,10
+Saint Antoine,Everybody,10
+Co.,Mr. Stryver,10
+Carton,Sainte Guillotine,10
+Darnay,Miss Manette--,10
+Cly,Yaha,10
+Mr. Lorry,Sainte Guillotine,10
+Miss Manette,Beauvais,10
+Doctor Manette,Miss Manette--,10
+Monsieur Defarge,Monsieur the Marquis,10
+Tellson,Yaha,10
+Doctor Manette,the Bastille,10
+Mr. Lorry,the Old Bailey,10
+Mr. Lorry,Blest,10
+Lucie,One,10
+Lucie,Liberty,10
+Mr. Attorney - General,Doctor Manette,10
+Doctor Manette,Saint Antoine,10
+La Guillotine,Mr. Lorry (#305),10
+Mr. Attorney - General,Mr. Stryver,10
+Mr. Stryver,Miss Pross,10
+Mr. Attorney - General,Mr. Carton,10
+Miss Manette,Mr. Attorney - General,10
+Tom,Mr. Lorry,10
+Tellson,Darnay--,9
+Darnay (#275),Darnay--,9
+Young Jerry,Father,9
+Darnay,Bully Stryver,9
+Darnay,the Carmagnole,9
+Ladybird,Charles Evrémonde,9
+Mr. Cruncher,Barsad,9
+Mr. Cruncher,Mr. Attorney - General,9
+Barsad,Mr. Stryver,9
+George Washington,Barsad,9
+Mr. Cruncher,Heaven,9
+Aggerawayter,Young Jerry,9
+George Washington,Cly,9
+Barsad,Mr. Carton,9
+God,Fraternity,9
+Lucie,Darnay--,9
+Madame Defarge,Bah,9
+Mr. Lorry (#305),the Conciergerie,9
+Doctor Manette,A great uproar,9
+Madame Defarge,Mrs. Cruncher,9
+Monsieur the Marquis,Jacques Two,9
+Mr. Stryver,Bully Stryver,9
+Ernest Defarge,Citizen Manette,9
+Mr. Lorry,Darnay--,9
+Darnay,One,9
+Tellson,Monsieur Gabelle,9
+Ernest Defarge,Charles Evrémonde,9
+Mrs. Cruncher,Mr. Crunches,9
+Co.,Miss Manette,9
+Cly,Mr. Carton,9
+Cly,Mr. Stryver,9
+Heaven,Carton,9
+Fraternity,Charles Evrémonde,8
+Samson,Ogre,8
+Saint Antoine,Ernest Defarge,8
+Darnay,Mr. Attorney - General,8
+Mr. Lorry (#305),the Carmagnole,8
+Blest,Miss Pross,8
+Monseigneur,Man,8
+Man,Mr. Lorry (#305),8
+La Guillotine,Samson,8
+Darnay,Gaspard,8
+Monseigneur,Fraternity,8
+Darnay,Everybody,8
+Solomon,Charles Evrémonde,8
+Monseigneur,Bah,8
+Defarge,Charles Evrémonde,8
+Monseigneur,Everybody,8
+Darnay,Darnay (#275),8
+Darnay,Solomon,8
+Liberty,Fraternity,8
+Lucie,Lucie (#192),8
+Foulon,Rend Foulon,8
+Doctor Manette,Liberty,8
+Ernest Defarge,A great uproar,8
+Doctor Manette,Monseigneur,8
+Lucie (#192),One,8
+Monsieur the Marquis,Gaspard,8
+Bah,Monsieur Gabelle,8
+Lucie,Citizen Evrémonde,8
+Lucie,Hah,8
+Lucie,Mr. Barsad,8
+the Defarges,the Bastille,8
+Mr. Attorney - General,Mr. Solicitor - General,8
+the Defarges,Mr. Barsad,8
+Mr. Stryver,Darnay (#275),8
+Mr. Stryver,Monsieur Gabelle,8
+Lucie,Dear papa,8
+Mr. Carton,Miss Pross,8
+Mr. Carton,Man,8
+Mr. Carton,Sainte Guillotine,8
+Mr. Carton,Mr. Barsad,8
+King,Ladybird,8
+King,Miss Pross,8
+King,Lucie,8
+Carton,O,8
+the Bastille,Rend Foulon,8
+Mr. Solicitor - General,Barsad,8
+Monsieur the Marquis,Bah,8
+Ladybird,Liberty,8
+O,Mr. Lorry (#305),8
+Miss Pross,Everybody,8
+Miss Pross,Woe,8
+Miss Pross,Liberty,8
+Miss Pross,Defarge,8
+Miss Pross,One,8
+Barsad,Carton,8
+Barsad,Miss Pross,8
+Barsad,Mr. Barsad,8
+Monsieur the Marquis,Louis,8
+Carton,count One,8
+Ernest Defarge,the Bastille,8
+Carton,Man,8
+Heaven,One,8
+Father,Carton,8
+Sainte Guillotine,count One,8
+Mr. Cruncher,Saint Antoine,8
+Madame Defarge,Louis,8
+Madame Defarge,Jacques Four,8
+Neither,Monsieur the Marquis,8
+Neither,Madame Defarge,8
+Mrs. Cruncher,Mr. Lorry (#305),8
+Monsieur Manette,Monsieur Defarge,8
+Beauvais,Alexandre Manette,8
+Mr. Cruncher,Man,8
+Beauvais,Defarge,8
+Mrs. Cruncher,Aggerawayter,8
+Mr. Cruncher,Darnay,8
+Mr. Cruncher,Fraternity,8
+Mr. Cruncher,Liberty,8
+Mr. Cruncher,King,8
+Miss Manette,Gaspard,8
+Mr. Cruncher,Woe,8
+Mr. Cruncher,Everybody,8
+God,Rend Foulon,8
+Mrs. Cruncher,Father,8
+Madame Defarge,Monsieur,8
+Mr. Cruncher,O,8
+Jacques,Ernest Defarge,8
+God,Foulon,8
+God,King,8
+God,Darnay (#275),8
+God,Father,8
+Jacques,Ogre,8
+Jacques,Samson,8
+God,Alexandre Manette,8
+Jacques,Alexandre Manette,8
+Jacques,Louis,8
+Madame Defarge,Hark,8
+Jacques,Jacques Four,8
+Monsieur Defarge,God,8
+Madame Defarge,Ogre,8
+Madame Defarge,Samson,8
+Hark,Mr. Cruncher,8
+Hark,Blest,8
+Hark,Miss Pross,8
+Madame Defarge,Foulon,8
+George Washington,King,8
+Miss Manette,Monsieur the Marquis,8
+Father,Dear papa,8
+Heaven,Monseigneur,8
+Mr. Lorry,Dear papa,8
+Father,Man,8
+Tellson,Father,8
+Mr. Lorry,Mr. Solicitor - General,8
+the Old Bailey,Heaven,8
+Death,Lucie,8
+the Old Bailey,King,8
+Death,Fraternity,8
+Mr. Crunches,Mr. Lorry (#305),8
+Death,Monseigneur,8
+the Woodman,Death,8
+Mrs. Southcott,Death,8
+Mrs. Southcott,the Woodman,8
+La Force,Charles Evrémonde,8
+La Force,Lucie,8
+La Force,Defarge,8
+Mr. Lorry,Bully Stryver,8
+God,La Guillotine,8
+Tellson,Monsieur Manette,8
+Co.,Darnay,8
+Tellson,Beauvais,8
+Tellson,George Washington,8
+Young Jerry,Cly,8
+Co.,Monseigneur,8
+Young Jerry,Man,8
+Monseigneur,Mr. Lorry (#305),7
+One,Jacques Two,7
+Jacques,Rend Foulon,7
+the Conciergerie,Sheep,7
+Man,Saint Antoine,7
+George Washington,Doctor Manette,7
+Tellson,Madame Defarge,7
+Mr. Stryver,Miss Manette--,7
+Miss Manette,King,7
+Jacques,God,7
+A great uproar,Citizen Manette,7
+Sainte Guillotine,Citizen Evrémonde,7
+Fraternity,Mr. Lorry (#305),7
+Jacques,Gaspard,7
+Jacques,Barsad,7
+Saint Antoine,La Guillotine,7
+Alexandre Manette,A great uproar,7
+Monsieur Defarge,Barsad,7
+Saint Antoine,Mr. Lorry (#305),7
+Mr. Barsad,O,7
+Death,Mr. Lorry (#305),7
+Co.,Doctor Manette,7
+Death,One,7
+Saint Antoine,Monsieur,7
+Mr. Lorry,One,7
+Lucie (#192),Solomon,7
+Lucie (#192),Carton,7
+Carton,Miss Manette--,7
+Saint Antoine,Foulon,7
+Beauvais,La Guillotine,7
+Tellson,Solomon,7
+Heaven,Charles Evrémonde,7
+Carton,Darnay (#275),7
+Doctor Manette,O,7
+Young Jerry,the Old Bailey,7
+Doctor Manette,La Guillotine,7
+God,Sainte Guillotine,7
+Mr. Cruncher,Sheep,7
+Father,Mr. Stryver,7
+Darnay,Ladybird,7
+Heaven,Everybody,7
+Doctor Manette,One,7
+Barsad,Solomon John,7
+Blest,O,7
+Heaven,Jacques Two,7
+Hark,O,7
+Barsad,Mr. Lorry (#305),7
+Neither,Lucie,6
+Tellson,Jacques,6
+Tellson,Monsieur the Marquis,6
+Tellson,Carton,6
+Ladybird,One,6
+Miss Pross,Sainte Guillotine,6
+Miss Pross,the Conciergerie,6
+Miss Pross,Saint Antoine,6
+Neither,Carton,6
+Mr. Attorney - General,King,6
+Miss Manette,Saint Antoine,6
+Miss Pross,Fraternity,6
+Carton,Dear papa,6
+Man,Everybody,6
+Miss Manette,Mr. Barsad,6
+Mr. Solicitor - General,Cly,6
+Beauvais,Mr. Lorry (#305),6
+Mrs. Cruncher,Man,6
+Aggerawayter,Mr. Crunches,6
+Mr. Crunches,Father,6
+Tellson,Mr. Crunches,6
+Man,Sainte Guillotine,6
+Mr. Lorry (#305),Sainte Guillotine,6
+Mr. Lorry (#305),Solomon John,6
+La Force,Fraternity,6
+La Force,Mr. Lorry (#305),6
+Fraternity,La Guillotine,6
+Liberty,Defarge,6
+Death,Mr. Lorry,6
+Death,the Carmagnole,6
+Gaspard,Mr. Barsad,6
+the Defarges,Alexandre Manette,6
+the Defarges,Foulon,6
+Hah,Citizen Evrémonde,6
+Monsieur Gabelle,The Gorgon,6
+Monsieur the Marquis,Mr. Barsad,6
+Monsieur the Marquis,the Defarges,6
+Mr. Crunches,Mr. Barsad,6
+Saint Antoine,Alexandre Manette,6
+Saint Antoine,Woe,6
+Mr. Crunches,Carton,6
+Lucie,Alexandre Manette,6
+Darnay,Dear papa,6
+Neither,Jacques Two,6
+God,Monseigneur,6
+Mr. Carton,Monseigneur,6
+Monsieur Defarge,the Bastille,6
+Jacques,Mr. Lorry (#305),6
+Monsieur Defarge,Mr. Cruncher,6
+Jacques,Foulon,6
+Monsieur Defarge,Young Jerry,6
+Monsieur Defarge,Jacques Four,6
+Monsieur Defarge,Doctor Manette,6
+Lucie,Miss Manette--,6
+Hark,Saint Antoine,6
+Monsieur Defarge,Rend Foulon,6
+Lucie,Monsieur the Marquis,6
+Mr. Stryver,Monsieur the Marquis,6
+Mr. Carton,La Guillotine,6
+Jacques,The Gorgon,6
+Mr. Carton,Samson,6
+King,Liberty,6
+Jacques,Darnay,6
+Doctor Manette,Sheep,6
+God,Liberty,6
+the Bastille,Citizen Manette,5
+Mr. Lorry,Liberty,5
+Neither,Heaven,5
+The Gorgon,Louis,5
+Miss Manette,Lucie (#192),5
+Neither,One,5
+Miss Manette,Cly,5
+Doctor Manette,the Carmagnole,5
+Miss Manette,Barsad,5
+Monsieur Gabelle,Fraternity,5
+Monsieur Gabelle,Liberty,5
+Mr. Lorry,La Guillotine,5
+Beauvais,Everybody,5
+Solomon,Everybody,5
+Mr. Lorry,Jacques Two,5
+One,the Carmagnole,5
+Saint Antoine,the Conciergerie,5
+Saint Antoine,Darnay (#275),5
+Young Jerry,Yaha,5
+Heaven,La Guillotine,5
+Tellson,Lucie (#192),5
+Mr. Cruncher,Sainte Guillotine,5
+Tellson,Aggerawayter,5
+Cly,the Conciergerie,5
+Mr. Lorry,O,5
+Gaspard,Ernest Defarge,5
+Carton,One,5
+Heaven,Man,5
+Alexandre Manette,Citizen Manette,5
+King,Charles Evrémonde,5
+Death,God,5
+Neither,Monsieur Defarge,5
+God,Ernest Defarge,5
+Charles Evrémonde,the Conciergerie,5
+Carton,Jacques Two,5
+Mr. Barsad,Charles Evrémonde,5
+Carton,Samson,5
+Carton,Charles Evrémonde,5
+O,Charles Evrémonde,4
+Everybody,Woe,4
+O,Sainte Guillotine,4
+Jacques,Miss Pross,4
+Heaven,Mr. Lorry (#305),4
+Young Jerry,Mr. Crunches,4
+Solomon John,Sheep,4
+La Force,La Guillotine,4
+the Defarges,the Conciergerie,4
+O,the Conciergerie,4
+Darnay,King,4
+the Old Bailey,Darnay,4
+God,Solomon,4
+Shooter,Tom,4
+Mr. Lorry,Hark,4
+Heaven,Fraternity,4
+Monsieur Gabelle,Defarge,4
+Darnay,the Defarges,4
+Hah,Alexandre Manette,4
+Darnay,The Gorgon,4
+Heaven,Liberty,4
+Jacques Two,Sainte Guillotine,4
+Mr. Stryver,Dear papa,4
+Mr. Lorry (#305),Samson,4
+Madame Defarge,Ladybird,4
+Monseigneur,Rend Foulon,4
+Jacques,Monsieur Gabelle,4
+Miss Pross,Miss Manette--,4
+Beauvais,Ernest Defarge,4
+Carton,Citizen Evrémonde,4
+Darnay,Sheep,4
+Mrs. Cruncher,Carton,4
+Madame Defarge,Sainte Guillotine,4
+Neither,Mr. Lorry (#305),4
+King,Solomon,4
+Tellson,The Gorgon,4
+Mrs. Cruncher,Cly,4
+Monseigneur,the Bastille,4
+Madame Defarge,Young Jerry,4
+Monseigneur,the Defarges,4
+God,Mrs. Cruncher,3
+Blest,Mr. Attorney - General,3
+Monsieur Defarge,Jacques Two,3
+the Defarges,Ernest Defarge,3
+Beauvais,Monsieur Gabelle,3
+Mrs. Cruncher,Mr. Carton,3
+Aggerawayter,Father,3
+Lucie,the Bastille,3
+Hark,Sainte Guillotine,3
+Jacques,Sainte Guillotine,3
+Mr. Barsad,Sainte Guillotine,3
+Lucie,Jacques Two,3
+Monsieur Manette,Jacques,3
+Dear papa,Darnay (#275),3
+Blest,Darnay,3
+Neither,Jacques,3
+Heaven,the Bastille,3
+the Bastille,Mr. Lorry (#305),3
+the Woodman,Shooter,3
+Mr. Stryver,Darnay--,3
+Blest,Sainte Guillotine,3
+Liberty,Charles Evrémonde,3
+Father,Darnay (#275),3
+Co.,Mrs. Cruncher,3
+Mr. Lorry,Mr. Crunches,3
+Darnay,Ernest Defarge,3
+Saint Antoine,O,3
+God,Mr. Barsad,3
+Mr. Lorry,King,3
+Darnay,the Bastille,3
+Darnay,Darnay--,3
+Mr. Carton,Alexandre Manette,3
+Miss Manette,the Old Bailey,3
+Hark,Heaven,3
+Alexandre Manette,Citizen Evrémonde,2
+Co.,Mr. Cruncher,2
+the Bastille,A great uproar,2
+Carton,Darnay--,2
+Alexandre Manette,the Conciergerie,2
+God,Blest,2
+Liberty,La Guillotine,2
+Neither,Darnay,2
+God,Hark,2
+Miss Manette,Mrs. Cruncher,2
+Madame Defarge,O,2
+Madame Defarge,Darnay (#275),2
+Monsieur Defarge,Monseigneur,2
+Charles Evrémonde,La Guillotine,2
+Tellson,Dear papa,2
+La Force,God,2
+Young Jerry,Saint Antoine,2
+God,Young Jerry,2
+God,Dear papa,2
+Young Jerry,Mr. Carton,2
+the Conciergerie,Solomon John,2
+Mrs. Cruncher,the Old Bailey,2
+Jacques,Lucie,2
+Darnay,Barsad,2
+God,Man,2
+Monsieur Manette,God,2
+Carton,Hah,2
+Mrs. Cruncher,Mr. Barsad,2
+God,the Conciergerie,2
+Jacques Two,Ogre,2
+Jacques Two,Samson,2
+Miss Pross,Darnay (#275),2
+Solomon,Liberty,2
+Barsad,Saint Antoine,2
+O,La Guillotine,2
+Barsad,the Defarges,2
+Carton,the Bastille,2
+Heaven,Monsieur Gabelle,1
+Jacques,Doctor Manette,1
+Man,Mr. Barsad,1
+Father,the Old Bailey,1
+Solomon,Dear papa,1
+Jacques,Darnay (#275),1
+Jacques,Heaven,1
+the Defarges,Charles Evrémonde,1
+Jacques Two,Mr. Lorry (#305),1
+Madame Defarge,Fraternity,1
+Monsieur Defarge,Gaspard,1
+Tom,Tellson,1
+Miss Pross,Monsieur the Marquis,1
+Miss Manette,Young Jerry,1
+Mrs. Southcott,Shooter,1
+Beauvais,Liberty,1
+Doctor Manette,Monsieur the Marquis,1
+Mr. Barsad,Monsieur,1
+Solomon,Woe,1
+Jacques,Mr. Cruncher,1
+Heaven,Mr. Barsad,1
+Darnay,Solomon John,1
+Mr. Lorry,the Carmagnole,1
+the Old Bailey,Doctor Manette,1
+Death,Shooter,1
+Saint Antoine,Charles Evrémonde,1
+Solomon,Mr. Barsad,1
